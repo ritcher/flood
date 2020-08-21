@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1d4ef677-7491-40a6-add1-54a6ae480ec5",
+    "data": {
+        "linha": "93992290268",
+        "nomeCompleto": "ALDAIR OLIVEIRA DE FREITAS",
+        "cpf": "03545971244",
+        "telefoneContato": "",
+        "dataNascimento": "29/03/1995",
+        "nomeMae": "ANTONIA GOMES DE OLIVEIRA",
+        "email": null,
+        "cep": "68200000",
+        "endereco": " ESTRADA DA PRAIA",
+        "numeroEndereco": "1645",
+        "complementoEndereco": "",
+        "bairro": "PLANALTO",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "ESTRADA DA PRAIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992290268.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

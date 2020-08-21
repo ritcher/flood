@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a4851220-b9bd-4f5a-9979-10e6c9af082b",
+    "data": {
+        "linha": "99991685325",
+        "nomeCompleto": "ALINE DOS SANTOS PESSOA",
+        "cpf": "61375951378",
+        "telefoneContato": "",
+        "dataNascimento": "22/06/1996",
+        "nomeMae": "MARIA",
+        "email": "3fwzi18t7wh5kt7@gmail.com",
+        "cep": "69100063",
+        "endereco": " PARQUE",
+        "numeroEndereco": "6705",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "PARQUE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99991685325.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

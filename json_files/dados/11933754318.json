@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11933754318",
+        "nomeCompleto": "RITA MARIA SOUSA",
+        "cpf": "56143680191",
+        "telefoneContato": "",
+        "dataNascimento": "23/11/1970",
+        "nomeMae": null,
+        "email": null,
+        "cep": "02204010",
+        "endereco": "RUA DMONTEIRO VIANA",
+        "numeroEndereco": "191",
+        "complementoEndereco": "",
+        "bairro": "VL MEDEIROS",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "DMONTEIRO VIANA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11933754318.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

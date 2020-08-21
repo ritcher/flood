@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "92993632158",
+        "nomeCompleto": "ABRAAO DA SILVA CAMPINAS",
+        "cpf": "02637718226",
+        "telefoneContato": "",
+        "dataNascimento": "23/12/1995",
+        "nomeMae": null,
+        "email": "juliolorenzomatheusassis__juliolorenzomatheusassis@ntiequipamentos.com.br",
+        "cep": "69087215",
+        "endereco": "AVENIDA AUTAZ MIRIM",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "TANCREDO NEVES",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "AUTAZ MIRIM",
+        "contaDigital": true,
+        "vencimentoFatura": "17",
+        "ciclo": "01",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993632158.",
+    "currentPlan": {
+        "code": "VIVOCTRLF2N",
+        "price": 65.99,
+        "marketingDescription": null,
+        "name": "VIVOCONTROLEDIGITAL-3,5GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

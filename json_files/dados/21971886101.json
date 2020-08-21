@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21971886101",
+        "nomeCompleto": "EDUARDO DE ARAUJO OLIVEIRA",
+        "cpf": "14988276759",
+        "telefoneContato": "",
+        "dataNascimento": "10/06/2003",
+        "nomeMae": null,
+        "email": null,
+        "cep": "28941204",
+        "endereco": " ANTENOR ALVARO DE SOUZA",
+        "numeroEndereco": "1",
+        "complementoEndereco": "",
+        "bairro": "ESTACAO",
+        "cidade": "S PEDRO DA ALDEIA",
+        "estado": "RJ",
+        "logradouro": "ANTENOR ALVARO DE SOUZA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21971886101.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

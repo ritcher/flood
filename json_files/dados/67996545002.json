@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67996545002",
+        "nomeCompleto": "LEYDE DAIANE FIRMO FONSECA",
+        "cpf": "36925990804",
+        "telefoneContato": "",
+        "dataNascimento": "09/03/1988",
+        "nomeMae": null,
+        "email": "dhay.fonseca@gmail.com",
+        "cep": "79740000",
+        "endereco": "AVENIDA D",
+        "numeroEndereco": "257",
+        "complementoEndereco": "",
+        "bairro": "VER JOSE MARIO",
+        "cidade": "IVINHEMA",
+        "estado": "MS",
+        "logradouro": "D",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67996545002.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

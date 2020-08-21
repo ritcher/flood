@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "22998881267",
+        "nomeCompleto": "DINAIR SILVA DE OLIVEIRA",
+        "cpf": "41586719220",
+        "telefoneContato": "",
+        "dataNascimento": "24/02/1969",
+        "nomeMae": "MARIA BRITO DA SILVA",
+        "email": "gemasmarcio4@gmail.com",
+        "cep": "28999088",
+        "endereco": " OITENTA E NOVE",
+        "numeroEndereco": "200",
+        "complementoEndereco": "",
+        "bairro": "JACONE SAMPAIO CORREIA",
+        "cidade": "SAQUAREMA",
+        "estado": "RJ",
+        "logradouro": "OITENTA E NOVE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 22998881267.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

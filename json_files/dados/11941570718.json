@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11941570718",
+        "nomeCompleto": "NILSON SIMOES PEDRO",
+        "cpf": "30080706800",
+        "telefoneContato": "",
+        "dataNascimento": "01/09/1982",
+        "nomeMae": "MARIA DIAS SIMOES",
+        "email": "nilson.diana@hotmail.com",
+        "cep": "06717090",
+        "endereco": "AV ROTARY",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "JARDIM NOMURA",
+        "cidade": "COTIA",
+        "estado": "SP",
+        "logradouro": "ROTARY",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11941570718.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

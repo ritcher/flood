@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994057361",
+        "nomeCompleto": "FELIPE PENA DOS SANTOS",
+        "cpf": "94159491200",
+        "telefoneContato": "",
+        "dataNascimento": "28/04/1990",
+        "nomeMae": "MARTA SANTOS",
+        "email": "felipeh.santos.fp@gmail.com",
+        "cep": "56540000",
+        "endereco": "RUA 31 DE MARCO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "TUPANATINGA",
+        "estado": "PE",
+        "logradouro": "31 DE MARCO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994057361.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

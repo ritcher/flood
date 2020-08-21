@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991774054",
+        "nomeCompleto": "Valdiney loureiro Monteiro ",
+        "cpf": "00260012254",
+        "telefoneContato": "",
+        "dataNascimento": "24/03/1989",
+        "nomeMae": "Inair Nazar\u00e9 loureiro Monteiro",
+        "email": "ney23949@gmail.com",
+        "cep": "68721000",
+        "endereco": "TRAVESSA RIO DE JANEIRO",
+        "numeroEndereco": "163",
+        "complementoEndereco": "",
+        "bairro": "BOM JESUS II",
+        "cidade": "SALINOPOLIS",
+        "estado": "PA",
+        "logradouro": "RIO DE JANEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991774054.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

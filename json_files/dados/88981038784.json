@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=ae221f52-0a01-409a-b1d6-7fc18a8e5dc1",
+    "data": {
+        "linha": "88981038784",
+        "nomeCompleto": "FRANCISCO ANTONIO DO NASCIMENTO",
+        "cpf": "07400473379",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "62676000",
+        "endereco": "Rua RUA JOSE IRANILDO",
+        "numeroEndereco": "547",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CROATA",
+        "estado": "CE",
+        "logradouro": "RUA JOSE IRANILDO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981038784.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

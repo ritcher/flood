@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "22996170867",
+        "nomeCompleto": "LARISSA ALVES GREEN",
+        "cpf": "31062209885",
+        "telefoneContato": "",
+        "dataNascimento": "09/10/1987",
+        "nomeMae": "MARIA DE FATIMA PEREIRA ALVES",
+        "email": "nsnzk@gmail.com",
+        "cep": "28021550",
+        "endereco": "RUA DCELSO CRUZ ALVES",
+        "numeroEndereco": "42",
+        "complementoEndereco": "",
+        "bairro": "PARQUE PENHA",
+        "cidade": "CAMPOS DOS GOYTACAZES",
+        "estado": "Rj",
+        "logradouro": "DCELSO CRUZ ALVES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 22996170867.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "19999503054",
+        "nomeCompleto": "rafael da silva magalhaes",
+        "cpf": "35885158878",
+        "telefoneContato": "",
+        "dataNascimento": "06/04/1986",
+        "nomeMae": "francisca vcieira da silva",
+        "email": "rafael.silva08@hotmail.com",
+        "cep": "13178513",
+        "endereco": "RUA DIONICE VASCONCELOS FERREIRA",
+        "numeroEndereco": "525",
+        "complementoEndereco": "",
+        "bairro": "JARDIM DULCE",
+        "cidade": "SUMARE",
+        "estado": "sp",
+        "logradouro": "DIONICE VASCONCELOS FERREIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19999503054.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

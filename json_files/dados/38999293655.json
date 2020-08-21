@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=39ea7183-5a7d-425f-8a76-3d3f6a51d042",
+    "data": {
+        "linha": "38999293655",
+        "nomeCompleto": "GECIELLE MOREIRA DE SOUZA",
+        "cpf": "13235469605",
+        "telefoneContato": "",
+        "dataNascimento": "15/12/1996",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "49030270",
+        "endereco": "AVENIDA DR JOSE THOMAS D AVILA NABUCO 1005 AP 2 CJ AUG TOBIAS BARRETO",
+        "numeroEndereco": "1005",
+        "complementoEndereco": "",
+        "bairro": "FAROLANDIA",
+        "cidade": "ARACAJU",
+        "estado": "SE",
+        "logradouro": "DR JOSE THOMAS D AVILA NABUCO 1005 AP 2 CJ AUG TOBIAS BARRETO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38999293655.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

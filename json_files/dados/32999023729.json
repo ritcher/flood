@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f62d1dfa-eb77-4cff-a7de-6bc70c39ebbf",
+    "data": {
+        "linha": "32999023729",
+        "nomeCompleto": "MARCELO CAETANO DA SILVA",
+        "cpf": "82468168615",
+        "telefoneContato": "",
+        "dataNascimento": "12/01/1970",
+        "nomeMae": "ELZA CAETANO DA SILVA",
+        "email": "7wpk6hiu@gmail.com",
+        "cep": "36501192",
+        "endereco": "RUA  MARIA PERON NATALINO 25",
+        "numeroEndereco": "25",
+        "complementoEndereco": "",
+        "bairro": "VL REGINA",
+        "cidade": "UBA",
+        "estado": "mg",
+        "logradouro": " MARIA PERON NATALINO 25",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 32999023729.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

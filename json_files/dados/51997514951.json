@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51997514951",
+        "nomeCompleto": "ADILSON WILLE",
+        "cpf": "01126517046",
+        "telefoneContato": "",
+        "dataNascimento": "22/10/1986",
+        "nomeMae": null,
+        "email": null,
+        "cep": "95755000",
+        "endereco": "RUA H",
+        "numeroEndereco": "2363",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SAO JOSE DO HORTENCIO",
+        "estado": "rs",
+        "logradouro": "H",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51997514951.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

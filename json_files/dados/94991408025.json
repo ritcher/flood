@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "94991408025",
+        "nomeCompleto": "OSCAR SOUSA GUIMARAES",
+        "cpf": "91001439368",
+        "telefoneContato": "",
+        "dataNascimento": "05/12/1981",
+        "nomeMae": "maria sousa guimaraes",
+        "email": null,
+        "cep": "68515000",
+        "endereco": " RUA VINTE E QUATRO DE MARCO",
+        "numeroEndereco": "406",
+        "complementoEndereco": "",
+        "bairro": "DA PAZ",
+        "cidade": "PARAUAPEBAS",
+        "estado": "PA",
+        "logradouro": "RUA VINTE E QUATRO DE MARCO",
+        "contaDigital": true,
+        "vencimentoFatura": "10",
+        "ciclo": "25",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991408025.",
+    "currentPlan": {
+        "code": "VIVOCTRLF1N",
+        "price": 51.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL 3GB - ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

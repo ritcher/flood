@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=7e38fd9c-c4be-417d-aa9b-1793c82df17f",
+    "data": {
+        "linha": "94991746860",
+        "nomeCompleto": "COSME SILVA DE NOVAIS",
+        "cpf": "28089268803",
+        "telefoneContato": "",
+        "dataNascimento": "03/02/1973",
+        "nomeMae": null,
+        "email": null,
+        "cep": "03823300",
+        "endereco": "RUA SETE",
+        "numeroEndereco": "46",
+        "complementoEndereco": "",
+        "bairro": "JD NOVA TEREZA",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "SETE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991746860.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

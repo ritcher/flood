@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31997090168",
+        "nomeCompleto": "ROMARIO CARDOSO DOS SANTOS",
+        "cpf": "01925380637",
+        "telefoneContato": "",
+        "dataNascimento": "19/06/1994",
+        "nomeMae": "x",
+        "email": null,
+        "cep": "39340000",
+        "endereco": "R 15 B RENOVACAO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ZONA RURAL",
+        "cidade": "CORACAO DE JESUS",
+        "estado": "MG",
+        "logradouro": "15 B RENOVACAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31997090168.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

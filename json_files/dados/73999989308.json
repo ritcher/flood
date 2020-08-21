@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b3209654-5895-4529-84ef-d909b2bb722c",
+    "data": {
+        "linha": "73999989308",
+        "nomeCompleto": "JOAO VIEIRA SILVA",
+        "cpf": "08148627568",
+        "telefoneContato": "",
+        "dataNascimento": "20/10/1950",
+        "nomeMae": null,
+        "email": null,
+        "cep": "44700000",
+        "endereco": "Rua SAO JOSE",
+        "numeroEndereco": "93",
+        "complementoEndereco": "",
+        "bairro": "MISSAO",
+        "cidade": "JACOBINA",
+        "estado": "BA",
+        "logradouro": "SAO JOSE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 73999989308.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

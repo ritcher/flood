@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6204d3c8-f080-411d-9a73-c9b77bb9e773",
+    "data": {
+        "linha": "94992786038",
+        "nomeCompleto": "RAILANE DA SILVA RIBEIRO",
+        "cpf": "03826673280",
+        "telefoneContato": "",
+        "dataNascimento": "03/02/1998",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68385000",
+        "endereco": "Rua PAPAGAIO",
+        "numeroEndereco": "38",
+        "complementoEndereco": "",
+        "bairro": "TAPAJOS",
+        "cidade": "TUCUMA",
+        "estado": "PA",
+        "logradouro": "PAPAGAIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992786038.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

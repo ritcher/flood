@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "14996570438",
+        "nomeCompleto": "EDUARDO ROCHA DE ARRUDA",
+        "cpf": "31895009839",
+        "telefoneContato": "",
+        "dataNascimento": "10/04/1982",
+        "nomeMae": null,
+        "email": "eduardoarrudabrasil70@gmail.com",
+        "cep": "18600060",
+        "endereco": " CURUZU",
+        "numeroEndereco": "141",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "BOTUCATU",
+        "estado": "SP",
+        "logradouro": "CURUZU",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 14996570438.",
+    "currentPlan": {
+        "code": "VIVOCTRLF48N",
+        "price": 39.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 3GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

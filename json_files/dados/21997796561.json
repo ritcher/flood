@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21997796561",
+        "nomeCompleto": "MARIA APARECIDA DA SILVA",
+        "cpf": "02364403731",
+        "telefoneContato": "",
+        "dataNascimento": "19/02/1960",
+        "nomeMae": "maria",
+        "email": "hgsyfeogegjalavafcfx@gmail.com",
+        "cep": "13876803",
+        "endereco": " JOAO FERREIRA DOS SANTOS",
+        "numeroEndereco": "120",
+        "complementoEndereco": "",
+        "bairro": "JARDIM PRIMAVERA",
+        "cidade": "S JOAO DA BOA VISTA",
+        "estado": "SP",
+        "logradouro": "JOAO FERREIRA DOS SANTOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21997796561.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

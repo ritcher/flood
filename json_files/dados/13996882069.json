@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "13996882069",
+        "nomeCompleto": "MARIA ANTONIA DE FREITAS",
+        "cpf": "15891617854",
+        "telefoneContato": "",
+        "dataNascimento": "13/06/1975",
+        "nomeMae": null,
+        "email": "luizgustavo6584@gmail.com",
+        "cep": "68925213",
+        "endereco": " 15 DE NOVEMBRO",
+        "numeroEndereco": "196",
+        "complementoEndereco": "",
+        "bairro": "CENTRAL",
+        "cidade": "SANTANA",
+        "estado": "AP",
+        "logradouro": "15 DE NOVEMBRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 13996882069.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

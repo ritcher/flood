@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c0cd1591-53ca-4591-958e-790b06c104a3",
+    "data": {
+        "linha": "79998574311",
+        "nomeCompleto": "FABIO DE OLIVEIRA ROSA",
+        "cpf": "06009900522",
+        "telefoneContato": "",
+        "dataNascimento": "12/02/1990",
+        "nomeMae": "JOSEFA DE OLIVEIRA ROSA",
+        "email": "7khk9pkzsy263v6@gmail.com",
+        "cep": "49097000",
+        "endereco": "AVENIDA S JOAO BATISTA 632 ED BARBACENA AP 503",
+        "numeroEndereco": "632",
+        "complementoEndereco": "",
+        "bairro": "PONTO NOVO",
+        "cidade": "ARACAJU",
+        "estado": "SE",
+        "logradouro": "S JOAO BATISTA 632 ED BARBACENA AP 503",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79998574311.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

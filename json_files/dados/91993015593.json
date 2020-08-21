@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993015593",
+        "nomeCompleto": "MARIA FRANCILENE FERREIRA DE CARVALHO PAIVA",
+        "cpf": "01291219242",
+        "telefoneContato": "",
+        "dataNascimento": "22/08/1987",
+        "nomeMae": null,
+        "email": "fabio.fp.artes@gmail.com",
+        "cep": "68800000",
+        "endereco": "RUA ANGELO FERNANDES BREVES",
+        "numeroEndereco": "2153",
+        "complementoEndereco": "",
+        "bairro": "AEROPORTO",
+        "cidade": "BREVES",
+        "estado": "PA",
+        "logradouro": "ANGELO FERNANDES BREVES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993015593.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

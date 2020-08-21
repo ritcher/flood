@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "61996475693",
+        "nomeCompleto": "Douglas Alves",
+        "cpf": "43806321809",
+        "telefoneContato": "",
+        "dataNascimento": "10/04/1994",
+        "nomeMae": null,
+        "email": "99507andre@gmail.com",
+        "cep": "57265000",
+        "endereco": "Rua CJ  JOAO JOSE PEREIRA 27 Q A",
+        "numeroEndereco": "27",
+        "complementoEndereco": "",
+        "bairro": "BAIRRO NAO CODIFI",
+        "cidade": "TEOTONIO VILELA",
+        "estado": "AL",
+        "logradouro": "CJ  JOAO JOSE PEREIRA 27 Q A",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61996475693.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

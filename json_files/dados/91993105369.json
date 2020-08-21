@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993105369",
+        "nomeCompleto": "TEREZINHA PRUDENTE DE PAULA",
+        "cpf": "00581391179",
+        "telefoneContato": "",
+        "dataNascimento": "23/01/1948",
+        "nomeMae": "MINERVINA PRUDENTE DE OLIVEIRA",
+        "email": null,
+        "cep": "68485000",
+        "endereco": " RUA AMAZONAS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "NOVO HTE",
+        "cidade": "PACAJA",
+        "estado": "PA",
+        "logradouro": "RUA AMAZONAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993105369.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

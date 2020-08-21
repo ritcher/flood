@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "16997648825",
+        "nomeCompleto": "NILTON CESAR DE SOUSA LOPES",
+        "cpf": "25871233805",
+        "telefoneContato": "",
+        "dataNascimento": "01/12/1978",
+        "nomeMae": "ADAISA MARIA DE SOUSA LOPES",
+        "email": "goongbbe@gmail.com",
+        "cep": "14835000",
+        "endereco": "RUA  QUALIDICE BRAGA 555",
+        "numeroEndereco": "555",
+        "complementoEndereco": "",
+        "bairro": "JD BELA VISTA",
+        "cidade": "MOTUCA",
+        "estado": "sp",
+        "logradouro": " QUALIDICE BRAGA 555",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 16997648825.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11974710013",
+        "nomeCompleto": "GUSTAVO PEREIRA DE SOUZA SANTOS",
+        "cpf": "50530758830",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "02875000",
+        "endereco": "Rua RUA CARLOS MARIGHELLA",
+        "numeroEndereco": "338",
+        "complementoEndereco": "",
+        "bairro": "JARDIM ELISA MARIA",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "RUA CARLOS MARIGHELLA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11974710013.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

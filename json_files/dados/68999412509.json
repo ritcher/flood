@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a4e224f3-741c-4cb6-a007-5421bc7b89a7",
+    "data": {
+        "linha": "68999412509",
+        "nomeCompleto": "ADRIANA FERREIRA DA SILVA",
+        "cpf": "72214520244",
+        "telefoneContato": "",
+        "dataNascimento": "15/10/1981",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69902130",
+        "endereco": "Rua 11",
+        "numeroEndereco": "119",
+        "complementoEndereco": "",
+        "bairro": "LOT JARDIM SAO FRANC",
+        "cidade": "RIO BRANCO",
+        "estado": "AC",
+        "logradouro": "11",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999412509.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

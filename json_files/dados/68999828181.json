@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=2ccccf66-7d71-492d-aef2-433be1f82828",
+    "data": {
+        "linha": "68999828181",
+        "nomeCompleto": "MARCIO RICARDO LUCIO DA SILVA JUNIOR",
+        "cpf": "06349149289",
+        "telefoneContato": "",
+        "dataNascimento": "06/03/2002",
+        "nomeMae": "JOSELI FIGUIREDO DA COSTA",
+        "email": null,
+        "cep": "69911454",
+        "endereco": " SAO LUIZ",
+        "numeroEndereco": "205",
+        "complementoEndereco": "",
+        "bairro": "JOAO EDUARDO I",
+        "cidade": "R BRANCO",
+        "estado": "AC",
+        "logradouro": "SAO LUIZ",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999828181.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

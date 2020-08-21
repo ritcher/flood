@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=84ff5178-8442-4b05-961e-4c539acb5e66",
+    "data": {
+        "linha": "68999113191",
+        "nomeCompleto": "VALDILENE SOUZA REICHERT",
+        "cpf": "03888160235",
+        "telefoneContato": "",
+        "dataNascimento": "02/12/1997",
+        "nomeMae": "GILDA SOUZA FLOR",
+        "email": null,
+        "cep": "69928000",
+        "endereco": "RUA  EPAMINONDAS JACOME 725 SOBRE LJ",
+        "numeroEndereco": "725",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "PLACIDO DE CASTRO",
+        "estado": "AC",
+        "logradouro": " EPAMINONDAS JACOME 725 SOBRE LJ",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999113191.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993271072",
+        "nomeCompleto": "FRANCISCO ALDENIR LIBERATO ALVES",
+        "cpf": "66411130272",
+        "telefoneContato": "",
+        "dataNascimento": "08/02/1979",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69088753",
+        "endereco": "RUA ARACU",
+        "numeroEndereco": "97",
+        "complementoEndereco": "",
+        "bairro": "JORGE TEIXEIRA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "ARACU",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993271072.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993892702",
+        "nomeCompleto": "KELEM TAMARA COSTA DA SILVA",
+        "cpf": "00659003244",
+        "telefoneContato": "",
+        "dataNascimento": "10/11/1990",
+        "nomeMae": null,
+        "email": "734q8xnhhhv2bss@gmail.com",
+        "cep": "69093084",
+        "endereco": "RUA  APIMBARE 29",
+        "numeroEndereco": "29",
+        "complementoEndereco": "",
+        "bairro": "MTE DAS OLIVEIRAS",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": " APIMBARE 29",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993892702.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

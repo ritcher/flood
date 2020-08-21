@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993172870",
+        "nomeCompleto": "ariel moreira santarem",
+        "cpf": "03078931200",
+        "telefoneContato": "",
+        "dataNascimento": "05/10/1994",
+        "nomeMae": "alcilene moreira ferreira",
+        "email": "arielsanrarem@12gmail.com",
+        "cep": "31140650",
+        "endereco": "RUA  JACUI 2940 ANEXO",
+        "numeroEndereco": "2940",
+        "complementoEndereco": "",
+        "bairro": "RENASCENCA",
+        "cidade": "BELO HORIZONTE",
+        "estado": "mg",
+        "logradouro": " JACUI 2940 ANEXO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993172870.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

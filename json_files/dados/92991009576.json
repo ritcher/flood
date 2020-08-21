@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "92991009576",
+        "nomeCompleto": "MATEUS OLIVEIRA DA COSTA",
+        "cpf": "00040564266",
+        "telefoneContato": "",
+        "dataNascimento": "10/01/2000",
+        "nomeMae": null,
+        "email": "mattheuscosttha.19@gmail.com",
+        "cep": "68200000",
+        "endereco": " R. DOZE 01 QD 13",
+        "numeroEndereco": "01",
+        "complementoEndereco": "",
+        "bairro": "ESPERANCA",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "R. DOZE 01 QD 13",
+        "contaDigital": true,
+        "vencimentoFatura": "10",
+        "ciclo": "25",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991009576.",
+    "currentPlan": {
+        "code": "VIVOCTRLF47N",
+        "price": 34.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL 3GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

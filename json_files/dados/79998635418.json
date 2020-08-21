@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=78e4f4d8-eaed-43cd-8b18-6a78aa047aaa",
+    "data": {
+        "linha": "79998635418",
+        "nomeCompleto": "EVERTON DE JESUS SANTOS",
+        "cpf": "05897452555",
+        "telefoneContato": "",
+        "dataNascimento": "09/06/1986",
+        "nomeMae": "ELIANA BOMFIM DOS SANTOS",
+        "email": "ewilynkauany0534@gmail.com",
+        "cep": "49100000",
+        "endereco": "RUA DONA CARLITA",
+        "numeroEndereco": "80",
+        "complementoEndereco": "",
+        "bairro": "ROSA ELZE",
+        "cidade": "SAO CRISTOVAO",
+        "estado": "SE",
+        "logradouro": "DONA CARLITA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79998635418.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

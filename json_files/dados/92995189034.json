@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92995189034",
+        "nomeCompleto": "ELTON REGIS OLIVEIRA",
+        "cpf": "77711130287",
+        "telefoneContato": "",
+        "dataNascimento": "19/07/1983",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69050010",
+        "endereco": "AVENIDA DJALMA BATISTA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "FLORES",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "DJALMA BATISTA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92995189034.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

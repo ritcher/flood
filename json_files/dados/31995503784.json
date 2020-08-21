@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31995503784",
+        "nomeCompleto": "REGINALDO VITORINO",
+        "cpf": "83750215634",
+        "telefoneContato": "",
+        "dataNascimento": "12/07/1973",
+        "nomeMae": null,
+        "email": "mumulivego223mes@live.com",
+        "cep": "35181062",
+        "endereco": "RUA CAJU",
+        "numeroEndereco": "99",
+        "complementoEndereco": "",
+        "bairro": "ALEGRE",
+        "cidade": "TIMOTEO",
+        "estado": "mg",
+        "logradouro": "CAJU",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31995503784.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

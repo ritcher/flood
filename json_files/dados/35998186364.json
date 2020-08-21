@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "35998186364",
+        "nomeCompleto": "DIONI JUNIO RAIMUNDO",
+        "cpf": "10104008601",
+        "telefoneContato": "",
+        "dataNascimento": "05/08/1991",
+        "nomeMae": null,
+        "email": null,
+        "cep": "37780000",
+        "endereco": "RUA DVITAL BRASIL 147 CS B",
+        "numeroEndereco": "147",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CALDAS",
+        "estado": "mg",
+        "logradouro": "DVITAL BRASIL 147 CS B",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 35998186364.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

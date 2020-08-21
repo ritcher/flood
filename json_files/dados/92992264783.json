@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992264783",
+        "nomeCompleto": "CARLOS DANIEL ARRUDA DA SILVA",
+        "cpf": "04072828238",
+        "telefoneContato": "",
+        "dataNascimento": "22/05/1999",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69750000",
+        "endereco": "RUA VINICIUS DE MORAIS PINTURA D",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "MIGUEL QUIRINO",
+        "cidade": "SAO GABRIEL DA CACHOEIRA",
+        "estado": "AM",
+        "logradouro": "VINICIUS DE MORAIS PINTURA D",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992264783.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

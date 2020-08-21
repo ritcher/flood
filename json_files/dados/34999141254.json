@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "34999141254",
+        "nomeCompleto": "ROSA DARCI DE OLVEIRA",
+        "cpf": "73752541687",
+        "telefoneContato": "",
+        "dataNascimento": "24/09/1967",
+        "nomeMae": null,
+        "email": "financeiro@solucaoagricolaptc.com.br",
+        "cep": "38740000",
+        "endereco": "RUA RODOLFO LEMOS DE CASTRO",
+        "numeroEndereco": "1184",
+        "complementoEndereco": "",
+        "bairro": "BOA ESPERANCA",
+        "cidade": "PATROCINIO",
+        "estado": "MG",
+        "logradouro": "RODOLFO LEMOS DE CASTRO",
+        "contaDigital": true,
+        "vencimentoFatura": "10",
+        "ciclo": "25",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 34999141254.",
+    "currentPlan": {
+        "code": "VIVOCTRLF8N",
+        "price": 80.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL_5GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

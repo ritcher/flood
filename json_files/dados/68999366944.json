@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=55279c4c-4938-40d7-8d33-a854c4fd1d5c",
+    "data": {
+        "linha": "68999366944",
+        "nomeCompleto": "JOSIEL DE LIMA AMARAL",
+        "cpf": "03946511201",
+        "telefoneContato": "",
+        "dataNascimento": "04/08/1995",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69900679",
+        "endereco": "RUA COLOMBIA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "BOSQUE",
+        "cidade": "RIO BRANCO",
+        "estado": "AC",
+        "logradouro": "COLOMBIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999366944.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

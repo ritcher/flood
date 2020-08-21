@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1c98d3c8-5a37-4ede-a98c-97ecb0a46860",
+    "data": {
+        "linha": "94992386425",
+        "nomeCompleto": "TIAGO TEIXEIRA DO NASCIMENTO",
+        "cpf": "03678769306",
+        "telefoneContato": "",
+        "dataNascimento": "06/12/1989",
+        "nomeMae": "Maria Nascimento",
+        "email": "0tzgo9ru5ngdmfw@gmail.com",
+        "cep": "68580000",
+        "endereco": " 1 QD70 LT 9",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CIDADE NOVA",
+        "cidade": "ITUPIRANGA",
+        "estado": "PA",
+        "logradouro": "1 QD70 LT 9",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992386425.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

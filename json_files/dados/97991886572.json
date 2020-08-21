@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1dbdc9de-8651-457f-bd9e-e62dea9e5022",
+    "data": {
+        "linha": "97991886572",
+        "nomeCompleto": "DEYGUE MARTINS DA SILVA",
+        "cpf": "02801718203",
+        "telefoneContato": "",
+        "dataNascimento": "27/08/1994",
+        "nomeMae": "MARIA HERLENE MARTINS DE OLIVEIRA",
+        "email": "loumazini@yahoo.com.br",
+        "cep": "15600000",
+        "endereco": " 1",
+        "numeroEndereco": "456",
+        "complementoEndereco": "",
+        "bairro": "VL BOM JESUS",
+        "cidade": "FERNANDOPOLIS",
+        "estado": "SP",
+        "logradouro": "1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 97991886572.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

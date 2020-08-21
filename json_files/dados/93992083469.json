@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a417479d-4f4e-412d-9954-92c57bba634e",
+    "data": {
+        "linha": "93992083469",
+        "nomeCompleto": "ROSIANE DA SILVA SIQUEIRA",
+        "cpf": "01551888289",
+        "telefoneContato": "",
+        "dataNascimento": "27/11/1992",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69000000",
+        "endereco": "Rua RIO DE JANEIRO",
+        "numeroEndereco": "140",
+        "complementoEndereco": "",
+        "bairro": "TANC NEVES ALTOS MER",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "RIO DE JANEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992083469.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0e510005-117e-43a7-b3dc-833fbbbe0860",
+    "data": {
+        "linha": "99992234418",
+        "nomeCompleto": "Bianca Eduarda Nascimento",
+        "cpf": "12316787479",
+        "telefoneContato": "",
+        "dataNascimento": "23/06/2000",
+        "nomeMae": "MARIA BETANIA DA CONCEICAO TAVARES NASCIMENTO",
+        "email": "vahallo70@gmail.com",
+        "cep": "69311114",
+        "endereco": " PARAGUAI",
+        "numeroEndereco": "582",
+        "complementoEndereco": "",
+        "bairro": "CAUAME",
+        "cidade": "BOA VISTA",
+        "estado": "RR",
+        "logradouro": "PARAGUAI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99992234418.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9cd76e19-d688-4fb7-87a0-78dcb656a2af",
+    "data": {
+        "linha": "98992096524",
+        "nomeCompleto": "MARIA ELENICE FELIX DA SILVA",
+        "cpf": "00668293306",
+        "telefoneContato": "",
+        "dataNascimento": "05/01/1983",
+        "nomeMae": "MARIA DA CONCEICAO SILVA",
+        "email": "josegui233@gmail.com",
+        "cep": "65138000",
+        "endereco": "RUA  DO BACURIZAL SN",
+        "numeroEndereco": "SN",
+        "complementoEndereco": "",
+        "bairro": "CUMBIQUE",
+        "cidade": "RAPOSA",
+        "estado": "MA",
+        "logradouro": " DO BACURIZAL SN",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98992096524.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

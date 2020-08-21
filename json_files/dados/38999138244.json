@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=ac4ebe13-9120-465b-9dd6-de60fbdb49e8",
+    "data": {
+        "linha": "38999138244",
+        "nomeCompleto": "EDSON MARTINS FERREIRA",
+        "cpf": "01731003684",
+        "telefoneContato": "",
+        "dataNascimento": "29/07/1983",
+        "nomeMae": "GLORIA DA PAIXAO MARTINS FERREIRA",
+        "email": null,
+        "cep": "38610000",
+        "endereco": "R BENTIVI",
+        "numeroEndereco": "790",
+        "complementoEndereco": "",
+        "bairro": "AGUA BRANCA",
+        "cidade": "UNAI",
+        "estado": "MG",
+        "logradouro": "BENTIVI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38999138244.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

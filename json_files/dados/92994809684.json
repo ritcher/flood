@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994809684",
+        "nomeCompleto": "DENYS DERKIAN DE CASTRO DIAS",
+        "cpf": "93361912253",
+        "telefoneContato": "",
+        "dataNascimento": "26/08/1987",
+        "nomeMae": "JUSCELINA DE CARVALHO ALENCAR",
+        "email": "daniel188@gmail.com",
+        "cep": "69195000",
+        "endereco": " 151",
+        "numeroEndereco": "666",
+        "complementoEndereco": "",
+        "bairro": "VITORIA REGIA",
+        "cidade": "BOA VISTA DO RAMOS",
+        "estado": "AM",
+        "logradouro": "151",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994809684.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=60f861a6-5474-4987-83c5-3ae8a68cd1cd",
+    "data": {
+        "linha": "32999745801",
+        "nomeCompleto": "LUCIANO RESENDE CORREA",
+        "cpf": "09815658670",
+        "telefoneContato": "",
+        "dataNascimento": "17/12/1988",
+        "nomeMae": null,
+        "email": null,
+        "cep": "36301180",
+        "endereco": "Rua AVENIDA LEITE DE CASTRO",
+        "numeroEndereco": "538",
+        "complementoEndereco": "",
+        "bairro": "FABRICAS",
+        "cidade": "SAO JOAO DEL REI",
+        "estado": "mg",
+        "logradouro": "AVENIDA LEITE DE CASTRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 32999745801.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

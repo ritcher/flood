@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991084458",
+        "nomeCompleto": "Elielson Dantas Bertino",
+        "cpf": "74416324200",
+        "telefoneContato": "",
+        "dataNascimento": "02/09/1983",
+        "nomeMae": "Edna Dantas Bertino",
+        "email": "elielson_dantas744@gmai.com",
+        "cep": "69906628",
+        "endereco": "RUA PRAIA GRANDE",
+        "numeroEndereco": "312",
+        "complementoEndereco": "",
+        "bairro": "PRAIA DO AMAPA",
+        "cidade": "RIO BRANCO",
+        "estado": "AC",
+        "logradouro": "PRAIA GRANDE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991084458.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

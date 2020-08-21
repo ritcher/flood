@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6dbd6f45-406a-4a8f-a11c-d9a2a0ba1a2d",
+    "data": {
+        "linha": "75999569492",
+        "nomeCompleto": "ARTHUR HENRIQUE RODRIGUES MORELLI",
+        "cpf": "16398660781",
+        "telefoneContato": "",
+        "dataNascimento": "22/09/1996",
+        "nomeMae": "RITA DE CASSIA RODRIGUES MORELLI",
+        "email": "cakeco9287@oncloud.ws",
+        "cep": "21755100",
+        "endereco": "R ANGELO",
+        "numeroEndereco": "45",
+        "complementoEndereco": "",
+        "bairro": "REALENGO",
+        "cidade": "RIO DE JANEIRO",
+        "estado": "RJ",
+        "logradouro": "ANGELO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 75999569492.",
+    "currentPlan": {
+        "code": "BAVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

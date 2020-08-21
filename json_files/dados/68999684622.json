@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=3d341763-3f6b-41f7-86ab-52ca6c90a873",
+    "data": {
+        "linha": "68999684622",
+        "nomeCompleto": "DENILSON CARVALHO DE SOUSA",
+        "cpf": "03542614289",
+        "telefoneContato": "",
+        "dataNascimento": "14/01/1998",
+        "nomeMae": null,
+        "email": null,
+        "cep": "00000000",
+        "endereco": " AMANCIO SOUZA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "S FELIX",
+        "cidade": "VALENCA",
+        "estado": "BA",
+        "logradouro": "AMANCIO SOUZA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999684622.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

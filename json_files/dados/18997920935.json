@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18997920935",
+        "nomeCompleto": "JOSEFINA DOS SANTOS",
+        "cpf": "27302335800",
+        "telefoneContato": "",
+        "dataNascimento": "15/07/1968",
+        "nomeMae": null,
+        "email": null,
+        "cep": "19470000",
+        "endereco": "Rua VICINAL CAIUA P EPITACIO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ACENT ALAGOINHA",
+        "cidade": "PRESIDENTE EPITACIO",
+        "estado": "sp",
+        "logradouro": "VICINAL CAIUA P EPITACIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18997920935.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

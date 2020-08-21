@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=97f77124-5e5b-45c2-9618-3dc391ab3bde",
+    "data": {
+        "linha": "77998392908",
+        "nomeCompleto": "JUCINEIA DA SILVA OLIVEIRA",
+        "cpf": "00916517519",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "45250000",
+        "endereco": "Rua FAZENDA BREJO DA ONCA",
+        "numeroEndereco": "S",
+        "complementoEndereco": "",
+        "bairro": "ZONA RURAL",
+        "cidade": "BOA NOVA",
+        "estado": "BA",
+        "logradouro": "FAZENDA BREJO DA ONCA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77998392908.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a8a6f913-3e86-4f6b-9433-ccbd1502c02b",
+    "data": {
+        "linha": "94992251721",
+        "nomeCompleto": "Luis Otavio de Coutinho",
+        "cpf": "03773024223",
+        "telefoneContato": "",
+        "dataNascimento": "23/01/2000",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68560000",
+        "endereco": "RUA 1 QU",
+        "numeroEndereco": "219",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SANTANA DO ARAGUAIA",
+        "estado": "PA",
+        "logradouro": "1 QU",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992251721.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67996695605",
+        "nomeCompleto": "GRACIELI DAS GRACAS RODRIGUES",
+        "cpf": "37790395831",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "03811100",
+        "endereco": "Rua RUA ANTONIO DOS SANTOS",
+        "numeroEndereco": "138",
+        "complementoEndereco": "",
+        "bairro": "JARDIM MATARAZZO",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "RUA ANTONIO DOS SANTOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67996695605.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

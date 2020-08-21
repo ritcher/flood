@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b860a350-7278-46aa-80a5-c6c09af7dbc0",
+    "data": {
+        "linha": "99991003131",
+        "nomeCompleto": "GIRLEIDE CORREA DA SILVA",
+        "cpf": "94624682300",
+        "telefoneContato": "",
+        "dataNascimento": "11/04/1982",
+        "nomeMae": null,
+        "email": null,
+        "cep": "65930000",
+        "endereco": "Rua IAS",
+        "numeroEndereco": "876",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ACAILANDIA",
+        "estado": "MA",
+        "logradouro": "IAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99991003131.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

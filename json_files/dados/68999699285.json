@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=d369cded-a4f6-4474-bd6c-b000fa53eb12",
+    "data": {
+        "linha": "68999699285",
+        "nomeCompleto": "ABRAAO DA MOTA DINIZ",
+        "cpf": "04018406207",
+        "telefoneContato": "",
+        "dataNascimento": "01/02/1996",
+        "nomeMae": null,
+        "email": null,
+        "cep": "79090070",
+        "endereco": "RUA ANTONIO ABDO",
+        "numeroEndereco": "519",
+        "complementoEndereco": "",
+        "bairro": "VILA TAVEIROPOLIS",
+        "cidade": "CAMPO GRANDE",
+        "estado": "MS",
+        "logradouro": "ANTONIO ABDO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999699285.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

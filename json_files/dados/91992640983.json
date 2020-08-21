@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "91992640983",
+        "nomeCompleto": "FABYANE ALVES FERREIRA",
+        "cpf": "02193470260",
+        "telefoneContato": "",
+        "dataNascimento": "14/07/1996",
+        "nomeMae": "MARIA DE NAZARE DA SILVA",
+        "email": "danielsonflexa@hotmail.com",
+        "cep": "68786000",
+        "endereco": " TRAVESSA SEBASTIAO DANTAS",
+        "numeroEndereco": "1017",
+        "complementoEndereco": "",
+        "bairro": "MORAESZAO",
+        "cidade": "SANTO ANTONIO DO TAUA",
+        "estado": "PA",
+        "logradouro": "TRAVESSA SEBASTIAO DANTAS",
+        "contaDigital": true,
+        "vencimentoFatura": "1",
+        "ciclo": "15",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992640983.",
+    "currentPlan": {
+        "code": "VIVOCTRLF34A",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL_2,5GB_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

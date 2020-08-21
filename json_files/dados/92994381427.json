@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994381427",
+        "nomeCompleto": "JARLESON RAMOS OLIVEIRA",
+        "cpf": "70136464238",
+        "telefoneContato": "",
+        "dataNascimento": "07/09/1999",
+        "nomeMae": "FRANCISCA DE SOUZA RAMOS ",
+        "email": null,
+        "cep": "69005120",
+        "endereco": "RUA IZABEL",
+        "numeroEndereco": "187",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "IZABEL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994381427.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

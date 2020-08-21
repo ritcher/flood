@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991275280",
+        "nomeCompleto": "HELMUTH STAPENHORST",
+        "cpf": "04094034072",
+        "telefoneContato": "",
+        "dataNascimento": "12/10/1941",
+        "nomeMae": null,
+        "email": null,
+        "cep": "95880000",
+        "endereco": "RUA CARLOS ARNI",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CANABARRO",
+        "cidade": "ESTRELA",
+        "estado": "RS",
+        "logradouro": "CARLOS ARNI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991275280.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

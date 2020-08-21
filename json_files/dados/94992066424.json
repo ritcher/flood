@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=36803bbe-9eec-4424-8f09-3ec64834c815",
+    "data": {
+        "linha": "94992066424",
+        "nomeCompleto": "PEDRO HENRIQUE FEITOZA LINHARES",
+        "cpf": "06175528271",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": "maria",
+        "email": "go789kbre@gmail.com",
+        "cep": "65130000",
+        "endereco": "Rua B",
+        "numeroEndereco": "6",
+        "complementoEndereco": "",
+        "bairro": "RES SITIO NA",
+        "cidade": "PACO DO LUMIAR",
+        "estado": "MA",
+        "logradouro": "B",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992066424.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

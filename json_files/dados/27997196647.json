@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27997196647",
+        "nomeCompleto": "ANANDA CAROLINE POTHIN RODRIGUES",
+        "cpf": "15756471766",
+        "telefoneContato": "",
+        "dataNascimento": "11/11/1993",
+        "nomeMae": "ANA DILMA POTHIN RODRIGUES",
+        "email": null,
+        "cep": "29112431",
+        "endereco": "RUA  DESENGANO 62 C A",
+        "numeroEndereco": "62",
+        "complementoEndereco": "",
+        "bairro": "RIO MARINHO",
+        "cidade": "VILA VELHA",
+        "estado": "es",
+        "logradouro": " DESENGANO 62 C A",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27997196647.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

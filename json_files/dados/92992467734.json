@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992467734",
+        "nomeCompleto": "EDINHO DE SOUZA BRASIL",
+        "cpf": "01317616251",
+        "telefoneContato": "",
+        "dataNascimento": "26/04/1980",
+        "nomeMae": null,
+        "email": "edinhovivo56@creepyfreaky.tk",
+        "cep": "03678040",
+        "endereco": "RUA NICODEMO BIONDO",
+        "numeroEndereco": "9",
+        "complementoEndereco": "",
+        "bairro": "VL S FRANCISCO",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "NICODEMO BIONDO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992467734.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=76483759-78d2-4567-a282-117b96fb75bd",
+    "data": {
+        "linha": "87981626205",
+        "nomeCompleto": "TIAGO DA SILVA SANTOS",
+        "cpf": "39162444859",
+        "telefoneContato": "",
+        "dataNascimento": "02/10/1989",
+        "nomeMae": null,
+        "email": null,
+        "cep": "06900000",
+        "endereco": "RUA JULIO PEREIRA DA CRUZ",
+        "numeroEndereco": "442",
+        "complementoEndereco": "",
+        "bairro": "LAGOA GRANDE",
+        "cidade": "EMBU-GUACU",
+        "estado": "sp",
+        "logradouro": "JULIO PEREIRA DA CRUZ",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 87981626205.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

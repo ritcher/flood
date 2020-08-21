@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "35997470570",
+        "nomeCompleto": "EDIVAN RODRIGUES MARTINS",
+        "cpf": "15729595689",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29600000",
+        "endereco": "RUA FELICIO PEREIRA SOUZA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "S VICENTE",
+        "cidade": "AFONSO CLAUDIO",
+        "estado": "es",
+        "logradouro": "FELICIO PEREIRA SOUZA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 35997470570.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

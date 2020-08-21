@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18997777678",
+        "nomeCompleto": "RENAN DA CONCEICAO LEONCIO",
+        "cpf": "46602872893",
+        "telefoneContato": "",
+        "dataNascimento": "06/03/1998",
+        "nomeMae": null,
+        "email": "renancl-14@hotmail.com",
+        "cep": "19280000",
+        "endereco": "Rua AVENIDA CUIABA",
+        "numeroEndereco": "1731",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "TEODORO SAMPAIO",
+        "estado": "sp",
+        "logradouro": "AVENIDA CUIABA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18997777678.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0d55e781-4451-421e-8d43-d0136f1db7cf",
+    "data": {
+        "linha": "77998525329",
+        "nomeCompleto": "SAMARA DE DEUS",
+        "cpf": "03404628500",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "40340510",
+        "endereco": "Rua TRAVESSA CLEMENTINO HEITOR DE CARVALHO",
+        "numeroEndereco": "36",
+        "complementoEndereco": "",
+        "bairro": "IAPI",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "TRAVESSA CLEMENTINO HEITOR DE CARVALHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77998525329.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

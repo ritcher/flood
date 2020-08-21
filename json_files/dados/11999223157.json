@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11999223157",
+        "nomeCompleto": "EDSON ROBERTO DO CARMO",
+        "cpf": "25197228865",
+        "telefoneContato": "",
+        "dataNascimento": "09/02/1976",
+        "nomeMae": "MARIA JOSE DE SOUSA DO CARMO",
+        "email": null,
+        "cep": "08720060",
+        "endereco": "AVENIDA JOSE GLICERIO DE MELO",
+        "numeroEndereco": "1335",
+        "complementoEndereco": "",
+        "bairro": "JARDIM CAMILA",
+        "cidade": "MOGI DAS CRUZES",
+        "estado": "SP",
+        "logradouro": "JOSE GLICERIO DE MELO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11999223157.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

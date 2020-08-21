@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992806781",
+        "nomeCompleto": "MARIA DAS DORES FERREIRA ALVES",
+        "cpf": "65601351449",
+        "telefoneContato": "",
+        "dataNascimento": "07/02/1968",
+        "nomeMae": "MARIA DO SOCORRO VIEIRA NETO",
+        "email": null,
+        "cep": "69048090",
+        "endereco": "RUA  DO ADVENTO 53 C B",
+        "numeroEndereco": "53",
+        "complementoEndereco": "",
+        "bairro": "DA PAZ",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": " DO ADVENTO 53 C B",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992806781.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

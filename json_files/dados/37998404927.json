@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b55cc8f2-ff29-44d4-83b2-ef61169c6756",
+    "data": {
+        "linha": "37998404927",
+        "nomeCompleto": "ROSIANE RODRIGUES",
+        "cpf": "06360419645",
+        "telefoneContato": "",
+        "dataNascimento": "12/04/1980",
+        "nomeMae": null,
+        "email": null,
+        "cep": "76829413",
+        "endereco": "Rua RUA INACIO MENDES",
+        "numeroEndereco": "7545",
+        "complementoEndereco": "",
+        "bairro": "JUSCELINO KUBITSCHEK",
+        "cidade": "PORTO VELHO",
+        "estado": "RO",
+        "logradouro": "RUA INACIO MENDES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37998404927.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

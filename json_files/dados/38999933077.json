@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f3cd3fc0-6624-42b8-9f1d-91cf3e4322ef",
+    "data": {
+        "linha": "38999933077",
+        "nomeCompleto": "CLAUDINEI LIMA CORREA",
+        "cpf": "16710847640",
+        "telefoneContato": "",
+        "dataNascimento": "19/12/2000",
+        "nomeMae": "NERES PEREIRA LIMA",
+        "email": null,
+        "cep": "39492973",
+        "endereco": "AVENIDA MONTES CLAROS",
+        "numeroEndereco": "360",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "PEDRAS DE MARIA DA CRUZ",
+        "estado": "MG",
+        "logradouro": "MONTES CLAROS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38999933077.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

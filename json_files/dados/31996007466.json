@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31996007466",
+        "nomeCompleto": "SAMARA CRISTINA ANDRADE MAIA",
+        "cpf": "10788523678",
+        "telefoneContato": "",
+        "dataNascimento": "05/11/1991",
+        "nomeMae": null,
+        "email": "cristinasamara1503@gmail.com",
+        "cep": "30421228",
+        "endereco": "RUA  JAVA 197 AP 101",
+        "numeroEndereco": "197",
+        "complementoEndereco": "",
+        "bairro": "NOVA SUISSA",
+        "cidade": "BELO HORIZONTE",
+        "estado": "mg",
+        "logradouro": " JAVA 197 AP 101",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31996007466.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

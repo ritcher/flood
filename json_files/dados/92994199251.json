@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994199251",
+        "nomeCompleto": "MARCELO RODRIGUES SILVA",
+        "cpf": "05133747870",
+        "telefoneContato": "",
+        "dataNascimento": "03/12/1965",
+        "nomeMae": null,
+        "email": "brunoo726@gmail.com",
+        "cep": "04135000",
+        "endereco": "AVENIDA ITABORAI",
+        "numeroEndereco": "109",
+        "complementoEndereco": "",
+        "bairro": "BSQ DA SAUDE",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "ITABORAI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994199251.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

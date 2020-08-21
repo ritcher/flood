@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994203561",
+        "nomeCompleto": "FERNANDO MARTINS DOS SANTOS NETO",
+        "cpf": "01021364240",
+        "telefoneContato": "",
+        "dataNascimento": "26/05/1991",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69103584",
+        "endereco": "RUA  OURO BRANCO 1119",
+        "numeroEndereco": "1119",
+        "complementoEndereco": "",
+        "bairro": "EDUARDO BRAGA II",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": " OURO BRANCO 1119",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994203561.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

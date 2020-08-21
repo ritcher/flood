@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991591308",
+        "nomeCompleto": "WANDERSON FABRICIO DA SILVA E SILVA",
+        "cpf": "01466350270",
+        "telefoneContato": "",
+        "dataNascimento": "05/12/1993",
+        "nomeMae": "FABIANA GOMES DA SILVA",
+        "email": "ma_lukinhoanderson@hotmail.com",
+        "cep": "69015325",
+        "endereco": "RUA  ABRAAO 175 TERRA NOVA",
+        "numeroEndereco": "175",
+        "complementoEndereco": "",
+        "bairro": "COL TERRA NOVA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": " ABRAAO 175 TERRA NOVA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991591308.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

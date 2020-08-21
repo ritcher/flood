@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "19998975123",
+        "nomeCompleto": "MARIA SILVIA DOS SANTOS",
+        "cpf": "15843414833",
+        "telefoneContato": "",
+        "dataNascimento": "10/07/1971",
+        "nomeMae": "GABRIELA F J DOS SANTOS",
+        "email": null,
+        "cep": "13015122",
+        "endereco": "RUA  LUZITANA 1348",
+        "numeroEndereco": "1348",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CAMPINAS",
+        "estado": "sp",
+        "logradouro": " LUZITANA 1348",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19998975123.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

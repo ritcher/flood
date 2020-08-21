@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "48991696213",
+        "nomeCompleto": "DAILON JOSE SILVEIRA DA SILVA",
+        "cpf": "47063750020",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "ABIGAIL FERMIANA S DA SILVA",
+        "email": null,
+        "cep": "88134100",
+        "endereco": "RUA  ALCINO NAVEGANTES MOREIRA 514 C",
+        "numeroEndereco": "514",
+        "complementoEndereco": "",
+        "bairro": "BARRA DO ARIRIU",
+        "cidade": "PALHOCA",
+        "estado": "sc",
+        "logradouro": " ALCINO NAVEGANTES MOREIRA 514 C",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 48991696213.",
+    "currentPlan": {
+        "code": "PRPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

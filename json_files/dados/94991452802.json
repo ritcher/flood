@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f3fec0ac-0ca5-4f78-8679-89dd9ef48c9d",
+    "data": {
+        "linha": "94991452802",
+        "nomeCompleto": "MARTA MIRIA CAETANO DA SILVA",
+        "cpf": "47573538391",
+        "telefoneContato": "",
+        "dataNascimento": "28/04/1971",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68515000",
+        "endereco": "Rua S IPES",
+        "numeroEndereco": "1",
+        "complementoEndereco": "",
+        "bairro": "CIDADE JARDIM",
+        "cidade": "PARAUAPEBAS",
+        "estado": "PA",
+        "logradouro": "S IPES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991452802.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

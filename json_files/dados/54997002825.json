@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "54997002825",
+        "nomeCompleto": "NISSIO DOMINGOS PAPALIA",
+        "cpf": "52225100004",
+        "telefoneContato": "",
+        "dataNascimento": "25/04/1967",
+        "nomeMae": null,
+        "email": null,
+        "cep": "95700000",
+        "endereco": "RUA VALERIO LORENZINI",
+        "numeroEndereco": "121",
+        "complementoEndereco": "",
+        "bairro": "SAO ROQUE",
+        "cidade": "BENTO GONCALVES",
+        "estado": "rs",
+        "logradouro": "VALERIO LORENZINI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 54997002825.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

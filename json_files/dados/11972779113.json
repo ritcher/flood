@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11972779113",
+        "nomeCompleto": "SIDNEI DA SILVA FELICIANO",
+        "cpf": "49127592871",
+        "telefoneContato": "",
+        "dataNascimento": "22/08/2000",
+        "nomeMae": "CRISTINA GOMES DA SILVA FELICIANO",
+        "email": null,
+        "cep": "07792230",
+        "endereco": "RUA  ANGELA POLETO 15",
+        "numeroEndereco": "15",
+        "complementoEndereco": "",
+        "bairro": "ALDEIA DO SOL POLVILHO",
+        "cidade": "CAJAMAR",
+        "estado": "sp",
+        "logradouro": " ANGELA POLETO 15",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11972779113.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

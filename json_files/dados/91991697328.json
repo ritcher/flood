@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991697328",
+        "nomeCompleto": "JOANA RABELO LOPES",
+        "cpf": "51308363249",
+        "telefoneContato": "",
+        "dataNascimento": "18/11/1975",
+        "nomeMae": null,
+        "email": "yptkgmekdwkwj@gmail.com",
+        "cep": "66913560",
+        "endereco": " LUIS",
+        "numeroEndereco": "362",
+        "complementoEndereco": "",
+        "bairro": "CHAPEU VIRADO (MOSQUEIRO)",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "LUIS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991697328.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

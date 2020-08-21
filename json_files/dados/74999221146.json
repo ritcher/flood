@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a946904c-73d2-485e-b1ed-d451488f1d80",
+    "data": {
+        "linha": "74999221146",
+        "nomeCompleto": "CAIQUE ALEXANDRINO DO NASCIMENTO",
+        "cpf": "86278083507",
+        "telefoneContato": "",
+        "dataNascimento": "17/01/1992",
+        "nomeMae": null,
+        "email": null,
+        "cep": "44900000",
+        "endereco": "RUA JOAQUIM MARIA",
+        "numeroEndereco": "17",
+        "complementoEndereco": "",
+        "bairro": "LAGOA DO TIO",
+        "cidade": "IRECE",
+        "estado": "BA",
+        "logradouro": "JOAQUIM MARIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 74999221146.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

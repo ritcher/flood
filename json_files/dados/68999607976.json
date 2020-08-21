@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=234327e5-f059-4ad3-bc0c-7fd5b0af8abd",
+    "data": {
+        "linha": "68999607976",
+        "nomeCompleto": "FRANCISCO DA SILVA",
+        "cpf": "74211358200",
+        "telefoneContato": "",
+        "dataNascimento": "19/06/1984",
+        "nomeMae": "RAIMUNDA DA SILVA",
+        "email": null,
+        "cep": "69908004",
+        "endereco": "RUA S MATEUS 115",
+        "numeroEndereco": "115",
+        "complementoEndereco": "",
+        "bairro": "BELO JARDIM II",
+        "cidade": "RIO BRANCO",
+        "estado": "AC",
+        "logradouro": "S MATEUS 115",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999607976.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

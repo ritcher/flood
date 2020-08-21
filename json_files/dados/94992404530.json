@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6c99f9af-4e43-4c4e-addf-3eaaef2ca839",
+    "data": {
+        "linha": "94992404530",
+        "nomeCompleto": "IVANETE OLIVEIRA LUZ",
+        "cpf": "42591708215",
+        "telefoneContato": "",
+        "dataNascimento": "07/11/1974",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "68590000",
+        "endereco": "RUA DE RUA",
+        "numeroEndereco": "52",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "JACUNDA",
+        "estado": "PA",
+        "logradouro": "DE RUA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992404530.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "55997029012",
+        "nomeCompleto": "JEFERSON RUBENICH DA SILVA",
+        "cpf": "02139531027",
+        "telefoneContato": "",
+        "dataNascimento": "13/09/1987",
+        "nomeMae": "MARIA MARGARETE RUBENICH",
+        "email": null,
+        "cep": "68020544",
+        "endereco": "TRAVESSA BETTENDORF",
+        "numeroEndereco": "363",
+        "complementoEndereco": "",
+        "bairro": "DIAMANTINO",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "BETTENDORF",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 55997029012.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

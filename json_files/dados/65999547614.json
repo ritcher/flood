@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65999547614",
+        "nomeCompleto": "HUDSON VINICIUS GOMES DOS SANTOS",
+        "cpf": "06810567119",
+        "telefoneContato": "",
+        "dataNascimento": "26/01/2001",
+        "nomeMae": null,
+        "email": null,
+        "cep": "78300000",
+        "endereco": "Rua RUA D",
+        "numeroEndereco": "450",
+        "complementoEndereco": "",
+        "bairro": "JARDIM PRESIDENTE",
+        "cidade": "TANGARA DA SERRA",
+        "estado": "MT",
+        "logradouro": "RUA D",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65999547614.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

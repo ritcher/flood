@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992065955",
+        "nomeCompleto": "LUCY PEREIRA DOS SANTOS",
+        "cpf": "96276169234",
+        "telefoneContato": "",
+        "dataNascimento": "08/06/1952",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68775000",
+        "endereco": "RUA CARLOS PINTO",
+        "numeroEndereco": "5",
+        "complementoEndereco": "",
+        "bairro": "AT PERERU",
+        "cidade": "SAO CAETANO DE ODIVELAS",
+        "estado": "PA",
+        "logradouro": "CARLOS PINTO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992065955.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

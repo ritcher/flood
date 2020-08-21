@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=78d8a14e-bf40-4123-91fd-8363e772dc45",
+    "data": {
+        "linha": "33999855572",
+        "nomeCompleto": "WARLEN POLICARPO DE FREITAS",
+        "cpf": "13726661689",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "39880000",
+        "endereco": "Rua AVENIDA PRESIDENTE GETULIO VARGAS",
+        "numeroEndereco": "587",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "AGUAS FORMOSAS",
+        "estado": "mg",
+        "logradouro": "AVENIDA PRESIDENTE GETULIO VARGAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999855572.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992489783",
+        "nomeCompleto": "CARLOS OTAVIO FONSECA VALENTE",
+        "cpf": "70733961991",
+        "telefoneContato": "",
+        "dataNascimento": "18/08/1968",
+        "nomeMae": null,
+        "email": "ndodndidndis@gmail.com",
+        "cep": "69240000",
+        "endereco": " 02 VL SAMPAIO",
+        "numeroEndereco": "123",
+        "complementoEndereco": "",
+        "bairro": "RURAL",
+        "cidade": "AUTAZES",
+        "estado": "AM",
+        "logradouro": "02 VL SAMPAIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992489783.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

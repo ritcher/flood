@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51998186971",
+        "nomeCompleto": "DOUGLAS KROMBAUER",
+        "cpf": "02038963002",
+        "telefoneContato": "",
+        "dataNascimento": "09/01/1996",
+        "nomeMae": "JANETE KROMBAUER",
+        "email": null,
+        "cep": "98400000",
+        "endereco": "RUA MNS VITOBATISTELA 15",
+        "numeroEndereco": "15",
+        "complementoEndereco": "",
+        "bairro": "BARRIL",
+        "cidade": "FREDERICO WESTPHALEN",
+        "estado": "rs",
+        "logradouro": "MNS VITOBATISTELA 15",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51998186971.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

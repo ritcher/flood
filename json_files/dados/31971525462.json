@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31971525462",
+        "nomeCompleto": "GABRIEL GONCALVES MOREIRA",
+        "cpf": "11905199686",
+        "telefoneContato": "",
+        "dataNascimento": "29/08/1992",
+        "nomeMae": "ADRIANA APARECIDA DE PAULA MOREIRA",
+        "email": "gabriel.acv@hotmail.com",
+        "cep": "33015240",
+        "endereco": "RUA DEMOSTENES DE MELO",
+        "numeroEndereco": "211",
+        "complementoEndereco": "",
+        "bairro": "ADEODATO",
+        "cidade": "STA LUZIA",
+        "estado": "MG",
+        "logradouro": "DEMOSTENES DE MELO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31971525462.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

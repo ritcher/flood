@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "71999863847",
+        "nomeCompleto": "MARIANE DA SILVA DOS ANJOS",
+        "cpf": "06187761502",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "44092672",
+        "endereco": "Rua RUA SALMO 26",
+        "numeroEndereco": "100",
+        "complementoEndereco": "",
+        "bairro": "TOMBA",
+        "cidade": "FEIRA DE SANTANA",
+        "estado": "BA",
+        "logradouro": "RUA SALMO 26",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 71999863847.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

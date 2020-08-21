@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27997142455",
+        "nomeCompleto": "NATALIA OLIVEIRA TOLENTINO",
+        "cpf": "16208060702",
+        "telefoneContato": "",
+        "dataNascimento": "23/12/1996",
+        "nomeMae": "Ana Maria da Penha Oliveira",
+        "email": "naty_oliveiratolentino@hotmail.com",
+        "cep": "29162010",
+        "endereco": "AV MANOEL NUNES",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "JARDIM TROPICAL",
+        "cidade": "SERRA",
+        "estado": "ES",
+        "logradouro": "MANOEL NUNES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27997142455.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

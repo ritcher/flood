@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992538599",
+        "nomeCompleto": "ALEKSANDRO DE OLIVEIRA DOS SANTOS",
+        "cpf": "03141949247",
+        "telefoneContato": "",
+        "dataNascimento": "26/01/1995",
+        "nomeMae": "MARCILENE DA SILVA DE OLIVEIRA",
+        "email": null,
+        "cep": "69104024",
+        "endereco": "AVENIDA  ARMINDO AUZIER 1067",
+        "numeroEndereco": "1067",
+        "complementoEndereco": "",
+        "bairro": "STA LUZIA",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": " ARMINDO AUZIER 1067",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992538599.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f18a7523-2e51-47e7-b556-6b26d50e672a",
+    "data": {
+        "linha": "63999674418",
+        "nomeCompleto": "VITOR DE ALMEIDA CAMPELO",
+        "cpf": "04719391109",
+        "telefoneContato": "",
+        "dataNascimento": "17/10/1999",
+        "nomeMae": "solange de almeida sousa",
+        "email": "vitorcampello54@gmail.com",
+        "cep": "77063158",
+        "endereco": "Q T 20 Avenida TLO 5",
+        "numeroEndereco": "8",
+        "complementoEndereco": "",
+        "bairro": "JARDIM TAQUARI (TAQUARALTO)",
+        "cidade": "PALMAS",
+        "estado": "TO",
+        "logradouro": "T 20 Avenida TLO 5",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 63999674418.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

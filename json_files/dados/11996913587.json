@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11996913587",
+        "nomeCompleto": "EUSEBIO ALEXANDRE FREIRE DA SILVA",
+        "cpf": "14198391874",
+        "telefoneContato": "",
+        "dataNascimento": "22/01/1971",
+        "nomeMae": null,
+        "email": null,
+        "cep": "37800000",
+        "endereco": "RUA ITAU",
+        "numeroEndereco": "291",
+        "complementoEndereco": "",
+        "bairro": "PARQUE DOS MUNICIPIO",
+        "cidade": "GUAXUPE",
+        "estado": "mg",
+        "logradouro": "ITAU",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11996913587.",
+    "currentPlan": {
+        "code": "VIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Vivo Toda Hora",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

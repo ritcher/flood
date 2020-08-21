@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11944511454",
+        "nomeCompleto": "EMERSON ALVES PASSOS",
+        "cpf": "48169751870",
+        "telefoneContato": "",
+        "dataNascimento": "14/08/1998",
+        "nomeMae": null,
+        "email": "manowificell.03@gmail.com",
+        "cep": "69100063",
+        "endereco": " PARQUE",
+        "numeroEndereco": "4461",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "PARQUE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11944511454.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

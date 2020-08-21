@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=aef6ce75-dd45-469e-9d63-414523c6c3a4",
+    "data": {
+        "linha": "93991563622",
+        "nomeCompleto": "ALDENORA NAZARE TEIXEIRA DE MORAES",
+        "cpf": "12783650282",
+        "telefoneContato": "",
+        "dataNascimento": "23/04/1955",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68020544",
+        "endereco": "TRAVESSA BETTENDORF",
+        "numeroEndereco": "363",
+        "complementoEndereco": "",
+        "bairro": "DIAMANTINO",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "BETTENDORF",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991563622.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

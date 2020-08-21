@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "14996391319",
+        "nomeCompleto": "LUCILEIDA PEREIRA DE MORAES PALHUZI",
+        "cpf": "69061327253",
+        "telefoneContato": "",
+        "dataNascimento": "06/11/1981",
+        "nomeMae": null,
+        "email": "sebastiao20001@gmail.com",
+        "cep": "68455134",
+        "endereco": " F",
+        "numeroEndereco": "20",
+        "complementoEndereco": "",
+        "bairro": "SANTA MONICA",
+        "cidade": "TUCURUI",
+        "estado": "PA",
+        "logradouro": "F",
+        "contaDigital": true,
+        "vencimentoFatura": "17",
+        "ciclo": "01",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 14996391319.",
+    "currentPlan": {
+        "code": "VIVOCTRLF48N",
+        "price": 39.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 3GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

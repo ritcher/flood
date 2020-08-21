@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991110815",
+        "nomeCompleto": "KAMILI ATAIDE DE LIMA",
+        "cpf": "06711644220",
+        "telefoneContato": "",
+        "dataNascimento": "28/02/2007",
+        "nomeMae": null,
+        "email": null,
+        "cep": "40375000",
+        "endereco": "RUA DRAIMUNDO MESQUITA",
+        "numeroEndereco": "69",
+        "complementoEndereco": "",
+        "bairro": "LIBERDADE",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "DRAIMUNDO MESQUITA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991110815.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

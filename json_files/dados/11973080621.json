@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11973080621",
+        "nomeCompleto": "VALERIA APARECIDO",
+        "cpf": "31460005805",
+        "telefoneContato": "",
+        "dataNascimento": "09/05/1983",
+        "nomeMae": null,
+        "email": null,
+        "cep": "02993220",
+        "endereco": "RUA JOAQUIM FERRER",
+        "numeroEndereco": "251",
+        "complementoEndereco": "",
+        "bairro": "JARDIM VIVAN",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "JOAQUIM FERRER",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11973080621.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

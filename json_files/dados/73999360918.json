@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=fbd8a894-ae2e-447f-a8fd-3785d2cba59b",
+    "data": {
+        "linha": "73999360918",
+        "nomeCompleto": "GEIZA DE SANTANA CORREIA",
+        "cpf": "84204885500",
+        "telefoneContato": "",
+        "dataNascimento": "02/04/1987",
+        "nomeMae": null,
+        "email": null,
+        "cep": "03665000",
+        "endereco": "RUA JARAUARA",
+        "numeroEndereco": "835",
+        "complementoEndereco": "",
+        "bairro": "VILA RE",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "JARAUARA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 73999360918.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

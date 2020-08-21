@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "47992007692",
+        "nomeCompleto": "BRUNA CASTRO FERNANDES",
+        "cpf": "08481930911",
+        "telefoneContato": "",
+        "dataNascimento": "30/06/1998",
+        "nomeMae": "GIRLENE CASTRO FERNANDES",
+        "email": null,
+        "cep": "88305500",
+        "endereco": "RUA  CURT HERING 27",
+        "numeroEndereco": "27",
+        "complementoEndereco": "",
+        "bairro": "BARRA DO RIO",
+        "cidade": "ITAJAI",
+        "estado": "sc",
+        "logradouro": " CURT HERING 27",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 47992007692.",
+    "currentPlan": {
+        "code": "PRPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

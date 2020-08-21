@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27997167910",
+        "nomeCompleto": "AMAZILDO ANCHIETA",
+        "cpf": "00185173748",
+        "telefoneContato": "",
+        "dataNascimento": "26/06/1968",
+        "nomeMae": "DEUSEDIR PEROBA",
+        "email": null,
+        "cep": "29914510",
+        "endereco": "AV CABOCLO BERNARDO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "POVOACAO",
+        "cidade": "LINHARES",
+        "estado": "ES",
+        "logradouro": "CABOCLO BERNARDO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27997167910.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

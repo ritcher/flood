@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51997902041",
+        "nomeCompleto": "MURILO DE OLIVEIRA BANDAS",
+        "cpf": "05581138001",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": "21r7opulq7ngmph@gmail.com",
+        "cep": "95595000",
+        "endereco": "Rua AVENIDA GIACOMO CARNIEL",
+        "numeroEndereco": "2358",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CIDREIRA",
+        "estado": "rs",
+        "logradouro": "AVENIDA GIACOMO CARNIEL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51997902041.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

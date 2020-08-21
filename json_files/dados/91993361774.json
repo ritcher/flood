@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993361774",
+        "nomeCompleto": "FLAVIO CARDOSO",
+        "cpf": "81150539291",
+        "telefoneContato": "",
+        "dataNascimento": "09/03/1990",
+        "nomeMae": "MARIA BERNADETE DA SILVA SANTOS",
+        "email": "flaviogold77@gmail.com",
+        "cep": "68790000",
+        "endereco": "RUA JOSE CARMONA",
+        "numeroEndereco": "2",
+        "complementoEndereco": "",
+        "bairro": "NOVA BRASILIA",
+        "cidade": "SANTA ISABEL DO PARA",
+        "estado": "PA",
+        "logradouro": "JOSE CARMONA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993361774.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

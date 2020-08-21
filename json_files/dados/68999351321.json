@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=5525f570-de8c-47dd-b106-e7b66b976c15",
+    "data": {
+        "linha": "68999351321",
+        "nomeCompleto": "PAULO MANOEL CALEB FOGA\u00e7A",
+        "cpf": "98925921669",
+        "telefoneContato": "",
+        "dataNascimento": "10/05/1970",
+        "nomeMae": "Maria FOGA\u00e7A",
+        "email": "sseverinoruanbaptista@riguetti.com.br",
+        "cep": "26297036",
+        "endereco": " SEBASTIAO NUNES MOREIRA",
+        "numeroEndereco": "208",
+        "complementoEndereco": "",
+        "bairro": "PARAISO",
+        "cidade": "NOVA IGUACU",
+        "estado": "RJ",
+        "logradouro": "SEBASTIAO NUNES MOREIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999351321.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

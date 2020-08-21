@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a69fbabe-c0a3-4d8e-9755-04c94bf5bdb3",
+    "data": {
+        "linha": "81982097786",
+        "nomeCompleto": "ROSA MARIA DA SILVA",
+        "cpf": "09128793439",
+        "telefoneContato": "",
+        "dataNascimento": "03/09/1990",
+        "nomeMae": null,
+        "email": null,
+        "cep": "55900000",
+        "endereco": "RUA DA CAIXA DAGUA",
+        "numeroEndereco": "122",
+        "complementoEndereco": "",
+        "bairro": "TEJUCUPAPO",
+        "cidade": "GOIANA",
+        "estado": "PE",
+        "logradouro": "DA CAIXA DAGUA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 81982097786.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994474523",
+        "nomeCompleto": "jociana ferreira da silva",
+        "cpf": "98751840200",
+        "telefoneContato": "",
+        "dataNascimento": "23/11/1983",
+        "nomeMae": "hosana ferreira da silva",
+        "email": null,
+        "cep": "69084003",
+        "endereco": "TRAVESSA  LONDRINA 115",
+        "numeroEndereco": "115",
+        "complementoEndereco": "",
+        "bairro": "ZUMBI DOS PALMARES",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": " LONDRINA 115",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994474523.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

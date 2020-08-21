@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "64999347790",
+        "nomeCompleto": "KAUA HENRIQUE DA SILVA LINS",
+        "cpf": "09180514103",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": "n23wuwrx50maauu@gmail.com",
+        "cep": "75901690",
+        "endereco": "Rua RUA ALMIRO DE MORAES",
+        "numeroEndereco": "1031",
+        "complementoEndereco": "",
+        "bairro": "VILA SANTO ANDRE",
+        "cidade": "RIO VERDE",
+        "estado": "GO",
+        "logradouro": "RUA ALMIRO DE MORAES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 64999347790.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

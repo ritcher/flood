@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=64ce25ba-ebf0-483c-8409-d5068ef0ba03",
+    "data": {
+        "linha": "63999508935",
+        "nomeCompleto": "ALESSANDRA PRADO DA SILVA",
+        "cpf": "03377136266",
+        "telefoneContato": "",
+        "dataNascimento": "05/02/1997",
+        "nomeMae": null,
+        "email": "aprado.aps@gmail.com",
+        "cep": "19700000",
+        "endereco": "RUA JOAQUIM SEBASTIAO VIEIR",
+        "numeroEndereco": "850",
+        "complementoEndereco": "",
+        "bairro": "JD PANANBI",
+        "cidade": "PARAGUACU PAULISTA",
+        "estado": "sp",
+        "logradouro": "JOAQUIM SEBASTIAO VIEIR",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 63999508935.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

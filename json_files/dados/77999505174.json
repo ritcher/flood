@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=bc9d10f6-b895-4011-b628-a5648daf5755",
+    "data": {
+        "linha": "77999505174",
+        "nomeCompleto": "EMANUEL CARNEIRO DA CUNHA",
+        "cpf": "07733294711",
+        "telefoneContato": "",
+        "dataNascimento": "10/10/1990",
+        "nomeMae": null,
+        "email": "ggyrrfguwwqsfggyrss@gmail.com",
+        "cep": "69400260",
+        "endereco": " EDUARDO RIBEIRO",
+        "numeroEndereco": "22",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MANACAPURU",
+        "estado": "AM",
+        "logradouro": "EDUARDO RIBEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77999505174.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

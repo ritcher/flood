@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a8e109f3-2485-46a1-b6a3-d466a6e00ceb",
+    "data": {
+        "linha": "98991123431",
+        "nomeCompleto": "CLAUDIONOR BRITO SILVA",
+        "cpf": "61031654313",
+        "telefoneContato": "",
+        "dataNascimento": "27/04/1994",
+        "nomeMae": null,
+        "email": "terezaemilybarbosaterezaemilybarbosa@fcacomputers.com.br",
+        "cep": "77064692",
+        "endereco": " NC 11",
+        "numeroEndereco": "442",
+        "complementoEndereco": "",
+        "bairro": "SETOR BELA VISTA (TAQUARALTO)",
+        "cidade": "PALMAS",
+        "estado": "TO",
+        "logradouro": "NC 11",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98991123431.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

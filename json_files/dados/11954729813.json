@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11954729813",
+        "nomeCompleto": "ANA CAROLINA ARRAIS DE MORAES",
+        "cpf": "33291607805",
+        "telefoneContato": "",
+        "dataNascimento": "19/01/1989",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "02926000",
+        "endereco": "RUA CHICO DE PAULA",
+        "numeroEndereco": "215",
+        "complementoEndereco": "",
+        "bairro": "NOSSA SENHORA DO O",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "CHICO DE PAULA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11954729813.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

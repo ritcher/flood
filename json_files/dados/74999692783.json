@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=69437e2b-f6fb-4308-a366-2fadf90c8da7",
+    "data": {
+        "linha": "74999692783",
+        "nomeCompleto": "ANTONIO PAULO SODRE DE SOUZA",
+        "cpf": "05418534572",
+        "telefoneContato": "",
+        "dataNascimento": "03/05/1954",
+        "nomeMae": null,
+        "email": null,
+        "cep": "44990000",
+        "endereco": "RUA MARIA DA GLORIA",
+        "numeroEndereco": "97",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "BARRA DO MENDES",
+        "estado": "BA",
+        "logradouro": "MARIA DA GLORIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 74999692783.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

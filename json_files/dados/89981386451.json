@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=5f8be19e-8209-4636-9e5a-fc632b82fa44",
+    "data": {
+        "linha": "89981386451",
+        "nomeCompleto": "JOSIVALDO LIRA DOS SANTOS",
+        "cpf": "02060598419",
+        "telefoneContato": "",
+        "dataNascimento": "14/03/1978",
+        "nomeMae": null,
+        "email": null,
+        "cep": "57160000",
+        "endereco": "Rua CHARLES",
+        "numeroEndereco": "37",
+        "complementoEndereco": "",
+        "bairro": "ZONA RURAL",
+        "cidade": "MARECHAL DEODORO",
+        "estado": "AL",
+        "logradouro": "CHARLES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 89981386451.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

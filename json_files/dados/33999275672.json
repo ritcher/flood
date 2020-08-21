@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b34539b2-a852-49e1-81a2-7d1edf8c25b6",
+    "data": {
+        "linha": "33999275672",
+        "nomeCompleto": "ALEIDES CORDEIRO DE MACEDO",
+        "cpf": "02913626645",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "39690000",
+        "endereco": "Rua AVENIDA PEDRO ABRANTES",
+        "numeroEndereco": "500",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MALACACHETA",
+        "estado": "mg",
+        "logradouro": "AVENIDA PEDRO ABRANTES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999275672.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

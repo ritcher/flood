@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "71996838743",
+        "nomeCompleto": "EZEQUIEL DE CASTRO OLIVEIRA SANTOS",
+        "cpf": "03793239586",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "41760150",
+        "endereco": "Rua RUA DESEMBARGADOR MANOEL PEREIRA",
+        "numeroEndereco": "102",
+        "complementoEndereco": "",
+        "bairro": "COSTA AZUL",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "RUA DESEMBARGADOR MANOEL PEREIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 71996838743.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

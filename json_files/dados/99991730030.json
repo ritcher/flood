@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9fa0dba4-30ae-45f2-8bde-7567f5ca2592",
+    "data": {
+        "linha": "99991730030",
+        "nomeCompleto": "CLEILSON DOS REIS CANTANHEDE",
+        "cpf": "05622789311",
+        "telefoneContato": "",
+        "dataNascimento": "07/09/1990",
+        "nomeMae": null,
+        "email": "157playboy35.cc@gmail.com.br",
+        "cep": "65700000",
+        "endereco": "Rua POVOADO CATUCA NR",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ZONA RURAL",
+        "cidade": "BACABAL",
+        "estado": "MA",
+        "logradouro": "POVOADO CATUCA NR",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99991730030.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

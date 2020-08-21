@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18998123081",
+        "nomeCompleto": "VALDECIR VITRO FRANCISCO",
+        "cpf": "07847598809",
+        "telefoneContato": "",
+        "dataNascimento": "18/11/1968",
+        "nomeMae": null,
+        "email": null,
+        "cep": "16087005",
+        "endereco": "RUA MINAS GERAIS",
+        "numeroEndereco": "160",
+        "complementoEndereco": "",
+        "bairro": "ENG TAVEIRA",
+        "cidade": "ARACATUBA",
+        "estado": "sp",
+        "logradouro": "MINAS GERAIS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18998123081.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

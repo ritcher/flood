@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b6468866-494f-43a3-b728-39ef643a0a4e",
+    "data": {
+        "linha": "89981092154",
+        "nomeCompleto": "ROSANGELA PEREIRA SARAIVA",
+        "cpf": "38630893320",
+        "telefoneContato": "",
+        "dataNascimento": "20/01/1967",
+        "nomeMae": null,
+        "email": "8isv8u4s@gmail.com",
+        "cep": "69100063",
+        "endereco": " PARQUE",
+        "numeroEndereco": "567",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "PARQUE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 89981092154.",
+    "currentPlan": {
+        "code": "NEPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "NEPREDIARIOGSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

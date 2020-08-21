@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991021851",
+        "nomeCompleto": "MARCONE DE ALMEIDA CARDOSO",
+        "cpf": "89911679268",
+        "telefoneContato": "",
+        "dataNascimento": "30/08/1987",
+        "nomeMae": null,
+        "email": "vamet92522@p5mail.com",
+        "cep": "68695000",
+        "endereco": "RUA ANGELIM",
+        "numeroEndereco": "801",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "TAILANDIA",
+        "estado": "PA",
+        "logradouro": "ANGELIM",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991021851.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

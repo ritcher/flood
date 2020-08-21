@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0a628802-0e98-49f9-8936-70037f2f19cf",
+    "data": {
+        "linha": "93991206245",
+        "nomeCompleto": "JOSE CLAUDIO GOMES DE ARAUJO",
+        "cpf": "40279812272",
+        "telefoneContato": "",
+        "dataNascimento": "07/10/1971",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68200000",
+        "endereco": "Rua TIAGO SERRAO",
+        "numeroEndereco": "403",
+        "complementoEndereco": "",
+        "bairro": "LUANDA",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "TIAGO SERRAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991206245.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

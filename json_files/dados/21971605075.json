@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21971605075",
+        "nomeCompleto": "SILVIO ALBINO DE SOUZA JUNIOR",
+        "cpf": "10744534682",
+        "telefoneContato": "",
+        "dataNascimento": "25/07/1990",
+        "nomeMae": null,
+        "email": "s.juniorsouza25@gmail.com",
+        "cep": "30692250",
+        "endereco": "RUA CEL ANTONIO FERREIRA DO PRAD",
+        "numeroEndereco": "318",
+        "complementoEndereco": "",
+        "bairro": "LINDEIA",
+        "cidade": "BELO HORIZONTE",
+        "estado": "mg",
+        "logradouro": "CEL ANTONIO FERREIRA DO PRAD",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21971605075.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

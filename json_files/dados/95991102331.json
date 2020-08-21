@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0953599a-9042-40fd-a5c8-b40d6e8bf3c8",
+    "data": {
+        "linha": "95991102331",
+        "nomeCompleto": "ERIVELTON PEREIRA DA SILVA",
+        "cpf": "03090561280",
+        "telefoneContato": "",
+        "dataNascimento": "16/08/1994",
+        "nomeMae": null,
+        "email": "093csomf65fg8ts@gmail.com",
+        "cep": "69314194",
+        "endereco": "RUA DAS MARGARIDAS",
+        "numeroEndereco": "277",
+        "complementoEndereco": "",
+        "bairro": "JD PRIMAVERA",
+        "cidade": "BOA VISTA",
+        "estado": "rr",
+        "logradouro": "DAS MARGARIDAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 95991102331.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

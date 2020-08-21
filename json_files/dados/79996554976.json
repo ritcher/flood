@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0ad56f98-8e4e-4c14-b4fe-8772dbf4da33",
+    "data": {
+        "linha": "79996554976",
+        "nomeCompleto": "RENILDO JOSE SOUZA DOS SANTOS",
+        "cpf": "06924817530",
+        "telefoneContato": "",
+        "dataNascimento": "12/07/1993",
+        "nomeMae": null,
+        "email": "43b46qb1d9bg8kv@gmail.com",
+        "cep": "49081050",
+        "endereco": "AVENIDA CHAC OSVALDO ARANHA",
+        "numeroEndereco": "1860",
+        "complementoEndereco": "",
+        "bairro": "CAPUCHO",
+        "cidade": "ARACAJU",
+        "estado": "SE",
+        "logradouro": "CHAC OSVALDO ARANHA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79996554976.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

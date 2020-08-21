@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11934219930",
+        "nomeCompleto": "JOSE ROBERTO ALVES BARACHO",
+        "cpf": "11810786878",
+        "telefoneContato": "",
+        "dataNascimento": "21/10/1956",
+        "nomeMae": "TEREZINHA ALVES RODRIGUES BARACHO",
+        "email": "jralvesbaracho@gmail.com",
+        "cep": "07179260",
+        "endereco": "RUA  ZEFERINO ALVES DE OLIVEIRA 1150",
+        "numeroEndereco": "1150",
+        "complementoEndereco": "",
+        "bairro": "JD PONTE ALTA I",
+        "cidade": "GUARULHOS",
+        "estado": "sp",
+        "logradouro": " ZEFERINO ALVES DE OLIVEIRA 1150",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11934219930.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

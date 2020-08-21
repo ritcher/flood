@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65999519390",
+        "nomeCompleto": "LUCAS DA SILVA",
+        "cpf": "06281074122",
+        "telefoneContato": "",
+        "dataNascimento": "14/12/1998",
+        "nomeMae": null,
+        "email": null,
+        "cep": "78200000",
+        "endereco": "RUA DOS FUNCIONARIOS PUBLICOS",
+        "numeroEndereco": "646",
+        "complementoEndereco": "",
+        "bairro": "CAVALHADA II",
+        "cidade": "CACERES",
+        "estado": "MT",
+        "logradouro": "DOS FUNCIONARIOS PUBLICOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65999519390.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

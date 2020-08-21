@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c6cc09e9-85c2-4a9c-b43c-fd3a573a3c1c",
+    "data": {
+        "linha": "94992607297",
+        "nomeCompleto": "ANA CARLA RODRIGUES DOS SANTOS",
+        "cpf": "00392624214",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "04085002",
+        "endereco": "AVENIDA DOS IMARES",
+        "numeroEndereco": "1367",
+        "complementoEndereco": "",
+        "bairro": "INDIANOPOLIS",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "DOS IMARES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992607297.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

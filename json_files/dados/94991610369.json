@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=331bba8a-1f06-4759-a5ad-8195de7c5da7",
+    "data": {
+        "linha": "94991610369",
+        "nomeCompleto": "ANA LUCIA LIMA DA SILVA",
+        "cpf": "85439720278",
+        "telefoneContato": "",
+        "dataNascimento": "13/03/1976",
+        "nomeMae": "MARIA FERREIRA LIMA",
+        "email": null,
+        "cep": "68537000",
+        "endereco": "AVENIDA  WEYNE CAVALCANTE 517",
+        "numeroEndereco": "517",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CANAA DOS CARAJAS",
+        "estado": "PA",
+        "logradouro": " WEYNE CAVALCANTE 517",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991610369.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

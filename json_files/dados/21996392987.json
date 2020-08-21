@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21996392987",
+        "nomeCompleto": "INAJARA SCHUABER GOMES",
+        "cpf": "12409777783",
+        "telefoneContato": "",
+        "dataNascimento": "30/08/1987",
+        "nomeMae": "ROSIMERE SHUABER",
+        "email": "inagomes@hotmail.com",
+        "cep": "28610170",
+        "endereco": "PRACA PRESIDENTE GETULIO VARGAS'",
+        "numeroEndereco": "10",
+        "complementoEndereco": "",
+        "bairro": "CENTRO'",
+        "cidade": "NOVA FRIBURGO",
+        "estado": "RJ",
+        "logradouro": "PRESIDENTE GETULIO VARGAS'",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21996392987.",
+    "currentPlan": {
+        "code": "RJVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

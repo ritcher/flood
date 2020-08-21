@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994633942",
+        "nomeCompleto": "RAMON MOREIRA DA SILVA",
+        "cpf": "03614734277",
+        "telefoneContato": "",
+        "dataNascimento": "27/03/1996",
+        "nomeMae": "LUCIA MACHADO MOREIRA",
+        "email": "dupagb4p5kygkaf@gmail.com",
+        "cep": "69037520",
+        "endereco": "R CINCO DE SETEMBRO",
+        "numeroEndereco": "63",
+        "complementoEndereco": "",
+        "bairro": "NOVA ESPERANCA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "CINCO DE SETEMBRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994633942.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

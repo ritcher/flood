@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "33999146708",
+        "nomeCompleto": "AMAURI ALVES DE ARAUJO",
+        "cpf": "03034696680",
+        "telefoneContato": "",
+        "dataNascimento": "06/04/1977",
+        "nomeMae": "MAURA DA SILVAALVES",
+        "email": null,
+        "cep": "35280000",
+        "endereco": "AVENIDA GETULIO VARGAS",
+        "numeroEndereco": "199",
+        "complementoEndereco": "",
+        "bairro": "ITABIRINHA",
+        "cidade": "ITABIRINHA",
+        "estado": "MG",
+        "logradouro": "GETULIO VARGAS",
+        "contaDigital": true,
+        "vencimentoFatura": "21",
+        "ciclo": "05",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999146708.",
+    "currentPlan": {
+        "code": "VIVOCTRLF27A",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL_4GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

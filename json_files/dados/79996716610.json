@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a1539f14-5d59-49fe-a46c-30e2336f4820",
+    "data": {
+        "linha": "79996716610",
+        "nomeCompleto": "ALINE OLIVEIRA FERREIRA",
+        "cpf": "79860788553",
+        "telefoneContato": "",
+        "dataNascimento": "10/05/1980",
+        "nomeMae": null,
+        "email": "elisiane.c.teles@gmail.com",
+        "cep": "49100000",
+        "endereco": "RUA  J 83 CJ",
+        "numeroEndereco": "83",
+        "complementoEndereco": "",
+        "bairro": "ROSA ELZE",
+        "cidade": "SAO CRISTOVAO",
+        "estado": "SE",
+        "logradouro": " J 83 CJ",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79996716610.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

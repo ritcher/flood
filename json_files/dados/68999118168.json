@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=e8bdc5f4-7eca-48c6-b476-193921ddf461",
+    "data": {
+        "linha": "68999118168",
+        "nomeCompleto": "IVANILDES MOURAO DE ARAUJO MACAMBIRA",
+        "cpf": "68183542204",
+        "telefoneContato": "",
+        "dataNascimento": "21/01/1981",
+        "nomeMae": "FRANCISCA MOURAO DE ARAUJO",
+        "email": null,
+        "cep": "69902849",
+        "endereco": " RUA JOSE JOAQUIM",
+        "numeroEndereco": "270",
+        "complementoEndereco": "",
+        "bairro": "WANDERLEY DANTAS",
+        "cidade": "R BRANCO",
+        "estado": "AC",
+        "logradouro": "RUA JOSE JOAQUIM",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999118168.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

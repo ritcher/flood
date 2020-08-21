@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "61999512066",
+        "nomeCompleto": "ANA PAULA RIBEIRO DE SOUZA",
+        "cpf": "09904214140",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "71692439",
+        "endereco": "Rua QUADRA 201 CONJUNTO 13",
+        "numeroEndereco": "17",
+        "complementoEndereco": "",
+        "bairro": "SETOR RESIDENCIAL OESTE",
+        "cidade": "BRASILIA",
+        "estado": "DF",
+        "logradouro": "QUADRA 201 CONJUNTO 13",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61999512066.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

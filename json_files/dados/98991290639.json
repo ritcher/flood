@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f9f121b8-53d4-4f2f-9706-96102aafe7a4",
+    "data": {
+        "linha": "98991290639",
+        "nomeCompleto": "Victor Soares dos Santos",
+        "cpf": "61943105375",
+        "telefoneContato": "",
+        "dataNascimento": "25/08/1997",
+        "nomeMae": "Ant\u00f4nia de Maria Gomes Soares  ",
+        "email": null,
+        "cep": "65485000",
+        "endereco": "RUA BENEDITO",
+        "numeroEndereco": "222",
+        "complementoEndereco": "",
+        "bairro": "MALVINAS",
+        "cidade": "ITAPECURU MIRIM",
+        "estado": "MA",
+        "logradouro": "BENEDITO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98991290639.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=24af1b9c-1d53-4139-9e03-6bc9b81b2678",
+    "data": {
+        "linha": "38999179369",
+        "nomeCompleto": "RITA APARECIDA PEREIRA DE AGUIAR SOUZA",
+        "cpf": "02619817145",
+        "telefoneContato": "",
+        "dataNascimento": "22/05/1983",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69086180",
+        "endereco": "RUA RIO MINAUA",
+        "numeroEndereco": "43",
+        "complementoEndereco": "",
+        "bairro": "SAO JOSE OPERARIO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "RIO MINAUA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38999179369.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

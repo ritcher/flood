@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1657299d-fe92-48c2-a65f-890539d193f1",
+    "data": {
+        "linha": "73998559832",
+        "nomeCompleto": "ANDREA COSTA GOMES",
+        "cpf": "13490043758",
+        "telefoneContato": "",
+        "dataNascimento": "18/12/1978",
+        "nomeMae": null,
+        "email": null,
+        "cep": "27963796",
+        "endereco": "RUA MANOEL TEIXEIRA",
+        "numeroEndereco": "131",
+        "complementoEndereco": "",
+        "bairro": "PRQ AEROPORTO",
+        "cidade": "MACAE",
+        "estado": "Rj",
+        "logradouro": "MANOEL TEIXEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 73998559832.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

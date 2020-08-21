@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21997962734",
+        "nomeCompleto": "LUCAS DA SILVA GOMES",
+        "cpf": "12550080750",
+        "telefoneContato": "",
+        "dataNascimento": "17/11/1998",
+        "nomeMae": null,
+        "email": "jjbbz7urvax1y71@gmail.com",
+        "cep": "69911572",
+        "endereco": " HELIO MELO",
+        "numeroEndereco": "133",
+        "complementoEndereco": "",
+        "bairro": "BAHIA VELHA",
+        "cidade": "R BRANCO",
+        "estado": "AC",
+        "logradouro": "HELIO MELO",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21997962734.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f6c2b63f-6607-4571-8238-e43f3379ee13",
+    "data": {
+        "linha": "96991708527",
+        "nomeCompleto": "SEBASTIAO DOS SANTOS PEREIRA",
+        "cpf": "61401803253",
+        "telefoneContato": "",
+        "dataNascimento": "13/05/1972",
+        "nomeMae": null,
+        "email": "sebastiaodossantospereiratiao@gmail.com",
+        "cep": "68925000",
+        "endereco": "TRAVESSA VINTE QUATRO",
+        "numeroEndereco": "294",
+        "complementoEndereco": "",
+        "bairro": "PROV II",
+        "cidade": "SANTANA",
+        "estado": "AP",
+        "logradouro": "VINTE QUATRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 96991708527.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

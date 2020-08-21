@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f2ab40e9-deec-4284-be73-ab8ad814f276",
+    "data": {
+        "linha": "93991254672",
+        "nomeCompleto": "SILVANA DA CRUZ SILVA",
+        "cpf": "00752050257",
+        "telefoneContato": "",
+        "dataNascimento": "05/06/1989",
+        "nomeMae": null,
+        "email": null,
+        "cep": "35502106",
+        "endereco": "RUA PORTO SEGURO",
+        "numeroEndereco": "61",
+        "complementoEndereco": "",
+        "bairro": "JD CANDELARIA",
+        "cidade": "DIVINOPOLIS",
+        "estado": "mg",
+        "logradouro": "PORTO SEGURO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991254672.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

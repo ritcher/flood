@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27995828682",
+        "nomeCompleto": "JORGE LUIZ NASCIMENTO",
+        "cpf": "01549454714",
+        "telefoneContato": "",
+        "dataNascimento": "05/01/1971",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68200000",
+        "endereco": "R 1445",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "SAO FRANCISCO",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "1445",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27995828682.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

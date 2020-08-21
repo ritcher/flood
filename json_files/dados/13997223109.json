@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "13997223109",
+        "nomeCompleto": "MAURO RIBEIRO MENDES",
+        "cpf": "04525243775",
+        "telefoneContato": "",
+        "dataNascimento": "04/05/1976",
+        "nomeMae": null,
+        "email": "02tf0jtdfpp2pfv@gmail.com",
+        "cep": "21833150",
+        "endereco": "RUA  BEIRUTE 91 AP 108",
+        "numeroEndereco": "91",
+        "complementoEndereco": "",
+        "bairro": "SEN CAMARA",
+        "cidade": "RIO DE JANEIRO",
+        "estado": "Rj",
+        "logradouro": " BEIRUTE 91 AP 108",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 13997223109.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=040dcb24-cab8-4508-b2d0-1cd08401fdbe",
+    "data": {
+        "linha": "95991762069",
+        "nomeCompleto": "EDVANIA PEREIRA DA SILVA",
+        "cpf": "81716303249",
+        "telefoneContato": "",
+        "dataNascimento": "01/05/1983",
+        "nomeMae": "Luiza Nancy da Silva Pereira",
+        "email": "auroramaitelorenanovaes__auroramaitelorenanovaes@mrv.com.br",
+        "cep": "44050108",
+        "endereco": " PANDALHA",
+        "numeroEndereco": "246",
+        "complementoEndereco": "",
+        "bairro": "QUEIMADINHA",
+        "cidade": "FEIRA DE SANTANA",
+        "estado": "BA",
+        "logradouro": "PANDALHA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 95991762069.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

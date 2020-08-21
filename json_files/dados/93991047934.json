@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=61829b2d-dfb2-4af3-ae41-1cebc289ff59",
+    "data": {
+        "linha": "93991047934",
+        "nomeCompleto": "REWERTON LIMA REGO",
+        "cpf": "98433881272",
+        "telefoneContato": "",
+        "dataNascimento": "26/09/1987",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69020140",
+        "endereco": "AVENIDA DQ DE CAXIAS",
+        "numeroEndereco": "70",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "DQ DE CAXIAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991047934.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

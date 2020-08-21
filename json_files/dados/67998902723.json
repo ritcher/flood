@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67998902723",
+        "nomeCompleto": "MARIA SUELY RODRIGUES DOURADO",
+        "cpf": "02056482150",
+        "telefoneContato": "",
+        "dataNascimento": "14/02/1968",
+        "nomeMae": "ODILA DOMINGOS RODRIGUES",
+        "email": null,
+        "cep": "79750000",
+        "endereco": "R ANAURILANDIA",
+        "numeroEndereco": "63",
+        "complementoEndereco": "",
+        "bairro": "SAO VICENTE",
+        "cidade": "NOVA ANDRADINA",
+        "estado": "MS",
+        "logradouro": "ANAURILANDIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67998902723.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

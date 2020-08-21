@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993856735",
+        "nomeCompleto": "WANDERNEI PAES DA SILVA",
+        "cpf": "97140244200",
+        "telefoneContato": "",
+        "dataNascimento": "28/03/1999",
+        "nomeMae": "PAES DA SILVA",
+        "email": null,
+        "cep": "00000000",
+        "endereco": "AV AFONSO PENA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CAMPO GRANDE",
+        "estado": "MS",
+        "logradouro": "AFONSO PENA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993856735.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

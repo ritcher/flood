@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994160146",
+        "nomeCompleto": "DEBORAH LIMA OLIVEIRA",
+        "cpf": "78840260234",
+        "telefoneContato": "",
+        "dataNascimento": "01/10/1978",
+        "nomeMae": "RAIMUNDA DA COSTA SANTOS",
+        "email": null,
+        "cep": "69089231",
+        "endereco": "RUA  CCE 199 199",
+        "numeroEndereco": "199",
+        "complementoEndereco": "",
+        "bairro": "ARMANDO MENDES",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": " CCE 199 199",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994160146.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

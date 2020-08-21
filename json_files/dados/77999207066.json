@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b0a60c43-2aeb-4029-a478-863425879a02",
+    "data": {
+        "linha": "77999207066",
+        "nomeCompleto": "F\u00e1bio da Silva",
+        "cpf": "50960445803",
+        "telefoneContato": "",
+        "dataNascimento": "05/02/1997",
+        "nomeMae": "Ivanir Germano da Silva",
+        "email": "9jp5nbpmx0sf395@gmail.com",
+        "cep": "09895020",
+        "endereco": "RUA SERGIO CARDOSO",
+        "numeroEndereco": "103",
+        "complementoEndereco": "",
+        "bairro": "PLANALTO",
+        "cidade": "SAO BERNARDO DO CAMPO",
+        "estado": "sp",
+        "logradouro": "SERGIO CARDOSO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77999207066.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

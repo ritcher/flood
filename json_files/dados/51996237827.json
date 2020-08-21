@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51996237827",
+        "nomeCompleto": "ANDREINA MEINHARDT DE VARGAS",
+        "cpf": "04856412086",
+        "telefoneContato": "",
+        "dataNascimento": "02/05/2000",
+        "nomeMae": "N\u00e3o Informado",
+        "email": null,
+        "cep": "93351180",
+        "endereco": "RUA  LAURA 34",
+        "numeroEndereco": "34",
+        "complementoEndereco": "",
+        "bairro": "ROSELANDIA",
+        "cidade": "NOVO HAMBURGO",
+        "estado": "rs",
+        "logradouro": " LAURA 34",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51996237827.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

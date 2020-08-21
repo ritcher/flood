@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=bc657eb8-b79d-47c2-9b9c-58e908a0fc40",
+    "data": {
+        "linha": "94993036425",
+        "nomeCompleto": "JAMILA BRITO DE CASTRO",
+        "cpf": "05062847273",
+        "telefoneContato": "",
+        "dataNascimento": "01/01/1978",
+        "nomeMae": null,
+        "email": null,
+        "cep": "66033172",
+        "endereco": "Rua RUA DOS TAMOIOS",
+        "numeroEndereco": "1497",
+        "complementoEndereco": "",
+        "bairro": "BATISTA CAMPOS",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "RUA DOS TAMOIOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94993036425.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

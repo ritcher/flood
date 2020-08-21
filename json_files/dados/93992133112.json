@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=96890f61-de49-4603-851e-6fb0b7785baa",
+    "data": {
+        "linha": "93992133112",
+        "nomeCompleto": "MARLA DE SOUZA DAMASCENO",
+        "cpf": "02246529239",
+        "telefoneContato": "",
+        "dataNascimento": "21/07/1994",
+        "nomeMae": "MILANEI DE SOUZA DAMASCENO",
+        "email": "marla.dihalo@gmail.com",
+        "cep": "68030230",
+        "endereco": " RUA 10 DE MAIO",
+        "numeroEndereco": "12",
+        "complementoEndereco": "",
+        "bairro": "SANTANA",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "RUA 10 DE MAIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992133112.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51998300687",
+        "nomeCompleto": "LORENI KLAUS",
+        "cpf": "53232380034",
+        "telefoneContato": "",
+        "dataNascimento": "13/04/1969",
+        "nomeMae": "JURANDIR CAMARGO GUARINIRI",
+        "email": null,
+        "cep": "93546150",
+        "endereco": "RUA  LAERTE DE BRITO 230",
+        "numeroEndereco": "230",
+        "complementoEndereco": "",
+        "bairro": "CANUDOS",
+        "cidade": "NOVO HAMBURGO",
+        "estado": "rs",
+        "logradouro": " LAERTE DE BRITO 230",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51998300687.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993892444",
+        "nomeCompleto": "MAGNO MARTINS ALVES",
+        "cpf": "62052578234",
+        "telefoneContato": "",
+        "dataNascimento": "08/11/1977",
+        "nomeMae": "CREUZA MARIA MARTINS ALVES",
+        "email": null,
+        "cep": "68903320",
+        "endereco": "AVENIDA  JOSE NERY 480",
+        "numeroEndereco": "480",
+        "complementoEndereco": "",
+        "bairro": "ZERAO",
+        "cidade": "MACAPA",
+        "estado": "AP",
+        "logradouro": " JOSE NERY 480",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993892444.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

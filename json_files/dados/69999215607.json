@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999215607",
+        "nomeCompleto": "GENIELSON DE SOUZA PEREIRA",
+        "cpf": "05106772230",
+        "telefoneContato": "",
+        "dataNascimento": "20/03/2002",
+        "nomeMae": null,
+        "email": "n788976ujh@telegmail.com",
+        "cep": "60336210",
+        "endereco": "RUA COELHO NETO",
+        "numeroEndereco": "543",
+        "complementoEndereco": "",
+        "bairro": "ALVARO WEYNE",
+        "cidade": "FORTALEZA",
+        "estado": "CE",
+        "logradouro": "COELHO NETO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999215607.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

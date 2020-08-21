@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992537178",
+        "nomeCompleto": "BEATRIZ PINHEIRO DOS SANTOS",
+        "cpf": "70180388207",
+        "telefoneContato": "",
+        "dataNascimento": "22/10/1994",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "44149999",
+        "endereco": " A",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CONJUNTO HABITACIONAL",
+        "cidade": "FEIRA DE SANTANA",
+        "estado": "BA",
+        "logradouro": "A",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992537178.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

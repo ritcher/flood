@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51998774089",
+        "nomeCompleto": "LUCAS VARGAS DE MATOS",
+        "cpf": "00633421030",
+        "telefoneContato": "",
+        "dataNascimento": "18/04/1984",
+        "nomeMae": null,
+        "email": "lucas59.vargas@gmail.com",
+        "cep": "91060430",
+        "endereco": "RUA ALFREDO NERI SOARES",
+        "numeroEndereco": "1241",
+        "complementoEndereco": "",
+        "bairro": "SARANDI",
+        "cidade": "PORTO ALEGRE",
+        "estado": "rs",
+        "logradouro": "ALFREDO NERI SOARES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51998774089.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

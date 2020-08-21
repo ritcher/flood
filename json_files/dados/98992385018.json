@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c41f20bb-cd3e-4435-b1dd-0fc4c002ebb2",
+    "data": {
+        "linha": "98992385018",
+        "nomeCompleto": "Miurani Moraes Costa",
+        "cpf": "60750242396",
+        "telefoneContato": "",
+        "dataNascimento": "05/01/1992",
+        "nomeMae": "MARIA DEUSA MORAES",
+        "email": null,
+        "cep": "65130000",
+        "endereco": "R 48 QDRA",
+        "numeroEndereco": "1",
+        "complementoEndereco": "",
+        "bairro": "MAIOBAO",
+        "cidade": "PACO DO LUMIAR",
+        "estado": "MA",
+        "logradouro": "48 QDRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98992385018.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

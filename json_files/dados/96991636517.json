@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=3e4521cf-1114-4fd7-a0f0-7898905524b0",
+    "data": {
+        "linha": "96991636517",
+        "nomeCompleto": "NATALINA PEREIRA DA SILVA",
+        "cpf": "62008811204",
+        "telefoneContato": "",
+        "dataNascimento": "25/12/1968",
+        "nomeMae": null,
+        "email": null,
+        "cep": "86400000",
+        "endereco": "RUA GOIAS",
+        "numeroEndereco": "51",
+        "complementoEndereco": "",
+        "bairro": "VL SCYLAS",
+        "cidade": "JACAREZINHO",
+        "estado": "PR",
+        "logradouro": "GOIAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 96991636517.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

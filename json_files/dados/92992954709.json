@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992954709",
+        "nomeCompleto": "RAIMUNDO DOS SANTOS DA SILVA",
+        "cpf": "01859962211",
+        "telefoneContato": "",
+        "dataNascimento": "29/12/1993",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69027660",
+        "endereco": "RUA PRIMEIRO DE MAIO",
+        "numeroEndereco": "552",
+        "complementoEndereco": "",
+        "bairro": "GLORIA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "PRIMEIRO DE MAIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992954709.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

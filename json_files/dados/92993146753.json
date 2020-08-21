@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993146753",
+        "nomeCompleto": "JOAO RICARDO OLIVEIRA FERREIRA",
+        "cpf": "00459362267",
+        "telefoneContato": "",
+        "dataNascimento": "30/12/1993",
+        "nomeMae": "IZABEL CISTINA OLIVEIRA DA SILVA",
+        "email": null,
+        "cep": "69050450",
+        "endereco": "R ACRE",
+        "numeroEndereco": "125",
+        "complementoEndereco": "",
+        "bairro": "PARQUE 10 DE NOVEMBRO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "ACRE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993146753.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

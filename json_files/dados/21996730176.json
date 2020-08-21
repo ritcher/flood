@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21996730176",
+        "nomeCompleto": "Antony Rodrigues da costa ",
+        "cpf": "07265337263",
+        "telefoneContato": "",
+        "dataNascimento": "11/10/2000",
+        "nomeMae": "Greicimar Rodrigues da costa",
+        "email": "anthonycost333@gmail.com",
+        "cep": "25251750",
+        "endereco": "Rua RUA ANTENOR REZENDE",
+        "numeroEndereco": "119",
+        "complementoEndereco": "",
+        "bairro": "PARQUE SANTA LUCIA",
+        "cidade": "DUQUE DE CAXIAS",
+        "estado": "Rj",
+        "logradouro": "RUA ANTENOR REZENDE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21996730176.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

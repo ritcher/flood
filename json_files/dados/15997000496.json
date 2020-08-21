@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15997000496",
+        "nomeCompleto": "GABRIEL LOPES DE MELO",
+        "cpf": "01382512902",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "18208560",
+        "endereco": "Rua RUA RONALDO OTTO JORGE",
+        "numeroEndereco": "436",
+        "complementoEndereco": "",
+        "bairro": "JARDIM SHANGRI LA",
+        "cidade": "ITAPETININGA",
+        "estado": "sp",
+        "logradouro": "RUA RONALDO OTTO JORGE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15997000496.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

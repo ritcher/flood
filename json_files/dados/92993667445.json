@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993667445",
+        "nomeCompleto": "ROBERTO DE SOUSA SOARES",
+        "cpf": "32409150225",
+        "telefoneContato": "",
+        "dataNascimento": "24/08/1958",
+        "nomeMae": null,
+        "email": "ggaelbenjamindaluz@soupelli.com.br",
+        "cep": "69917692",
+        "endereco": " DO GALPAO",
+        "numeroEndereco": "166",
+        "complementoEndereco": "",
+        "bairro": "CONJUNTO UNIVERSITARIO",
+        "cidade": "R BRANCO",
+        "estado": "AC",
+        "logradouro": "DO GALPAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993667445.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

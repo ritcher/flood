@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=04162a39-1c58-4d54-a58a-2c080a0186c7",
+    "data": {
+        "linha": "94992508973",
+        "nomeCompleto": "FABIANA DA SILVA PEREIRA",
+        "cpf": "02377222242",
+        "telefoneContato": "",
+        "dataNascimento": "01/09/1987",
+        "nomeMae": "MARIA DE FATIMA DA SILVA PEREIRA",
+        "email": null,
+        "cep": "66025669",
+        "endereco": "Rua RUA DOS TIMBIRAS",
+        "numeroEndereco": "1375",
+        "complementoEndereco": "",
+        "bairro": "JURUNAS",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "RUA DOS TIMBIRAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992508973.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

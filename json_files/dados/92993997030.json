@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993997030",
+        "nomeCompleto": "ROSA IRENE SOUZA E SOUZA",
+        "cpf": "71191968200",
+        "telefoneContato": "",
+        "dataNascimento": "21/08/1961",
+        "nomeMae": "TEREZINHA TORRES",
+        "email": null,
+        "cep": "69035807",
+        "endereco": "BC FRANCISCO",
+        "numeroEndereco": "312",
+        "complementoEndereco": "",
+        "bairro": "COMPENSA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "FRANCISCO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993997030.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

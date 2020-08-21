@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15996066107",
+        "nomeCompleto": "RENATA MOURA BEZERRA",
+        "cpf": "05934026429",
+        "telefoneContato": "",
+        "dataNascimento": "06/06/1984",
+        "nomeMae": null,
+        "email": null,
+        "cep": "59670000",
+        "endereco": "RUA F CORNELIO BEZERRA",
+        "numeroEndereco": "57",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "UPANEMA",
+        "estado": "RN",
+        "logradouro": "F CORNELIO BEZERRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15996066107.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

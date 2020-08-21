@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=7de65295-eea5-4aa2-b8f1-78fc03947a80",
+    "data": {
+        "linha": "95991113368",
+        "nomeCompleto": "NAIARA LIMA BEZERRA",
+        "cpf": "04653829322",
+        "telefoneContato": "",
+        "dataNascimento": "15/07/1991",
+        "nomeMae": null,
+        "email": null,
+        "cep": "65939000",
+        "endereco": "RUA  AMAZONAS 228",
+        "numeroEndereco": "228",
+        "complementoEndereco": "",
+        "bairro": "S SEBASTIAO",
+        "cidade": "ITINGA DO MARANHAO",
+        "estado": "MA",
+        "logradouro": " AMAZONAS 228",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 95991113368.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

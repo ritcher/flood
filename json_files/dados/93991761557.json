@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6a94edbd-c600-4b83-bed7-505c46b37c50",
+    "data": {
+        "linha": "93991761557",
+        "nomeCompleto": "ALANA JAINE SOUZA MELO",
+        "cpf": "04104840246",
+        "telefoneContato": "",
+        "dataNascimento": "14/07/1986",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "40000000",
+        "endereco": "AV AMOEDO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CAMPINAS DE PIRAJA",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "AMOEDO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991761557.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

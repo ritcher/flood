@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31999412844",
+        "nomeCompleto": "Zilda Maria Das Neves",
+        "cpf": "06509324636",
+        "telefoneContato": "",
+        "dataNascimento": "20/05/2018",
+        "nomeMae": "Laudelina Francisca Das Neves",
+        "email": "xakorxvw1gym8l0@gmail.com",
+        "cep": "31990590",
+        "endereco": "RUA  TRES 130",
+        "numeroEndereco": "130",
+        "complementoEndereco": "",
+        "bairro": "VISTA DO SOL",
+        "cidade": "BELO HORIZONTE",
+        "estado": "mg",
+        "logradouro": " TRES 130",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31999412844.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

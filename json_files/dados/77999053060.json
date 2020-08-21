@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=5b094b97-c461-4afd-9306-9e1ba0ef275e",
+    "data": {
+        "linha": "77999053060",
+        "nomeCompleto": "Vitoria Rodrigues do Nascimento",
+        "cpf": "86733571528",
+        "telefoneContato": "",
+        "dataNascimento": "11/07/2001",
+        "nomeMae": null,
+        "email": null,
+        "cep": "57081816",
+        "endereco": " NOVA ZELANDIA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "TABULEIRO DO MARTINS",
+        "cidade": "MACEIO",
+        "estado": "AL",
+        "logradouro": "NOVA ZELANDIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77999053060.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

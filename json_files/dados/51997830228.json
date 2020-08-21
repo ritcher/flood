@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51997830228",
+        "nomeCompleto": "MATHEUS CRUZ DO NASCIMENTO",
+        "cpf": "86045617576",
+        "telefoneContato": "",
+        "dataNascimento": "21/01/1998",
+        "nomeMae": null,
+        "email": "nascimentovp@hotmail.com",
+        "cep": "69195000",
+        "endereco": "Rua STO ANTONIO",
+        "numeroEndereco": "198",
+        "complementoEndereco": "",
+        "bairro": "URBANO",
+        "cidade": "BOA VISTA DO RAMOS",
+        "estado": "AM",
+        "logradouro": "STO ANTONIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51997830228.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

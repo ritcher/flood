@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994962674",
+        "nomeCompleto": "ALAISE BRASIL",
+        "cpf": "86580329220",
+        "telefoneContato": "",
+        "dataNascimento": "27/07/1981",
+        "nomeMae": null,
+        "email": null,
+        "cep": "97500970",
+        "endereco": " 02",
+        "numeroEndereco": "210",
+        "complementoEndereco": "",
+        "bairro": "COHAB 02",
+        "cidade": "URUGUAIANA",
+        "estado": "RS",
+        "logradouro": "02",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994962674.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

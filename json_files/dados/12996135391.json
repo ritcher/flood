@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12996135391",
+        "nomeCompleto": "ROSILENE GUSTAVO DA SILVA",
+        "cpf": "30710594852",
+        "telefoneContato": "",
+        "dataNascimento": "28/01/1980",
+        "nomeMae": null,
+        "email": "marcioafonso.p@hotmail.com",
+        "cep": "12490000",
+        "endereco": "RUA PRF CORTES",
+        "numeroEndereco": "191",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SAO BENTO DO SAPUCAI",
+        "estado": "sp",
+        "logradouro": "PRF CORTES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996135391.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

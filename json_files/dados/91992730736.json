@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992730736",
+        "nomeCompleto": "DALVA RABELO SIQUEIRA",
+        "cpf": "92285759134",
+        "telefoneContato": "",
+        "dataNascimento": "25/01/1979",
+        "nomeMae": null,
+        "email": "hlam7le9sailyqm@gmail.com",
+        "cep": "68786000",
+        "endereco": "Rua RUA 5 DE OUTUBRO",
+        "numeroEndereco": "427",
+        "complementoEndereco": "",
+        "bairro": "MORAESAO",
+        "cidade": "SANTO ANTONIO DO TAUA",
+        "estado": "PA",
+        "logradouro": "RUA 5 DE OUTUBRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992730736.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

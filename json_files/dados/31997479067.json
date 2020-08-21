@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31997479067",
+        "nomeCompleto": "JEFERSON ALVES DA SILVA",
+        "cpf": "12857988648",
+        "telefoneContato": "",
+        "dataNascimento": "01/04/1996",
+        "nomeMae": "ZENIR ALVES DOS SANTOS",
+        "email": "jefinhobhbeats677@gmail.com",
+        "cep": "32240630",
+        "endereco": "R JARAGUA",
+        "numeroEndereco": "17",
+        "complementoEndereco": "",
+        "bairro": "BANDEIRANTES",
+        "cidade": "CONTAGEM",
+        "estado": "MG",
+        "logradouro": "JARAGUA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31997479067.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

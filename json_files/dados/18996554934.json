@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "18996554934",
+        "nomeCompleto": "MARIA DA GLORIA DOS SANTOS",
+        "cpf": "29588556864",
+        "telefoneContato": "",
+        "dataNascimento": "14/02/1976",
+        "nomeMae": "MARIA DE JESUS DOS SANTOS",
+        "email": null,
+        "cep": "19280000",
+        "endereco": "RUA MANOEL BRITO",
+        "numeroEndereco": "647",
+        "complementoEndereco": "",
+        "bairro": "DIST PLANALTO DO SUL",
+        "cidade": "TEODORO SAMPAIO",
+        "estado": "SP",
+        "logradouro": "MANOEL BRITO",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18996554934.",
+    "currentPlan": {
+        "code": "VIVOCTRLF47N",
+        "price": 34.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL 3GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

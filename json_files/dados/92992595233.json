@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992595233",
+        "nomeCompleto": "MARIA DENILZA CORREA FREITAS",
+        "cpf": "66669561253",
+        "telefoneContato": "",
+        "dataNascimento": "29/03/1961",
+        "nomeMae": "ALBERTIZA CORREA",
+        "email": null,
+        "cep": "69104404",
+        "endereco": "Rua RUA CARLOS HENRIQUE MOEHRING",
+        "numeroEndereco": "600",
+        "complementoEndereco": "",
+        "bairro": "JAUARI II",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "RUA CARLOS HENRIQUE MOEHRING",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992595233.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

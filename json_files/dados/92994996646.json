@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994996646",
+        "nomeCompleto": "ALESSANDRO DA SILVA PEREIRA",
+        "cpf": "01855984202",
+        "telefoneContato": "",
+        "dataNascimento": "25/09/1994",
+        "nomeMae": "ERNESTINA DE AMORIM PEREIRA",
+        "email": "luizjunior2020@gmail.com",
+        "cep": "69084380",
+        "endereco": "RUA ID AJURICABA 62",
+        "numeroEndereco": "62",
+        "complementoEndereco": "",
+        "bairro": "ZUMBI DOS PALMARES",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "ID AJURICABA 62",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994996646.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

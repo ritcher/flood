@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67999505739",
+        "nomeCompleto": "VALDIRENE CARDOSO GOMES",
+        "cpf": "82251703187",
+        "telefoneContato": "",
+        "dataNascimento": "18/10/1976",
+        "nomeMae": null,
+        "email": null,
+        "cep": "79480000",
+        "endereco": "RUA XAVIEABREU",
+        "numeroEndereco": "690",
+        "complementoEndereco": "",
+        "bairro": "CORREIA DAS NEVES",
+        "cidade": "R VERDE DE MATO GROSSO",
+        "estado": "MS",
+        "logradouro": "XAVIEABREU",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67999505739.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0b4be16d-e2af-4977-a597-4c3b35d22bd9",
+    "data": {
+        "linha": "87981427407",
+        "nomeCompleto": "Selma Dulcineia da concei\u00e7\u00e3o",
+        "cpf": "04059579475",
+        "telefoneContato": "",
+        "dataNascimento": "29/08/1973",
+        "nomeMae": "Dulcineia Emiliana d\u00e1 concei\u00e7\u00e3o",
+        "email": "dulce@gmail.com",
+        "cep": "53421260",
+        "endereco": "RUA CINQUENTA",
+        "numeroEndereco": "658",
+        "complementoEndereco": "",
+        "bairro": "MARANGUAPE II",
+        "cidade": "PAULISTA",
+        "estado": "PE",
+        "logradouro": "CINQUENTA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 87981427407.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

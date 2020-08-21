@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "35999716779",
+        "nomeCompleto": "EUNICE GIRALDELLI RAFAEL",
+        "cpf": "37689991653",
+        "telefoneContato": "",
+        "dataNascimento": "28/04/1935",
+        "nomeMae": "MARIA PEREIRA GOMES\t",
+        "email": null,
+        "cep": "37190000",
+        "endereco": "RUA CAIAPO",
+        "numeroEndereco": "81",
+        "complementoEndereco": "",
+        "bairro": "VILA MARILENA",
+        "cidade": "TRES PONTAS",
+        "estado": "MG",
+        "logradouro": "CAIAPO",
+        "contaDigital": true,
+        "vencimentoFatura": "10",
+        "ciclo": "25",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 35999716779.",
+    "currentPlan": {
+        "code": "VIVOCTRLF36N",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE II-2,5GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

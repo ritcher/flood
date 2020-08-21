@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51995853261",
+        "nomeCompleto": "LEANDRO LUCAS MELLO",
+        "cpf": "04270238070",
+        "telefoneContato": "",
+        "dataNascimento": "26/02/2005",
+        "nomeMae": null,
+        "email": null,
+        "cep": "32400000",
+        "endereco": " AVENIDA VISTA ALEGRE",
+        "numeroEndereco": "284",
+        "complementoEndereco": "",
+        "bairro": "IDEAL",
+        "cidade": "IBIRITE",
+        "estado": "MG",
+        "logradouro": "AVENIDA VISTA ALEGRE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51995853261.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

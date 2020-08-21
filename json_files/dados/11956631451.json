@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11956631451",
+        "nomeCompleto": "LUIZ FERNANDO DA SILVA",
+        "cpf": "70498920410",
+        "telefoneContato": "",
+        "dataNascimento": "11/07/1972",
+        "nomeMae": "SEVERINA MARIA DA SILVA",
+        "email": "antonipo44@gmail.com",
+        "cep": "55030190",
+        "endereco": "R LUIS",
+        "numeroEndereco": "136",
+        "complementoEndereco": "",
+        "bairro": "VASSOURAL",
+        "cidade": "CARUARU",
+        "estado": "PE",
+        "logradouro": "LUIS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11956631451.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

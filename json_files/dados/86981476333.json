@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=135b4eb7-c9ca-4968-9899-34107afa24a0",
+    "data": {
+        "linha": "86981476333",
+        "nomeCompleto": "EMANOEL DE JESUS CUNHA E SILVA",
+        "cpf": "29617111187",
+        "telefoneContato": "",
+        "dataNascimento": "25/12/1959",
+        "nomeMae": null,
+        "email": null,
+        "cep": "65636240",
+        "endereco": "RUA S JUDAS TADEU",
+        "numeroEndereco": "1341",
+        "complementoEndereco": "",
+        "bairro": "SAO BENEDITO",
+        "cidade": "TIMON",
+        "estado": "MA",
+        "logradouro": "S JUDAS TADEU",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 86981476333.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

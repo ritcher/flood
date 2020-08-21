@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11930200872",
+        "nomeCompleto": "YARA MOURA DA SILVA",
+        "cpf": "43612712837",
+        "telefoneContato": "",
+        "dataNascimento": "12/08/1993",
+        "nomeMae": null,
+        "email": null,
+        "cep": "04877250",
+        "endereco": "RUA CEARA",
+        "numeroEndereco": "375",
+        "complementoEndereco": "",
+        "bairro": "CIDADE LUZ",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "CEARA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11930200872.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

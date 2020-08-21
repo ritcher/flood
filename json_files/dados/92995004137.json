@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "92995004137",
+        "nomeCompleto": "LEILSON MACIEL MELO",
+        "cpf": "86707400282",
+        "telefoneContato": "",
+        "dataNascimento": "06/03/1984",
+        "nomeMae": null,
+        "email": "yasmim.andrezza.ne13@gmail.com",
+        "cep": "69100063",
+        "endereco": " PARQUE",
+        "numeroEndereco": "1152",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "PARQUE",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92995004137.",
+    "currentPlan": {
+        "code": "VIVOCTRLF50N",
+        "price": 69.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 4GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

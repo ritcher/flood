@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "22999491543",
+        "nomeCompleto": "JOYCE SANCHES CAMPOS",
+        "cpf": "16008045785",
+        "telefoneContato": "",
+        "dataNascimento": "15/06/1991",
+        "nomeMae": null,
+        "email": null,
+        "cep": "28899410",
+        "endereco": "Rua RUA DAS VIOLETAS",
+        "numeroEndereco": "43",
+        "complementoEndereco": "",
+        "bairro": "ANCORA",
+        "cidade": "RIO DAS OSTRAS",
+        "estado": "Rj",
+        "logradouro": "RUA DAS VIOLETAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 22999491543.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

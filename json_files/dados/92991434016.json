@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991434016",
+        "nomeCompleto": "DIANA FUMIE DE OLIVEIRA SAKAI",
+        "cpf": "02113777240",
+        "telefoneContato": "",
+        "dataNascimento": "20/03/1995",
+        "nomeMae": "CLAUDIA MARIA SILVA DE OLIVEIRA",
+        "email": "fumie.sakai@outlook.com",
+        "cep": "69100063",
+        "endereco": "AV PARQUE",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "PARQUE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991434016.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

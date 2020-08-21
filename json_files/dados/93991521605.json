@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=fea4cca0-d39c-472c-b009-d7e59ac6d094",
+    "data": {
+        "linha": "93991521605",
+        "nomeCompleto": "SILVIA REGIS BATISTA",
+        "cpf": "48209066234",
+        "telefoneContato": "",
+        "dataNascimento": "12/04/1947",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68038320",
+        "endereco": "TRAVESSA D",
+        "numeroEndereco": "326",
+        "complementoEndereco": "",
+        "bairro": "ELCIONE BARBALHO",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "D",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991521605.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67998213901",
+        "nomeCompleto": "CELINA IZAGNE BATISTA",
+        "cpf": "23027568191",
+        "telefoneContato": "",
+        "dataNascimento": "25/10/1930",
+        "nomeMae": null,
+        "email": null,
+        "cep": "79017360",
+        "endereco": "RUA ME CRISTINA",
+        "numeroEndereco": "395",
+        "complementoEndereco": "",
+        "bairro": "LOTEAMENTO TARCILA D",
+        "cidade": "CAMPO GRANDE",
+        "estado": "MS",
+        "logradouro": "ME CRISTINA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67998213901.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

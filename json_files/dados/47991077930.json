@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "47991077930",
+        "nomeCompleto": "GISELLE MARTIM DE OLIVEIRA",
+        "cpf": "12411454902",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": "717q0ozp@gmail.com",
+        "cep": "89216670",
+        "endereco": "Rua RUA TUTOIA",
+        "numeroEndereco": "562",
+        "complementoEndereco": "",
+        "bairro": "GLORIA",
+        "cidade": "JOINVILLE",
+        "estado": "sc",
+        "logradouro": "RUA TUTOIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 47991077930.",
+    "currentPlan": {
+        "code": "PRPREDIAR3GSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "PRPREDIAR3GSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

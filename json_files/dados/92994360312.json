@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994360312",
+        "nomeCompleto": "VICTOR TIAGO NUNES TAVEIRA",
+        "cpf": "70128971207",
+        "telefoneContato": "",
+        "dataNascimento": "24/07/1997",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69000000",
+        "endereco": "RUA 7 DE SETEMBRO",
+        "numeroEndereco": "32",
+        "complementoEndereco": "",
+        "bairro": "TERRA NOVA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "7 DE SETEMBRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994360312.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

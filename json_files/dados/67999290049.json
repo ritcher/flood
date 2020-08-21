@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67999290049",
+        "nomeCompleto": "MARIA ALICE TEIXEIRA DOS SANTOS SILVEIRA",
+        "cpf": "66151031172",
+        "telefoneContato": "",
+        "dataNascimento": "25/06/1974",
+        "nomeMae": null,
+        "email": null,
+        "cep": "79200000",
+        "endereco": "RUA MAL MALLET",
+        "numeroEndereco": "1843",
+        "complementoEndereco": "",
+        "bairro": "GUANANDY",
+        "cidade": "AQUIDAUANA",
+        "estado": "MS",
+        "logradouro": "MAL MALLET",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67999290049.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

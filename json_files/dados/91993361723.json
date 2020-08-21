@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993361723",
+        "nomeCompleto": "RAIMUNDA BORGES DE MORAES",
+        "cpf": "42608147291",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "MARIA MADALENA BORGES DE MORAES",
+        "email": null,
+        "cep": "68450000",
+        "endereco": "RUA T S SANTOS 55",
+        "numeroEndereco": "55",
+        "complementoEndereco": "",
+        "bairro": "MOJU",
+        "cidade": "MOJU",
+        "estado": "PA",
+        "logradouro": "T S SANTOS 55",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993361723.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

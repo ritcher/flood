@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51980582271",
+        "nomeCompleto": "JEANE NOBRE MELLO",
+        "cpf": "25612956053",
+        "telefoneContato": "",
+        "dataNascimento": "22/03/1948",
+        "nomeMae": null,
+        "email": null,
+        "cep": "93351310",
+        "endereco": "RUA EWALDO SCHEID",
+        "numeroEndereco": "88",
+        "complementoEndereco": "",
+        "bairro": "ROSELANDIA",
+        "cidade": "NOVO HAMBURGO",
+        "estado": "rs",
+        "logradouro": "EWALDO SCHEID",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51980582271.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

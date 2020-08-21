@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "66996847511",
+        "nomeCompleto": "QUELI CRISTINE DE ALCANTARA",
+        "cpf": "01191758192",
+        "telefoneContato": "",
+        "dataNascimento": "12/11/1983",
+        "nomeMae": null,
+        "email": null,
+        "cep": "78573000",
+        "endereco": "RUA DAS PALMEIRAS",
+        "numeroEndereco": "1033",
+        "complementoEndereco": "",
+        "bairro": "CRISTO REI",
+        "cidade": "TAPURAH",
+        "estado": "MT",
+        "logradouro": "DAS PALMEIRAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 66996847511.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

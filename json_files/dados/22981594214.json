@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "22981594214",
+        "nomeCompleto": "Jo\u00e3o Batista Ramos ",
+        "cpf": "12861701765",
+        "telefoneContato": "",
+        "dataNascimento": "19/02/1985",
+        "nomeMae": "Fabiola Paula ",
+        "email": "hugghttt654hggggg@gmail.com",
+        "cep": "11850000",
+        "endereco": "RUA 10",
+        "numeroEndereco": "111",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MIRACATU",
+        "estado": "SP",
+        "logradouro": "10",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 22981594214.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

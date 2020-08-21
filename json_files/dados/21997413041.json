@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21997413041",
+        "nomeCompleto": "ANDREA PEREIRA DE LIMA",
+        "cpf": "11277175705",
+        "telefoneContato": "",
+        "dataNascimento": "02/01/1976",
+        "nomeMae": "m",
+        "email": null,
+        "cep": "26570070",
+        "endereco": "R ANTONIO BERNARDO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "BANCO DE AREIA",
+        "cidade": "MESQUITA",
+        "estado": "RJ",
+        "logradouro": "ANTONIO BERNARDO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21997413041.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

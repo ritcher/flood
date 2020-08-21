@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0d69327b-6ef8-4787-b3ac-241774366d70",
+    "data": {
+        "linha": "77999567321",
+        "nomeCompleto": "ADAO ALVES DA CRUZ",
+        "cpf": "00060122560",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "45255000",
+        "endereco": "Rua FAZENDA JIBOIA",
+        "numeroEndereco": "SNZ",
+        "complementoEndereco": "",
+        "bairro": "REGIAO AREIAO",
+        "cidade": "MIRANTE",
+        "estado": "BA",
+        "logradouro": "FAZENDA JIBOIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77999567321.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

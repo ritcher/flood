@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=40f82f86-2fe3-44cb-a107-89d8ad631b3e",
+    "data": {
+        "linha": "93991215761",
+        "nomeCompleto": "GILMAR SOUZA ROQUE",
+        "cpf": "86595431220",
+        "telefoneContato": "",
+        "dataNascimento": "08/01/1986",
+        "nomeMae": null,
+        "email": "jyoh87g5b9d6@gmail.com",
+        "cep": "37780000",
+        "endereco": "RUA DVITAL BRASIL 147 CS B",
+        "numeroEndereco": "147",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CALDAS",
+        "estado": "mg",
+        "logradouro": "DVITAL BRASIL 147 CS B",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991215761.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

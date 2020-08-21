@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11971008171",
+        "nomeCompleto": "DAYANE APARECIDA SIMOES",
+        "cpf": "35846179878",
+        "telefoneContato": "",
+        "dataNascimento": "06/02/1985",
+        "nomeMae": null,
+        "email": "nnetoelias@gmail.com",
+        "cep": "03178210",
+        "endereco": "RUA PASSAROLA",
+        "numeroEndereco": "175",
+        "complementoEndereco": "",
+        "bairro": "AT DA MOOCA",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "PASSAROLA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11971008171.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=4a02f4e9-0ff5-4a84-a0ac-a795ea28d6d8",
+    "data": {
+        "linha": "88981548077",
+        "nomeCompleto": "ANA CAROLINA PEREIRA DE SOUZA",
+        "cpf": "05036926382",
+        "telefoneContato": "",
+        "dataNascimento": "05/09/1991",
+        "nomeMae": "MARIA ALICE DE SOUZA",
+        "email": null,
+        "cep": "63290000",
+        "endereco": "RUA ACDO LUIS AIRES NETO 409",
+        "numeroEndereco": "409",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "JARDIM",
+        "estado": "CE",
+        "logradouro": "ACDO LUIS AIRES NETO 409",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981548077.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

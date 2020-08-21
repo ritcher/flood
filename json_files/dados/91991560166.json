@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991560166",
+        "nomeCompleto": "MARCIO PINHEIRO FURTADO",
+        "cpf": "66470862268",
+        "telefoneContato": "",
+        "dataNascimento": "28/03/1981",
+        "nomeMae": "MAIA DA CONCEI\u00c7AO PINHEIRO FURTADO",
+        "email": null,
+        "cep": "68800000",
+        "endereco": "R A ARAUJO FERREIRA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CASTANHEIRA",
+        "cidade": "BREVES",
+        "estado": "PA",
+        "logradouro": "A ARAUJO FERREIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991560166.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

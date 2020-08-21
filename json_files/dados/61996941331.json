@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "61996941331",
+        "nomeCompleto": "FRANCINETE BORGES RABELO BORGES RABELO BORGES RABELO",
+        "cpf": "61041890168",
+        "telefoneContato": "",
+        "dataNascimento": "11/10/1965",
+        "nomeMae": "fransisca borges rabelo",
+        "email": null,
+        "cep": "72460250",
+        "endereco": "QD 304 25",
+        "numeroEndereco": "16",
+        "complementoEndereco": "",
+        "bairro": "SETOR LESTE",
+        "cidade": "GAMA",
+        "estado": "DF",
+        "logradouro": "25",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61996941331.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

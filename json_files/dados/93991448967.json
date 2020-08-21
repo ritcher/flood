@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "93991448967",
+        "nomeCompleto": "EDEMILSON FERREIRA VIEIRA",
+        "cpf": "26096218253",
+        "telefoneContato": "",
+        "dataNascimento": "01/01/1966",
+        "nomeMae": null,
+        "email": "78wjv1stm2wcwig@gmail.com",
+        "cep": "69100063",
+        "endereco": " PARQUE",
+        "numeroEndereco": "8985",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "PARQUE",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991448967.",
+    "currentPlan": {
+        "code": "VIVOCTRLF51N",
+        "price": 84.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 5GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

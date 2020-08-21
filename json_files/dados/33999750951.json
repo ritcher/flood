@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=818d5487-dc16-4b25-b116-c9b3db73ebea",
+    "data": {
+        "linha": "33999750951",
+        "nomeCompleto": "JOSE ANTONIO DE ALMEIDA",
+        "cpf": "03579248600",
+        "telefoneContato": "",
+        "dataNascimento": "11/04/1978",
+        "nomeMae": null,
+        "email": null,
+        "cep": "35270000",
+        "endereco": "Rua GUARATA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ZONA RURAL",
+        "cidade": "MENDES PIMENTEL",
+        "estado": "mg",
+        "logradouro": "GUARATA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999750951.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

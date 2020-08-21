@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=d3bf82af-0204-4bfa-af26-1f1bd2162fd2",
+    "data": {
+        "linha": "74999551466",
+        "nomeCompleto": "ANTONIO SABINO DE SOUZA",
+        "cpf": "17364736549",
+        "telefoneContato": "",
+        "dataNascimento": "23/09/1950",
+        "nomeMae": null,
+        "email": null,
+        "cep": "44913000",
+        "endereco": "RUA LAGOA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "AMERICA DOURADA",
+        "estado": "BA",
+        "logradouro": "LAGOA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 74999551466.",
+    "currentPlan": {
+        "code": "BAVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

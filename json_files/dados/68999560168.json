@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=dc44710e-1801-4e88-9125-55d3ebe6cf99",
+    "data": {
+        "linha": "68999560168",
+        "nomeCompleto": "GILMARA SOUSA E SILVA",
+        "cpf": "02925947204",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "64260000",
+        "endereco": "Rua POVOADO S JOAO",
+        "numeroEndereco": "71",
+        "complementoEndereco": "",
+        "bairro": "MORRO DA ANA",
+        "cidade": "PIRIPIRI",
+        "estado": "PI",
+        "logradouro": "POVOADO S JOAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999560168.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

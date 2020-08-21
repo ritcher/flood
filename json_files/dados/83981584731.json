@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "83981584731",
+        "nomeCompleto": "CICERO CESAR DA SILVA",
+        "cpf": "03285575441",
+        "telefoneContato": "",
+        "dataNascimento": "17/06/1976",
+        "nomeMae": null,
+        "email": null,
+        "cep": "58388000",
+        "endereco": "RUA PRESDENT E JOAO PESSOA",
+        "numeroEndereco": "30",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ALAGOA GRANDE",
+        "estado": "PB",
+        "logradouro": "PRESDENT E JOAO PESSOA",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 83981584731.",
+    "currentPlan": {
+        "code": "VIVOCTRLF47N",
+        "price": 34.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL 3GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b7871ced-e18d-4708-bdcc-9dcda6e3b06c",
+    "data": {
+        "linha": "94991709992",
+        "nomeCompleto": "NALBIANY DOS SANTOS ARAUJO",
+        "cpf": "00491159285",
+        "telefoneContato": "",
+        "dataNascimento": "07/02/1989",
+        "nomeMae": null,
+        "email": "nalbiany20@gmail.com",
+        "cep": "09360440",
+        "endereco": "RUA NOEMIA PEDROSO BUENO",
+        "numeroEndereco": "49",
+        "complementoEndereco": "",
+        "bairro": "JD GUAPITUBA",
+        "cidade": "MAUA",
+        "estado": "sp",
+        "logradouro": "NOEMIA PEDROSO BUENO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991709992.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

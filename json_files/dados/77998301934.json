@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b4f81772-5a7f-441c-a3ea-3cb39628789a",
+    "data": {
+        "linha": "77998301934",
+        "nomeCompleto": "MARCOS JEFERSON OLIVEIRA NOLASCO",
+        "cpf": "02972684575",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1985",
+        "nomeMae": "LAUREMILSA ALVES O NOLASCO",
+        "email": "marcosjoliveira@gmail.com",
+        "cep": "45120000",
+        "endereco": "RUA  PROGRESSO 68",
+        "numeroEndereco": "68",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "BARRA DO CHOCA",
+        "estado": "BA",
+        "logradouro": " PROGRESSO 68",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77998301934.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21998153353",
+        "nomeCompleto": "GEORGE WILLIAM LEANDRO BARBOSA",
+        "cpf": "05324539724",
+        "telefoneContato": "",
+        "dataNascimento": "25/11/1980",
+        "nomeMae": "MARGARIDA MARIA LEANDRO BARBOSA",
+        "email": null,
+        "cep": "01319080",
+        "endereco": "RUA JARDIM HELOISA",
+        "numeroEndereco": "21",
+        "complementoEndereco": "",
+        "bairro": "BELA VISTA",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "JARDIM HELOISA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21998153353.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65996201740",
+        "nomeCompleto": "WELLINGTON PORTUGAL TOMAZIA DE QUEIROZ",
+        "cpf": "10048585157",
+        "telefoneContato": "",
+        "dataNascimento": "03/07/2001",
+        "nomeMae": "SANDRA TOMAZIA CARDOSO",
+        "email": null,
+        "cep": "78093705",
+        "endereco": "Rua RUA UM",
+        "numeroEndereco": "371",
+        "complementoEndereco": "",
+        "bairro": "JARDIM NOVO MILENIO",
+        "cidade": "CUIABA",
+        "estado": "MT",
+        "logradouro": "RUA UM",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65996201740.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=333b4f9b-ae31-42e0-92cb-09400eb098d3",
+    "data": {
+        "linha": "93991632144",
+        "nomeCompleto": "MARLI ARAUJO MIRANDA",
+        "cpf": "00833605224",
+        "telefoneContato": "",
+        "dataNascimento": "21/05/1984",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68200000",
+        "endereco": "Rua EST DA PRAIA",
+        "numeroEndereco": "190",
+        "complementoEndereco": "",
+        "bairro": "ESPERANCA",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "EST DA PRAIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991632144.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

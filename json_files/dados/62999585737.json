@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "62999585737",
+        "nomeCompleto": "THIAGO FERNANDES DE SOUSA",
+        "cpf": "71100561129",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": null,
+        "cep": "74954470",
+        "endereco": "Rua RUA PILADE BAIOCCHI",
+        "numeroEndereco": "179",
+        "complementoEndereco": "",
+        "bairro": "PARQUE VEIGA JARDIM",
+        "cidade": "APARECIDA DE GOIANIA",
+        "estado": "GO",
+        "logradouro": "RUA PILADE BAIOCCHI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 62999585737.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

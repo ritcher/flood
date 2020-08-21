@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999723231",
+        "nomeCompleto": "MURILO RAFAEL SANTOS",
+        "cpf": "90419472649",
+        "telefoneContato": "",
+        "dataNascimento": "16/12/1983",
+        "nomeMae": "Maria Silva",
+        "email": "murilo4484860@gmail.com",
+        "cep": "00000000",
+        "endereco": "AV A",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "MARCOS FREIRE II",
+        "cidade": "NOSSA SENHORA DO SOCORRO",
+        "estado": "SE",
+        "logradouro": "A",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999723231.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

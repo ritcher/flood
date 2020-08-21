@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=ac57e071-c3cc-48b6-8207-d82b519a160e",
+    "data": {
+        "linha": "74999506675",
+        "nomeCompleto": "NEILAN LEITE SILVA",
+        "cpf": "99198746553",
+        "telefoneContato": "",
+        "dataNascimento": "24/03/1979",
+        "nomeMae": null,
+        "email": null,
+        "cep": "44700000",
+        "endereco": "Rua JOAO TEIXEIRA",
+        "numeroEndereco": "489",
+        "complementoEndereco": "",
+        "bairro": "PERU",
+        "cidade": "JACOBINA",
+        "estado": "BA",
+        "logradouro": "JOAO TEIXEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 74999506675.",
+    "currentPlan": {
+        "code": "BAVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

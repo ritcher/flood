@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21996237621",
+        "nomeCompleto": "ALCIONE SOARES DA SILVA",
+        "cpf": "07547643701",
+        "telefoneContato": "",
+        "dataNascimento": "15/11/1976",
+        "nomeMae": null,
+        "email": null,
+        "cep": "23075560",
+        "endereco": "RUA MAURICIO VAITSMAN",
+        "numeroEndereco": "59",
+        "complementoEndereco": "",
+        "bairro": "CPO GRANDE",
+        "cidade": "RIO DE JANEIRO",
+        "estado": "Rj",
+        "logradouro": "MAURICIO VAITSMAN",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21996237621.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

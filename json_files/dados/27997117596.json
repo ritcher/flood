@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "27997117596",
+        "nomeCompleto": "ANIO FREIRE",
+        "cpf": "81510888772",
+        "telefoneContato": "",
+        "dataNascimento": "22/10/1964",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29135000",
+        "endereco": "AVENIDA ANTONIO FREIRE",
+        "numeroEndereco": "18",
+        "complementoEndereco": "",
+        "bairro": "IND",
+        "cidade": "VIANA",
+        "estado": "ES",
+        "logradouro": "ANTONIO FREIRE",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27997117596.",
+    "currentPlan": {
+        "code": "VIVOCTRLF27N",
+        "price": 54.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-3GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

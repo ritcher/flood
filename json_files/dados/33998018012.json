@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=773602c7-cc05-4a48-95dd-b51d0ea2e2c9",
+    "data": {
+        "linha": "33998018012",
+        "nomeCompleto": "YAN ALVES OLIVEIRA",
+        "cpf": "09852170651",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "35250000",
+        "endereco": "Rua RUA ARI MACHADO",
+        "numeroEndereco": "919",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "GALILEIA",
+        "estado": "mg",
+        "logradouro": "RUA ARI MACHADO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33998018012.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992981758",
+        "nomeCompleto": "Rosicleide Rosana Nogueira da silva",
+        "cpf": "03816644228",
+        "telefoneContato": "",
+        "dataNascimento": "21/03/2005",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69015388",
+        "endereco": " PAULO",
+        "numeroEndereco": "3",
+        "complementoEndereco": "",
+        "bairro": "COLONIA TERRA NOVA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "PAULO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992981758.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

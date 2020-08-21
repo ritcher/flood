@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=4a133f53-e159-4533-a7e9-b7bc78efc0fc",
+    "data": {
+        "linha": "32999065884",
+        "nomeCompleto": "JUSSARA PEREIRA",
+        "cpf": "05070867679",
+        "telefoneContato": "",
+        "dataNascimento": "09/05/1979",
+        "nomeMae": null,
+        "email": null,
+        "cep": "36204430",
+        "endereco": "RUA DIVINA MARIA DOS ANJOS",
+        "numeroEndereco": "163",
+        "complementoEndereco": "",
+        "bairro": "STO ANTONIO",
+        "cidade": "BARBACENA",
+        "estado": "mg",
+        "logradouro": "DIVINA MARIA DOS ANJOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 32999065884.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

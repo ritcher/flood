@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31998060087",
+        "nomeCompleto": "SIMONE CLAUDIA RODRIGUES OLIVEIRA",
+        "cpf": "03851709632",
+        "telefoneContato": "",
+        "dataNascimento": "09/07/1976",
+        "nomeMae": null,
+        "email": "simoneclaudia@gmail.com",
+        "cep": "32400000",
+        "endereco": "RUA DEZ",
+        "numeroEndereco": "100",
+        "complementoEndereco": "",
+        "bairro": "CANOAS",
+        "cidade": "IBIRITE",
+        "estado": "mg",
+        "logradouro": "DEZ",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31998060087.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

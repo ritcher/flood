@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994027175",
+        "nomeCompleto": "DENNER SANTAREM TAVARES",
+        "cpf": "01982602295",
+        "telefoneContato": "",
+        "dataNascimento": "30/08/1994",
+        "nomeMae": null,
+        "email": "liviasebastianadarosaliviasebastianadarosa@aulicinobastos.com.br",
+        "cep": "88370216",
+        "endereco": " JOAQUINA MARIA ALBANO DA SILVA",
+        "numeroEndereco": "105",
+        "complementoEndereco": "",
+        "bairro": "SAO DOMINGOS",
+        "cidade": "NAVEGANTES",
+        "estado": "SC",
+        "logradouro": "JOAQUINA MARIA ALBANO DA SILVA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994027175.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

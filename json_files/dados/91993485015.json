@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993485015",
+        "nomeCompleto": "RYAN EMANOEL SOUSA MAGALHAES",
+        "cpf": "05133654278",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": "ryanemnoel@gmail.com",
+        "cep": "77064692",
+        "endereco": " NC 11",
+        "numeroEndereco": "442",
+        "complementoEndereco": "",
+        "bairro": "SETOR BELA VISTA (TAQUARALTO)",
+        "cidade": "PALMAS",
+        "estado": "TO",
+        "logradouro": "NC 11",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993485015.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

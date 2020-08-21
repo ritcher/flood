@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0e3a6289-f6a2-4bcd-8417-fe86708945b7",
+    "data": {
+        "linha": "93991756799",
+        "nomeCompleto": "EVANETE LIMA RODRIGUES",
+        "cpf": "00175409250",
+        "telefoneContato": "",
+        "dataNascimento": "15/06/1987",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68200000",
+        "endereco": "Rua RUA ALTAMIRA",
+        "numeroEndereco": "215",
+        "complementoEndereco": "",
+        "bairro": "NOVA ESPERANCA",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "RUA ALTAMIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991756799.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

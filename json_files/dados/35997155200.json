@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "35997155200",
+        "nomeCompleto": "RENATO RODOLFO DA SILVA",
+        "cpf": "01751801640",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": "10203040renatosilva@gmail.com",
+        "cep": "37140000",
+        "endereco": "RUA  DOS YPES 49",
+        "numeroEndereco": "49",
+        "complementoEndereco": "",
+        "bairro": "S VICENTE",
+        "cidade": "AREADO",
+        "estado": "mg",
+        "logradouro": " DOS YPES 49",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 35997155200.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

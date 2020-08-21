@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=8938ef8e-fbb0-4fdf-8f48-4eafa5bbc5c4",
+    "data": {
+        "linha": "33998164353",
+        "nomeCompleto": "CLEBERSON PEREIRA DA SILVA JUNIOR",
+        "cpf": "15155159660",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": null,
+        "cep": "35030110",
+        "endereco": "Rua RUA DALILA CABRAL",
+        "numeroEndereco": "202",
+        "complementoEndereco": "",
+        "bairro": "SAO PAULO",
+        "cidade": "GOVERNADOR VALADARES",
+        "estado": "mg",
+        "logradouro": "RUA DALILA CABRAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33998164353.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "66996577944",
+        "nomeCompleto": "BEATRIS SILVA DOS SANTOS",
+        "cpf": "00245993100",
+        "telefoneContato": "",
+        "dataNascimento": "08/08/1978",
+        "nomeMae": "ALEXANDRINA AMANCIO DA SILVA DOS SANTOS",
+        "email": null,
+        "cep": "69088301",
+        "endereco": " RUA SUMARE",
+        "numeroEndereco": "901",
+        "complementoEndereco": "",
+        "bairro": "JORGE TEIXEIRA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "RUA SUMARE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 66996577944.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

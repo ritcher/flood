@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=92ee02b1-9538-4892-bf1c-046af194d1a7",
+    "data": {
+        "linha": "94991063144",
+        "nomeCompleto": "DIVONEIDE SALES COSTA",
+        "cpf": "81925930297",
+        "telefoneContato": "",
+        "dataNascimento": "21/08/1984",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68555000",
+        "endereco": "R 07 DE SETEMBRO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "BAIRRO CENTRO",
+        "cidade": "XINGUARA",
+        "estado": "PA",
+        "logradouro": "07 DE SETEMBRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991063144.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67996824026",
+        "nomeCompleto": "ELLY DA SILVA",
+        "cpf": "27299037807",
+        "telefoneContato": "",
+        "dataNascimento": "18/06/1980",
+        "nomeMae": null,
+        "email": null,
+        "cep": "79770000",
+        "endereco": "RUA CIRIACO GONZALES",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ANAURILANDIA",
+        "estado": "MS",
+        "logradouro": "CIRIACO GONZALES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67996824026.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

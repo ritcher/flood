@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11932472678",
+        "nomeCompleto": "VALDETE ALVES RODRIGUES",
+        "cpf": "26576460856",
+        "telefoneContato": "",
+        "dataNascimento": "08/04/1978",
+        "nomeMae": null,
+        "email": "xvideospinto3@gmail.com",
+        "cep": "07404055",
+        "endereco": "RUA SERRA DA MANTIQUEIRA",
+        "numeroEndereco": "348",
+        "complementoEndereco": "",
+        "bairro": "MIRANTE DO ARUJA",
+        "cidade": "ARUJA",
+        "estado": "sp",
+        "logradouro": "SERRA DA MANTIQUEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11932472678.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

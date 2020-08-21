@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "17997364293",
+        "nomeCompleto": "MARIA LUCIA DE ARAUJO",
+        "cpf": "27615433860",
+        "telefoneContato": "",
+        "dataNascimento": "06/05/1970",
+        "nomeMae": null,
+        "email": null,
+        "cep": "14980000",
+        "endereco": "Rua JOAQUIM AMARAL FLORENCIO",
+        "numeroEndereco": "257",
+        "complementoEndereco": "",
+        "bairro": "JD DO SOL",
+        "cidade": "SALES",
+        "estado": "sp",
+        "logradouro": "JOAQUIM AMARAL FLORENCIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 17997364293.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

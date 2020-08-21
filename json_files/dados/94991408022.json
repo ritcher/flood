@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=7603bb3c-2c90-4538-8d3b-9afe37460971",
+    "data": {
+        "linha": "94991408022",
+        "nomeCompleto": "FRANCISCO JENILSON DE OLIVEIRA JUNIOR",
+        "cpf": "03571172205",
+        "telefoneContato": "",
+        "dataNascimento": "27/02/1993",
+        "nomeMae": "FRANCISCO JENILSON DE OLIVEIRA JUNIOR",
+        "email": "vaginamaria@gmail.com",
+        "cep": "41000000",
+        "endereco": "RUA CASTRO ALVES",
+        "numeroEndereco": "22",
+        "complementoEndereco": "",
+        "bairro": "ITUPEVA",
+        "cidade": "MEDEIROS NETO",
+        "estado": "BA",
+        "logradouro": "CASTRO ALVES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991408022.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1c6e8a4b-39a5-47f4-8778-2088f00afa4b",
+    "data": {
+        "linha": "38999288912",
+        "nomeCompleto": "GERALDA LUCIA BRAGA",
+        "cpf": "61363790668",
+        "telefoneContato": "",
+        "dataNascimento": "19/03/1967",
+        "nomeMae": null,
+        "email": "lucia01gb@email.com",
+        "cep": "08226021",
+        "endereco": " 18 DE ABRIL",
+        "numeroEndereco": "12",
+        "complementoEndereco": "",
+        "bairro": "CIDADE ANTONIO ESTEVAO DE CARVALHO",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "18 DE ABRIL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38999288912.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

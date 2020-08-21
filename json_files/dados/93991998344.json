@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0135a985-1420-47fe-8342-4822a170af6e",
+    "data": {
+        "linha": "93991998344",
+        "nomeCompleto": "ANA CLAUDIA DAS CHAGAS OLIVEIRA",
+        "cpf": "04784668209",
+        "telefoneContato": "",
+        "dataNascimento": "18/11/1997",
+        "nomeMae": "MARIA LUIZA DE OLIVEIRA ARANHA",
+        "email": null,
+        "cep": "68165000",
+        "endereco": "Rua TRAVESSA DO BAIANO",
+        "numeroEndereco": "449",
+        "complementoEndereco": "",
+        "bairro": "JARDINS",
+        "cidade": "RUROPOLIS",
+        "estado": "PA",
+        "logradouro": "TRAVESSA DO BAIANO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991998344.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

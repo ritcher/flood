@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "62999223143",
+        "nomeCompleto": "MARCUS VINICIUS COSTA",
+        "cpf": "01519294166",
+        "telefoneContato": "",
+        "dataNascimento": "18/02/1996",
+        "nomeMae": "VALDENICE PEREIRA COSTA",
+        "email": null,
+        "cep": "73950000",
+        "endereco": "RUA 22",
+        "numeroEndereco": "635",
+        "complementoEndereco": "",
+        "bairro": "VILA NOVA",
+        "cidade": "ALVORADA DO NORTE",
+        "estado": "GO",
+        "logradouro": "22",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 62999223143.",
+    "currentPlan": {
+        "code": "VIVOCTRLF47N",
+        "price": 34.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL 3GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

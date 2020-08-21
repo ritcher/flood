@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "55999646345",
+        "nomeCompleto": "CAMILI VITORIA CAMARGO PEREIRA",
+        "cpf": "03353732080",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": "leonardowariss190@gmail.com",
+        "cep": "97542110",
+        "endereco": "Rua RUA BARAO DO RIO BRANCO",
+        "numeroEndereco": "220",
+        "complementoEndereco": "",
+        "bairro": "CIDADE ALTA",
+        "cidade": "ALEGRETE",
+        "estado": "rs",
+        "logradouro": "RUA BARAO DO RIO BRANCO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 55999646345.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

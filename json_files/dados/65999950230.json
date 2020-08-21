@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65999950230",
+        "nomeCompleto": "SUELI FERREIRA DA SILVA",
+        "cpf": "00086905104",
+        "telefoneContato": "",
+        "dataNascimento": "06/02/1972",
+        "nomeMae": null,
+        "email": null,
+        "cep": "79074065",
+        "endereco": "RUA DOS PEREIRAS",
+        "numeroEndereco": "28",
+        "complementoEndereco": "",
+        "bairro": "JD MONTE ALEGRE",
+        "cidade": "CAMPO GRANDE",
+        "estado": "MS",
+        "logradouro": "DOS PEREIRAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65999950230.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

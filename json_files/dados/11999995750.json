@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "11999995750",
+        "nomeCompleto": "DINEVALDO ALVES FERREIRA",
+        "cpf": "11865191850",
+        "telefoneContato": "",
+        "dataNascimento": "10/04/1968",
+        "nomeMae": null,
+        "email": "mnmz74ml@gmail.com",
+        "cep": "69100063",
+        "endereco": " PARQUE",
+        "numeroEndereco": "567",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "PARQUE",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11999995750.",
+    "currentPlan": {
+        "code": "VIVOCTRLF51N",
+        "price": 84.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 5GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

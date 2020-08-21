@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27996936558",
+        "nomeCompleto": "CIBELE GOMES DA SILVA",
+        "cpf": "18568346707",
+        "telefoneContato": "",
+        "dataNascimento": "02/01/1999",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29903620",
+        "endereco": "RUA INDEPENDENCIA",
+        "numeroEndereco": "372",
+        "complementoEndereco": "",
+        "bairro": "INTERLAGOS",
+        "cidade": "LINHARES",
+        "estado": "es",
+        "logradouro": "INDEPENDENCIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27996936558.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12997552496",
+        "nomeCompleto": "ALINE FORTES DA SILVEIRA",
+        "cpf": "47707570855",
+        "telefoneContato": "",
+        "dataNascimento": "16/05/2003",
+        "nomeMae": null,
+        "email": null,
+        "cep": "12490000",
+        "endereco": " 'R DOUTOR GAMA RODRIGUES",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "S BENTO DO SAPUCAI",
+        "estado": "SP",
+        "logradouro": "'R DOUTOR GAMA RODRIGUES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12997552496.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "22996096921",
+        "nomeCompleto": "Marlene F. pinheiro",
+        "cpf": "01147342750",
+        "telefoneContato": "",
+        "dataNascimento": "09/02/1889",
+        "nomeMae": "marilda",
+        "email": "marlene01@hotmail.com",
+        "cep": "00000000",
+        "endereco": " AFONSO PENA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CAMPO GRANDE",
+        "estado": "MS",
+        "logradouro": "AFONSO PENA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 22996096921.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

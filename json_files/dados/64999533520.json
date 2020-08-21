@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "64999533520",
+        "nomeCompleto": "JANETE BEZERRA SOARES",
+        "cpf": "02337137198",
+        "telefoneContato": "",
+        "dataNascimento": "27/09/1980",
+        "nomeMae": "MARIA SHIRLEY BEZERRA SOARES",
+        "email": null,
+        "cep": "75805750",
+        "endereco": "AVENIDA NOVA JATAI",
+        "numeroEndereco": "650",
+        "complementoEndereco": "",
+        "bairro": "RESIDENCIAL PORTAL DO SOL - 1A ETAPA",
+        "cidade": "JATAI",
+        "estado": "GO",
+        "logradouro": "NOVA JATAI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 64999533520.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

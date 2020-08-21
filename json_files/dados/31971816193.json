@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31971816193",
+        "nomeCompleto": "JOSE VICENTE PAULISTA",
+        "cpf": "64504263653",
+        "telefoneContato": "",
+        "dataNascimento": "06/02/1962",
+        "nomeMae": null,
+        "email": null,
+        "cep": "31530390",
+        "endereco": "RUA ANTONIO JUNQUEIRA JUNIOR",
+        "numeroEndereco": "127",
+        "complementoEndereco": "",
+        "bairro": "SANTA MONICA",
+        "cidade": "BELO HORIZONTE",
+        "estado": "mg",
+        "logradouro": "ANTONIO JUNQUEIRA JUNIOR",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31971816193.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

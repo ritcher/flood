@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31999224136",
+        "nomeCompleto": "GABRIELA APARECIDA CAMARA",
+        "cpf": "16307373644",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "30750220",
+        "endereco": "Rua RUA ANTONIA FELICIA DO REIS",
+        "numeroEndereco": "138",
+        "complementoEndereco": "",
+        "bairro": "CAICARAS",
+        "cidade": "BELO HORIZONTE",
+        "estado": "mg",
+        "logradouro": "RUA ANTONIA FELICIA DO REIS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31999224136.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

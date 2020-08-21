@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11933894915",
+        "nomeCompleto": "SANDRO ROBERTO MENDES",
+        "cpf": "14494723894",
+        "telefoneContato": "",
+        "dataNascimento": "27/09/1972",
+        "nomeMae": null,
+        "email": "gabriela33@gmail.com",
+        "cep": "05736160",
+        "endereco": " MARIO LINHARES",
+        "numeroEndereco": "56",
+        "complementoEndereco": "",
+        "bairro": "JARDIM INGA",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "MARIO LINHARES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11933894915.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

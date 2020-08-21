@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=4007f9d2-c475-4a89-b072-885f367ffb3c",
+    "data": {
+        "linha": "38999919987",
+        "nomeCompleto": "EDSON LOPO DE MACEDO",
+        "cpf": "20655541691",
+        "telefoneContato": "",
+        "dataNascimento": "19/07/1947",
+        "nomeMae": null,
+        "email": null,
+        "cep": "39495000",
+        "endereco": "RUA MAX",
+        "numeroEndereco": "120",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MONTALVANIA",
+        "estado": "mg",
+        "logradouro": "MAX",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38999919987.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999944369",
+        "nomeCompleto": "MARIA DE FATIMA DE FARIAS",
+        "cpf": "49511602268",
+        "telefoneContato": "",
+        "dataNascimento": "11/01/1963",
+        "nomeMae": null,
+        "email": null,
+        "cep": "76843000",
+        "endereco": "AVENIDA BR DO RIO BN NCO",
+        "numeroEndereco": "215",
+        "complementoEndereco": "",
+        "bairro": "SETOR 02",
+        "cidade": "PORTO VELHO",
+        "estado": "RO",
+        "logradouro": "BR DO RIO BN NCO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999944369.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

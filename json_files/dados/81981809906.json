@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=55523949-e8ba-462d-abc3-7bc69c8ca0f1",
+    "data": {
+        "linha": "81981809906",
+        "nomeCompleto": "CARLOS ALBERTO DA SILVA",
+        "cpf": "46029605453",
+        "telefoneContato": "",
+        "dataNascimento": "06/03/1966",
+        "nomeMae": null,
+        "email": null,
+        "cep": "55590000",
+        "endereco": "RUA ESPERANCA",
+        "numeroEndereco": "92",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "IPOJUCA",
+        "estado": "PE",
+        "logradouro": "ESPERANCA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 81981809906.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

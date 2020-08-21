@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=3bf9b3ce-6fbf-402a-892b-db3e58565f4c",
+    "data": {
+        "linha": "37998575904",
+        "nomeCompleto": "LEONARDO GABRIEL FERNANDES DE SOUSA",
+        "cpf": "15974589610",
+        "telefoneContato": "",
+        "dataNascimento": "06/06/2003",
+        "nomeMae": "Chisliane Fernandes de Sousa",
+        "email": "leonardobiel0603@gmail.com",
+        "cep": "35519000",
+        "endereco": "Rua AVENIDA JOSE BATISTA FILHO",
+        "numeroEndereco": "2630",
+        "complementoEndereco": "",
+        "bairro": "JEFERSON BATISTA DE FREITAS",
+        "cidade": "NOVA SERRANA",
+        "estado": "mg",
+        "logradouro": "AVENIDA JOSE BATISTA FILHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37998575904.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

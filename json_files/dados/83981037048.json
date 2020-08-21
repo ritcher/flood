@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "83981037048",
+        "nomeCompleto": "CASSIANO JOSE DA SILVA PONTES",
+        "cpf": "11955832498",
+        "telefoneContato": "",
+        "dataNascimento": "04/01/1995",
+        "nomeMae": "MARIA SILVA PONTES",
+        "email": "djcassiano@msn.com",
+        "cep": "58031080",
+        "endereco": "Rua RUA JOAO VIEIRA CARNEIRO",
+        "numeroEndereco": "967",
+        "complementoEndereco": "",
+        "bairro": "PEDRO GONDIM",
+        "cidade": "JOAO PESSOA",
+        "estado": "PB",
+        "logradouro": "RUA JOAO VIEIRA CARNEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 83981037048.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

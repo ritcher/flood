@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a9d639a0-9294-4160-a30d-f94d4903b732",
+    "data": {
+        "linha": "37999140169",
+        "nomeCompleto": "Edvania rodrigues",
+        "cpf": "08594605684",
+        "telefoneContato": "",
+        "dataNascimento": "25/02/1993",
+        "nomeMae": "Maria Elza rodrigues",
+        "email": "9aq3xxlr3r1ib2y@gmail.com",
+        "cep": "69097750",
+        "endereco": "RUA IRITAMA",
+        "numeroEndereco": "03",
+        "complementoEndereco": "",
+        "bairro": "CIDADE NOVA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "IRITAMA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37999140169.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

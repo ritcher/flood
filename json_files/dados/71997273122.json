@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "71997273122",
+        "nomeCompleto": "DEIVIDE DE SANTANA SANTOS",
+        "cpf": "10696545586",
+        "telefoneContato": "",
+        "dataNascimento": "11/05/2001",
+        "nomeMae": null,
+        "email": null,
+        "cep": "42850000",
+        "endereco": "Rua RUA LUISA BORGES",
+        "numeroEndereco": "484",
+        "complementoEndereco": "",
+        "bairro": "CONCORDIA",
+        "cidade": "DIAS D AVILA",
+        "estado": "BA",
+        "logradouro": "RUA LUISA BORGES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 71997273122.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

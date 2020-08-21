@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993388174",
+        "nomeCompleto": "RENATA NUNES DOS SANTOS",
+        "cpf": "87624605287",
+        "telefoneContato": "",
+        "dataNascimento": "26/04/1979",
+        "nomeMae": "ENEIDA NUNES DOS SANTOAS",
+        "email": null,
+        "cep": "68448000",
+        "endereco": "RUA  JADINEIRO 11 INVASAO",
+        "numeroEndereco": "11",
+        "complementoEndereco": "",
+        "bairro": "IND VL CD",
+        "cidade": "MURUCUPI",
+        "estado": "PA",
+        "logradouro": " JADINEIRO 11 INVASAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993388174.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

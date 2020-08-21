@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18997900167",
+        "nomeCompleto": "MARIA LIDIANE CORREIA DOS SANTOS",
+        "cpf": "46380002820",
+        "telefoneContato": "",
+        "dataNascimento": "19/05/2000",
+        "nomeMae": null,
+        "email": null,
+        "cep": "16021111",
+        "endereco": "Rua RUA LUIZ VIOLATO",
+        "numeroEndereco": "491",
+        "complementoEndereco": "",
+        "bairro": "ESPLANADA",
+        "cidade": "ARACATUBA",
+        "estado": "sp",
+        "logradouro": "RUA LUIZ VIOLATO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18997900167.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

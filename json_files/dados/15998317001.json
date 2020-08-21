@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15998317001",
+        "nomeCompleto": "ELIEL SERGIO DE ALMEIDA",
+        "cpf": "31527683893",
+        "telefoneContato": "",
+        "dataNascimento": "17/05/1980",
+        "nomeMae": null,
+        "email": null,
+        "cep": "18304640",
+        "endereco": "RUA ARNALDO JOSE DE ALMEIDA",
+        "numeroEndereco": "55",
+        "complementoEndereco": "",
+        "bairro": "VL BRASIL",
+        "cidade": "CAPAO BONITO",
+        "estado": "sp",
+        "logradouro": "ARNALDO JOSE DE ALMEIDA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15998317001.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994478203",
+        "nomeCompleto": "SILVANA ANDRADE GONCALVES",
+        "cpf": "98266489220",
+        "telefoneContato": "",
+        "dataNascimento": "17/06/1982",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69054335",
+        "endereco": "Rua RUA VINTE E QUATRO",
+        "numeroEndereco": "26",
+        "complementoEndereco": "",
+        "bairro": "PARQUE 10 DE NOVEMBRO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "RUA VINTE E QUATRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994478203.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

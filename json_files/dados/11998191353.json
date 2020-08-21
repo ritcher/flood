@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11998191353",
+        "nomeCompleto": "LAVINIA GABRIELLA PROCOPIO DOS SANTOS",
+        "cpf": "49027632812",
+        "telefoneContato": "",
+        "dataNascimento": "14/09/1999",
+        "nomeMae": null,
+        "email": null,
+        "cep": "06317160",
+        "endereco": "AVENIDA NS APARECIDA",
+        "numeroEndereco": "149",
+        "complementoEndereco": "",
+        "bairro": "VL IZA",
+        "cidade": "CARAPICUIBA",
+        "estado": "sp",
+        "logradouro": "NS APARECIDA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11998191353.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

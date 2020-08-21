@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=ade7dc19-f6c6-455b-bd6b-c0a51651bf30",
+    "data": {
+        "linha": "33998036072",
+        "nomeCompleto": "RONALDO BARBOSA DA PAIXAO",
+        "cpf": "10266480764",
+        "telefoneContato": "",
+        "dataNascimento": "24/05/1979",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29820000",
+        "endereco": "Rua COR S PEDRO SN",
+        "numeroEndereco": "SN",
+        "complementoEndereco": "",
+        "bairro": "ZONA RURAL",
+        "cidade": "AGUA DOCE DO NORTE",
+        "estado": "es",
+        "logradouro": "COR S PEDRO SN",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33998036072.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=712abdf0-0ac5-4f31-99ef-4bee9068c35c",
+    "data": {
+        "linha": "32999154902",
+        "nomeCompleto": "ALESSANDRA GONCALVES QUIORATO",
+        "cpf": "11802785698",
+        "telefoneContato": "",
+        "dataNascimento": "09/09/1993",
+        "nomeMae": null,
+        "email": null,
+        "cep": "36893000",
+        "endereco": "Rua FAZ ROSEIRA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ZONA RURAL",
+        "cidade": "MIRADOURO",
+        "estado": "mg",
+        "logradouro": "FAZ ROSEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 32999154902.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

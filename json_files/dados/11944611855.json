@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11944611855",
+        "nomeCompleto": "WENDELL DOS SANTOS CAVALCANTE",
+        "cpf": "52739861842",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": "kwduvscmfwqvhvi@gmail.com",
+        "cep": "05223120",
+        "endereco": "Rua RUA DEDALION",
+        "numeroEndereco": "375",
+        "complementoEndereco": "",
+        "bairro": "JARDIM ADELFIORE",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "RUA DEDALION",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11944611855.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

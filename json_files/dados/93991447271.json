@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1ab91503-6800-4741-8b39-4dd0b3cd9b39",
+    "data": {
+        "linha": "93991447271",
+        "nomeCompleto": "CLEITON DACIO FLEURY",
+        "cpf": "03375499230",
+        "telefoneContato": "",
+        "dataNascimento": "16/06/1996",
+        "nomeMae": null,
+        "email": "cleitondacio@gmail.com",
+        "cep": "78435000",
+        "endereco": "RUA ACRE",
+        "numeroEndereco": "270",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SAO JOSE DO RIO CLARO",
+        "estado": "MT",
+        "logradouro": "ACRE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991447271.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

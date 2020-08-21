@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21995653982",
+        "nomeCompleto": "DOLORES MARIA PEREIRA",
+        "cpf": "66898986791",
+        "telefoneContato": "",
+        "dataNascimento": "22/10/1945",
+        "nomeMae": null,
+        "email": "ritex803r5ta7@mailimail.com",
+        "cep": "23063170",
+        "endereco": "Rua RUA CARACARAI",
+        "numeroEndereco": "38",
+        "complementoEndereco": "",
+        "bairro": "COSMOS",
+        "cidade": "RIO DE JANEIRO",
+        "estado": "Rj",
+        "logradouro": "RUA CARACARAI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21995653982.",
+    "currentPlan": {
+        "code": "RJVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

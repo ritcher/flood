@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993599735",
+        "nomeCompleto": "Marta Uchoa Dos Santos",
+        "cpf": "67513387249",
+        "telefoneContato": "",
+        "dataNascimento": "08/06/1963",
+        "nomeMae": "Percilia Uchoa Pezo",
+        "email": null,
+        "cep": "67020322",
+        "endereco": "PASSAGEM INDEPENDENCIA",
+        "numeroEndereco": "14",
+        "complementoEndereco": "",
+        "bairro": "AGUAS LINDAS",
+        "cidade": "ANANINDEUA",
+        "estado": "PA",
+        "logradouro": "INDEPENDENCIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993599735.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

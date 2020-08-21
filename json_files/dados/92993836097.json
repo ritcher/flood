@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993836097",
+        "nomeCompleto": "RAIMUNDO LUIZ DIAS",
+        "cpf": "04881915215",
+        "telefoneContato": "",
+        "dataNascimento": "25/08/1950",
+        "nomeMae": "RAIMUNDO LUIZ DIAS",
+        "email": "rafael230@telegmail.com",
+        "cep": "69086280",
+        "endereco": "RUA 27",
+        "numeroEndereco": "164",
+        "complementoEndereco": "",
+        "bairro": "S JOSE OPERARIO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "27",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993836097.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

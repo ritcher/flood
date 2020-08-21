@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "71996410724",
+        "nomeCompleto": "LEONARDO OLIVEIRA BENEDITO",
+        "cpf": "05145824564",
+        "telefoneContato": "",
+        "dataNascimento": "21/04/1992",
+        "nomeMae": "MARIA DA CONCEICAO CARVALHO DE OLIVEIRA",
+        "email": "leozynhofera@gmail.com",
+        "cep": "41330155",
+        "endereco": "RUA IVETE FERREIRA SANTANA",
+        "numeroEndereco": "26",
+        "complementoEndereco": "",
+        "bairro": "CAJAZEIRAS VIII",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "IVETE FERREIRA SANTANA",
+        "contaDigital": true,
+        "vencimentoFatura": "17",
+        "ciclo": "01",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 71996410724.",
+    "currentPlan": {
+        "code": "VIVOCTRLF34N",
+        "price": 32.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-2GB_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

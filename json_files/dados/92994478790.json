@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "POSPAGO",
+    "data": {
+        "linha": "92994478790",
+        "nomeCompleto": "CELI C DE\tQUEIROZ\tCAMELY\t\t\t\t\t\t\t\t",
+        "cpf": "54823340744",
+        "telefoneContato": "",
+        "dataNascimento": "11/12/1952",
+        "nomeMae": "ANGELINA CORREIRA DE OLIVEIRA QUEIROZ",
+        "email": "agro_florestal@yaho.com.br",
+        "cep": "69060020",
+        "endereco": "AVENIDA EPHIGENIO SALLES",
+        "numeroEndereco": "1980",
+        "complementoEndereco": "",
+        "bairro": "ALEIXO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "EPHIGENIO SALLES",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994478790.",
+    "currentPlan": {
+        "code": "PLMTVIVO_COMPLETO0",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "MULTIVIVO GRATIS.",
+        "platform": "POSPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=d5f2b47f-e299-4990-afa9-828c9636315f",
+    "data": {
+        "linha": "94991905772",
+        "nomeCompleto": "CAUBI FERREIRA",
+        "cpf": "58611886615",
+        "telefoneContato": "",
+        "dataNascimento": "31/10/1966",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29167749",
+        "endereco": "Rua BECO N",
+        "numeroEndereco": "2",
+        "complementoEndereco": "",
+        "bairro": "TAQUARA I",
+        "cidade": "SERRA",
+        "estado": "es",
+        "logradouro": "BECO N",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991905772.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

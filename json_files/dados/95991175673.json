@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=790a397f-7dd6-4711-a377-a3229d4c5a07",
+    "data": {
+        "linha": "95991175673",
+        "nomeCompleto": "INGRIDY DA SILVA PEREIRA",
+        "cpf": "02899346210",
+        "telefoneContato": "",
+        "dataNascimento": "16/07/1996",
+        "nomeMae": null,
+        "email": "t1kpc0f83b3xls8@gmail.com",
+        "cep": "69314563",
+        "endereco": "RUA VEMANOEL JOAQUIM MARTINS",
+        "numeroEndereco": "1112",
+        "complementoEndereco": "",
+        "bairro": "DR SILVIO BOTELHO",
+        "cidade": "BOA VISTA",
+        "estado": "rr",
+        "logradouro": "VEMANOEL JOAQUIM MARTINS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 95991175673.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

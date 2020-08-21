@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c48ce4ff-398e-4ca8-ba65-4c0ddae2785a",
+    "data": {
+        "linha": "93991034136",
+        "nomeCompleto": "DILMA FERREIRA DO NASCIMENTO",
+        "cpf": "03352139288",
+        "telefoneContato": "",
+        "dataNascimento": "12/10/1998",
+        "nomeMae": null,
+        "email": "monaliza0417@hotmail.com",
+        "cep": "68000000",
+        "endereco": "RUA JOAO BATISTA",
+        "numeroEndereco": "39",
+        "complementoEndereco": "",
+        "bairro": "SANTARENZINHO",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "JOAO BATISTA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991034136.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

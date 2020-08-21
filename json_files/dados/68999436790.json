@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=efe5d883-0fbf-4ff6-b958-9329963a400e",
+    "data": {
+        "linha": "68999436790",
+        "nomeCompleto": "ERIDAN PEREIRA DA ROCHA",
+        "cpf": "82856540287",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69980000",
+        "endereco": "Rua RUA GDE DO SUL",
+        "numeroEndereco": "C",
+        "complementoEndereco": "",
+        "bairro": "S JOSE",
+        "cidade": "CRUZEIRO DO SUL",
+        "estado": "AC",
+        "logradouro": "RUA GDE DO SUL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999436790.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

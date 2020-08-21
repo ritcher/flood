@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "14997593361",
+        "nomeCompleto": "LUCILENE BARBOSA DE ARRUDA",
+        "cpf": "18412406800",
+        "telefoneContato": "",
+        "dataNascimento": "12/02/1977",
+        "nomeMae": null,
+        "email": "d3p3opp5mh7ylk0@gmail.com",
+        "cep": "69100063",
+        "endereco": " PARQUE",
+        "numeroEndereco": "9822",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "PARQUE",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 14997593361.",
+    "currentPlan": {
+        "code": "VIVOCTRLF1N",
+        "price": 51.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL 3GB - ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

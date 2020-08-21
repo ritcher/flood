@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=29a5e201-da1b-4580-9b83-4759f7731dfc",
+    "data": {
+        "linha": "74999598570",
+        "nomeCompleto": "PAULO HENRIQUE AMANCIO DE AQUINO",
+        "cpf": "07519669599",
+        "telefoneContato": "",
+        "dataNascimento": "13/08/1994",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "44905000",
+        "endereco": "RUA RUI BARBOSA",
+        "numeroEndereco": "246",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "LAPAO",
+        "estado": "BA",
+        "logradouro": "RUI BARBOSA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 74999598570.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

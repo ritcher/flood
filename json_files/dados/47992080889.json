@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "47992080889",
+        "nomeCompleto": "GIANE TOGARMA PEREIRA",
+        "cpf": "11327345684",
+        "telefoneContato": "",
+        "dataNascimento": "26/10/1992",
+        "nomeMae": "MARLENE SILVA PEREIRA",
+        "email": "jakila4978@mplusmail.com",
+        "cep": "37037206",
+        "endereco": "RUA LUIZ ROSSIGNOLI",
+        "numeroEndereco": "196",
+        "complementoEndereco": "",
+        "bairro": "SAN MARINO",
+        "cidade": "VARGINHA",
+        "estado": "MG",
+        "logradouro": "LUIZ ROSSIGNOLI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 47992080889.",
+    "currentPlan": {
+        "code": "PRPREDIAR3GSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "PRPREDIAR3GSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

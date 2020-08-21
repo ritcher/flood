@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11963760349",
+        "nomeCompleto": "FERNANDA APARECIDA GONCALVES",
+        "cpf": "22573304809",
+        "telefoneContato": "",
+        "dataNascimento": "13/10/1983",
+        "nomeMae": null,
+        "email": "josue@gmail.com.bj",
+        "cep": "07851070",
+        "endereco": "RUA ORLANDO AMOROSO",
+        "numeroEndereco": "244",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "FRANCO DA ROCHA",
+        "estado": "sp",
+        "logradouro": "ORLANDO AMOROSO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11963760349.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

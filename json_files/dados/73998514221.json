@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=ee110ea9-5952-41ed-98e6-d8c5c70d85b1",
+    "data": {
+        "linha": "73998514221",
+        "nomeCompleto": "HEITOR TAVARES DA ROCHA SANTOS",
+        "cpf": "04842415592",
+        "telefoneContato": "",
+        "dataNascimento": "15/08/1990",
+        "nomeMae": null,
+        "email": null,
+        "cep": "45997070",
+        "endereco": "RUA JEQUITIBA",
+        "numeroEndereco": "134",
+        "complementoEndereco": "",
+        "bairro": "BELA VISTA",
+        "cidade": "TEIXEIRA DE FREITAS",
+        "estado": "BA",
+        "logradouro": "JEQUITIBA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 73998514221.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

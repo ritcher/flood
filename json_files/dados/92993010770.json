@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "92993010770",
+        "nomeCompleto": "MARIA DO SOCORRO CANTO DA SILVA",
+        "cpf": "31062512200",
+        "telefoneContato": "",
+        "dataNascimento": "12/03/1968",
+        "nomeMae": null,
+        "email": "cantomaria718@gmail.com",
+        "cep": "69043765",
+        "endereco": " BALBI CARREIRA",
+        "numeroEndereco": "38",
+        "complementoEndereco": "",
+        "bairro": "ALVORADA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "BALBI CARREIRA",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993010770.",
+    "currentPlan": {
+        "code": "VIVOCTRLF48N",
+        "price": 39.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 3GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

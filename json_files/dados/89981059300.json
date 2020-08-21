@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=8233ebf7-8360-4cb4-8b0d-2190f99e03cd",
+    "data": {
+        "linha": "89981059300",
+        "nomeCompleto": "MARCOS GOMES AMORIM",
+        "cpf": "62063536309",
+        "telefoneContato": "",
+        "dataNascimento": "25/04/1998",
+        "nomeMae": "N\u00e3o Informado",
+        "email": null,
+        "cep": "13178513",
+        "endereco": "RUA DIONICE VASCONCELOS FERREIRA",
+        "numeroEndereco": "525",
+        "complementoEndereco": "",
+        "bairro": "JARDIM DULCE",
+        "cidade": "SUMARE",
+        "estado": "sp",
+        "logradouro": "DIONICE VASCONCELOS FERREIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 89981059300.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

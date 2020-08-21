@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992375353",
+        "nomeCompleto": "CARLOS CAMILO ARAUJO EWERTON",
+        "cpf": "75115700204",
+        "telefoneContato": "",
+        "dataNascimento": "18/10/1983",
+        "nomeMae": "raimunda de jesus",
+        "email": null,
+        "cep": "00000000",
+        "endereco": "R ALBERTO SARTORIO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CARAPINA",
+        "cidade": "S MATEUS",
+        "estado": "ES",
+        "logradouro": "ALBERTO SARTORIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992375353.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

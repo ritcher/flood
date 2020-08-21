@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27999111021",
+        "nomeCompleto": "LUCIENE APARECIDA REGINALDO",
+        "cpf": "12209530750",
+        "telefoneContato": "",
+        "dataNascimento": "12/03/1974",
+        "nomeMae": "IORILDES SANTOS DE ALMEIDA",
+        "email": "lucieneaparecida936@gmail.com",
+        "cep": "41000000",
+        "endereco": "RUA CASTRO ALVES",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ITUPEVA",
+        "cidade": "MEDEIROS NETO",
+        "estado": "BA",
+        "logradouro": "CASTRO ALVES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27999111021.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

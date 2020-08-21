@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51999299043",
+        "nomeCompleto": "LUCAS DA SILVA SCHMITT",
+        "cpf": "02965236074",
+        "telefoneContato": "",
+        "dataNascimento": "20/09/1999",
+        "nomeMae": null,
+        "email": null,
+        "cep": "91570200",
+        "endereco": "Rua RUA CONTINENTAL",
+        "numeroEndereco": "695",
+        "complementoEndereco": "",
+        "bairro": "LOMBA DO PINHEIRO",
+        "cidade": "PORTO ALEGRE",
+        "estado": "rs",
+        "logradouro": "RUA CONTINENTAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51999299043.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

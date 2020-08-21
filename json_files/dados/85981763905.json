@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "85981763905",
+        "nomeCompleto": "LUIS CLEY BRITO PINHEIRO",
+        "cpf": "02122000201",
+        "telefoneContato": "",
+        "dataNascimento": "19/06/1982",
+        "nomeMae": "ssssssssssssssssssss",
+        "email": null,
+        "cep": "66073040",
+        "endereco": "RUA AUGUSTO CORREA",
+        "numeroEndereco": "1219",
+        "complementoEndereco": "",
+        "bairro": "GUAMA",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "AUGUSTO CORREA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 85981763905.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

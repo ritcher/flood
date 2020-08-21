@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6b4e1657-8adf-40aa-80e1-aa477c210e6f",
+    "data": {
+        "linha": "93991319235",
+        "nomeCompleto": "ZULIANE GUIMARAES DOS SANTOS",
+        "cpf": "00979266203",
+        "telefoneContato": "",
+        "dataNascimento": "29/12/1989",
+        "nomeMae": "MARIA ZULAIR GUIMARAES",
+        "email": null,
+        "cep": "68037140",
+        "endereco": "RUA  JACAMIM 24468",
+        "numeroEndereco": "24468",
+        "complementoEndereco": "",
+        "bairro": "SALVACAO",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": " JACAMIM 24468",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991319235.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

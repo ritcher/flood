@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991454933",
+        "nomeCompleto": "CLAUDIO ALVES DIAS JUNIOR",
+        "cpf": "70018508294",
+        "telefoneContato": "",
+        "dataNascimento": "27/08/1998",
+        "nomeMae": null,
+        "email": "vzjzja.ja017@gmail.com",
+        "cep": "67143340",
+        "endereco": " CONJUNTO HABITACIONAL GUAZARA 1 WE 58",
+        "numeroEndereco": "675",
+        "complementoEndereco": "",
+        "bairro": "COQUEIRO",
+        "cidade": "ANANINDEUA",
+        "estado": "PA",
+        "logradouro": "CONJUNTO HABITACIONAL GUAZARA 1 WE 58",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991454933.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6a498541-12b1-43ed-a377-bbf8cd333e8c",
+    "data": {
+        "linha": "98991258754",
+        "nomeCompleto": "VANESSA ALVES SANTOS",
+        "cpf": "61084926350",
+        "telefoneContato": "",
+        "dataNascimento": "14/07/1996",
+        "nomeMae": null,
+        "email": "9dsl0l2scrjr5p4@gmail.com",
+        "cep": "27000000",
+        "endereco": "RUA ANTONIO MOURA DA SILVA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "PARQUE AEROPORTO",
+        "cidade": "MACAE",
+        "estado": "RJ",
+        "logradouro": "ANTONIO MOURA DA SILVA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98991258754.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9611bec6-357b-4da2-8321-a0121ba90d50",
+    "data": {
+        "linha": "79998292828",
+        "nomeCompleto": "ROSINEIDE DOS ANJOS SANTOS",
+        "cpf": "04626957510",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "TEREZINHA SANTOS DOS ANJOS",
+        "email": "provi6224@gmail.com",
+        "cep": "49100000",
+        "endereco": "RUA  J 83 CJ",
+        "numeroEndereco": "83",
+        "complementoEndereco": "",
+        "bairro": "ROSA ELZE",
+        "cidade": "SAO CRISTOVAO",
+        "estado": "SE",
+        "logradouro": " J 83 CJ",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79998292828.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

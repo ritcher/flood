@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b8c10082-0952-4b81-b7e3-d0ff0ab591a6",
+    "data": {
+        "linha": "74999530669",
+        "nomeCompleto": "DANIEL MARCELINO DE CARVALHO",
+        "cpf": "06712581508",
+        "telefoneContato": "",
+        "dataNascimento": "18/07/1990",
+        "nomeMae": null,
+        "email": null,
+        "cep": "44700000",
+        "endereco": "Rua RUA SANTA MARTA",
+        "numeroEndereco": "29",
+        "complementoEndereco": "",
+        "bairro": "PERU",
+        "cidade": "JACOBINA",
+        "estado": "BA",
+        "logradouro": "RUA SANTA MARTA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 74999530669.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

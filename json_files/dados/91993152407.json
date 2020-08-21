@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993152407",
+        "nomeCompleto": "Luis Philipe de Ara\u00fajo ",
+        "cpf": "82061335268",
+        "telefoneContato": "",
+        "dataNascimento": "04/04/1994",
+        "nomeMae": "Maria Silvana Ara\u00fajo",
+        "email": null,
+        "cep": "66820185",
+        "endereco": "RUA VALPARAISO",
+        "numeroEndereco": "18",
+        "complementoEndereco": "",
+        "bairro": "TENONE",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "VALPARAISO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993152407.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

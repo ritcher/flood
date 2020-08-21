@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c9680578-1e94-4a93-840a-a68bd0371f68",
+    "data": {
+        "linha": "93991017002",
+        "nomeCompleto": "MARIA MARGARETH MARTINS DE OLIVEIRA",
+        "cpf": "02007103206",
+        "telefoneContato": "",
+        "dataNascimento": "14/11/1990",
+        "nomeMae": "maria",
+        "email": "e704ofxp04vwkdn@gmail.com",
+        "cep": "00000000",
+        "endereco": "AV A",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "MARCOS FREIRE II",
+        "cidade": "NOSSA SENHORA DO SOCORRO",
+        "estado": "SE",
+        "logradouro": "A",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991017002.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

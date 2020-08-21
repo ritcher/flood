@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a5332063-c1c4-4c48-9406-2a5a34c9d40d",
+    "data": {
+        "linha": "33999917150",
+        "nomeCompleto": "BRUNO OLIVEIRA RIBEIRO",
+        "cpf": "10319503623",
+        "telefoneContato": "",
+        "dataNascimento": "27/02/1990",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68925135",
+        "endereco": "Rua POE MACHADO DE ASSIS",
+        "numeroEndereco": "2135",
+        "complementoEndereco": "",
+        "bairro": "HOSPITALIDADE",
+        "cidade": "SANTANA",
+        "estado": "AP",
+        "logradouro": "POE MACHADO DE ASSIS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999917150.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

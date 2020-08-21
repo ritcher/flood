@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=275d7147-3e11-44c3-897b-85a12f358407",
+    "data": {
+        "linha": "63999454005",
+        "nomeCompleto": "AGRIPINO BORGES TAVARES",
+        "cpf": "01113933100",
+        "telefoneContato": "",
+        "dataNascimento": "04/04/1929",
+        "nomeMae": "Maria Borges Pereira",
+        "email": "oexptj3793@ismailgul.net",
+        "cep": "14780080",
+        "endereco": " 22",
+        "numeroEndereco": "668",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "BARRETOS",
+        "estado": "SP",
+        "logradouro": "22",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 63999454005.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

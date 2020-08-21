@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11998474301",
+        "nomeCompleto": "THAYNA RIBEIRO DE ALMEIDA",
+        "cpf": "03829303203",
+        "telefoneContato": "",
+        "dataNascimento": "14/12/1997",
+        "nomeMae": null,
+        "email": "d6px7zdcvadwuxp@gmail.com",
+        "cep": "08485320",
+        "endereco": "Rua RUA IGARAPE BRACO FORTE",
+        "numeroEndereco": "35",
+        "complementoEndereco": "",
+        "bairro": "CONJUNTO HABITACIONAL SANTA ETELVINA II",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "RUA IGARAPE BRACO FORTE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11998474301.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

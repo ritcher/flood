@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "16997427793",
+        "nomeCompleto": "LAURA DE FATIMA PEDROSO",
+        "cpf": "27601814807",
+        "telefoneContato": "",
+        "dataNascimento": "18/05/1959",
+        "nomeMae": null,
+        "email": null,
+        "cep": "14800075",
+        "endereco": "AVENIDA ARTHUR BUGNI",
+        "numeroEndereco": "273",
+        "complementoEndereco": "",
+        "bairro": "JD VITORIA",
+        "cidade": "ARARAQUARA",
+        "estado": "sp",
+        "logradouro": "ARTHUR BUGNI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 16997427793.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

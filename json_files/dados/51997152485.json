@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "51997152485",
+        "nomeCompleto": "ELICEO DE ANDRADE",
+        "cpf": "94100500068",
+        "telefoneContato": "",
+        "dataNascimento": "04/04/1978",
+        "nomeMae": "VALMIRA LIDIA ANDRADE",
+        "email": "carlosjean0272@gmail.com",
+        "cep": "93037442",
+        "endereco": " RUA ARMAGEDON",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "DUQUE DE CAXIAS",
+        "cidade": "S LEOPOLDO",
+        "estado": "RS",
+        "logradouro": "RUA ARMAGEDON",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51997152485.",
+    "currentPlan": {
+        "code": "VIVOCTRLF27N",
+        "price": 54.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-3GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

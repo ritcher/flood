@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=31b0de67-8d0c-4ac3-b33d-55599bc7d72a",
+    "data": {
+        "linha": "68999298283",
+        "nomeCompleto": "MARIA DE NAZARE TEIXEIRA DE CASTRO",
+        "cpf": "77108078287",
+        "telefoneContato": "",
+        "dataNascimento": "03/02/1970",
+        "nomeMae": "ALBERTINA  TEIXEIRA DE CASTRO",
+        "email": null,
+        "cep": "69934000",
+        "endereco": "RUA CAPITAL PEDRO VASCONCELOS",
+        "numeroEndereco": "473",
+        "complementoEndereco": "",
+        "bairro": ".",
+        "cidade": "EPITACIOLANDIA",
+        "estado": "AC",
+        "logradouro": "CAPITAL PEDRO VASCONCELOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999298283.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

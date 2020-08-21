@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6a54d8b4-216f-4f87-8a14-b3eb703a278a",
+    "data": {
+        "linha": "37999834942",
+        "nomeCompleto": "JOEL MARCOS",
+        "cpf": "88741010663",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": "maia@gmail.com.ba",
+        "cep": "71200012",
+        "endereco": " TR SIA TRECHO 1",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ZONA INDUSTRIAL (GUARA)",
+        "cidade": "BRASILIA",
+        "estado": "DF",
+        "logradouro": "TR SIA TRECHO 1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37999834942.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

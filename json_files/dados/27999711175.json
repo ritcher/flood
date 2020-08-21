@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27999711175",
+        "nomeCompleto": "ELISEU SILVA DE JESUS",
+        "cpf": "17068672710",
+        "telefoneContato": "",
+        "dataNascimento": "17/01/1998",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29600000",
+        "endereco": " FAZ GUANDU",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ZONA RURAL GUANDU",
+        "cidade": "AFONSO CLAUDIO",
+        "estado": "ES",
+        "logradouro": "FAZ GUANDU",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27999711175.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

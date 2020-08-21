@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=2e15ff9f-abce-457f-9067-25475288a928",
+    "data": {
+        "linha": "93991317956",
+        "nomeCompleto": "MARIA DE NAZARE FERNANDES",
+        "cpf": "64768384234",
+        "telefoneContato": "",
+        "dataNascimento": "10/01/1957",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "19999999",
+        "endereco": "R EVA DOS CARPINTEIROS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "SAO MIGUEL PAULISTA",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "EVA DOS CARPINTEIROS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991317956.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

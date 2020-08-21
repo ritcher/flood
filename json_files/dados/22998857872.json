@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "22998857872",
+        "nomeCompleto": "FRANCISCO CONCEICAO ANDRADE JUNIOR",
+        "cpf": "61197123300",
+        "telefoneContato": "",
+        "dataNascimento": "14/06/1995",
+        "nomeMae": null,
+        "email": "juniorcamisa0000@gmail.com",
+        "cep": "95773000",
+        "endereco": " JULIO DE CASTILHOS",
+        "numeroEndereco": "32",
+        "complementoEndereco": "",
+        "bairro": "SAO PEDRO",
+        "cidade": "ALTO FELIZ",
+        "estado": "RS",
+        "logradouro": "JULIO DE CASTILHOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 22998857872.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

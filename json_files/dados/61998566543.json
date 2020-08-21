@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "61998566543",
+        "nomeCompleto": "ALESSANDRO PEREIRA MEDEIROS",
+        "cpf": "72478950120",
+        "telefoneContato": "",
+        "dataNascimento": "18/09/1971",
+        "nomeMae": "maria",
+        "email": "alessandropmedeiros@hotmail.com",
+        "cep": "72650275",
+        "endereco": " QUADRA 802 CONJUNTO 13",
+        "numeroEndereco": "21",
+        "complementoEndereco": "",
+        "bairro": "RECANTO DAS EMAS",
+        "cidade": "BRASILIA",
+        "estado": "DF",
+        "logradouro": "QUADRA 802 CONJUNTO 13",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61998566543.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

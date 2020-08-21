@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a9c3069c-2c9b-4f50-8426-b24e31816162",
+    "data": {
+        "linha": "79999602307",
+        "nomeCompleto": "maria da conceicao de lima",
+        "cpf": "66384761572",
+        "telefoneContato": "",
+        "dataNascimento": "05/07/1971",
+        "nomeMae": null,
+        "email": null,
+        "cep": "49200000",
+        "endereco": "TRAVESSA OTAVIANO CIQUEIRA",
+        "numeroEndereco": "147",
+        "complementoEndereco": "",
+        "bairro": "ALAGOAS",
+        "cidade": "ESTANCIA",
+        "estado": "SE",
+        "logradouro": "OTAVIANO CIQUEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79999602307.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

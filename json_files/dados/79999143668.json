@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1f7a1611-6fa3-468a-95ae-623e7a8b6620",
+    "data": {
+        "linha": "79999143668",
+        "nomeCompleto": "FERNANDA TAVARES SANTANA",
+        "cpf": "86118249547",
+        "telefoneContato": "",
+        "dataNascimento": "15/03/1998",
+        "nomeMae": null,
+        "email": null,
+        "cep": "49035539",
+        "endereco": "TRAVESSA MARIA PUREZA DE JESUS",
+        "numeroEndereco": "865",
+        "complementoEndereco": "",
+        "bairro": "COROA DO MEIO",
+        "cidade": "ARACAJU",
+        "estado": "SE",
+        "logradouro": "MARIA PUREZA DE JESUS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79999143668.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

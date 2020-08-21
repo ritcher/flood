@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=64ae60a8-2891-408e-990b-bff653614718",
+    "data": {
+        "linha": "94992604239",
+        "nomeCompleto": "TIAGO PEREIRA AGUIAR",
+        "cpf": "06546896109",
+        "telefoneContato": "",
+        "dataNascimento": "01/01/1978",
+        "nomeMae": null,
+        "email": null,
+        "cep": "13084768",
+        "endereco": "RUA ALZIRA DE AGUIAARANHA",
+        "numeroEndereco": "41",
+        "complementoEndereco": "",
+        "bairro": "JARDIM SANTA GENEBRA",
+        "cidade": "CAMPINAS",
+        "estado": "sp",
+        "logradouro": "ALZIRA DE AGUIAARANHA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992604239.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

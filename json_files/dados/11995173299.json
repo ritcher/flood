@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11995173299",
+        "nomeCompleto": "MAINARA FERNANDA DA SILVA",
+        "cpf": "41575531879",
+        "telefoneContato": "",
+        "dataNascimento": "12/09/1991",
+        "nomeMae": null,
+        "email": "mainara.silva@unimaq-au.ind.br",
+        "cep": "13290000",
+        "endereco": "RUA PEDRO CHIQUETO",
+        "numeroEndereco": "39",
+        "complementoEndereco": "",
+        "bairro": "STO ANTONIO",
+        "cidade": "LOUVEIRA",
+        "estado": "sp",
+        "logradouro": "PEDRO CHIQUETO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11995173299.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

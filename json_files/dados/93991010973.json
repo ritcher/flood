@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=5f0b567b-a810-4ec8-985c-33f848992326",
+    "data": {
+        "linha": "93991010973",
+        "nomeCompleto": "CIRLENE PEREIRA SILVA",
+        "cpf": "73675741249",
+        "telefoneContato": "",
+        "dataNascimento": "28/07/1976",
+        "nomeMae": null,
+        "email": "paulocomedor4@gmail.com",
+        "cep": "68148000",
+        "endereco": " 1",
+        "numeroEndereco": "1055",
+        "complementoEndereco": "",
+        "bairro": "CENTRAL",
+        "cidade": "BRASIL NOVO",
+        "estado": "PA",
+        "logradouro": "1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991010973.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a18fff56-e26d-4377-8ffe-a6cc41858548",
+    "data": {
+        "linha": "94991787318",
+        "nomeCompleto": "BRUNO SILVA DA COSTA",
+        "cpf": "70436219255",
+        "telefoneContato": "",
+        "dataNascimento": "16/06/1997",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68502330",
+        "endereco": "RUA FRANCISCO",
+        "numeroEndereco": "175",
+        "complementoEndereco": "",
+        "bairro": "AMAPA",
+        "cidade": "MARABA",
+        "estado": "PA",
+        "logradouro": "FRANCISCO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991787318.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

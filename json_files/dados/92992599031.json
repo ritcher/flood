@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992599031",
+        "nomeCompleto": "DEVANNY WELLER FERREIRA MENASSA",
+        "cpf": "14156343782",
+        "telefoneContato": "",
+        "dataNascimento": "16/11/1990",
+        "nomeMae": "VANIA LUCIA WELLER FERREIRA MENASSA",
+        "email": "8xrcis4hqwxl2ag@gmail.com",
+        "cep": "29315340",
+        "endereco": "RUA PROFA ANA GRACA BRUNELO DE FREITAS 30",
+        "numeroEndereco": "30",
+        "complementoEndereco": "",
+        "bairro": "IBC",
+        "cidade": "CACHOEIRO DE ITAPEMIRIM",
+        "estado": "es",
+        "logradouro": "PROFA ANA GRACA BRUNELO DE FREITAS 30",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992599031.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

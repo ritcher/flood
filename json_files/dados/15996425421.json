@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15996425421",
+        "nomeCompleto": "MARIO OLIMPIO DA CRUZ",
+        "cpf": "03079489861",
+        "telefoneContato": "",
+        "dataNascimento": "06/09/1961",
+        "nomeMae": null,
+        "email": null,
+        "cep": "18170000",
+        "endereco": "Rua BENJAMIN DA SILVEIRA BALDY",
+        "numeroEndereco": "837",
+        "complementoEndereco": "",
+        "bairro": "BAIRRO PAULAS MENDE",
+        "cidade": "PIEDADE",
+        "estado": "sp",
+        "logradouro": "BENJAMIN DA SILVEIRA BALDY",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15996425421.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

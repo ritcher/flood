@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=3d6c3da3-d8f9-473f-ae6d-fcfd5f7b96ec",
+    "data": {
+        "linha": "74999012908",
+        "nomeCompleto": "LEANDRO DA SILVA SATURNINO",
+        "cpf": "08754294592",
+        "telefoneContato": "",
+        "dataNascimento": "18/03/1999",
+        "nomeMae": null,
+        "email": null,
+        "cep": "40471045",
+        "endereco": "Rua RUA JOANES AZUL",
+        "numeroEndereco": "9",
+        "complementoEndereco": "",
+        "bairro": "LOBATO",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "RUA JOANES AZUL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 74999012908.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

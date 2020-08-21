@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994472496",
+        "nomeCompleto": "Jose Evandro Menezes Rodrigues ",
+        "cpf": "79736700259",
+        "telefoneContato": "",
+        "dataNascimento": "05/01/1997",
+        "nomeMae": "Maria Jose Menezes Rodrigues",
+        "email": "evandro23gamer97@gmail.com",
+        "cep": "00000000",
+        "endereco": "AV A",
+        "numeroEndereco": "1799",
+        "complementoEndereco": "",
+        "bairro": "MARCOS FREIRE II",
+        "cidade": "NOSSA SENHORA DO SOCORRO",
+        "estado": "SE",
+        "logradouro": "A",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994472496.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "19999424773",
+        "nomeCompleto": "JOSE NILTON DA SILVA",
+        "cpf": "04576112430",
+        "telefoneContato": "",
+        "dataNascimento": "31/07/1983",
+        "nomeMae": null,
+        "email": null,
+        "cep": "08598709",
+        "endereco": "RUA PARACATU",
+        "numeroEndereco": "82",
+        "complementoEndereco": "",
+        "bairro": "RES PALMAS DE ITAQUA",
+        "cidade": "ITAQUAQUECETUBA",
+        "estado": "sp",
+        "logradouro": "PARACATU",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19999424773.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

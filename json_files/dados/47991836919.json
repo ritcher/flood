@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "47991836919",
+        "nomeCompleto": "LAURA MARIA BATISTA DA SILVA",
+        "cpf": "03692212224",
+        "telefoneContato": "",
+        "dataNascimento": "11/08/1997",
+        "nomeMae": null,
+        "email": null,
+        "cep": "28070050",
+        "endereco": "RUA A",
+        "numeroEndereco": "21",
+        "complementoEndereco": "",
+        "bairro": "PRQ GUARUS",
+        "cidade": "CAMPOS DOS GOYTACAZES",
+        "estado": "Rj",
+        "logradouro": "A",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 47991836919.",
+    "currentPlan": {
+        "code": "PRPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

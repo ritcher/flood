@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "92994562176",
+        "nomeCompleto": "CARLOS HENRIQUE COSTA GALVAO",
+        "cpf": "01864369205",
+        "telefoneContato": "",
+        "dataNascimento": "04/07/1998",
+        "nomeMae": "    Maria Das Gracas Silva Costa",
+        "email": null,
+        "cep": "69097753",
+        "endereco": " RUA ILHA DE ITAMARACA",
+        "numeroEndereco": "14",
+        "complementoEndereco": "",
+        "bairro": "CIDADE NOVA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "RUA ILHA DE ITAMARACA",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994562176.",
+    "currentPlan": {
+        "code": "VIVOCTRLF1N",
+        "price": 51.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL 3GB - ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

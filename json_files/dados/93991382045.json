@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=42e688b3-a92b-4d87-9803-4e43d1571915",
+    "data": {
+        "linha": "93991382045",
+        "nomeCompleto": "Sabrina Sardinha de Vasconcelo",
+        "cpf": "00651076242",
+        "telefoneContato": "",
+        "dataNascimento": "11/08/2016",
+        "nomeMae": null,
+        "email": null,
+        "cep": "74968190",
+        "endereco": " GUARAPARI",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "JARDIM IPIRANGA",
+        "cidade": "APARECIDA DE GOIANIA",
+        "estado": "GO",
+        "logradouro": "GUARAPARI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991382045.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

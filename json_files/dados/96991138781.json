@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=cd0afdae-adac-41bf-a9fa-27a6a5de5a46",
+    "data": {
+        "linha": "96991138781",
+        "nomeCompleto": "ROSEENE MENDES SILVA BARROSO",
+        "cpf": "01429123281",
+        "telefoneContato": "",
+        "dataNascimento": "17/02/1992",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68920000",
+        "endereco": " RUA ALVORADA",
+        "numeroEndereco": "486",
+        "complementoEndereco": "",
+        "bairro": "AGRESTE",
+        "cidade": "LARANJAL DO JARI",
+        "estado": "AP",
+        "logradouro": "RUA ALVORADA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 96991138781.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

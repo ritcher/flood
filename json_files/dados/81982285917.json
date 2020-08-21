@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=553e1ed3-e40a-4d01-8ecc-6986258bccd0",
+    "data": {
+        "linha": "81982285917",
+        "nomeCompleto": "Edirlan da Silva Vanderlei ",
+        "cpf": "10481453440",
+        "telefoneContato": "",
+        "dataNascimento": "10/06/1992",
+        "nomeMae": "N\u00e3o classificado",
+        "email": "leticiaoliviarodrigues_@zigotto.com.br",
+        "cep": "18708813",
+        "endereco": " DEMETRIO AURANI",
+        "numeroEndereco": "902",
+        "complementoEndereco": "",
+        "bairro": "CONJUNTO HABITACIONAL PADRE EMILIO IMMOS",
+        "cidade": "AVARE",
+        "estado": "SP",
+        "logradouro": "DEMETRIO AURANI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 81982285917.",
+    "currentPlan": {
+        "code": "NEPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "NEPREDIARIOGSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

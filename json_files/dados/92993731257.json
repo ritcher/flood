@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "92993731257",
+        "nomeCompleto": "FRANCISCA MARIA DE OLIVEIRA",
+        "cpf": "47779063100",
+        "telefoneContato": "",
+        "dataNascimento": "28/06/1965",
+        "nomeMae": null,
+        "email": "bute_xxl@hotmail.com",
+        "cep": "13082793",
+        "endereco": " LEAO XIII",
+        "numeroEndereco": "10",
+        "complementoEndereco": "",
+        "bairro": "BARAO GERALDO",
+        "cidade": "CAMPINAS",
+        "estado": "SP",
+        "logradouro": "LEAO XIII",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993731257.",
+    "currentPlan": {
+        "code": "VIVOCTRLF48N",
+        "price": 39.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 3GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

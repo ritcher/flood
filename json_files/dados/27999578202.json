@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27999578202",
+        "nomeCompleto": "WANDERSON WANDERMUREM GRIFFO",
+        "cpf": "00234412755",
+        "telefoneContato": "",
+        "dataNascimento": "20/06/1970",
+        "nomeMae": "ELZIRA WANDERMUREN DE CARVALHO",
+        "email": "wandersongriffo@yahoo.com.br",
+        "cep": "29102040",
+        "endereco": " AVENIDA SANTA LEOPOLDINA",
+        "numeroEndereco": "2711",
+        "complementoEndereco": "",
+        "bairro": "PRAIA DE ITAPARICA",
+        "cidade": "VILA VELHA",
+        "estado": "ES",
+        "logradouro": "AVENIDA SANTA LEOPOLDINA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27999578202.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

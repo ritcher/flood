@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18997447283",
+        "nomeCompleto": "EDNO DE FARIA FERNANDES",
+        "cpf": "28777707885",
+        "telefoneContato": "",
+        "dataNascimento": "21/08/1979",
+        "nomeMae": null,
+        "email": null,
+        "cep": "02169000",
+        "endereco": "R JOAO CARLOS LOBO BOTELHO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "JARDIM ANDARAI",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "JOAO CARLOS LOBO BOTELHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18997447283.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

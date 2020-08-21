@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6252352a-d383-41b6-a0c4-6662d7625d5e",
+    "data": {
+        "linha": "94991833979",
+        "nomeCompleto": "EVANILDO FERREIRA DE OLIVEIRA",
+        "cpf": "00103221670",
+        "telefoneContato": "",
+        "dataNascimento": "18/05/1976",
+        "nomeMae": null,
+        "email": "kelly157@gmail.com",
+        "cep": "38610000",
+        "endereco": "RUA DJALMA TORRES",
+        "numeroEndereco": "1723",
+        "complementoEndereco": "",
+        "bairro": "CACHOEIRA",
+        "cidade": "UNAI",
+        "estado": "mg",
+        "logradouro": "DJALMA TORRES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991833979.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

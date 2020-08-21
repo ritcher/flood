@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12997604785",
+        "nomeCompleto": "MAURA DA SILVA",
+        "cpf": "10956367828",
+        "telefoneContato": "",
+        "dataNascimento": "26/03/1958",
+        "nomeMae": null,
+        "email": null,
+        "cep": "12460000",
+        "endereco": "Rua ANTONIO SIMOES DOS REIS",
+        "numeroEndereco": "155",
+        "complementoEndereco": "",
+        "bairro": "VL N S DE FATIMA",
+        "cidade": "CAMPOS DO JORDAO",
+        "estado": "sp",
+        "logradouro": "ANTONIO SIMOES DOS REIS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12997604785.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

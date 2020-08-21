@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a8b81836-aee0-4aec-965a-f51f8bbf4b6b",
+    "data": {
+        "linha": "93991928374",
+        "nomeCompleto": "RAONIE ROCHA DOS SANTOS",
+        "cpf": "55641164291",
+        "telefoneContato": "",
+        "dataNascimento": "06/11/1993",
+        "nomeMae": null,
+        "email": "raonne05@gmail.com",
+        "cep": "69090794",
+        "endereco": " DOUTOR WALFERSTAN THOMAS",
+        "numeroEndereco": "65",
+        "complementoEndereco": "",
+        "bairro": "CIDADE NOVA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "DOUTOR WALFERSTAN THOMAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991928374.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992657893",
+        "nomeCompleto": "LUCIANO REGIS BERREDO",
+        "cpf": "64935981253",
+        "telefoneContato": "",
+        "dataNascimento": "17/04/1979",
+        "nomeMae": "ROSA MARIA BERREDO COSTA",
+        "email": null,
+        "cep": "69020320",
+        "endereco": " BC S JOSE OPERARIO",
+        "numeroEndereco": "89",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "BC S JOSE OPERARIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992657893.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

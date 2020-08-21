@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=3468daec-2794-4154-9ed6-4221b20ce264",
+    "data": {
+        "linha": "94992329275",
+        "nomeCompleto": "TALES CESARIO DE MORAES",
+        "cpf": "00765420686",
+        "telefoneContato": "",
+        "dataNascimento": "12/12/1974",
+        "nomeMae": "mae",
+        "email": "teste21@gmail.com",
+        "cep": "00000000",
+        "endereco": "AV AFONSO PENA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CAMPO GRANDE",
+        "estado": "MS",
+        "logradouro": "AFONSO PENA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992329275.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

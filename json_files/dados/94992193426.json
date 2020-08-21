@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=67b1ce12-6c12-442c-bd5d-ce003eafb78d",
+    "data": {
+        "linha": "94992193426",
+        "nomeCompleto": "MARIA DO CARMO DE SOUZA LURA",
+        "cpf": "58544330100",
+        "telefoneContato": "",
+        "dataNascimento": "31/07/1976",
+        "nomeMae": null,
+        "email": null,
+        "cep": "77700000",
+        "endereco": " AVE PARANA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "GUARAI",
+        "estado": "TO",
+        "logradouro": "AVE PARANA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992193426.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

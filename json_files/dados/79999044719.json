@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=253127ed-d5a2-4d75-8eac-191417003090",
+    "data": {
+        "linha": "79999044719",
+        "nomeCompleto": "JOSENILDES SANTOS CARVALHO",
+        "cpf": "02898503550",
+        "telefoneContato": "",
+        "dataNascimento": "17/09/1976",
+        "nomeMae": null,
+        "email": null,
+        "cep": "49300000",
+        "endereco": "TRAVESSA DA DA DA R DE ITABAIANINHA",
+        "numeroEndereco": "1541",
+        "complementoEndereco": "",
+        "bairro": "STA RITA",
+        "cidade": "TOBIAS BARRETO",
+        "estado": "SE",
+        "logradouro": "DA DA DA R DE ITABAIANINHA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79999044719.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

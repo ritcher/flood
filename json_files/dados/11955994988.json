@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11955994988",
+        "nomeCompleto": "ANDERSON RODRIGUES DOS SANTOS",
+        "cpf": "08802398402",
+        "telefoneContato": "",
+        "dataNascimento": "28/04/1991",
+        "nomeMae": "CAIO NASCIMENTO GARCIA",
+        "email": "3h3j393io209f4x@gmail.com",
+        "cep": "58387000",
+        "endereco": "Rua SE MENDES SOBRINHO",
+        "numeroEndereco": "253",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "JUAREZ TAVORA",
+        "estado": "PB",
+        "logradouro": "SE MENDES SOBRINHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11955994988.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

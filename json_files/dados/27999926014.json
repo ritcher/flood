@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27999926014",
+        "nomeCompleto": "RAQUEL MARTINS",
+        "cpf": "13346567702",
+        "telefoneContato": "",
+        "dataNascimento": "13/02/1987",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29213370",
+        "endereco": "Rua RUA DA PAZ",
+        "numeroEndereco": "400",
+        "complementoEndereco": "",
+        "bairro": "COROADO",
+        "cidade": "GUARAPARI",
+        "estado": "es",
+        "logradouro": "RUA DA PAZ",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27999926014.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

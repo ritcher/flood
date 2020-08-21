@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b8654ea5-b5ff-4b7d-af92-58f537e6670f",
+    "data": {
+        "linha": "95991201657",
+        "nomeCompleto": "Joaquim Alexandre Ribeiro",
+        "cpf": "54662834287",
+        "telefoneContato": "",
+        "dataNascimento": "26/09/1942",
+        "nomeMae": "Vera Beatriz Jaqueline",
+        "email": "joaquimalexandreribeiro__joaquimalexandreribeiro@paae.com.br",
+        "cep": "00000000",
+        "endereco": "AVENIDA AFONSO PENA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CAMPO GRANDE",
+        "estado": "MS",
+        "logradouro": "AFONSO PENA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 95991201657.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

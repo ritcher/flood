@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9585bcc9-0b80-4e1f-84c4-2a7d262d6b82",
+    "data": {
+        "linha": "93991422250",
+        "nomeCompleto": "ITAMAR BEZERRA DE ARAUJO",
+        "cpf": "94493677287",
+        "telefoneContato": "",
+        "dataNascimento": "18/06/1974",
+        "nomeMae": "FRANCISCA BEZERRA DE ARAUJO",
+        "email": null,
+        "cep": "68200000",
+        "endereco": "R CUMARU",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "INDEPENCIA",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "CUMARU",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991422250.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

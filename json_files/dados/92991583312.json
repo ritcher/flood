@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991583312",
+        "nomeCompleto": "CELIA REGINA DE OLIVEIRA VIANA",
+        "cpf": "66068401200",
+        "telefoneContato": "",
+        "dataNascimento": "14/04/1976",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69033000",
+        "endereco": "R BOA ESPERANCA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "SAO JORGE",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "BOA ESPERANCA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991583312.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

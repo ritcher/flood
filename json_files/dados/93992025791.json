@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=5269e229-cd5f-4c85-ac85-e56aa6a6228f",
+    "data": {
+        "linha": "93992025791",
+        "nomeCompleto": "LUCINALDO DA SILVA RODRIGUES",
+        "cpf": "04329555263",
+        "telefoneContato": "",
+        "dataNascimento": "22/05/1996",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68200000",
+        "endereco": "ESTRADA ESTRADA DA LUANDA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "PLANLTO",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "ESTRADA DA LUANDA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992025791.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

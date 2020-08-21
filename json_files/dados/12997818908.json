@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12997818908",
+        "nomeCompleto": "NELY APARECIDA DE ALMEIDA SALGADO",
+        "cpf": "08067274894",
+        "telefoneContato": "",
+        "dataNascimento": "14/05/1961",
+        "nomeMae": null,
+        "email": null,
+        "cep": "12227690",
+        "endereco": "R DOS JACANAS",
+        "numeroEndereco": "87",
+        "complementoEndereco": "",
+        "bairro": "JARDIM UIRA",
+        "cidade": "S JOSE DOS CAMPOS",
+        "estado": "SP",
+        "logradouro": "DOS JACANAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12997818908.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992547725",
+        "nomeCompleto": "ROGERIO DOS SANTOS MENDES",
+        "cpf": "98230751234",
+        "telefoneContato": "",
+        "dataNascimento": "27/12/1989",
+        "nomeMae": "REGINA DO SOCORRO COSTA DOS SANTOS",
+        "email": null,
+        "cep": "66670260",
+        "endereco": "TRAVESSA  WE DOZE 1456",
+        "numeroEndereco": "1456",
+        "complementoEndereco": "",
+        "bairro": "COQUEIRO",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": " WE DOZE 1456",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992547725.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

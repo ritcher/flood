@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=da099afa-5733-4b09-8182-11757986ecfd",
+    "data": {
+        "linha": "38998960513",
+        "nomeCompleto": "OTAVIO HENRIQUE LIMA",
+        "cpf": "15381405600",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "31578300",
+        "endereco": "Rua RUA MARIA GERTRUDES SANTOS",
+        "numeroEndereco": "929",
+        "complementoEndereco": "",
+        "bairro": "CEU AZUL",
+        "cidade": "BELO HORIZONTE",
+        "estado": "mg",
+        "logradouro": "RUA MARIA GERTRUDES SANTOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38998960513.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15997022173",
+        "nomeCompleto": "ANA LUCIA FERNANDES",
+        "cpf": "31713869845",
+        "telefoneContato": "",
+        "dataNascimento": "27/12/1980",
+        "nomeMae": null,
+        "email": null,
+        "cep": "18195000",
+        "endereco": "Rua RODOVIA VEREADOR JOAO ANTONIO NUNES",
+        "numeroEndereco": "560",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CAPELA DO ALTO",
+        "estado": "sp",
+        "logradouro": "RODOVIA VEREADOR JOAO ANTONIO NUNES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15997022173.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

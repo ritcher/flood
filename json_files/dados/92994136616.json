@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994136616",
+        "nomeCompleto": "JOSE ASSIS DE ANDRADE FILHO",
+        "cpf": "02768887234",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "SECUNDINA MARIA DE ANDRADE",
+        "email": null,
+        "cep": "69085100",
+        "endereco": "RUA  VARRE VENTO 236",
+        "numeroEndereco": "236",
+        "complementoEndereco": "",
+        "bairro": "S JOSE OPERARIO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": " VARRE VENTO 236",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994136616.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

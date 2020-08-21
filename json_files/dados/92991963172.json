@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991963172",
+        "nomeCompleto": "GILVAN DA COSTA CAVALCANTE",
+        "cpf": "98864580204",
+        "telefoneContato": "",
+        "dataNascimento": "20/12/1987",
+        "nomeMae": null,
+        "email": "b5ue8yurahfo4pt@gmail.com",
+        "cep": "69047501",
+        "endereco": "RUA OLINDA",
+        "numeroEndereco": "36",
+        "complementoEndereco": "",
+        "bairro": "REDENCAO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "OLINDA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991963172.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

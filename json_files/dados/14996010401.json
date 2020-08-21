@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "14996010401",
+        "nomeCompleto": "SILMAR TORQUETI",
+        "cpf": "42412974802",
+        "telefoneContato": "",
+        "dataNascimento": "23/07/1994",
+        "nomeMae": null,
+        "email": "silmartorqueti.2000@outlook.com",
+        "cep": "17204287",
+        "endereco": " PASCHOAL PIRAGINE NETO",
+        "numeroEndereco": "701",
+        "complementoEndereco": "",
+        "bairro": "",
+        "cidade": "JAU",
+        "estado": "SP",
+        "logradouro": "PASCHOAL PIRAGINE NETO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 14996010401.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

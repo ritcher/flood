@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "71999695982",
+        "nomeCompleto": "Cleber Henrique De Lima",
+        "cpf": "28725353810",
+        "telefoneContato": "",
+        "dataNascimento": "22/08/1979",
+        "nomeMae": "SEILMA DE LOURDES CEZARIO DE LIMA",
+        "email": "marianalva@gmay.cum",
+        "cep": "65640000",
+        "endereco": " 1",
+        "numeroEndereco": "113",
+        "complementoEndereco": "",
+        "bairro": "NOVA PARNARAMA",
+        "cidade": "PARNARAMA",
+        "estado": "MA",
+        "logradouro": "1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 71999695982.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0ae7a701-e317-46c5-8ade-36a869f4ffb1",
+    "data": {
+        "linha": "37998445092",
+        "nomeCompleto": "RODRIGO ALVES SANTOS",
+        "cpf": "09085113610",
+        "telefoneContato": "",
+        "dataNascimento": "08/06/1983",
+        "nomeMae": null,
+        "email": null,
+        "cep": "38760000",
+        "endereco": "Rua URUGUAI",
+        "numeroEndereco": "165",
+        "complementoEndereco": "",
+        "bairro": "NACOES",
+        "cidade": "SERRA DO SALITRE",
+        "estado": "mg",
+        "logradouro": "URUGUAI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37998445092.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

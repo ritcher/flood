@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=53428469-8b0f-402b-9fd6-3b015f3011d9",
+    "data": {
+        "linha": "79998808689",
+        "nomeCompleto": "PEDRO HENRIQUE SALES PONTES",
+        "cpf": "02437847324",
+        "telefoneContato": "",
+        "dataNascimento": "29/09/1988",
+        "nomeMae": "ROSEMARY COELHO SALES PONTES",
+        "email": "3mkgvseqgyeydz2@gmail.com",
+        "cep": "60160060",
+        "endereco": "RUA DEP MOREIRA DA ROCHA",
+        "numeroEndereco": "840",
+        "complementoEndereco": "",
+        "bairro": "MEIRELES",
+        "cidade": "FORTALEZA",
+        "estado": "CE",
+        "logradouro": "DEP MOREIRA DA ROCHA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79998808689.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

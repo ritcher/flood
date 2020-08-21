@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18998008717",
+        "nomeCompleto": "JOSE SOARES FILHO",
+        "cpf": "12110011807",
+        "telefoneContato": "",
+        "dataNascimento": "28/03/1974",
+        "nomeMae": "FRANCILA MARIA DE MELO",
+        "email": null,
+        "cep": "19280000",
+        "endereco": "R JOAO JOSE SOARES DA SILVA",
+        "numeroEndereco": "521",
+        "complementoEndereco": "",
+        "bairro": "VITORIA",
+        "cidade": "TEODORO SAMPAIO",
+        "estado": "SP",
+        "logradouro": "JOAO JOSE SOARES DA SILVA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18998008717.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

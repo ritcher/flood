@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b6f8d275-948a-45a1-9c3e-63fafa5fa1b8",
+    "data": {
+        "linha": "75998716206",
+        "nomeCompleto": "ROBERT GABRIEL DE JESUS BARBOZA",
+        "cpf": "10922473781",
+        "telefoneContato": "",
+        "dataNascimento": "01/02/1994",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29155623",
+        "endereco": "RUA LOURIVAL DE ALMEIDA",
+        "numeroEndereco": "99",
+        "complementoEndereco": "",
+        "bairro": "FLEXAL I",
+        "cidade": "CARIACICA",
+        "estado": "es",
+        "logradouro": "LOURIVAL DE ALMEIDA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 75998716206.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

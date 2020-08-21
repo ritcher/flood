@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=e76e27ba-0575-44a0-b135-8136019f2779",
+    "data": {
+        "linha": "68999289386",
+        "nomeCompleto": "WESLEY MACHADO PIMENTA",
+        "cpf": "00244068135",
+        "telefoneContato": "",
+        "dataNascimento": "05/06/1984",
+        "nomeMae": null,
+        "email": "wesley_pimenta@yahoo.com.br",
+        "cep": "60336210",
+        "endereco": "RUA COELHO NETO",
+        "numeroEndereco": "543",
+        "complementoEndereco": "",
+        "bairro": "ALVARO WEYNE",
+        "cidade": "FORTALEZA",
+        "estado": "CE",
+        "logradouro": "COELHO NETO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999289386.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

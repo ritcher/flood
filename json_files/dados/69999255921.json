@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999255921",
+        "nomeCompleto": "GIVALDO KRUGUEL LIMA",
+        "cpf": "03096385262",
+        "telefoneContato": "",
+        "dataNascimento": "27/01/1995",
+        "nomeMae": null,
+        "email": null,
+        "cep": "76920000",
+        "endereco": "Rua RUA MINAS GERAIS",
+        "numeroEndereco": "70",
+        "complementoEndereco": "",
+        "bairro": "JARDIM NOVO ESTADO",
+        "cidade": "OURO PRETO DO OESTE",
+        "estado": "RO",
+        "logradouro": "RUA MINAS GERAIS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999255921.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

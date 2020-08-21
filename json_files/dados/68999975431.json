@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9fa54283-c6c3-4762-9e2c-91c1d5cec47f",
+    "data": {
+        "linha": "68999975431",
+        "nomeCompleto": "ANTONIO MORAIS DE LIMA",
+        "cpf": "03245017227",
+        "telefoneContato": "",
+        "dataNascimento": "24/07/1995",
+        "nomeMae": null,
+        "email": "sem398@hotmail.com",
+        "cep": "69903215",
+        "endereco": " CISNE",
+        "numeroEndereco": "601",
+        "complementoEndereco": "",
+        "bairro": "CONJUNTO OURICURI",
+        "cidade": "R BRANCO",
+        "estado": "AC",
+        "logradouro": "CISNE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999975431.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

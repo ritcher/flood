@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "13997873178",
+        "nomeCompleto": "SIMONE FATIMA MORAES DE ALMEIDA",
+        "cpf": "15919011890",
+        "telefoneContato": "",
+        "dataNascimento": "23/12/1975",
+        "nomeMae": null,
+        "email": null,
+        "cep": "18600060",
+        "endereco": " CURUZU",
+        "numeroEndereco": "141",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "BOTUCATU",
+        "estado": "SP",
+        "logradouro": "CURUZU",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 13997873178.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

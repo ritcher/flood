@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "95991121121",
+        "nomeCompleto": "MARIA GILVANETE ROSA SANTOS",
+        "cpf": "02197488104",
+        "telefoneContato": "",
+        "dataNascimento": "03/09/1980",
+        "nomeMae": "MARIA DA CONCEI\u00c7\u00c3O SILVA",
+        "email": "marquesvoa123@hotmail.com",
+        "cep": "69314336",
+        "endereco": "RUA MARIA SANTA DA SILVA",
+        "numeroEndereco": "201",
+        "complementoEndereco": "",
+        "bairro": "DOUTOR SILVIO LEITE",
+        "cidade": "BOA VISTA",
+        "estado": "RR",
+        "logradouro": "MARIA SANTA DA SILVA",
+        "contaDigital": true,
+        "vencimentoFatura": "10",
+        "ciclo": "25",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 95991121121.",
+    "currentPlan": {
+        "code": "VIVOCTRLF1N",
+        "price": 51.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL 3GB - ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

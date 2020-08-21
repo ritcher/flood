@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=38b1a82c-a9a8-4edc-b5e6-4facd91d468c",
+    "data": {
+        "linha": "88981107972",
+        "nomeCompleto": "CICERO ROMAO LOPES",
+        "cpf": "08347531382",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "71510250",
+        "endereco": "Rua SHIN QI 4 CONJUNTO 5",
+        "numeroEndereco": "81",
+        "complementoEndereco": "",
+        "bairro": "SETOR DE HABITACOES INDIVIDUAIS NORTE",
+        "cidade": "BRASILIA",
+        "estado": "DF",
+        "logradouro": "SHIN QI 4 CONJUNTO 5",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981107972.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

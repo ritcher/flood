@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18996535813",
+        "nomeCompleto": "SIMONE TROIANI",
+        "cpf": "28162381805",
+        "telefoneContato": "",
+        "dataNascimento": "12/06/1979",
+        "nomeMae": null,
+        "email": null,
+        "cep": "87140000",
+        "endereco": "ALAMEDA CANAFISTULA",
+        "numeroEndereco": "168",
+        "complementoEndereco": "",
+        "bairro": "JD MONTE CARMELO",
+        "cidade": "PAICANDU",
+        "estado": "PR",
+        "logradouro": "CANAFISTULA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18996535813.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67999234459",
+        "nomeCompleto": "BRUNA ADRIELLY GALVARRO DE SOUZA",
+        "cpf": "73068349168",
+        "telefoneContato": "",
+        "dataNascimento": "26/01/1997",
+        "nomeMae": null,
+        "email": null,
+        "cep": "76900582",
+        "endereco": " JOSE DA PAZ",
+        "numeroEndereco": "533",
+        "complementoEndereco": "",
+        "bairro": "NOVO JIPARANA",
+        "cidade": "JIPARANA",
+        "estado": "RO",
+        "logradouro": "JOSE DA PAZ",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67999234459.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

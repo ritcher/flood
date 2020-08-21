@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6f555919-20fa-42ac-961a-22faf981131c",
+    "data": {
+        "linha": "86981518460",
+        "nomeCompleto": "FRANCINERES MEDEIROS SALES",
+        "cpf": "02263036326",
+        "telefoneContato": "",
+        "dataNascimento": "04/02/1980",
+        "nomeMae": null,
+        "email": "caiofod2@gmail.com",
+        "cep": "69100063",
+        "endereco": " PARQUE",
+        "numeroEndereco": "567",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "PARQUE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 86981518460.",
+    "currentPlan": {
+        "code": "NEPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "NEPREDIARIOGSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

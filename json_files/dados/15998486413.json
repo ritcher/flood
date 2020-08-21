@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15998486413",
+        "nomeCompleto": "TAMAR DA SILVA LEITE",
+        "cpf": "19820019842",
+        "telefoneContato": "",
+        "dataNascimento": "01/02/1970",
+        "nomeMae": null,
+        "email": null,
+        "cep": "18430000",
+        "endereco": "RUA ITARARE",
+        "numeroEndereco": "177",
+        "complementoEndereco": "",
+        "bairro": "CAMPINA DE FORA",
+        "cidade": "RIBEIRAO BRANCO",
+        "estado": "sp",
+        "logradouro": "ITARARE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15998486413.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

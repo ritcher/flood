@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "64999384611",
+        "nomeCompleto": "MARCIA REGINA CORDEIRO",
+        "cpf": "00978764102",
+        "telefoneContato": "",
+        "dataNascimento": "22/10/1979",
+        "nomeMae": "WILMA CORDEIRO LOPES",
+        "email": null,
+        "cep": "75908460",
+        "endereco": "RUA 110",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "JARDIM PRESIDENTE",
+        "cidade": "R VERDE",
+        "estado": "GO",
+        "logradouro": "110",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 64999384611.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

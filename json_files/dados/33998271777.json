@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=90119504-1753-40fd-a89d-f6e9b9664acc",
+    "data": {
+        "linha": "33998271777",
+        "nomeCompleto": "IZABELLA KAROLINA PEREIRA SILVA",
+        "cpf": "15546946636",
+        "telefoneContato": "",
+        "dataNascimento": "18/05/2001",
+        "nomeMae": null,
+        "email": "izabellakarolina2001@gmail.com",
+        "cep": "35280000",
+        "endereco": " JUSCELINO KUBITSCHEK 39",
+        "numeroEndereco": "268",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITABIRINHA DE MANTENA",
+        "estado": "MG",
+        "logradouro": "JUSCELINO KUBITSCHEK 39",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33998271777.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

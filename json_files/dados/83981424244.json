@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "83981424244",
+        "nomeCompleto": "DAVID MAILTON PEREIRA ARAUJO",
+        "cpf": "09357065423",
+        "telefoneContato": "",
+        "dataNascimento": "10/04/2000",
+        "nomeMae": "JOSIVANIA PEREIRA DE SOUZA",
+        "email": null,
+        "cep": "58067675",
+        "endereco": "RUA STA EDWIRGENS 22",
+        "numeroEndereco": "22",
+        "complementoEndereco": "",
+        "bairro": "GRAMAME",
+        "cidade": "JOAO PESSOA",
+        "estado": "PB",
+        "logradouro": "STA EDWIRGENS 22",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 83981424244.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0dc570b7-755a-4be0-a5f5-2599f68e8e0a",
+    "data": {
+        "linha": "99991132086",
+        "nomeCompleto": "TEREZA COSTA LIMA",
+        "cpf": "26867001300",
+        "telefoneContato": "",
+        "dataNascimento": "22/08/1952",
+        "nomeMae": null,
+        "email": null,
+        "cep": "65725000",
+        "endereco": "Rua RUA CRECENCIO RAPOSO",
+        "numeroEndereco": "522",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "PEDREIRAS",
+        "estado": "MA",
+        "logradouro": "RUA CRECENCIO RAPOSO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99991132086.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0dcfe393-cba4-44eb-b354-74ebca9da94a",
+    "data": {
+        "linha": "95991287950",
+        "nomeCompleto": "JOAO FELIPE DA SILVA",
+        "cpf": "32288263253",
+        "telefoneContato": "",
+        "dataNascimento": "08/02/1956",
+        "nomeMae": null,
+        "email": "reginadeboraduarginadeboraduarte@igly.com.br",
+        "cep": "00000000",
+        "endereco": "RUA A",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "MARCOS FREIRE II",
+        "cidade": "NOSSA SENHORA DO SOCORRO",
+        "estado": "SE",
+        "logradouro": "A",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 95991287950.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

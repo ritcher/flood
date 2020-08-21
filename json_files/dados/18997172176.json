@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18997172176",
+        "nomeCompleto": "JORGE NOVAIS VIEIRA",
+        "cpf": "28479241837",
+        "telefoneContato": "",
+        "dataNascimento": "03/11/1975",
+        "nomeMae": null,
+        "email": null,
+        "cep": "17880000",
+        "endereco": "RUA RUI BARBOSA",
+        "numeroEndereco": "297",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "IRAPURU",
+        "estado": "sp",
+        "logradouro": "RUI BARBOSA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18997172176.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

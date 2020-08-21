@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "93991194169",
+        "nomeCompleto": "SERGIO OLIVEIRA DE SOUSA",
+        "cpf": "02952872252",
+        "telefoneContato": "",
+        "dataNascimento": "31/03/1995",
+        "nomeMae": "maria OLIVEIRA DE SOUSA",
+        "email": null,
+        "cep": "69041500",
+        "endereco": " RUA IGARAPE BURITIZAL",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "TARUMA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "RUA IGARAPE BURITIZAL",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991194169.",
+    "currentPlan": {
+        "code": "VIVOCTRLF51N",
+        "price": 84.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 5GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

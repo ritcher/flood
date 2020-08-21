@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "13997102634",
+        "nomeCompleto": "RONEI DE LIMA FORMES",
+        "cpf": "39040706816",
+        "telefoneContato": "",
+        "dataNascimento": "20/12/1990",
+        "nomeMae": "regina de lima colaco formes",
+        "email": "ganhadormendigodocrlh@gmail.com",
+        "cep": "11930000",
+        "endereco": "R 1",
+        "numeroEndereco": "509",
+        "complementoEndereco": "",
+        "bairro": "JS ALVORADA",
+        "cidade": "PARIQUERAACU",
+        "estado": "SP",
+        "logradouro": "1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 13997102634.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

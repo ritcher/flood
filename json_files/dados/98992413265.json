@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c633cd52-d545-4dd3-86ab-ccc47d8b185d",
+    "data": {
+        "linha": "98992413265",
+        "nomeCompleto": "REGINA DE OLIVEIRA SILVA",
+        "cpf": "02591797366",
+        "telefoneContato": "",
+        "dataNascimento": "24/02/1988",
+        "nomeMae": null,
+        "email": null,
+        "cep": "65150000",
+        "endereco": "R 1",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "MALVINA",
+        "cidade": "ROSARIO",
+        "estado": "MA",
+        "logradouro": "1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98992413265.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

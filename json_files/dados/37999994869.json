@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=cd558092-f662-43f4-bc00-5da16ed10d4d",
+    "data": {
+        "linha": "37999994869",
+        "nomeCompleto": "EDIR ANTONIO RODRIGUES ALVE",
+        "cpf": "08555541859",
+        "telefoneContato": "",
+        "dataNascimento": "13/07/1967",
+        "nomeMae": "MARIA CECILIA R A FERREIRA",
+        "email": "edir@offroadtour.com.br",
+        "cep": "69100063",
+        "endereco": " PARQUE",
+        "numeroEndereco": "7456",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "PARQUE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37999994869.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

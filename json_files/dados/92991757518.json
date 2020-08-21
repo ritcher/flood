@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "92991757518",
+        "nomeCompleto": "ANDRELINA PEREIRA DOS SANTOS",
+        "cpf": "81336020253",
+        "telefoneContato": "",
+        "dataNascimento": "05/01/1980",
+        "nomeMae": "MARINA PEREIRA DOS SANTOS",
+        "email": null,
+        "cep": "69020020",
+        "endereco": "AVENIDA IGARAPE DE MANAUS",
+        "numeroEndereco": "6",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "IGARAPE DE MANAUS",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991757518.",
+    "currentPlan": {
+        "code": "VIVOCTRLF28N",
+        "price": 69.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-4GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "12996698055",
+        "nomeCompleto": "BRUNA COSTA BRAGA",
+        "cpf": "45983175823",
+        "telefoneContato": "",
+        "dataNascimento": "06/05/1998",
+        "nomeMae": null,
+        "email": "bruna.cbsbs@outlook.com",
+        "cep": "12490000",
+        "endereco": " NOSS ASENHORA APARECIDA",
+        "numeroEndereco": "556",
+        "complementoEndereco": "",
+        "bairro": "SERRANO",
+        "cidade": "S BENTO DO SAPUCAI",
+        "estado": "SP",
+        "logradouro": "NOSS ASENHORA APARECIDA",
+        "contaDigital": true,
+        "vencimentoFatura": "10",
+        "ciclo": "25",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996698055.",
+    "currentPlan": {
+        "code": "VIVOCTRLF1N",
+        "price": 51.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL 3GB - ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

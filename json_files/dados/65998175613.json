@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65998175613",
+        "nomeCompleto": "Jariane Helena Cebalho Batista de Oliveira",
+        "cpf": "03849419150",
+        "telefoneContato": "",
+        "dataNascimento": "06/02/1996",
+        "nomeMae": "Rosa da Silva Cebalho",
+        "email": "waltemir_10@hotmail.com",
+        "cep": "72007525",
+        "endereco": "COND COND RUA 12 CHACARA 145",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "' SETOR HABITACIONAL VICENTE PIRES",
+        "cidade": "BRASILIA",
+        "estado": "DF",
+        "logradouro": "COND RUA 12 CHACARA 145",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65998175613.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

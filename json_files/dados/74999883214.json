@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9e75212b-6800-43ec-a325-701d537841ab",
+    "data": {
+        "linha": "74999883214",
+        "nomeCompleto": "JOSE BRIVALDO DOS SANTOS",
+        "cpf": "37497146572",
+        "telefoneContato": "",
+        "dataNascimento": "15/03/1965",
+        "nomeMae": "maria edneia dos santos",
+        "email": null,
+        "cep": "44900000",
+        "endereco": " . PRINCIPAL",
+        "numeroEndereco": "47",
+        "complementoEndereco": "",
+        "bairro": "VIVENDAS",
+        "cidade": "IRECE",
+        "estado": "BA",
+        "logradouro": ". PRINCIPAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 74999883214.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

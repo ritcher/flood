@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992208425",
+        "nomeCompleto": "SIMAO TEIXEIRA DE CASTRO",
+        "cpf": "41372255249",
+        "telefoneContato": "",
+        "dataNascimento": "30/07/1970",
+        "nomeMae": null,
+        "email": "simaodecastro@gmail.com",
+        "cep": "69099390",
+        "endereco": "RUA 18",
+        "numeroEndereco": "18",
+        "complementoEndereco": "",
+        "bairro": "CIDADE NOVA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "18",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992208425.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

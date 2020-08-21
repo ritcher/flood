@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27997473673",
+        "nomeCompleto": "NAYHARA WALGER COSTA",
+        "cpf": "10072416750",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1984",
+        "nomeMae": null,
+        "email": "nany_walger@hotmail.com",
+        "cep": "29108019",
+        "endereco": "RUA RUBENS SALLES PRIMO",
+        "numeroEndereco": "3",
+        "complementoEndereco": "",
+        "bairro": "STA INES",
+        "cidade": "VILA VELHA",
+        "estado": "es",
+        "logradouro": "RUBENS SALLES PRIMO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27997473673.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

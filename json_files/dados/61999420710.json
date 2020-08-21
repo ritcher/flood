@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "POSPAGO",
+    "data": {
+        "linha": "61999420710",
+        "nomeCompleto": "VICENTE GOMES DA SILVA",
+        "cpf": "14558459149",
+        "telefoneContato": "",
+        "dataNascimento": "06/09/1951",
+        "nomeMae": "igor almeida gomes",
+        "email": "vicenteadvogado@terra.com.br",
+        "cep": "71525250",
+        "endereco": " SHIN QI 12 CJ 5",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ST HABITACOES INDIVID NORTE",
+        "cidade": "LAGO NORTE",
+        "estado": "DF",
+        "logradouro": "SHIN QI 12 CJ 5",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61999420710.",
+    "currentPlan": {
+        "code": "PLMTVIVO_SMARTCB0",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "PL MULTIVIVO GRATIS.",
+        "platform": "POSPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

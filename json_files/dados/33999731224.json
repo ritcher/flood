@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c56967ea-9aa7-4a9c-b849-59317c9d4e0b",
+    "data": {
+        "linha": "33999731224",
+        "nomeCompleto": "ANA MARIA RODRIGUES CHAVES",
+        "cpf": "04438262690",
+        "telefoneContato": "",
+        "dataNascimento": "17/06/1975",
+        "nomeMae": "ANA FELIZARDA DE JESUS",
+        "email": null,
+        "cep": "35045570",
+        "endereco": "RUA CINCO",
+        "numeroEndereco": "39",
+        "complementoEndereco": "",
+        "bairro": "JK",
+        "cidade": "GOV VALADARES",
+        "estado": "MG",
+        "logradouro": "CINCO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999731224.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

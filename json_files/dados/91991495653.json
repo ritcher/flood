@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991495653",
+        "nomeCompleto": "ANDREIA MATOS SALES",
+        "cpf": "07444018286",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": "sjiq1s5lujqfec8@gmail.com",
+        "cep": "68741000",
+        "endereco": "Rua AVENIDA PRESIDENTE GETULIO VARGAS",
+        "numeroEndereco": "19",
+        "complementoEndereco": "",
+        "bairro": "CRISTO REDENTOR",
+        "cidade": "CASTANHAL",
+        "estado": "PA",
+        "logradouro": "AVENIDA PRESIDENTE GETULIO VARGAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991495653.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

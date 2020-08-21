@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27996418374",
+        "nomeCompleto": "JANETTE FAVORETTI",
+        "cpf": "71989366791",
+        "telefoneContato": "",
+        "dataNascimento": "08/02/1961",
+        "nomeMae": "NAIR DE ARAUJO FAVORETTI",
+        "email": null,
+        "cep": "29111360",
+        "endereco": "RUA JUNDIAPEBA",
+        "numeroEndereco": "12",
+        "complementoEndereco": "",
+        "bairro": "COBILANDIA",
+        "cidade": "VILA VELHA",
+        "estado": "ES",
+        "logradouro": "JUNDIAPEBA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27996418374.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

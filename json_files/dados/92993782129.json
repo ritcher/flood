@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993782129",
+        "nomeCompleto": "M\u00e1RCIO LIMA DE FREITAS",
+        "cpf": "06986556136",
+        "telefoneContato": "",
+        "dataNascimento": "05/10/1999",
+        "nomeMae": null,
+        "email": "heliomartins193@gmail.com",
+        "cep": "69008200",
+        "endereco": " JOSE MARIA DA FE",
+        "numeroEndereco": "200",
+        "complementoEndereco": "",
+        "bairro": "COLONIA ANTONIO ALEIXO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "JOSE MARIA DA FE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993782129.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

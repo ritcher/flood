@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991705847",
+        "nomeCompleto": "MARIA MADALENA RIBEIRO DA COSTA",
+        "cpf": "47665700225",
+        "telefoneContato": "",
+        "dataNascimento": "11/09/1968",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "68450000",
+        "endereco": "TRAVESSA JUTAITEUA",
+        "numeroEndereco": "44",
+        "complementoEndereco": "",
+        "bairro": "NOVO HORIZONTE",
+        "cidade": "MOJU",
+        "estado": "PA",
+        "logradouro": "JUTAITEUA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991705847.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

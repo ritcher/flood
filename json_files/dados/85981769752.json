@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "85981769752",
+        "nomeCompleto": "EXPEDITO GOMES PINTO",
+        "cpf": "36290114387",
+        "telefoneContato": "",
+        "dataNascimento": "07/06/1948",
+        "nomeMae": "maria gomes borges",
+        "email": "roknijitro@enayu.com",
+        "cep": "60332025",
+        "endereco": " JORGE",
+        "numeroEndereco": "1411",
+        "complementoEndereco": "",
+        "bairro": "BARRA DO CEARA",
+        "cidade": "FORTALEZA",
+        "estado": "CE",
+        "logradouro": "JORGE",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 85981769752.",
+    "currentPlan": {
+        "code": "VIVOCTRLF48N",
+        "price": 39.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 3GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

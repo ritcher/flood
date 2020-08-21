@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65996433181",
+        "nomeCompleto": "MARIA APARECIDA NANTES CORREIA",
+        "cpf": "62175963187",
+        "telefoneContato": "",
+        "dataNascimento": "08/03/1970",
+        "nomeMae": null,
+        "email": "tiagoteix78@hi2.in",
+        "cep": "78237000",
+        "endereco": "RUA STA RITA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "STA RITA",
+        "cidade": "CURVELANDIA",
+        "estado": "MT",
+        "logradouro": "STA RITA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65996433181.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

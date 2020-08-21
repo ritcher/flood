@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27996975018",
+        "nomeCompleto": "GESSICA LAGASSE DE ALMEIDA",
+        "cpf": "13491749719",
+        "telefoneContato": "",
+        "dataNascimento": "27/07/1994",
+        "nomeMae": null,
+        "email": "6zcz09mrzbekhej@gmail.com",
+        "cep": "49640000",
+        "endereco": "AVENIDA ADOLFO PRADO",
+        "numeroEndereco": "99",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SANTA ROSA DE LIMA",
+        "estado": "SE",
+        "logradouro": "ADOLFO PRADO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27996975018.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

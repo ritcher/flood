@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=cd9cefd1-abe6-4449-9edb-4ea6d9448518",
+    "data": {
+        "linha": "88981951135",
+        "nomeCompleto": "JOSE CARLOS DE OLIVEIRA ",
+        "cpf": "05384401397",
+        "telefoneContato": "",
+        "dataNascimento": "31/01/1992",
+        "nomeMae": "LUIZA ANTONIA DA CONCEI\u00c7\u00c3O ",
+        "email": "zekarlos.oliveira2018@gmail.com",
+        "cep": "60110261",
+        "endereco": "Rua RUA GONCALVES LEDO",
+        "numeroEndereco": "1871",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "FORTALEZA",
+        "estado": "CE",
+        "logradouro": "RUA GONCALVES LEDO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981951135.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

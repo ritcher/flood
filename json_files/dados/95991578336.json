@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a9fa3c6a-4a32-4caf-9f07-19bd5b1a8b57",
+    "data": {
+        "linha": "95991578336",
+        "nomeCompleto": "THIAGO SILVA DE SOUZA",
+        "cpf": "95235671287",
+        "telefoneContato": "",
+        "dataNascimento": "29/07/1987",
+        "nomeMae": "EUCINEIA SILVA DE SOUZA",
+        "email": "thiago_souza@outlook.com.br",
+        "cep": "69037580",
+        "endereco": "RUA  JOSE FURTUOSO 54",
+        "numeroEndereco": "54",
+        "complementoEndereco": "",
+        "bairro": "NOVA ESPERANCA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": " JOSE FURTUOSO 54",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 95991578336.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993617133",
+        "nomeCompleto": "GILSON PEREIRA DA SILVA",
+        "cpf": "51814242287",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "66814215",
+        "endereco": "Rua RUA DOIS DE DEZEMBRO",
+        "numeroEndereco": "52",
+        "complementoEndereco": "",
+        "bairro": "PARACURI",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "RUA DOIS DE DEZEMBRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993617133.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

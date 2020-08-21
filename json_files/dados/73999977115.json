@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=da665252-7522-45c5-b163-efca6e0b7587",
+    "data": {
+        "linha": "73999977115",
+        "nomeCompleto": "ANTONIO AGUIAR PEREIRA",
+        "cpf": "01654480592",
+        "telefoneContato": "",
+        "dataNascimento": "05/06/1976",
+        "nomeMae": "LAURINDA MARIA DE AGUIAR",
+        "email": "lordleal2018@gmail.com",
+        "cep": "45807000",
+        "endereco": "RUA  MADUREIRA 100",
+        "numeroEndereco": "100",
+        "complementoEndereco": "",
+        "bairro": "VL ESPERANCA",
+        "cidade": "SANTA CRUZ CABRALIA",
+        "estado": "BA",
+        "logradouro": " MADUREIRA 100",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 73999977115.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

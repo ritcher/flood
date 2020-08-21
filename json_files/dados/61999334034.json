@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "61999334034",
+        "nomeCompleto": "LILIAN SANTANA BATISTA",
+        "cpf": "03132475106",
+        "telefoneContato": "",
+        "dataNascimento": "08/10/1987",
+        "nomeMae": "MARIA SANTANA BATISTA",
+        "email": "89p2sgr9r4rqnn8@gmail.com",
+        "cep": "72000000",
+        "endereco": "Q 06 CONJUNTO C",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CIDADE ESTRUTURAL",
+        "cidade": "BRASILIA",
+        "estado": "DF",
+        "logradouro": "06 CONJUNTO C",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61999334034.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

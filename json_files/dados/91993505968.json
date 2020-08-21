@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993505968",
+        "nomeCompleto": "ARTHUR LIMA TEIXEIRA",
+        "cpf": "22788280297",
+        "telefoneContato": "",
+        "dataNascimento": "09/10/1974",
+        "nomeMae": "ELCINA BARBOSA LIMA",
+        "email": "gpekfjejsjsja@gmail.com",
+        "cep": "66913050",
+        "endereco": " DOS ESCOTEIROS",
+        "numeroEndereco": "262",
+        "complementoEndereco": "",
+        "bairro": "CHAPEU VIRADO (MOSQUEIRO)",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "DOS ESCOTEIROS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993505968.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

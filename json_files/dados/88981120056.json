@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=7a3db3a6-967e-463c-9df9-c724db10fe61",
+    "data": {
+        "linha": "88981120056",
+        "nomeCompleto": "WALTER DE OLIVEIRA ALVES",
+        "cpf": "02834757305",
+        "telefoneContato": "",
+        "dataNascimento": "11/03/1987",
+        "nomeMae": null,
+        "email": "walterptg@hotmail.com",
+        "cep": "63160000",
+        "endereco": " MANOEL MONTEIRO",
+        "numeroEndereco": "98",
+        "complementoEndereco": "",
+        "bairro": "",
+        "cidade": "POTENGI",
+        "estado": "CE",
+        "logradouro": "MANOEL MONTEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981120056.",
+    "currentPlan": {
+        "code": "NEPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "NEPREDIARIOGSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

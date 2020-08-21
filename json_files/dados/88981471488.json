@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=67f7b78f-dd0b-4484-9118-293b0bb2d5d4",
+    "data": {
+        "linha": "88981471488",
+        "nomeCompleto": "ADRIANA PAULA CARVALHO",
+        "cpf": "80047041315",
+        "telefoneContato": "",
+        "dataNascimento": "14/06/1976",
+        "nomeMae": null,
+        "email": null,
+        "cep": "62010660",
+        "endereco": "RUA CEL ALBUQUERQUE",
+        "numeroEndereco": "866",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SOBRAL",
+        "estado": "CE",
+        "logradouro": "CEL ALBUQUERQUE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981471488.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

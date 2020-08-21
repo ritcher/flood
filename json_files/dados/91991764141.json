@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991764141",
+        "nomeCompleto": "AGEU DO CARMO CAMPELO",
+        "cpf": "03262771295",
+        "telefoneContato": "",
+        "dataNascimento": "03/01/1994",
+        "nomeMae": "MARIA BETANIA",
+        "email": null,
+        "cep": "68445000",
+        "endereco": "RUA BOA VENTURA DA SILVA",
+        "numeroEndereco": "25",
+        "complementoEndereco": "",
+        "bairro": "NOVO HORIZONTE",
+        "cidade": "BARCARENA",
+        "estado": "PA",
+        "logradouro": "BOA VENTURA DA SILVA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991764141.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

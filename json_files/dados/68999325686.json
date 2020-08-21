@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f620fba4-805c-4cc1-b075-13933eebcbf3",
+    "data": {
+        "linha": "68999325686",
+        "nomeCompleto": "RAQUELE OLIVEIRA DO NASCIMENTO",
+        "cpf": "06251003286",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69925000",
+        "endereco": "Rua RUA BATISTA DE MORAES",
+        "numeroEndereco": "9",
+        "complementoEndereco": "",
+        "bairro": "SAO FRANCISCO",
+        "cidade": "SENADOR GUIOMARD",
+        "estado": "AC",
+        "logradouro": "RUA BATISTA DE MORAES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999325686.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

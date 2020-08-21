@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11996306587",
+        "nomeCompleto": "MATHEUS HENRIQUE JERONIMO DOS SANTOS",
+        "cpf": "15889972600",
+        "telefoneContato": "",
+        "dataNascimento": "08/09/2000",
+        "nomeMae": null,
+        "email": null,
+        "cep": "37800000",
+        "endereco": "RUA MANOELA COELHO DE SOUZA",
+        "numeroEndereco": "97",
+        "complementoEndereco": "",
+        "bairro": "NOVO HORIZONTE",
+        "cidade": "GUAXUPE",
+        "estado": "mg",
+        "logradouro": "MANOELA COELHO DE SOUZA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11996306587.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=8a1b2c2a-7536-4b55-a5ef-008413a55276",
+    "data": {
+        "linha": "32999741793",
+        "nomeCompleto": "ANDREIA MARIA DOS SANTOS",
+        "cpf": "10684087669",
+        "telefoneContato": "",
+        "dataNascimento": "19/01/1976",
+        "nomeMae": null,
+        "email": "fcuchyxd@gmail.com",
+        "cep": "36800000",
+        "endereco": "RUA MAGALHAES QUEIROZ",
+        "numeroEndereco": "230",
+        "complementoEndereco": "",
+        "bairro": "STO ONOFRE",
+        "cidade": "CARANGOLA",
+        "estado": "mg",
+        "logradouro": "MAGALHAES QUEIROZ",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 32999741793.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

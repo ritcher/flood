@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21971439798",
+        "nomeCompleto": "MICHEL CABRAL LARANJA",
+        "cpf": "13889351719",
+        "telefoneContato": "",
+        "dataNascimento": "17/10/1989",
+        "nomeMae": "IVONE CABRAL LARANJA",
+        "email": "michel1989cabral@gmail.com",
+        "cep": "26052300",
+        "endereco": "RUA ALVARO GONCALVES",
+        "numeroEndereco": "302",
+        "complementoEndereco": "",
+        "bairro": "VL DE CAVA",
+        "cidade": "NOVA IGUACU",
+        "estado": "Rj",
+        "logradouro": "ALVARO GONCALVES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21971439798.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

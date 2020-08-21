@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=3d860c52-afd1-4089-b6cc-2529ff3a91ab",
+    "data": {
+        "linha": "37998556780",
+        "nomeCompleto": "NEUZA APARECIDA PATROCINIO",
+        "cpf": "07000574631",
+        "telefoneContato": "",
+        "dataNascimento": "12/01/1966",
+        "nomeMae": null,
+        "email": null,
+        "cep": "35590000",
+        "endereco": "RUA RIO GRANDE DO SUL",
+        "numeroEndereco": "1992",
+        "complementoEndereco": "",
+        "bairro": "STA EUGENIA",
+        "cidade": "LAGOA DA PRATA",
+        "estado": "mg",
+        "logradouro": "RIO GRANDE DO SUL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37998556780.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

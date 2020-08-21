@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992939117",
+        "nomeCompleto": "NALIELE DO CARMO MARQUES",
+        "cpf": "02897531207",
+        "telefoneContato": "",
+        "dataNascimento": "15/12/1995",
+        "nomeMae": null,
+        "email": null,
+        "cep": "05203390",
+        "endereco": "RUA ARACAGI",
+        "numeroEndereco": "20",
+        "complementoEndereco": "",
+        "bairro": "VILA FANTON",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "ARACAGI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992939117.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

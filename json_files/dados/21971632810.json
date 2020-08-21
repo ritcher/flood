@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21971632810",
+        "nomeCompleto": "ALVARO JUNIOR DA SILVA SOUZA",
+        "cpf": "14515450700",
+        "telefoneContato": "",
+        "dataNascimento": "15/02/1988",
+        "nomeMae": "Creuza de Fatma da Silva",
+        "email": "irhl1cseyintvv3@gmail.com",
+        "cep": "28685970",
+        "endereco": "RUA FLORIANO PEIXOTO",
+        "numeroEndereco": "532",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "JAPUIBA",
+        "estado": "RJ",
+        "logradouro": "FLORIANO PEIXOTO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21971632810.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

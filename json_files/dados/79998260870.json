@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6dac7ca3-ec80-4c73-b244-74abde051bf9",
+    "data": {
+        "linha": "79998260870",
+        "nomeCompleto": "LUCIANA SANTOS ROSA",
+        "cpf": "06597751582",
+        "telefoneContato": "",
+        "dataNascimento": "27/07/1996",
+        "nomeMae": null,
+        "email": null,
+        "cep": "49700000",
+        "endereco": " ARIOSVALDO BARRETO",
+        "numeroEndereco": "94",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CAPELA",
+        "estado": "SE",
+        "logradouro": "ARIOSVALDO BARRETO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79998260870.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

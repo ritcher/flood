@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=499ff1c0-6d69-4802-a9a4-4eba6588c6ef",
+    "data": {
+        "linha": "94992742674",
+        "nomeCompleto": "UESDLEI ALEFE DE OLIVEIRA SOUZA SOARES",
+        "cpf": "00572710208",
+        "telefoneContato": "",
+        "dataNascimento": "13/12/1993",
+        "nomeMae": "Lindalva monteiro",
+        "email": "correi11@gmail.com",
+        "cep": "69304060",
+        "endereco": "RUA VASCO DA GAMA",
+        "numeroEndereco": "9828",
+        "complementoEndereco": "",
+        "bairro": "MECEJANA",
+        "cidade": "BOA VISTA",
+        "estado": "RR",
+        "logradouro": "VASCO DA GAMA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992742674.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

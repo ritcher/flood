@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51995196285",
+        "nomeCompleto": "ELIANE DEOLIVEIRA GARCIA",
+        "cpf": "00363585095",
+        "telefoneContato": "",
+        "dataNascimento": "02/02/1988",
+        "nomeMae": "X",
+        "email": null,
+        "cep": "95600000",
+        "endereco": " RUA VALDOMIRO MELLO",
+        "numeroEndereco": "1776",
+        "complementoEndereco": "",
+        "bairro": "EMPRESA",
+        "cidade": "TAQUARA",
+        "estado": "RS",
+        "logradouro": "RUA VALDOMIRO MELLO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51995196285.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

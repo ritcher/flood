@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=71954fbc-c59f-4338-b421-f84dbb08ae28",
+    "data": {
+        "linha": "98991883045",
+        "nomeCompleto": "GEAN GOMES",
+        "cpf": "01586275631",
+        "telefoneContato": "",
+        "dataNascimento": "13/07/1987",
+        "nomeMae": null,
+        "email": "gc4u39po09hd@gmail.com",
+        "cep": "39400590",
+        "endereco": "RUA DIVINO ESPIRITO SANTO",
+        "numeroEndereco": "145",
+        "complementoEndereco": "",
+        "bairro": "EDGAR PEREIRA",
+        "cidade": "MONTES CLAROS",
+        "estado": "mg",
+        "logradouro": "DIVINO ESPIRITO SANTO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98991883045.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

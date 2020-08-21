@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9304d092-953d-48f8-af06-2e869f10759c",
+    "data": {
+        "linha": "94992394373",
+        "nomeCompleto": "LUZIA DA SILVA AGUIAR",
+        "cpf": "36503576234",
+        "telefoneContato": "",
+        "dataNascimento": "21/12/1963",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68555243",
+        "endereco": "RUA PONTES DE MIRANDA",
+        "numeroEndereco": "609",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "XINGUARA",
+        "estado": "PA",
+        "logradouro": "PONTES DE MIRANDA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992394373.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

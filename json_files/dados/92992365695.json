@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "92992365695",
+        "nomeCompleto": "BRENO BATTAY PEREIRA",
+        "cpf": "03795367220",
+        "telefoneContato": "",
+        "dataNascimento": "07/08/1998",
+        "nomeMae": "vera Lucia battay da silva ",
+        "email": "nilcy.fernandes025@gmail.com",
+        "cep": "69090767",
+        "endereco": " RUA PROFESSOR MANOEL BELEM",
+        "numeroEndereco": "117",
+        "complementoEndereco": "",
+        "bairro": "MANOA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "RUA PROFESSOR MANOEL BELEM",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992365695.",
+    "currentPlan": {
+        "code": "VIVOCTRLF48N",
+        "price": 39.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 3GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

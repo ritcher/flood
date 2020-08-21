@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992736130",
+        "nomeCompleto": "JO\u00c3O PEDRO ALVES BORGES",
+        "cpf": "70409712248",
+        "telefoneContato": "",
+        "dataNascimento": "30/06/1999",
+        "nomeMae": null,
+        "email": null,
+        "cep": "00000000",
+        "endereco": " BRUNO GARCIA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "TRES LAGOAS",
+        "estado": "GO",
+        "logradouro": "BRUNO GARCIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992736130.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

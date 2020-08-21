@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a9c6af7a-4a7a-49c0-96c8-2d8eee077cd0",
+    "data": {
+        "linha": "73998126292",
+        "nomeCompleto": "MOZART MARIN FILHO",
+        "cpf": "35586421801",
+        "telefoneContato": "",
+        "dataNascimento": "20/08/1985",
+        "nomeMae": null,
+        "email": "lsjsjsidududj@gmail.com",
+        "cep": "45500000",
+        "endereco": " AMAZONAS",
+        "numeroEndereco": "71",
+        "complementoEndereco": "",
+        "bairro": "CIGANA",
+        "cidade": "IBIRAPITANGA",
+        "estado": "BA",
+        "logradouro": "AMAZONAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 73998126292.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

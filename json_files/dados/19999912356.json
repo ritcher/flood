@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "19999912356",
+        "nomeCompleto": "DOMINGOS DONIZETI DA CRUZ",
+        "cpf": "08704144880",
+        "telefoneContato": "",
+        "dataNascimento": "04/11/1965",
+        "nomeMae": "MARIA APARECIDA DE FREITAS DA CRUZ",
+        "email": "domingos-cruz2011@hotmail.com",
+        "cep": "13053215",
+        "endereco": "RUA QUINZE",
+        "numeroEndereco": "30",
+        "complementoEndereco": "",
+        "bairro": "JARDIM MARISA",
+        "cidade": "CAMPINAS",
+        "estado": "SP",
+        "logradouro": "QUINZE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19999912356.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

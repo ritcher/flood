@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "64996750195",
+        "nomeCompleto": "Alexsandro vital de Almeida ",
+        "cpf": "06827503445",
+        "telefoneContato": "",
+        "dataNascimento": "04/01/1987",
+        "nomeMae": "Maria Jos\u00e9 Barbosa de Almeida",
+        "email": "mariaevelyn09av@gmail.com",
+        "cep": "74650050",
+        "endereco": "Rua RUA DONA DARCY",
+        "numeroEndereco": "195",
+        "complementoEndereco": "",
+        "bairro": "SETOR NEGRAO DE LIMA",
+        "cidade": "GOIANIA",
+        "estado": "GO",
+        "logradouro": "RUA DONA DARCY",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 64996750195.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

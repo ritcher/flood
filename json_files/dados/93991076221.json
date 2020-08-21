@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=21fd2e3f-2292-43aa-98ef-62917ccacc71",
+    "data": {
+        "linha": "93991076221",
+        "nomeCompleto": "RODRIGO DIAS DA COSTA",
+        "cpf": "55362664204",
+        "telefoneContato": "",
+        "dataNascimento": "08/04/1997",
+        "nomeMae": "REINARA PERREIRA DE FIGUEREDO",
+        "email": null,
+        "cep": "68143000",
+        "endereco": "EST 1",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "BELTERRA",
+        "estado": "PA",
+        "logradouro": "1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991076221.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=978085cb-1cd8-4ff2-9a8c-f98c8a599e48",
+    "data": {
+        "linha": "98991232681",
+        "nomeCompleto": "victor gabriel dal fonseca dias",
+        "cpf": "62520278390",
+        "telefoneContato": "",
+        "dataNascimento": "17/07/2001",
+        "nomeMae": null,
+        "email": "vikttorgabriel@gmail.com",
+        "cep": "65061490",
+        "endereco": "ALAMEDA VI",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "BEQUIMAO",
+        "cidade": "S LUIS",
+        "estado": "MA",
+        "logradouro": "VI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98991232681.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

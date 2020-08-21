@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21996801902",
+        "nomeCompleto": "PAULO ROBERTO MOMESSO",
+        "cpf": "00223267821",
+        "telefoneContato": "",
+        "dataNascimento": "02/10/1958",
+        "nomeMae": null,
+        "email": "qv3651b60eatd5n@gmail.com",
+        "cep": "13976410",
+        "endereco": "RUA IPE",
+        "numeroEndereco": "118",
+        "complementoEndereco": "",
+        "bairro": "VL STA MARTA",
+        "cidade": "ITAPIRA",
+        "estado": "sp",
+        "logradouro": "IPE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21996801902.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

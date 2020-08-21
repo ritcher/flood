@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a40d7186-780b-45c2-ba5e-76fd0530535f",
+    "data": {
+        "linha": "68999026234",
+        "nomeCompleto": "ELISANGELA SILVA SANTANA",
+        "cpf": "51856387291",
+        "telefoneContato": "",
+        "dataNascimento": "10/11/1976",
+        "nomeMae": null,
+        "email": "marcossilva6899026234@gmail.com",
+        "cep": "69906420",
+        "endereco": "RUA JULIO MARIANO",
+        "numeroEndereco": "547",
+        "complementoEndereco": "",
+        "bairro": "TAQUARI",
+        "cidade": "RIO BRANCO",
+        "estado": "AC",
+        "logradouro": "JULIO MARIANO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999026234.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

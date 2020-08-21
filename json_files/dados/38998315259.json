@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=fe92feaf-ffbf-44fa-9f2f-b1fe3346ae1a",
+    "data": {
+        "linha": "38998315259",
+        "nomeCompleto": "LUIS APARECIDO PEREIRA DA SILVA",
+        "cpf": "55423884691",
+        "telefoneContato": "",
+        "dataNascimento": "25/05/1963",
+        "nomeMae": "MARIA",
+        "email": "33910045@gmail.com",
+        "cep": "33910045",
+        "endereco": "RUA DAS PAINEIRAS",
+        "numeroEndereco": "578",
+        "complementoEndereco": "",
+        "bairro": "PARAISO DAS PIABAS",
+        "cidade": "RIBEIRAO DAS NEVES",
+        "estado": "mg",
+        "logradouro": "DAS PAINEIRAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38998315259.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

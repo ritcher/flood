@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991312213",
+        "nomeCompleto": "JONAS CRUZ NASCIMENTO",
+        "cpf": "95277986200",
+        "telefoneContato": "",
+        "dataNascimento": "30/07/1984",
+        "nomeMae": "MARIA ANTONIA DA CRUZ NASCIMENTO",
+        "email": null,
+        "cep": "68870000",
+        "endereco": "Rua QUATORZE 31",
+        "numeroEndereco": "31",
+        "complementoEndereco": "",
+        "bairro": "PACOVAL",
+        "cidade": "SOURE",
+        "estado": "PA",
+        "logradouro": "QUATORZE 31",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991312213.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

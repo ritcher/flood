@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f1a59ef6-6e47-441a-8dcb-dd45ed81507a",
+    "data": {
+        "linha": "81982579904",
+        "nomeCompleto": "MARIA MARTA DE TORRES",
+        "cpf": "03497603490",
+        "telefoneContato": "",
+        "dataNascimento": "07/09/1973",
+        "nomeMae": "MARIA JOSE DA SILVA TORRES",
+        "email": null,
+        "cep": "55460000",
+        "endereco": "RUA DMIGUEL V FERREIRA 22",
+        "numeroEndereco": "22",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CUPIRA",
+        "estado": "PE",
+        "logradouro": "DMIGUEL V FERREIRA 22",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 81982579904.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

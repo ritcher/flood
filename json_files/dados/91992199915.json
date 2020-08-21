@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992199915",
+        "nomeCompleto": "MARIA SANDRA VIANA DA SILVA",
+        "cpf": "46759492234",
+        "telefoneContato": "",
+        "dataNascimento": "12/01/1974",
+        "nomeMae": null,
+        "email": null,
+        "cep": "75090703",
+        "endereco": "RUA  JOSE ALVES RIBEIRO 1 Q 7 L 3",
+        "numeroEndereco": "1",
+        "complementoEndereco": "",
+        "bairro": "RES STO EXPEDITO",
+        "cidade": "ANAPOLIS",
+        "estado": "GO",
+        "logradouro": " JOSE ALVES RIBEIRO 1 Q 7 L 3",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992199915.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

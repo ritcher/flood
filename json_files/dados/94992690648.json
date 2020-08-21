@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f87a4e00-5c5b-49b2-acfd-3d5667ed3d7d",
+    "data": {
+        "linha": "94992690648",
+        "nomeCompleto": "WILLAS ALVES DOS SANTOS",
+        "cpf": "03696992119",
+        "telefoneContato": "",
+        "dataNascimento": "27/08/1991",
+        "nomeMae": "Francisca alves dos santos ",
+        "email": "willasscott@gmail.com",
+        "cep": "77470000",
+        "endereco": "RUA RIO PACAS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "FORMOSO DO ARAGUAIA",
+        "estado": "TO",
+        "logradouro": "RIO PACAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992690648.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

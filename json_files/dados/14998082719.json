@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "14998082719",
+        "nomeCompleto": "EVELIN PRISCILA ROSA LIMA",
+        "cpf": "40915404818",
+        "telefoneContato": "",
+        "dataNascimento": "09/06/2000",
+        "nomeMae": "ELIANE MARIA GOES ROSA",
+        "email": null,
+        "cep": "18686010",
+        "endereco": "RUA S MARCOS 230",
+        "numeroEndereco": "230",
+        "complementoEndereco": "",
+        "bairro": "CH STO ANTONIO",
+        "cidade": "LENCOIS PAULISTA",
+        "estado": "sp",
+        "logradouro": "S MARCOS 230",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 14998082719.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991730953",
+        "nomeCompleto": "Leonardo Giovanni Lucca carvalho",
+        "cpf": "60202432491",
+        "telefoneContato": "",
+        "dataNascimento": "02/08/1974",
+        "nomeMae": "Isabel daniela",
+        "email": "leonardo.leo.10@gmail.com",
+        "cep": "04180112",
+        "endereco": " 19 DE AGOSTO",
+        "numeroEndereco": "104",
+        "complementoEndereco": "",
+        "bairro": "JARDIM MARIA ESTELA",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "19 DE AGOSTO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991730953.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

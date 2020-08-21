@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "38999746845",
+        "nomeCompleto": "LAERTE JOSE SANTANA",
+        "cpf": "27804184867",
+        "telefoneContato": "",
+        "dataNascimento": "02/07/1977",
+        "nomeMae": null,
+        "email": "laertejose061@gmail.com",
+        "cep": "37145000",
+        "endereco": "RUA DUQUE DE CAXIAS",
+        "numeroEndereco": "295",
+        "complementoEndereco": "",
+        "bairro": "DIVINO ESPIRITO SANTOS",
+        "cidade": "ALTEROSA",
+        "estado": "MG",
+        "logradouro": "DUQUE DE CAXIAS",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38999746845.",
+    "currentPlan": {
+        "code": "VIVOCTRLF27N",
+        "price": 54.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-3GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

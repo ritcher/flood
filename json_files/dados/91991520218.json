@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991520218",
+        "nomeCompleto": "RADILENE NASCIMETTO SA",
+        "cpf": "63052571249",
+        "telefoneContato": "",
+        "dataNascimento": "08/08/1977",
+        "nomeMae": "MARIA ERODINA NASCIMETO SA",
+        "email": null,
+        "cep": "66065350",
+        "endereco": "PSG JOANA D ARC",
+        "numeroEndereco": "12",
+        "complementoEndereco": "",
+        "bairro": "CONDOR",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "JOANA D ARC",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991520218.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

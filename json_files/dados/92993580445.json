@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993580445",
+        "nomeCompleto": "LUCIANA COELHO BRITO",
+        "cpf": "98133403200",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": "zwdtnxqn@gmail.com",
+        "cep": "69084180",
+        "endereco": "Rua RUA DR EDIVALDO",
+        "numeroEndereco": "34",
+        "complementoEndereco": "",
+        "bairro": "ZUMBI PALMARES I",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "RUA DR EDIVALDO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993580445.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

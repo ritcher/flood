@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f50c5f9e-fbe8-44b2-aa0d-593bc1599413",
+    "data": {
+        "linha": "37998211748",
+        "nomeCompleto": "AGNALDO NAZARE DE JESUS",
+        "cpf": "13520004666",
+        "telefoneContato": "",
+        "dataNascimento": "08/09/1988",
+        "nomeMae": "FRANCISCA CAROLINA ROSARIO JESUS",
+        "email": null,
+        "cep": "35540000",
+        "endereco": "R EMANUEL RABELO MESQUITA",
+        "numeroEndereco": "149",
+        "complementoEndereco": "",
+        "bairro": "DOMINGOS RIBEIRO",
+        "cidade": "OLIVEIRA",
+        "estado": "MG",
+        "logradouro": "EMANUEL RABELO MESQUITA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37998211748.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

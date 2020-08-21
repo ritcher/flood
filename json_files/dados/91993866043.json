@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993866043",
+        "nomeCompleto": "SILVALDA PENICHE BARBOSA",
+        "cpf": "85724173204",
+        "telefoneContato": "",
+        "dataNascimento": "26/11/1986",
+        "nomeMae": null,
+        "email": "civaldabarbosa56@gmail.com",
+        "cep": "67145099",
+        "endereco": "Rua QD CENTO E QUARENTA E SETE",
+        "numeroEndereco": "15",
+        "complementoEndereco": "",
+        "bairro": "MAGUARI",
+        "cidade": "ANANINDEUA",
+        "estado": "PA",
+        "logradouro": "QD CENTO E QUARENTA E SETE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993866043.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

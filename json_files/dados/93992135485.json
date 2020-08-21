@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=4c6a3ea5-9b6c-45a5-95df-7dc262be7ecc",
+    "data": {
+        "linha": "93992135485",
+        "nomeCompleto": "DILCENEIA CALDEIRA FERNANDES",
+        "cpf": "00578432285",
+        "telefoneContato": "",
+        "dataNascimento": "03/02/1988",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "00000000",
+        "endereco": "AV A",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "MARCOS FREIRE II",
+        "cidade": "NOSSA SENHORA DO SOCORRO",
+        "estado": "SE",
+        "logradouro": "A",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992135485.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

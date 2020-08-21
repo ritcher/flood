@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=30213f3a-14dc-4f5f-a7d3-5a6952f05857",
+    "data": {
+        "linha": "94992734960",
+        "nomeCompleto": "joao ribeiro ribeiro",
+        "cpf": "68032641220",
+        "telefoneContato": "",
+        "dataNascimento": "24/06/1979",
+        "nomeMae": "Maria dorores Ribeiro da Concei\u00e7\u00e3o",
+        "email": "joaozin777ribeiro@gmail.com",
+        "cep": "68512040",
+        "endereco": "QUADRA  CINCO 8",
+        "numeroEndereco": "8",
+        "complementoEndereco": "",
+        "bairro": "NOVA MARABA",
+        "cidade": "MARABA",
+        "estado": "PA",
+        "logradouro": " CINCO 8",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992734960.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

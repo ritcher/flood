@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=ab68237f-3bc8-4037-ae19-84fcad6ebfae",
+    "data": {
+        "linha": "87981768431",
+        "nomeCompleto": "MARIA LIGIA DE PAULA SANTOS",
+        "cpf": "05096926800",
+        "telefoneContato": "",
+        "dataNascimento": "26/07/1945",
+        "nomeMae": null,
+        "email": "smdkkd@gmail.com",
+        "cep": "02725000",
+        "endereco": " AVENIDA ANTONIO MUNHOZ BONILHA",
+        "numeroEndereco": "839",
+        "complementoEndereco": "",
+        "bairro": "VILA PALMEIRAS",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "AVENIDA ANTONIO MUNHOZ BONILHA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 87981768431.",
+    "currentPlan": {
+        "code": "NEPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "NEPREDIARIOGSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

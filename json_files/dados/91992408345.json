@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992408345",
+        "nomeCompleto": "ZILDA EPSTEJN",
+        "cpf": "03349572812",
+        "telefoneContato": "",
+        "dataNascimento": "19/03/1938",
+        "nomeMae": "NEHANA CHINZON",
+        "email": "helena5747@gmail.com",
+        "cep": "14100000",
+        "endereco": "AVENIDA ENGENHEIRO IVANIL FRANCISCHINI",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "JARDIM ROMANA",
+        "cidade": "IBITINGA",
+        "estado": "SP",
+        "logradouro": "ENGENHEIRO IVANIL FRANCISCHINI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992408345.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

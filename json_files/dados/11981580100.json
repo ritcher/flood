@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11981580100",
+        "nomeCompleto": "WEBER ALEXANDRE A RESS PEREIRA",
+        "cpf": "17451025829",
+        "telefoneContato": "",
+        "dataNascimento": "01/08/1976",
+        "nomeMae": null,
+        "email": "weber_ress@hotmail.com",
+        "cep": "05303000",
+        "endereco": "RUA CARLOS WEBER",
+        "numeroEndereco": "890",
+        "complementoEndereco": "",
+        "bairro": "VILA LEOPOLDINA",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "CARLOS WEBER",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11981580100.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

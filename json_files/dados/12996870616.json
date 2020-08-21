@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12996870616",
+        "nomeCompleto": "douglas luiz da silva encarnacao",
+        "cpf": "34628307830",
+        "telefoneContato": "",
+        "dataNascimento": "06/10/1988",
+        "nomeMae": "clemair da silva",
+        "email": "douglas.10@gmail.com",
+        "cep": "12520020",
+        "endereco": "RUA LEONIDAS MACHADO",
+        "numeroEndereco": "70",
+        "complementoEndereco": "",
+        "bairro": "VL STA RITA",
+        "cidade": "GUARATINGUETA",
+        "estado": "sp",
+        "logradouro": "LEONIDAS MACHADO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996870616.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

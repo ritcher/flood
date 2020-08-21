@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=92901057-29f0-4997-8a28-9bf266fed72c",
+    "data": {
+        "linha": "75998873377",
+        "nomeCompleto": "AUGUSTO ALVES DA SILVA",
+        "cpf": "03551095574",
+        "telefoneContato": "",
+        "dataNascimento": "31/05/1987",
+        "nomeMae": null,
+        "email": null,
+        "cep": "46960000",
+        "endereco": "RUA  DA PONTE NOVA SN",
+        "numeroEndereco": "SN",
+        "complementoEndereco": "",
+        "bairro": "TANQUINHO DE LENCOIS",
+        "cidade": "LENCOIS",
+        "estado": "BA",
+        "logradouro": " DA PONTE NOVA SN",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 75998873377.",
+    "currentPlan": {
+        "code": "BAVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21995489280",
+        "nomeCompleto": "LUIS HENRIQUE DA CRUZ DOS SANTOS CARVALHO",
+        "cpf": "19129065704",
+        "telefoneContato": "",
+        "dataNascimento": "24/02/2001",
+        "nomeMae": "claudia helena da cruz",
+        "email": null,
+        "cep": "26510361",
+        "endereco": "ETR ESTRADA ELISEU DE ALVARENGA",
+        "numeroEndereco": "695",
+        "complementoEndereco": "",
+        "bairro": "OLINDA",
+        "cidade": "NILOPOLIS",
+        "estado": "RJ",
+        "logradouro": "ESTRADA ELISEU DE ALVARENGA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21995489280.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

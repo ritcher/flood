@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11943806924",
+        "nomeCompleto": "GENESIO SANTOS DE LIMA",
+        "cpf": "03024166505",
+        "telefoneContato": "",
+        "dataNascimento": "10/05/1974",
+        "nomeMae": "DERIVALDA DOS SANTOS",
+        "email": null,
+        "cep": "48700000",
+        "endereco": "Rua FAZ  LAGOA DO MATO 60 C",
+        "numeroEndereco": "60",
+        "complementoEndereco": "",
+        "bairro": "ZONA RURAL",
+        "cidade": "SERRINHA",
+        "estado": "BA",
+        "logradouro": "FAZ  LAGOA DO MATO 60 C",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11943806924.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

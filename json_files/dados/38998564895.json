@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=092ca5d8-585f-4878-a419-ce18cc22d298",
+    "data": {
+        "linha": "38998564895",
+        "nomeCompleto": "MARCIO APARECIDO DE SOUZA",
+        "cpf": "31986793893",
+        "telefoneContato": "",
+        "dataNascimento": "08/03/1983",
+        "nomeMae": null,
+        "email": "ono6173@gmail.com",
+        "cep": "05379000",
+        "endereco": "AVENIDA RIO PEQUENO",
+        "numeroEndereco": "120",
+        "complementoEndereco": "",
+        "bairro": "BUTANTA",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "RIO PEQUENO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38998564895.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

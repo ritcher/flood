@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27999021662",
+        "nomeCompleto": "FABRICIO DE ALMEIDA MONTEIRO",
+        "cpf": "10835589781",
+        "telefoneContato": "",
+        "dataNascimento": "29/06/1985",
+        "nomeMae": null,
+        "email": "fabryciomonteiro@hotmail.com",
+        "cep": "29903105",
+        "endereco": "RUA HENRIQUE DE COIMBRA",
+        "numeroEndereco": "209",
+        "complementoEndereco": "",
+        "bairro": "INTERLAGOS",
+        "cidade": "LINHARES",
+        "estado": "es",
+        "logradouro": "HENRIQUE DE COIMBRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27999021662.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

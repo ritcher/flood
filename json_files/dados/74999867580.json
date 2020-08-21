@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a2633b03-27cf-4713-b5fd-ed776b881353",
+    "data": {
+        "linha": "74999867580",
+        "nomeCompleto": "NATALINO FIRMINO DE OLIVEIRA",
+        "cpf": "72998903568",
+        "telefoneContato": "",
+        "dataNascimento": "25/12/1968",
+        "nomeMae": null,
+        "email": null,
+        "cep": "44905000",
+        "endereco": "RUA JOSE AUGUSTO DE MATOS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "AGUADA NOVA",
+        "cidade": "LAPAO",
+        "estado": "BA",
+        "logradouro": "JOSE AUGUSTO DE MATOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 74999867580.",
+    "currentPlan": {
+        "code": "BAVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

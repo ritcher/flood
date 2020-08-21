@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=101e91a8-1372-4106-bed9-07b756346a62",
+    "data": {
+        "linha": "84981572347",
+        "nomeCompleto": "ERMISON CHACOM DE OLIVEIRA",
+        "cpf": "03491354447",
+        "telefoneContato": "",
+        "dataNascimento": "01/01/1980",
+        "nomeMae": "ELINETE CHACOM DE OLIVEIRA",
+        "email": "tnsn2k9dqstp5wb@gmail.com",
+        "cep": "58297000",
+        "endereco": "RUA  ARISTIDES LOBO 1313",
+        "numeroEndereco": "1313",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "RIO TINTO",
+        "estado": "PB",
+        "logradouro": " ARISTIDES LOBO 1313",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 84981572347.",
+    "currentPlan": {
+        "code": "NEPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "NEPREDIARIOGSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

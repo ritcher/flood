@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=af55cf2e-eeac-42cb-bbe3-2b64ce81cf22",
+    "data": {
+        "linha": "93991552565",
+        "nomeCompleto": "MARIA DOS REMEDIOS PEREIRA DE SOUSA",
+        "cpf": "97472034215",
+        "telefoneContato": "",
+        "dataNascimento": "08/07/1987",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68180360",
+        "endereco": "Rua FRANCISCO MACEDO",
+        "numeroEndereco": "40",
+        "complementoEndereco": "",
+        "bairro": "PIRACANA",
+        "cidade": "ITAITUBA",
+        "estado": "PA",
+        "logradouro": "FRANCISCO MACEDO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991552565.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

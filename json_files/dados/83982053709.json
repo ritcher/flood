@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "83982053709",
+        "nomeCompleto": "Henrique Rodnei Da Costa Guedes",
+        "cpf": "14899525435",
+        "telefoneContato": "",
+        "dataNascimento": "31/03/1981",
+        "nomeMae": "Aurenice Maria Costa De Souza",
+        "email": "witohey359@newe-mail.com",
+        "cep": "58013240",
+        "endereco": "AV GETULIO VARGAS",
+        "numeroEndereco": "13",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "JOAO PESSOA",
+        "estado": "PB",
+        "logradouro": "GETULIO VARGAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 83982053709.",
+    "currentPlan": {
+        "code": "NEPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "NEPREDIARIOGSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

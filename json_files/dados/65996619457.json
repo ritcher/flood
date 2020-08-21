@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65996619457",
+        "nomeCompleto": "HELIENE REGINA DE FIGUEIREDO FIALHO",
+        "cpf": "01633833160",
+        "telefoneContato": "",
+        "dataNascimento": "15/07/1984",
+        "nomeMae": "MARCIA REGINA F FIALHO",
+        "email": "helienefialho@gmail.com",
+        "cep": "78200000",
+        "endereco": "Rua RCATE QUINTELA 315",
+        "numeroEndereco": "315",
+        "complementoEndereco": "",
+        "bairro": "S MIGUEL",
+        "cidade": "CACERES",
+        "estado": "MT",
+        "logradouro": "RCATE QUINTELA 315",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65996619457.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

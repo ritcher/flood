@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "91991507970",
+        "nomeCompleto": "SANDRO ARLESON FONSECA SILVA",
+        "cpf": "61012673340",
+        "telefoneContato": "",
+        "dataNascimento": "23/08/1994",
+        "nomeMae": null,
+        "email": "sandroarleson.94@gmail.com.br",
+        "cep": "66811010",
+        "endereco": " TRAVESSA DOS ANDRADAS",
+        "numeroEndereco": "69",
+        "complementoEndereco": "",
+        "bairro": "AGULHA (ICOARACI)",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "TRAVESSA DOS ANDRADAS",
+        "contaDigital": true,
+        "vencimentoFatura": "1",
+        "ciclo": "15",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991507970.",
+    "currentPlan": {
+        "code": "VIVOCTRLF47N",
+        "price": 34.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL 3GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "92993673575",
+        "nomeCompleto": "T\u00e2NIA VIEIRA DA SILVA",
+        "cpf": "02409039278",
+        "telefoneContato": "",
+        "dataNascimento": "11/01/1983",
+        "nomeMae": "Fabiana Ayla",
+        "email": "mmarciovicentejuliopeixoto@eberlin.agr.br",
+        "cep": "69240971",
+        "endereco": "AVENIDA AUTAZES",
+        "numeroEndereco": "262",
+        "complementoEndereco": "",
+        "bairro": "VALDOMIRO SAMPAIO",
+        "cidade": "AUTAZES",
+        "estado": "AM",
+        "logradouro": "AUTAZES",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993673575.",
+    "currentPlan": {
+        "code": "VIVOCTRLF51N",
+        "price": 84.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 5GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

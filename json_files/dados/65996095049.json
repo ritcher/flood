@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65996095049",
+        "nomeCompleto": "MAURICIO BALBOA",
+        "cpf": "40848426215",
+        "telefoneContato": "",
+        "dataNascimento": "23/12/1970",
+        "nomeMae": "ANA MARIA BALBOA",
+        "email": null,
+        "cep": "78110300",
+        "endereco": "AVENIDA FILINTO MULLER",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO'",
+        "cidade": "VARZEA GRANDE",
+        "estado": "MT",
+        "logradouro": "FILINTO MULLER",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65996095049.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

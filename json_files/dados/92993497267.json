@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993497267",
+        "nomeCompleto": "JESSICA NEPOMUCENO VALENTE",
+        "cpf": "00897023285",
+        "telefoneContato": "",
+        "dataNascimento": "28/12/1991",
+        "nomeMae": null,
+        "email": null,
+        "cep": "56508195",
+        "endereco": "Rua COSTA RICA",
+        "numeroEndereco": "681",
+        "complementoEndereco": "",
+        "bairro": "BOA ESPERANCA",
+        "cidade": "ARCOVERDE",
+        "estado": "PE",
+        "logradouro": "COSTA RICA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993497267.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

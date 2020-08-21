@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994136850",
+        "nomeCompleto": "NILTON ROBERTO SANTOS DE SOUZA",
+        "cpf": "85048011287",
+        "telefoneContato": "",
+        "dataNascimento": "13/02/1984",
+        "nomeMae": null,
+        "email": "severino0516@gmail.com",
+        "cep": "68925213",
+        "endereco": " 15 DE NOVEMBRO",
+        "numeroEndereco": "9255",
+        "complementoEndereco": "",
+        "bairro": "CENTRAL",
+        "cidade": "SANTANA",
+        "estado": "AP",
+        "logradouro": "15 DE NOVEMBRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994136850.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

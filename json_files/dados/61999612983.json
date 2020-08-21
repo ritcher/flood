@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "61999612983",
+        "nomeCompleto": "EDNEL AMANCIO DE SOUZA",
+        "cpf": "04159684106",
+        "telefoneContato": "",
+        "dataNascimento": "27/09/1992",
+        "nomeMae": "maria",
+        "email": "reita@hotimail.com",
+        "cep": "72231121",
+        "endereco": "QUADRA QUADRA QNP 10 CONJUNTO U",
+        "numeroEndereco": "1",
+        "complementoEndereco": "",
+        "bairro": "CEILANDIA SUL CEILANDIA",
+        "cidade": "BRASILIA",
+        "estado": "DF",
+        "logradouro": "QUADRA QNP 10 CONJUNTO U",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61999612983.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

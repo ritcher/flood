@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "91992121316",
+        "nomeCompleto": "MARIA LUCIA OLIVEIRA\tFERREIRA\t\t\t\t\t\t\t\t\t",
+        "cpf": "42293995291",
+        "telefoneContato": "",
+        "dataNascimento": "06/02/1939",
+        "nomeMae": "ESMERALDA PAULO DE OLIVEIRA",
+        "email": "oliveiraferreirasandro@gmaim.com",
+        "cep": "68450000",
+        "endereco": "RUA SALOMAO CARDOSO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ALTO",
+        "cidade": "MOJU",
+        "estado": "PA",
+        "logradouro": "SALOMAO CARDOSO",
+        "contaDigital": true,
+        "vencimentoFatura": "1",
+        "ciclo": "15",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992121316.",
+    "currentPlan": {
+        "code": "VIVOCTRLF27A",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL_4GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

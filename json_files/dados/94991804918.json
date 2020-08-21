@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=e4b8c7ff-18fe-4e4b-ab2a-9d630fe824cd",
+    "data": {
+        "linha": "94991804918",
+        "nomeCompleto": "ELISANGELA DA ROCHA SILVA",
+        "cpf": "81680813234",
+        "telefoneContato": "",
+        "dataNascimento": "27/04/1979",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68380000",
+        "endereco": "AVENIDA XINGU",
+        "numeroEndereco": "3447",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SAO FELIX DO XINGU",
+        "estado": "PA",
+        "logradouro": "XINGU",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991804918.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

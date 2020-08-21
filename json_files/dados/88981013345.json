@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=392a5b84-ba88-4e1b-8516-8380b7754b8f",
+    "data": {
+        "linha": "88981013345",
+        "nomeCompleto": "CONRADO FONTENELE ROCHA",
+        "cpf": "79902219349",
+        "telefoneContato": "",
+        "dataNascimento": "30/12/1977",
+        "nomeMae": null,
+        "email": null,
+        "cep": "62430000",
+        "endereco": "RUA PE JOAO BATISTA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "RURAL",
+        "cidade": "GRANJA",
+        "estado": "CE",
+        "logradouro": "PE JOAO BATISTA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981013345.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

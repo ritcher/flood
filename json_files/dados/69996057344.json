@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69996057344",
+        "nomeCompleto": "JEFFERSON CLAUDIO DIAS PAIAO",
+        "cpf": "68647883268",
+        "telefoneContato": "",
+        "dataNascimento": "07/03/1981",
+        "nomeMae": "MARIA ATHAYDE PAIAO",
+        "email": "y2yx5521xfgif39@gmail.com",
+        "cep": "76803742",
+        "endereco": "RUA  GETULIO VARGAS 3378",
+        "numeroEndereco": "3378",
+        "complementoEndereco": "",
+        "bairro": "S JOAO BOSCO",
+        "cidade": "PORTO VELHO",
+        "estado": "RO",
+        "logradouro": " GETULIO VARGAS 3378",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69996057344.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

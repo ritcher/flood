@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21998542753",
+        "nomeCompleto": "Osmar Farias Camelo",
+        "cpf": "44088272749",
+        "telefoneContato": "",
+        "dataNascimento": "17/12/1957",
+        "nomeMae": "Severina Farias Camelo",
+        "email": "osmarfariascamelo57@gmail.com.br",
+        "cep": "25560160",
+        "endereco": "RUA  JOAQUIM NABUCO 19 Q 84",
+        "numeroEndereco": "19",
+        "complementoEndereco": "",
+        "bairro": "VILAR DOS TELES",
+        "cidade": "SAO JOAO DE MERITI",
+        "estado": "Rj",
+        "logradouro": " JOAQUIM NABUCO 19 Q 84",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21998542753.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

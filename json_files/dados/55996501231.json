@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "55996501231",
+        "nomeCompleto": "Sabrina da  Silva da silva ",
+        "cpf": "04275226097",
+        "telefoneContato": "",
+        "dataNascimento": "14/12/1996",
+        "nomeMae": "Sara da silva ",
+        "email": "bynasilvaamor982@gmail.com",
+        "cep": "97578280",
+        "endereco": "RUA  FRANCELINO CURSINO DOS SANTOS 247 CS",
+        "numeroEndereco": "247",
+        "complementoEndereco": "",
+        "bairro": "PRQ S JOSE",
+        "cidade": "SANTANA DO LIVRAMENTO",
+        "estado": "rs",
+        "logradouro": " FRANCELINO CURSINO DOS SANTOS 247 CS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 55996501231.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=5cfb9be1-7a09-4bf9-b70a-1fea5f17d8df",
+    "data": {
+        "linha": "95991563184",
+        "nomeCompleto": "delciane de lima",
+        "cpf": "98850598220",
+        "telefoneContato": "",
+        "dataNascimento": "25/07/1986",
+        "nomeMae": "AAAA",
+        "email": "delcianedelci@gmail.com",
+        "cep": "69309170",
+        "endereco": "R MANOEL FELIPE",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "BURITIS",
+        "cidade": "BOA VISTA",
+        "estado": "RR",
+        "logradouro": "MANOEL FELIPE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 95991563184.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

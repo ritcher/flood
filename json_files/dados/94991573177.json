@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=bfda3fd6-862c-464b-a19d-d80e5aa82118",
+    "data": {
+        "linha": "94991573177",
+        "nomeCompleto": "NILMA DA SILVA DOS SANTOS",
+        "cpf": "03924942218",
+        "telefoneContato": "",
+        "dataNascimento": "22/06/1997",
+        "nomeMae": null,
+        "email": "nilma.santostuc@gmail.com",
+        "cep": "68459230",
+        "endereco": " BENEVIDES",
+        "numeroEndereco": "0",
+        "complementoEndereco": "",
+        "bairro": "JARDIM SAO FRANCISCO DAS CHAGAS",
+        "cidade": "TUCURUI",
+        "estado": "PA",
+        "logradouro": "BENEVIDES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991573177.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

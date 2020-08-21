@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=738e17c0-1dff-4deb-a0ad-a30dcdee3f02",
+    "data": {
+        "linha": "68999155452",
+        "nomeCompleto": "JONATHAN LIMA DE OLIVEIRA",
+        "cpf": "02327301211",
+        "telefoneContato": "",
+        "dataNascimento": "05/08/1993",
+        "nomeMae": "leiliane dos santos lima",
+        "email": "abintermediacao@gmail.com",
+        "cep": "69918178",
+        "endereco": "RUA VITAL BRASIL",
+        "numeroEndereco": "171",
+        "complementoEndereco": "",
+        "bairro": "ESTACAO EXPERIMENTAL",
+        "cidade": "R BRANCO",
+        "estado": "AC",
+        "logradouro": "VITAL BRASIL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999155452.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

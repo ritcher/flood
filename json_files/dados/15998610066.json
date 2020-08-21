@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15998610066",
+        "nomeCompleto": "MARIA APARECIDA FERREIRA GARCIA",
+        "cpf": "25625825866",
+        "telefoneContato": "",
+        "dataNascimento": "10/11/1962",
+        "nomeMae": null,
+        "email": null,
+        "cep": "18440000",
+        "endereco": "Rua RUA VERDE",
+        "numeroEndereco": "621",
+        "complementoEndereco": "",
+        "bairro": "ITABERA",
+        "cidade": "ITABERA",
+        "estado": "sp",
+        "logradouro": "RUA VERDE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15998610066.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

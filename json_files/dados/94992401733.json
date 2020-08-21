@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=76303bb0-76ce-4e85-85ff-34dc7902b4bd",
+    "data": {
+        "linha": "94992401733",
+        "nomeCompleto": "IRANEIDE BRITO CHAVES",
+        "cpf": "59904364249",
+        "telefoneContato": "",
+        "dataNascimento": "26/01/1978",
+        "nomeMae": null,
+        "email": "iraneide.chaves@revemar.com.br",
+        "cep": "68180460",
+        "endereco": "AVENIDA ANTAO FERREIRA DO VALE",
+        "numeroEndereco": "36",
+        "complementoEndereco": "",
+        "bairro": "BELA VISTA",
+        "cidade": "ITAITUBA",
+        "estado": "PA",
+        "logradouro": "ANTAO FERREIRA DO VALE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992401733.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

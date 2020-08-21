@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9e0e89cc-faad-4bb3-bdc3-fb391cbadfa6",
+    "data": {
+        "linha": "96991455320",
+        "nomeCompleto": "FABIO ANDRE BORGES DE LIMA",
+        "cpf": "84036818287",
+        "telefoneContato": "",
+        "dataNascimento": "09/12/1978",
+        "nomeMae": "MARIA BENEDITA BORGES DE LIMA",
+        "email": null,
+        "cep": "68920000",
+        "endereco": "RUA  DA USINA PASS UNIAO 125",
+        "numeroEndereco": "125",
+        "complementoEndereco": "",
+        "bairro": "MALVINAS",
+        "cidade": "LARANJAL DO JARI",
+        "estado": "AP",
+        "logradouro": " DA USINA PASS UNIAO 125",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 96991455320.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

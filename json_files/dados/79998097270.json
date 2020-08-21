@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=39298e48-367b-4cb0-b5b0-5718c4ba88c4",
+    "data": {
+        "linha": "79998097270",
+        "nomeCompleto": "BEATRIZ VIEIRA DOS SANTOS",
+        "cpf": "03097825541",
+        "telefoneContato": "",
+        "dataNascimento": "22/08/1965",
+        "nomeMae": null,
+        "email": null,
+        "cep": "49810000",
+        "endereco": " G",
+        "numeroEndereco": "159",
+        "complementoEndereco": "",
+        "bairro": "",
+        "cidade": "POCO REDONDO",
+        "estado": "SE",
+        "logradouro": "G",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79998097270.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

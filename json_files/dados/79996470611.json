@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=3296c6fb-84cb-4d6e-b839-464014c4b3ae",
+    "data": {
+        "linha": "79996470611",
+        "nomeCompleto": "ERICKSON MENEZES CORREIA",
+        "cpf": "06747104528",
+        "telefoneContato": "",
+        "dataNascimento": "14/07/1996",
+        "nomeMae": "ELINDETE DA CONCEICAO MENEZES",
+        "email": "68w8p6j3nftik4r@gmail.com",
+        "cep": "11111111",
+        "endereco": " PENDENTE CADASTRO ENDERECO",
+        "numeroEndereco": "11",
+        "complementoEndereco": "",
+        "bairro": "PENDENTE CADASTRO ENDERECO",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "PENDENTE CADASTRO ENDERECO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79996470611.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

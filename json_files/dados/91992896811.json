@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992896811",
+        "nomeCompleto": "maridalva dos santos silva",
+        "cpf": "74483013220",
+        "telefoneContato": "",
+        "dataNascimento": "02/03/1975",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68742038",
+        "endereco": "R SETE DE SETEMBRO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "NOVA OLINDA",
+        "cidade": "CASTANHAL",
+        "estado": "PA",
+        "logradouro": "SETE DE SETEMBRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992896811.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

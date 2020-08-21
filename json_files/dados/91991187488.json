@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991187488",
+        "nomeCompleto": "MARIA LUCIANA PEIXOTO ALVES",
+        "cpf": "03071777264",
+        "telefoneContato": "",
+        "dataNascimento": "30/10/1995",
+        "nomeMae": "maria jose pixoto alves ",
+        "email": null,
+        "cep": "68465000",
+        "endereco": "Rua RUA RUI BARBOSA",
+        "numeroEndereco": "110",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "BAIAO",
+        "estado": "PA",
+        "logradouro": "RUA RUI BARBOSA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991187488.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

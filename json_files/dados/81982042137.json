@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=41467fd4-b961-42d3-8630-cfd9a7db792a",
+    "data": {
+        "linha": "81982042137",
+        "nomeCompleto": "ALBERT FREDERICK DE LIMA FERNANDES",
+        "cpf": "10202012409",
+        "telefoneContato": "",
+        "dataNascimento": "19/09/1994",
+        "nomeMae": null,
+        "email": null,
+        "cep": "58052197",
+        "endereco": "Rua REJANE FREIRE CORREIA",
+        "numeroEndereco": "1028",
+        "complementoEndereco": "",
+        "bairro": "JARDIM CIDADE UNIVER",
+        "cidade": "JOAO PESSOA",
+        "estado": "PB",
+        "logradouro": "REJANE FREIRE CORREIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 81982042137.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67999877703",
+        "nomeCompleto": "ATAIL PEREIRA DE CARVALHO",
+        "cpf": "83589511168",
+        "telefoneContato": "",
+        "dataNascimento": "19/06/1966",
+        "nomeMae": null,
+        "email": null,
+        "cep": "79480000",
+        "endereco": "Rua RUA AER",
+        "numeroEndereco": "40",
+        "complementoEndereco": "",
+        "bairro": "JD JOSE ANTONIO",
+        "cidade": "RIO VERDE DE MATO GROSSO",
+        "estado": "MS",
+        "logradouro": "RUA AER",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67999877703.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

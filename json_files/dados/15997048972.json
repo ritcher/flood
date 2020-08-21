@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15997048972",
+        "nomeCompleto": "JULIANA GOMES PINTO LOPES",
+        "cpf": "34210852856",
+        "telefoneContato": "",
+        "dataNascimento": "01/12/1986",
+        "nomeMae": null,
+        "email": null,
+        "cep": "18195000",
+        "endereco": "RUA MATHIAS WINCLER",
+        "numeroEndereco": "92",
+        "complementoEndereco": "",
+        "bairro": "CAPELA DO ALTO",
+        "cidade": "CAPELA DO ALTO",
+        "estado": "sp",
+        "logradouro": "MATHIAS WINCLER",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15997048972.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

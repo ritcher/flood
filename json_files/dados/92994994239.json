@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994994239",
+        "nomeCompleto": "LINCONL DA SILVA VIEIRA",
+        "cpf": "00248926292",
+        "telefoneContato": "",
+        "dataNascimento": "24/04/1989",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69020542",
+        "endereco": "Rua BC BELEM",
+        "numeroEndereco": "158",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "BC BELEM",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994994239.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "61996514235",
+        "nomeCompleto": "VALERIA GOMES BATISTA",
+        "cpf": "38163950153",
+        "telefoneContato": "",
+        "dataNascimento": "14/03/1964",
+        "nomeMae": null,
+        "email": null,
+        "cep": "66000000",
+        "endereco": "AVENIDA CENTENARIO ASSEMBLEIA DE DEUS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "VAL DE CAES",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "CENTENARIO ASSEMBLEIA DE DEUS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61996514235.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991872332",
+        "nomeCompleto": "MARDEN MATHEUS CARVALHO CARRERA",
+        "cpf": "02599697298",
+        "telefoneContato": "",
+        "dataNascimento": "26/05/1997",
+        "nomeMae": "DEUZARINA MARIA CARVALHO CARRERA",
+        "email": null,
+        "cep": "67033675",
+        "endereco": "RUA  MANOEL MOREIRA DE OLIVEIRA 7 CS 8",
+        "numeroEndereco": "7",
+        "complementoEndereco": "",
+        "bairro": "AGUAS BRANCAS",
+        "cidade": "ANANINDEUA",
+        "estado": "PA",
+        "logradouro": " MANOEL MOREIRA DE OLIVEIRA 7 CS 8",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991872332.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

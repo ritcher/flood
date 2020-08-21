@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f6d72ff1-e409-41f4-8e1c-463ec9bff369",
+    "data": {
+        "linha": "94992851967",
+        "nomeCompleto": "HIAGO MARQUES REIS",
+        "cpf": "05300222224",
+        "telefoneContato": "",
+        "dataNascimento": "14/10/1999",
+        "nomeMae": "EUZELINA ALVES MARQUES",
+        "email": null,
+        "cep": "68570000",
+        "endereco": "Rua RUA DAS LARANJEIRAS",
+        "numeroEndereco": "408",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SAO GERALDO DO ARAGUAIA",
+        "estado": "PA",
+        "logradouro": "RUA DAS LARANJEIRAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992851967.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=cdb7d94d-5998-4916-a7df-e57ed04870a8",
+    "data": {
+        "linha": "93991148992",
+        "nomeCompleto": "RAIANA RUTH DOS SANTOS LOPES",
+        "cpf": "01686436262",
+        "telefoneContato": "",
+        "dataNascimento": "02/10/1993",
+        "nomeMae": null,
+        "email": "rosenira47@gmail.com",
+        "cep": "68035330",
+        "endereco": " IPOJUCAN",
+        "numeroEndereco": "26",
+        "complementoEndereco": "",
+        "bairro": "SANTARENZINHO",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "IPOJUCAN",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991148992.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

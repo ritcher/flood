@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27995309377",
+        "nomeCompleto": "ARISTIDES JOSE DE ABREU",
+        "cpf": "36695564787",
+        "telefoneContato": "",
+        "dataNascimento": "05/04/1953",
+        "nomeMae": "GILDETE AMARANTE DE QUEIROZ ABREU",
+        "email": "aristides_j_abreu@outlook.com",
+        "cep": "68148000",
+        "endereco": " 1",
+        "numeroEndereco": "1055",
+        "complementoEndereco": "",
+        "bairro": "CENTRAL",
+        "cidade": "BRASIL NOVO",
+        "estado": "PA",
+        "logradouro": "1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27995309377.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

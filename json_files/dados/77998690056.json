@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "77998690056",
+        "nomeCompleto": "ARNALDO TOMAZ FERREIRA",
+        "cpf": "00082045518",
+        "telefoneContato": "",
+        "dataNascimento": "10/01/1973",
+        "nomeMae": null,
+        "email": null,
+        "cep": "45177000",
+        "endereco": " FAZ LAGOA DA EXTREMA",
+        "numeroEndereco": "540",
+        "complementoEndereco": "",
+        "bairro": "15 DE NOVEMBRO",
+        "cidade": "CARAIBAS",
+        "estado": "BA",
+        "logradouro": "FAZ LAGOA DA EXTREMA",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77998690056.",
+    "currentPlan": {
+        "code": "VIVOCTRLF25N",
+        "price": 39.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIG-2GB_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

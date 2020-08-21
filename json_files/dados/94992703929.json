@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0eb2c2c7-67ff-4f1f-a5fc-f181ec3f9fbe",
+    "data": {
+        "linha": "94992703929",
+        "nomeCompleto": "OBDALIA MIRANDA DE ANDRADE NETA",
+        "cpf": "79981801291",
+        "telefoneContato": "",
+        "dataNascimento": "29/09/1985",
+        "nomeMae": "MARIA LUCIA DE OLIVEIRA DE ANDRADE",
+        "email": null,
+        "cep": "68580000",
+        "endereco": "Rua JOSEFINA 416",
+        "numeroEndereco": "416",
+        "complementoEndereco": "",
+        "bairro": "ITUPIRANGA",
+        "cidade": "ITUPIRANGA",
+        "estado": "PA",
+        "logradouro": "JOSEFINA 416",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992703929.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1db0dc19-f601-4f3a-8427-408d9012c706",
+    "data": {
+        "linha": "77999985751",
+        "nomeCompleto": "CLEUZA CAFE DE CARVALHO",
+        "cpf": "53003489534",
+        "telefoneContato": "",
+        "dataNascimento": "24/07/1966",
+        "nomeMae": "MARIA PATROCINA DE CAFE",
+        "email": null,
+        "cep": "46445000",
+        "endereco": "RUA  DO SACRAMENTO 95",
+        "numeroEndereco": "95",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CARINHANHA",
+        "estado": "BA",
+        "logradouro": " DO SACRAMENTO 95",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77999985751.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

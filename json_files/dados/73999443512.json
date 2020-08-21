@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b044b0ce-5d07-4737-961b-94fa892b680d",
+    "data": {
+        "linha": "73999443512",
+        "nomeCompleto": "THIAGO MOTA SANTIAGO",
+        "cpf": "08666132507",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": "thiagomotasantiagoo@gmail.com",
+        "cep": "45651410",
+        "endereco": "Rua RUA AUGUSTO LOPES FERREIRA",
+        "numeroEndereco": "259",
+        "complementoEndereco": "",
+        "bairro": "MALHADO",
+        "cidade": "ILHEUS",
+        "estado": "BA",
+        "logradouro": "RUA AUGUSTO LOPES FERREIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 73999443512.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

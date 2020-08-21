@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=18d03cc2-abf5-4920-aac3-6f9cbcaae23f",
+    "data": {
+        "linha": "94992565480",
+        "nomeCompleto": "Sergio freitas lima",
+        "cpf": "00060043261",
+        "telefoneContato": "",
+        "dataNascimento": "05/03/1988",
+        "nomeMae": "Iracy freitas lima",
+        "email": "sergio160lima@gmail.com",
+        "cep": "00000000",
+        "endereco": "R AGOSTINHO CACAO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "JD ITAMARACA",
+        "cidade": "INDAIATUBA",
+        "estado": "SP",
+        "logradouro": "AGOSTINHO CACAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992565480.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

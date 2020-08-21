@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "19998964756",
+        "nomeCompleto": "Jos\u00e9 Eliel Nascimento Santos",
+        "cpf": "39426838813",
+        "telefoneContato": "",
+        "dataNascimento": "04/06/1990",
+        "nomeMae": "MARIA ALBERTA DO NASCIMENTO SANTOS",
+        "email": "elielnascimento1990@gmail.com",
+        "cep": "11111111",
+        "endereco": " PENDENTE CADASTRO ENDERECO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "PENDENTE CADASTRO ENDERECO",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "PENDENTE CADASTRO ENDERECO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19998964756.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

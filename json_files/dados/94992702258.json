@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=32dc6ae3-5b3a-4a02-a0c5-c106cfd2fd7d",
+    "data": {
+        "linha": "94992702258",
+        "nomeCompleto": "CARLOS HENRIQUE DE SOUSA PONTES",
+        "cpf": "70053800290",
+        "telefoneContato": "",
+        "dataNascimento": "18/07/1997",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68700235",
+        "endereco": "Rua ESTRADA NOVA",
+        "numeroEndereco": "3565",
+        "complementoEndereco": "",
+        "bairro": "IGREJINHA",
+        "cidade": "CAPANEMA",
+        "estado": "PA",
+        "logradouro": "ESTRADA NOVA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992702258.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

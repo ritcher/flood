@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994939156",
+        "nomeCompleto": "FRANCISCO RODRIGUES MATOS",
+        "cpf": "22966820225",
+        "telefoneContato": "",
+        "dataNascimento": "04/10/1963",
+        "nomeMae": null,
+        "email": "nailda465@gmail.com",
+        "cep": "05208050",
+        "endereco": " MARCELINO FERREIRA BUENO",
+        "numeroEndereco": "88",
+        "complementoEndereco": "",
+        "bairro": "VILA PERUS",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "MARCELINO FERREIRA BUENO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994939156.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

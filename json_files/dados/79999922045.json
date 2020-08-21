@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "POSPAGO",
+    "data": {
+        "linha": "79999922045",
+        "nomeCompleto": "JOSE EDNILSON BEZERRA ANDRADE",
+        "cpf": "17077788504",
+        "telefoneContato": "",
+        "dataNascimento": "15/02/1959",
+        "nomeMae": "VALMIRA BEZERRA ANDRADE",
+        "email": "o88ki2w3xg1vd@telegmail.com",
+        "cep": "49035230",
+        "endereco": "RUA MARIA REZENDE MACHADO",
+        "numeroEndereco": "850",
+        "complementoEndereco": "",
+        "bairro": "ATALAIA",
+        "cidade": "ARACAJU",
+        "estado": "SE",
+        "logradouro": "MARIA REZENDE MACHADO",
+        "contaDigital": true,
+        "vencimentoFatura": "17",
+        "ciclo": "01",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79999922045.",
+    "currentPlan": {
+        "code": "PLMTVIVO_COMPLETO0",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "MULTIVIVO GRATIS.",
+        "platform": "POSPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "33998543924",
+        "nomeCompleto": "EVANDRO PEREIRA PINTO",
+        "cpf": "93347553691",
+        "telefoneContato": "",
+        "dataNascimento": "17/07/1972",
+        "nomeMae": null,
+        "email": "ce3016440@gmail.com",
+        "cep": "35280000",
+        "endereco": " RUA JOSE MARIANO GOMES",
+        "numeroEndereco": "104",
+        "complementoEndereco": "",
+        "bairro": "VALE VERDE",
+        "cidade": "ITABIRINHA",
+        "estado": "MG",
+        "logradouro": "RUA JOSE MARIANO GOMES",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33998543924.",
+    "currentPlan": {
+        "code": "VIVOCTRLF47N",
+        "price": 34.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL 3GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

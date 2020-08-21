@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6b36a505-4b2d-4ea0-85e9-721eab4687f4",
+    "data": {
+        "linha": "32999509559",
+        "nomeCompleto": "BRENO LIMA DE OLIVEIRA",
+        "cpf": "07900631151",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": "brenolimaind@gmail.com",
+        "cep": "06727100",
+        "endereco": " URUPEMA",
+        "numeroEndereco": "30",
+        "complementoEndereco": "",
+        "bairro": "JARDIM DOS PEREIRAS (CAUCAIA DO ALTO)",
+        "cidade": "COTIA",
+        "estado": "SP",
+        "logradouro": "URUPEMA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 32999509559.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

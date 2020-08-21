@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "16996072643",
+        "nomeCompleto": "PAMELA MARQUES",
+        "cpf": "31675941874",
+        "telefoneContato": "",
+        "dataNascimento": "07/12/1982",
+        "nomeMae": "Maria De Lourdes Marques",
+        "email": null,
+        "cep": "14806850",
+        "endereco": "AV DIVINA PRANDI BRANDAO",
+        "numeroEndereco": "388",
+        "complementoEndereco": "",
+        "bairro": "JARDIM SAO RAFAEL II",
+        "cidade": "ARARAQUARA",
+        "estado": "SP",
+        "logradouro": "DIVINA PRANDI BRANDAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 16996072643.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

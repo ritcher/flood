@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11930489171",
+        "nomeCompleto": "DEBORA APARECIDA SANTOS MOTA",
+        "cpf": "15945613894",
+        "telefoneContato": "",
+        "dataNascimento": "08/05/1973",
+        "nomeMae": "MARIA IRENE SANTOS MOTA",
+        "email": null,
+        "cep": "13272570",
+        "endereco": "Rua EST FRANCISCO VON ZUBEN",
+        "numeroEndereco": "215",
+        "complementoEndereco": "",
+        "bairro": "CH FLORA",
+        "cidade": "VALINHOS",
+        "estado": "sp",
+        "logradouro": "EST FRANCISCO VON ZUBEN",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11930489171.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

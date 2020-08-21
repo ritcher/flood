@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991748371",
+        "nomeCompleto": "Ryan lima dos santos",
+        "cpf": "01899967222",
+        "telefoneContato": "",
+        "dataNascimento": "25/08/1994",
+        "nomeMae": "M\u00e1rcia Cristina Lima dos Santos",
+        "email": "1jkqrj2v4t0j@gmail.com",
+        "cep": "66113000",
+        "endereco": "AVENIDA SEN LEMOS 1296",
+        "numeroEndereco": "1296",
+        "complementoEndereco": "",
+        "bairro": "TELEGRAFO SEM FIO",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "SEN LEMOS 1296",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991748371.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

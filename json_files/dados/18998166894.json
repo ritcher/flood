@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18998166894",
+        "nomeCompleto": "OSMAR PIRES DE CAMARGO",
+        "cpf": "08918191855",
+        "telefoneContato": "",
+        "dataNascimento": "23/12/1964",
+        "nomeMae": null,
+        "email": null,
+        "cep": "16210000",
+        "endereco": "Rua RUA JOSEFINA REZEK BERNARDI",
+        "numeroEndereco": "44",
+        "complementoEndereco": "",
+        "bairro": "NOSSA SENHORA CONCEICAO",
+        "cidade": "BILAC",
+        "estado": "sp",
+        "logradouro": "RUA JOSEFINA REZEK BERNARDI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18998166894.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

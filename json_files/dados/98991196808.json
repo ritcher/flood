@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=863c9eed-57de-4792-a409-682c3fc97fd6",
+    "data": {
+        "linha": "98991196808",
+        "nomeCompleto": "ADEMIR MONTEIRO PINHEIRO",
+        "cpf": "23562587287",
+        "telefoneContato": "",
+        "dataNascimento": "25/10/1957",
+        "nomeMae": "ROSA NASCIMENTO MONTEIRO PINHEIRO",
+        "email": null,
+        "cep": "66911020",
+        "endereco": "RUA  FRANCISCO XAVIECARDOSO 584 MS 2 T 8266 P 1",
+        "numeroEndereco": "584",
+        "complementoEndereco": "",
+        "bairro": "MARACAJA MOSQUEIRO",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": " FRANCISCO XAVIECARDOSO 584 MS 2 T 8266 P 1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98991196808.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

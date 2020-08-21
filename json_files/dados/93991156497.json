@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=00a41580-41ec-46ec-979c-b606a9fa7829",
+    "data": {
+        "linha": "93991156497",
+        "nomeCompleto": "ODETE RIBEIRO ALVES",
+        "cpf": "50801546249",
+        "telefoneContato": "",
+        "dataNascimento": "19/01/1941",
+        "nomeMae": null,
+        "email": "odeteribeiro@hotmail.com",
+        "cep": "68010130",
+        "endereco": "Rua CJ MUIRAQUITA",
+        "numeroEndereco": "5",
+        "complementoEndereco": "",
+        "bairro": "INTERVENTORIA",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "CJ MUIRAQUITA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991156497.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

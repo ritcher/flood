@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f0111ac4-b0e9-405b-bf26-b2195765d9e8",
+    "data": {
+        "linha": "94992572542",
+        "nomeCompleto": "MARISTER DOS SANTOS SOUSA",
+        "cpf": "55030971300",
+        "telefoneContato": "",
+        "dataNascimento": "03/09/1963",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68555030",
+        "endereco": "RUA RIO TAPAJOS",
+        "numeroEndereco": "505",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "XINGUARA",
+        "estado": "PA",
+        "logradouro": "RIO TAPAJOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992572542.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

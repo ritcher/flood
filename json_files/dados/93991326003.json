@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "93991326003",
+        "nomeCompleto": "ADRIANA PIMENTEL PINTO",
+        "cpf": "50958909253",
+        "telefoneContato": "",
+        "dataNascimento": "10/09/1976",
+        "nomeMae": "MARIA DAS GRACAS PIMENTEL PINTO",
+        "email": null,
+        "cep": "68200000",
+        "endereco": " RUA RAIMUNDO COLARES",
+        "numeroEndereco": "161",
+        "complementoEndereco": "",
+        "bairro": "INDEPENDENCIA",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "RUA RAIMUNDO COLARES",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991326003.",
+    "currentPlan": {
+        "code": "VIVOCTRLF24N",
+        "price": 38.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL-2GB_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

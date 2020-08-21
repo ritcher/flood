@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51995560323",
+        "nomeCompleto": "PEDRO HENRIQUE REZENDE DE ALCANTARA",
+        "cpf": "00279715110",
+        "telefoneContato": "",
+        "dataNascimento": "06/04/1988",
+        "nomeMae": null,
+        "email": "netfwolfgg1@outlook.com",
+        "cep": "94834200",
+        "endereco": " DUZENTOS",
+        "numeroEndereco": "525",
+        "complementoEndereco": "",
+        "bairro": "UMBU",
+        "cidade": "ALVORADA",
+        "estado": "RS",
+        "logradouro": "DUZENTOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51995560323.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

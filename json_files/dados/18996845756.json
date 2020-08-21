@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18996845756",
+        "nomeCompleto": "EDILAINE DA CONCEICAO SILVA",
+        "cpf": "38908567801",
+        "telefoneContato": "",
+        "dataNascimento": "12/08/1989",
+        "nomeMae": null,
+        "email": null,
+        "cep": "19280000",
+        "endereco": "Rua QD 304",
+        "numeroEndereco": "1",
+        "complementoEndereco": "",
+        "bairro": "PRIMAVERA",
+        "cidade": "TEODORO SAMPAIO",
+        "estado": "sp",
+        "logradouro": "QD 304",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18996845756.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

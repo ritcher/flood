@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991453286",
+        "nomeCompleto": "EDIVANIA DE LIMA MIRANDA",
+        "cpf": "03486425471",
+        "telefoneContato": "",
+        "dataNascimento": "04/11/1981",
+        "nomeMae": null,
+        "email": null,
+        "cep": "07124290",
+        "endereco": "RUA SAO SEBASTIAO DO TOCANTINS",
+        "numeroEndereco": "154",
+        "complementoEndereco": "",
+        "bairro": "VILA IMACULADA",
+        "cidade": "GUARULHOS",
+        "estado": "sp",
+        "logradouro": "SAO SEBASTIAO DO TOCANTINS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991453286.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

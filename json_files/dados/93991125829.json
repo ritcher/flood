@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6875b61d-e1ee-4a12-9374-c3e5e1b38d9b",
+    "data": {
+        "linha": "93991125829",
+        "nomeCompleto": "LIDIANE DE ABREU BORGES",
+        "cpf": "80996752234",
+        "telefoneContato": "",
+        "dataNascimento": "08/06/1982",
+        "nomeMae": "maria borges",
+        "email": "labmv.borges@hotmail.com",
+        "cep": "69103288",
+        "endereco": "RUA BELO HORIZONTE",
+        "numeroEndereco": "2306",
+        "complementoEndereco": "",
+        "bairro": "SAO CRISTOVAO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "BELO HORIZONTE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991125829.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

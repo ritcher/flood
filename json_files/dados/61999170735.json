@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "61999170735",
+        "nomeCompleto": "CLEBER JUNIOR BISPO DE SOUZA",
+        "cpf": "05839267112",
+        "telefoneContato": "",
+        "dataNascimento": "12/12/1994",
+        "nomeMae": "MARIA",
+        "email": null,
+        "cep": "72150712",
+        "endereco": "Q QNL 7 BLOCO B",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "TAGUATINGA NORTE TAGUATINGA",
+        "cidade": "BRASILIA",
+        "estado": "DF",
+        "logradouro": "QNL 7 BLOCO B",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61999170735.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

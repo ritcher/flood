@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=2d802d70-db6b-46fd-aef6-9a7ff6865499",
+    "data": {
+        "linha": "93991360714",
+        "nomeCompleto": "WENDER PAIXAO DE OLIVEIRA SOUSA",
+        "cpf": "67917933253",
+        "telefoneContato": "",
+        "dataNascimento": "13/04/1979",
+        "nomeMae": "MARILENE DE OLIVEIRA SOUSA",
+        "email": "wendercontabilidade@hotmail.com.br",
+        "cep": "68200000",
+        "endereco": "TRAVESSA  D 47 BELA VISTA",
+        "numeroEndereco": "47",
+        "complementoEndereco": "",
+        "bairro": "S FRANCISCO",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": " D 47 BELA VISTA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991360714.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

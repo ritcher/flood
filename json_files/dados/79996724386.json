@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=971711fe-b149-4b06-aaf4-4a930de356a5",
+    "data": {
+        "linha": "79996724386",
+        "nomeCompleto": "GILVANILDE SANTOS OLIVEIRA",
+        "cpf": "03167198540",
+        "telefoneContato": "",
+        "dataNascimento": "10/12/1981",
+        "nomeMae": null,
+        "email": null,
+        "cep": "12233670",
+        "endereco": "RUA PROMISSAO",
+        "numeroEndereco": "30",
+        "complementoEndereco": "",
+        "bairro": "BSQ DOS EUCALIPTOS",
+        "cidade": "SAO JOSE DOS CAMPOS",
+        "estado": "sp",
+        "logradouro": "PROMISSAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79996724386.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

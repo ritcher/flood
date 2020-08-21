@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9785cca5-548c-4d54-9531-c1a8a2072f4c",
+    "data": {
+        "linha": "94992894426",
+        "nomeCompleto": "WILKE COSTA BARK BAT",
+        "cpf": "04879984213",
+        "telefoneContato": "",
+        "dataNascimento": "13/08/1999",
+        "nomeMae": null,
+        "email": "wilkcosta57@gmail.com",
+        "cep": "68515000",
+        "endereco": " DO SOSSEGO '",
+        "numeroEndereco": "0",
+        "complementoEndereco": "",
+        "bairro": "LOTEAMENTO NOVA CARAJAS '",
+        "cidade": "PARAUAPEBAS",
+        "estado": "PA",
+        "logradouro": "DO SOSSEGO '",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992894426.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

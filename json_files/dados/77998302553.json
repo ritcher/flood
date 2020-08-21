@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=fef853f4-bfa0-4728-9d6d-11efabe05158",
+    "data": {
+        "linha": "77998302553",
+        "nomeCompleto": "FRANCIELE DE JESUS RIBEIRO",
+        "cpf": "86556095524",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": "teste@ff.com",
+        "cep": "42850000",
+        "endereco": "Rua RUA NOVA ESPERANCA",
+        "numeroEndereco": "1449",
+        "complementoEndereco": "",
+        "bairro": "CRISTO REI",
+        "cidade": "DIAS D AVILA",
+        "estado": "BA",
+        "logradouro": "RUA NOVA ESPERANCA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77998302553.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

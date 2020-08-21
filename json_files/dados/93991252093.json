@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a7ef691a-4bbb-4e89-a49d-0f43f3c8cd45",
+    "data": {
+        "linha": "93991252093",
+        "nomeCompleto": "FRANCISCO SIMAO PEREIRA",
+        "cpf": "54889626115",
+        "telefoneContato": "",
+        "dataNascimento": "22/11/1971",
+        "nomeMae": null,
+        "email": null,
+        "cep": "76873282",
+        "endereco": "Rua SABIA",
+        "numeroEndereco": "1973",
+        "complementoEndereco": "",
+        "bairro": "ST 02",
+        "cidade": "ARIQUEMES",
+        "estado": "RO",
+        "logradouro": "SABIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991252093.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9182f02a-1b02-43f2-9ccc-2205b416d425",
+    "data": {
+        "linha": "98992119504",
+        "nomeCompleto": "HILAMAR BATISTA DOS REIS",
+        "cpf": "02878407350",
+        "telefoneContato": "",
+        "dataNascimento": "18/11/1986",
+        "nomeMae": null,
+        "email": "paulo_sousa1983@hotmail.com",
+        "cep": "65390000",
+        "endereco": "RUA QD",
+        "numeroEndereco": "6",
+        "complementoEndereco": "",
+        "bairro": "MUTIRAO",
+        "cidade": "SANTA LUZIA",
+        "estado": "MA",
+        "logradouro": "QD",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98992119504.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

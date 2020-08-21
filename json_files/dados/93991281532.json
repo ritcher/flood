@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=43bb94e2-ee2f-4530-ae0b-7088d652de4a",
+    "data": {
+        "linha": "93991281532",
+        "nomeCompleto": "ALCENIRA PAULA DOS SANTOS",
+        "cpf": "00155991248",
+        "telefoneContato": "",
+        "dataNascimento": "14/08/1984",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69039388",
+        "endereco": "RUA UNIAO",
+        "numeroEndereco": "14",
+        "complementoEndereco": "",
+        "bairro": "NOVO ISRAEL",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "UNIAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991281532.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

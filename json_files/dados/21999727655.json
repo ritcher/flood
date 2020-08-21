@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21999727655",
+        "nomeCompleto": "RENATO PAULO ARA\u00daJO DA SILVA ZAGUE",
+        "cpf": "11730453767",
+        "telefoneContato": "",
+        "dataNascimento": "08/07/1987",
+        "nomeMae": "ROSANGELA MARIA ARAUJO DA SILVA",
+        "email": "renato.lesk@gmail.com",
+        "cep": "21321050",
+        "endereco": "RUA FLORIANOPOLIS",
+        "numeroEndereco": "1415",
+        "complementoEndereco": "",
+        "bairro": "PRACA SECA",
+        "cidade": "RIO DE JANEIRO",
+        "estado": "RJ",
+        "logradouro": "FLORIANOPOLIS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21999727655.",
+    "currentPlan": {
+        "code": "RJVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

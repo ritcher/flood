@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9b6ef817-17e7-44c3-8428-a4b55d70cb71",
+    "data": {
+        "linha": "94992274460",
+        "nomeCompleto": "DANIEL ALVES DE CARVALHO",
+        "cpf": "06432161380",
+        "telefoneContato": "",
+        "dataNascimento": "15/08/1993",
+        "nomeMae": null,
+        "email": null,
+        "cep": "74922810",
+        "endereco": "Rua ROD BR 153",
+        "numeroEndereco": "1",
+        "complementoEndereco": "",
+        "bairro": "SITIOS SANTA LUZIA",
+        "cidade": "APARECIDA DE GOIANIA",
+        "estado": "GO",
+        "logradouro": "ROD BR 153",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992274460.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

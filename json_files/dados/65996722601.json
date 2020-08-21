@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65996722601",
+        "nomeCompleto": "LETICIA LINA DA SILVA",
+        "cpf": "06219869176",
+        "telefoneContato": "",
+        "dataNascimento": "18/05/2019",
+        "nomeMae": null,
+        "email": null,
+        "cep": "78435000",
+        "endereco": "RUA ACRE",
+        "numeroEndereco": "270",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SAO JOSE DO RIO CLARO",
+        "estado": "MT",
+        "logradouro": "ACRE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65996722601.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

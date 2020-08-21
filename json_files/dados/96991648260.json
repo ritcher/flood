@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "96991648260",
+        "nomeCompleto": "ALCIENE SILVA DOS SANTOS OLIVEIRA",
+        "cpf": "89181620225",
+        "telefoneContato": "",
+        "dataNascimento": "12/05/1984",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68920970",
+        "endereco": " RUA TANCREDO NEVES",
+        "numeroEndereco": "2795",
+        "complementoEndereco": "",
+        "bairro": "AGRESTE",
+        "cidade": "LARANJAL DO JARI",
+        "estado": "AP",
+        "logradouro": "RUA TANCREDO NEVES",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 96991648260.",
+    "currentPlan": {
+        "code": "VIVOCTRLF25N",
+        "price": 39.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIG-2GB_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

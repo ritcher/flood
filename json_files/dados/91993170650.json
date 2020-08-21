@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993170650",
+        "nomeCompleto": "ADRIANO RAMOS LIMA",
+        "cpf": "94391183005",
+        "telefoneContato": "",
+        "dataNascimento": "19/02/1985",
+        "nomeMae": null,
+        "email": "chhxfhcxhcfhf@gmail.com",
+        "cep": "11111111",
+        "endereco": " PENDENTE CADASTRO ENDERECO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "PENDENTE CADASTRO ENDERECO",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "PENDENTE CADASTRO ENDERECO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993170650.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

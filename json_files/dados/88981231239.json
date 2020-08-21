@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=147fad6e-6f40-4736-80e2-55fa3b76d211",
+    "data": {
+        "linha": "88981231239",
+        "nomeCompleto": "MANOEL MAURICIO DO NASCIMENTO NETO",
+        "cpf": "64651541372",
+        "telefoneContato": "",
+        "dataNascimento": "15/10/1972",
+        "nomeMae": null,
+        "email": "5qzq92jf13ea@gmail.com",
+        "cep": "62580000",
+        "endereco": "SETOR BARRINHA DE CIMA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ARANAU",
+        "cidade": "ACARAU",
+        "estado": "CE",
+        "logradouro": "BARRINHA DE CIMA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981231239.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

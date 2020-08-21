@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=fe8dbbe1-c837-4e03-8e9c-d0743c11ecf7",
+    "data": {
+        "linha": "68999948293",
+        "nomeCompleto": "ADRIANO DE SOUZA ARAUJO GUIMARAES",
+        "cpf": "05857316243",
+        "telefoneContato": "",
+        "dataNascimento": "15/03/2000",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69930970",
+        "endereco": " RUA SEIS DE AGOSTO",
+        "numeroEndereco": "68",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "XAPURI",
+        "estado": "AC",
+        "logradouro": "RUA SEIS DE AGOSTO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999948293.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

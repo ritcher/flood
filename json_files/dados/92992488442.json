@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992488442",
+        "nomeCompleto": "SEBASTIANA CARVALHO DA SILVA",
+        "cpf": "98678590220",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "ZENAIDE MATIAS CARVALHO",
+        "email": null,
+        "cep": "58000000",
+        "endereco": "R ALINE BARROS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ROGER",
+        "cidade": "JOAO PESSOA",
+        "estado": "PB",
+        "logradouro": "ALINE BARROS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992488442.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

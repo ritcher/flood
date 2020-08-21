@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65996907679",
+        "nomeCompleto": "MAURICIO BALBOA",
+        "cpf": "40848426215",
+        "telefoneContato": "",
+        "dataNascimento": "23/12/1970",
+        "nomeMae": null,
+        "email": null,
+        "cep": "78138146",
+        "endereco": "RUA SEBASTIAO RAMOS",
+        "numeroEndereco": "1",
+        "complementoEndereco": "",
+        "bairro": "MARAJOARA",
+        "cidade": "VARZEA GRANDE",
+        "estado": "MT",
+        "logradouro": "SEBASTIAO RAMOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65996907679.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

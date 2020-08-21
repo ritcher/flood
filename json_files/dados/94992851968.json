@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9a4f5bb2-4a51-4ed5-9d3a-14a04b64fca7",
+    "data": {
+        "linha": "94992851968",
+        "nomeCompleto": "DELEON NOGUEIRA ABREU",
+        "cpf": "04616176337",
+        "telefoneContato": "",
+        "dataNascimento": "25/06/1991",
+        "nomeMae": "ROSILENE MARIA NOGUEIRA ABREU",
+        "email": null,
+        "cep": "65130000",
+        "endereco": "AVENIDA  DEZ 7",
+        "numeroEndereco": "7",
+        "complementoEndereco": "",
+        "bairro": "MAIOBAO",
+        "cidade": "PACO DO LUMIAR",
+        "estado": "MA",
+        "logradouro": " DEZ 7",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992851968.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

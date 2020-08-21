@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "11997503585",
+        "nomeCompleto": "NAIARA VARGAS DE MATOS",
+        "cpf": "86274597034",
+        "telefoneContato": "",
+        "dataNascimento": "12/04/1995",
+        "nomeMae": null,
+        "email": "poptwsmwfguachy@telegmail.com",
+        "cep": "18080000",
+        "endereco": " COMENDADOR HERMELINO MATARAZZO",
+        "numeroEndereco": "456",
+        "complementoEndereco": "",
+        "bairro": "VILA SANTA RITA",
+        "cidade": "SOROCABA",
+        "estado": "SP",
+        "logradouro": "COMENDADOR HERMELINO MATARAZZO",
+        "contaDigital": true,
+        "vencimentoFatura": "1",
+        "ciclo": "15",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11997503585.",
+    "currentPlan": {
+        "code": "VIVOCTRLF51N",
+        "price": 84.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 5GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

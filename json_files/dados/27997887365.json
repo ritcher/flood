@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27997887365",
+        "nomeCompleto": "ROBERTO CARLOS LOPES SIQUEIRA",
+        "cpf": "06175987705",
+        "telefoneContato": "",
+        "dataNascimento": "04/10/1983",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29706712",
+        "endereco": "RUA COSME DAMIAO",
+        "numeroEndereco": "479",
+        "complementoEndereco": "",
+        "bairro": "VILA REAL",
+        "cidade": "COLATINA",
+        "estado": "es",
+        "logradouro": "COSME DAMIAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27997887365.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

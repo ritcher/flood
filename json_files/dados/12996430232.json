@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12996430232",
+        "nomeCompleto": "DANIELA GURGEL ALMEIDA SANTOS",
+        "cpf": "13845549807",
+        "telefoneContato": "",
+        "dataNascimento": "18/10/1969",
+        "nomeMae": "SUZANA GURGEL DE ALMEIDA SANTOS",
+        "email": "bcitzwwxou4tjzs@gmail.com",
+        "cep": "12010340",
+        "endereco": "RUA  ITANHAEM",
+        "numeroEndereco": "80",
+        "complementoEndereco": "",
+        "bairro": "JARDIM RUSSI",
+        "cidade": "TAUBATE",
+        "estado": "SP",
+        "logradouro": " ITANHAEM",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996430232.",
+    "currentPlan": {
+        "code": "VIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Vivo Toda Hora",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

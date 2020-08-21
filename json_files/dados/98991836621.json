@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=cd4f1ecc-7448-4e61-b66e-3227284668aa",
+    "data": {
+        "linha": "98991836621",
+        "nomeCompleto": "Eliane cruz dias pereira",
+        "cpf": "01185475265",
+        "telefoneContato": "",
+        "dataNascimento": "01/05/1970",
+        "nomeMae": "Maria eliane pereira silva",
+        "email": "jefinhobhbeats@gmail.com",
+        "cep": "24800000",
+        "endereco": "RUA A C",
+        "numeroEndereco": "2",
+        "complementoEndereco": "",
+        "bairro": "JDM MAYKEL",
+        "cidade": "ITABORAI",
+        "estado": "Rj",
+        "logradouro": "A C",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98991836621.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

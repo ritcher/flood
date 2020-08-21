@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=67ea1044-3fe5-47b7-9f1d-c72f0f916ad9",
+    "data": {
+        "linha": "77998736698",
+        "nomeCompleto": "JOVENTINO SOARES LIMA",
+        "cpf": "17805139253",
+        "telefoneContato": "",
+        "dataNascimento": "13/06/1952",
+        "nomeMae": "PETRINA FERREIRA LIMA",
+        "email": "menormito2k21@gmail.com",
+        "cep": "11111111",
+        "endereco": " PENDENTE CADASTRO ENDERECO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "PENDENTE CADASTRO ENDERECO",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "PENDENTE CADASTRO ENDERECO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77998736698.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

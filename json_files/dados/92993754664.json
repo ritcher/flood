@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993754664",
+        "nomeCompleto": "BRUNO DA SILVA PEREIRA",
+        "cpf": "96365340206",
+        "telefoneContato": "",
+        "dataNascimento": "06/02/1989",
+        "nomeMae": null,
+        "email": "b_apolo@outlook.com",
+        "cep": "69043151",
+        "endereco": "RUA A",
+        "numeroEndereco": "250",
+        "complementoEndereco": "",
+        "bairro": "ALVORADA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "A",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993754664.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993205557",
+        "nomeCompleto": "ANDRESA VASCONCELOS DE LIMA",
+        "cpf": "80424350297",
+        "telefoneContato": "",
+        "dataNascimento": "31/03/1982",
+        "nomeMae": "MARIA VASCONCELOS DE LIMA",
+        "email": null,
+        "cep": "69400260",
+        "endereco": " EDUARDO RIBEIRO",
+        "numeroEndereco": "09",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MANACAPURU",
+        "estado": "AM",
+        "logradouro": "EDUARDO RIBEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993205557.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

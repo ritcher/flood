@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18997462516",
+        "nomeCompleto": "GUILHERME PAULINO DE SOUZA",
+        "cpf": "42214660810",
+        "telefoneContato": "",
+        "dataNascimento": "27/09/1996",
+        "nomeMae": null,
+        "email": null,
+        "cep": "16207005",
+        "endereco": "ALAMEDA  NEVIO DE CUNTO 125 FDS",
+        "numeroEndereco": "125",
+        "complementoEndereco": "",
+        "bairro": "COLINAS PARK RESIDENCIAL",
+        "cidade": "BIRIGUI",
+        "estado": "sp",
+        "logradouro": " NEVIO DE CUNTO 125 FDS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18997462516.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

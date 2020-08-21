@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=745956eb-4af4-4431-8b1b-e3715c3fe551",
+    "data": {
+        "linha": "75999125033",
+        "nomeCompleto": "PEDRO BISPO DOS SANTOS",
+        "cpf": "04998894870",
+        "telefoneContato": "",
+        "dataNascimento": "17/08/1957",
+        "nomeMae": null,
+        "email": null,
+        "cep": "16800000",
+        "endereco": "AVENIDA IPE",
+        "numeroEndereco": "230",
+        "complementoEndereco": "",
+        "bairro": "RES SUNADA",
+        "cidade": "MIRANDOPOLIS",
+        "estado": "sp",
+        "logradouro": "IPE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 75999125033.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992949835",
+        "nomeCompleto": "LUCIANO DA SILVA ARAUJO",
+        "cpf": "70040829200",
+        "telefoneContato": "",
+        "dataNascimento": "22/09/1999",
+        "nomeMae": null,
+        "email": null,
+        "cep": "57265000",
+        "endereco": "Rua CJ  JOAO JOSE PEREIRA 27 Q A",
+        "numeroEndereco": "27",
+        "complementoEndereco": "",
+        "bairro": "BAIRRO NAO CODIFI",
+        "cidade": "TEOTONIO VILELA",
+        "estado": "AL",
+        "logradouro": "CJ  JOAO JOSE PEREIRA 27 Q A",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992949835.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

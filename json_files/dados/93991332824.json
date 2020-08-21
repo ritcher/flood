@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=7276ed13-48bd-4281-82e6-e2d883cb544a",
+    "data": {
+        "linha": "93991332824",
+        "nomeCompleto": "JOAO PEDRO TEDESCO GARCIA",
+        "cpf": "00081215088",
+        "telefoneContato": "",
+        "dataNascimento": "12/11/1981",
+        "nomeMae": "JANDIRA TEDESCO GARCIA",
+        "email": "qcboeuwi@zadder.xyz",
+        "cep": "68138000",
+        "endereco": "Rua VL KM",
+        "numeroEndereco": "135",
+        "complementoEndereco": "",
+        "bairro": "COMUNIDADE BOA VISTA",
+        "cidade": "PLACAS",
+        "estado": "PA",
+        "logradouro": "VL KM",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991332824.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

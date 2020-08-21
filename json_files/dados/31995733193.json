@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31995733193",
+        "nomeCompleto": "JULIANA MARIA DE SOUZA",
+        "cpf": "09454645684",
+        "telefoneContato": "",
+        "dataNascimento": "02/10/1984",
+        "nomeMae": null,
+        "email": null,
+        "cep": "32673076",
+        "endereco": "RUA CRAVINA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "JARDIM DAS ALTEROSAS - 2A SECAO",
+        "cidade": "BETIM",
+        "estado": "MG",
+        "logradouro": "CRAVINA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31995733193.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991701791",
+        "nomeCompleto": "REGINALDO BRASIL WANZELER",
+        "cpf": "45865353268",
+        "telefoneContato": "",
+        "dataNascimento": "20/05/1974",
+        "nomeMae": "MARIANA BRASIL WANZELER",
+        "email": null,
+        "cep": "68800000",
+        "endereco": "PASSAGEM 30 DE NOVEMBRO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "BREVES",
+        "estado": "PA",
+        "logradouro": "30 DE NOVEMBRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991701791.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

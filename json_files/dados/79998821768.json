@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9d7654eb-26f1-489e-b77c-604f9dfe87e4",
+    "data": {
+        "linha": "79998821768",
+        "nomeCompleto": "JOSE ANDERSON ANJOS DA CONCEICAO",
+        "cpf": "03835423592",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "MARIA V S ANJOS",
+        "email": null,
+        "cep": "49200000",
+        "endereco": "RUA VLTO DA PATRIA 628 C 2",
+        "numeroEndereco": "628",
+        "complementoEndereco": "",
+        "bairro": "BOTEQUIM",
+        "cidade": "ESTANCIA",
+        "estado": "SE",
+        "logradouro": "VLTO DA PATRIA 628 C 2",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79998821768.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

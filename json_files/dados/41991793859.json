@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=3e9bfa4e-4e56-44b5-b0c9-7e505706e35c",
+    "data": {
+        "linha": "41991793859",
+        "nomeCompleto": "MAYK WILLIAN DE PAULA ROCHA",
+        "cpf": "14619976903",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": "maykdrosss@gmail.com",
+        "cep": "83020000",
+        "endereco": "Rua RUA JOINVILLE",
+        "numeroEndereco": "3375",
+        "complementoEndereco": "",
+        "bairro": "SAO PEDRO",
+        "cidade": "SAO JOSE DOS PINHAIS",
+        "estado": "PR",
+        "logradouro": "RUA JOINVILLE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 41991793859.",
+    "currentPlan": {
+        "code": "PRPREDIAR3GSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "PRPREDIAR3GSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992052749",
+        "nomeCompleto": "BRUNA CRISTINE DE OLIVEIRA SENA",
+        "cpf": "02986245242",
+        "telefoneContato": "",
+        "dataNascimento": "04/02/1997",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69088037",
+        "endereco": "Rua RUA NOVE",
+        "numeroEndereco": "22",
+        "complementoEndereco": "",
+        "bairro": "JORGE TEIXEIRA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "RUA NOVE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992052749.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b96a1eb9-74ae-4302-92a1-b78d0d98bf8d",
+    "data": {
+        "linha": "99991524460",
+        "nomeCompleto": "MARIA IVONETE MARTINS QUEIROZ",
+        "cpf": "95412174353",
+        "telefoneContato": "",
+        "dataNascimento": "16/12/1978",
+        "nomeMae": null,
+        "email": null,
+        "cep": "65901480",
+        "endereco": "RUA GODOFREDO VIANA",
+        "numeroEndereco": "1159",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "IMPERATRIZ",
+        "estado": "MA",
+        "logradouro": "GODOFREDO VIANA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99991524460.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

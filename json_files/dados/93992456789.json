@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=08080fd1-211c-49d6-82b3-9de5ce5ff689",
+    "data": {
+        "linha": "93992456789",
+        "nomeCompleto": "MARCELO SARAIVA DE MOURA",
+        "cpf": "03598252226",
+        "telefoneContato": "",
+        "dataNascimento": "11/11/1998",
+        "nomeMae": "MARIA",
+        "email": null,
+        "cep": "68040040",
+        "endereco": "AVENIDA SAO SEBASTIAO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "LIBERDADE '",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "SAO SEBASTIAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992456789.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=4b595158-903f-4e34-849b-ed9a2351b0b3",
+    "data": {
+        "linha": "77998682846",
+        "nomeCompleto": "ROQUE DE JESUS SANTOS",
+        "cpf": "06973969593",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "40717000",
+        "endereco": "Rua ESTRADA DOS CABRITOS",
+        "numeroEndereco": "956",
+        "complementoEndereco": "",
+        "bairro": "PLATAFORMA",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "ESTRADA DOS CABRITOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77998682846.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

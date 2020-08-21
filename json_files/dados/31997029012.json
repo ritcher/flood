@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31997029012",
+        "nomeCompleto": "aline de jesus lima rodrigues",
+        "cpf": "05940401678",
+        "telefoneContato": "",
+        "dataNascimento": "29/10/1982",
+        "nomeMae": "MARIA",
+        "email": null,
+        "cep": "35060360",
+        "endereco": "AVENIDA MINAS GERAIS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "NOSSA SENHORA DAS GRACAS",
+        "cidade": "GOV VALADARES",
+        "estado": "MG",
+        "logradouro": "MINAS GERAIS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31997029012.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

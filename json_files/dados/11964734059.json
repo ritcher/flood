@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11964734059",
+        "nomeCompleto": "VINICIUS DE SOUZA DIAS",
+        "cpf": "11225842611",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": "vinicius.dias@engenharia.ufjf.br",
+        "cep": "02836010",
+        "endereco": "Rua RUA PADRE JOSE MATERNI",
+        "numeroEndereco": "656",
+        "complementoEndereco": "",
+        "bairro": "VILA SERRALHEIRO",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "RUA PADRE JOSE MATERNI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11964734059.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

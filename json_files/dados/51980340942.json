@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51980340942",
+        "nomeCompleto": "FELIPE VINICIUS DOS ANJOS",
+        "cpf": "03412309010",
+        "telefoneContato": "",
+        "dataNascimento": "06/03/1993",
+        "nomeMae": null,
+        "email": "saraestercastro__saraestercastro@coeducar.com.br",
+        "cep": "13606807",
+        "endereco": " JOAO FRANCISCO BASQUEIRA",
+        "numeroEndereco": "247",
+        "complementoEndereco": "",
+        "bairro": "JARDIM JOSE OMETTO V",
+        "cidade": "ARARAS",
+        "estado": "SP",
+        "logradouro": "JOAO FRANCISCO BASQUEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51980340942.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

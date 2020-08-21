@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "82981409591",
+        "nomeCompleto": "GRACIELE LEITE DA SILVA GOMES",
+        "cpf": "09521579420",
+        "telefoneContato": "",
+        "dataNascimento": "19/10/1991",
+        "nomeMae": null,
+        "email": "amozonprimevideo0@gmail.com",
+        "cep": "69100063",
+        "endereco": " PARQUE",
+        "numeroEndereco": "7119",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "PARQUE",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 82981409591.",
+    "currentPlan": {
+        "code": "VIVOCTRLF50N",
+        "price": 69.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 4GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

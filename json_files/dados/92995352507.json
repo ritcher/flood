@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92995352507",
+        "nomeCompleto": "ACCAZ LOPES",
+        "cpf": "93692501234",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69195000",
+        "endereco": "Rua RUA SENADOR JOSE ESTEVES",
+        "numeroEndereco": "384",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "BOA VISTA DO RAMOS",
+        "estado": "AM",
+        "logradouro": "RUA SENADOR JOSE ESTEVES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92995352507.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

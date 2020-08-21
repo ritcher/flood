@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=18371d55-f8f6-4ae4-8fb0-a242cab8d404",
+    "data": {
+        "linha": "68999309850",
+        "nomeCompleto": "AUDILENE SILVA DOS SANTOS",
+        "cpf": "62082140253",
+        "telefoneContato": "",
+        "dataNascimento": "07/07/1971",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69940000",
+        "endereco": "RUA QUINTINO BOCAIUVA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "B BSQ",
+        "cidade": "SENA MADUREIRA",
+        "estado": "AC",
+        "logradouro": "QUINTINO BOCAIUVA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999309850.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

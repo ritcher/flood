@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "69999351290",
+        "nomeCompleto": "EMERSON OLIVEIRA DA SILVA",
+        "cpf": "86631250200",
+        "telefoneContato": "",
+        "dataNascimento": "21/09/1983",
+        "nomeMae": null,
+        "email": null,
+        "cep": "76964018",
+        "endereco": "RUA GEN OSORIO",
+        "numeroEndereco": "587",
+        "complementoEndereco": "",
+        "bairro": "PRINCESA ISABEL",
+        "cidade": "CACOAL",
+        "estado": "RO",
+        "logradouro": "GEN OSORIO",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999351290.",
+    "currentPlan": {
+        "code": "VIVOCTRLF28A",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL_5GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

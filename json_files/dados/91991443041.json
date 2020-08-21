@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991443041",
+        "nomeCompleto": "CLEISON SANTOS CUNHA",
+        "cpf": "04633603205",
+        "telefoneContato": "",
+        "dataNascimento": "28/12/1997",
+        "nomeMae": null,
+        "email": null,
+        "cep": "67120270",
+        "endereco": " PSG BEIJA-FLOR",
+        "numeroEndereco": "16",
+        "complementoEndereco": "",
+        "bairro": "QUARENTA HORAS (COQUEIRO)",
+        "cidade": "ANANINDEUA",
+        "estado": "PA",
+        "logradouro": "PSG BEIJA-FLOR",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991443041.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

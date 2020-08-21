@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67998570226",
+        "nomeCompleto": "LAUDILENE PEREIRA SANTANA",
+        "cpf": "01504650174",
+        "telefoneContato": "",
+        "dataNascimento": "19/04/1973",
+        "nomeMae": "CECILIA FRANCISCA PEREIRA SANTANA",
+        "email": null,
+        "cep": "79750000",
+        "endereco": "AVENIDA JOSE H ALMEIDA CAMARGO",
+        "numeroEndereco": "624",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "NOVA ANDRADINA",
+        "estado": "MS",
+        "logradouro": "JOSE H ALMEIDA CAMARGO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67998570226.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

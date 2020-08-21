@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993799637",
+        "nomeCompleto": "JANILDE OSTACO DE SOUZA",
+        "cpf": "15654060287",
+        "telefoneContato": "",
+        "dataNascimento": "11/09/1966",
+        "nomeMae": "JOANA OSTACO DE SOUZA",
+        "email": null,
+        "cep": "66635315",
+        "endereco": "ALAMEDA  DEZOITO DE AGOSTO 24",
+        "numeroEndereco": "24",
+        "complementoEndereco": "",
+        "bairro": "PRQ VERDE",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": " DEZOITO DE AGOSTO 24",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993799637.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "92991947860",
+        "nomeCompleto": "FRANKSON PONTES DA SILVA",
+        "cpf": "38490161291",
+        "telefoneContato": "",
+        "dataNascimento": "20/12/1969",
+        "nomeMae": "ALTINA PONTES DA SILVA ",
+        "email": "pontes201274@gmail.com",
+        "cep": "69073620",
+        "endereco": " SAO LUCAS",
+        "numeroEndereco": "2",
+        "complementoEndereco": "",
+        "bairro": "SAO LAZARO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "SAO LUCAS",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991947860.",
+    "currentPlan": {
+        "code": "VIVOCTRLF25N",
+        "price": 39.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIG-2GB_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

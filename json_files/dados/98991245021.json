@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=8c091016-7e4a-43f5-b829-370ffba22024",
+    "data": {
+        "linha": "98991245021",
+        "nomeCompleto": "MARIO ARTHUR RODRIGUES LIMA",
+        "cpf": "06469646310",
+        "telefoneContato": "",
+        "dataNascimento": "07/10/1996",
+        "nomeMae": null,
+        "email": "mario-arodrigues@hotmail.com",
+        "cep": "69097750",
+        "endereco": "RUA IRITAMA",
+        "numeroEndereco": "03",
+        "complementoEndereco": "",
+        "bairro": "CIDADE NOVA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "IRITAMA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98991245021.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

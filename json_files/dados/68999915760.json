@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c6ba1f35-b273-4797-af87-e10540e7cbee",
+    "data": {
+        "linha": "68999915760",
+        "nomeCompleto": "SAMUEL DE OLIVEIRA MELO",
+        "cpf": "01598264206",
+        "telefoneContato": "",
+        "dataNascimento": "27/12/1996",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69901782",
+        "endereco": "RUA MARIA ATENAS",
+        "numeroEndereco": "51",
+        "complementoEndereco": "",
+        "bairro": "VITORIA",
+        "cidade": "RIO BRANCO",
+        "estado": "AC",
+        "logradouro": "MARIA ATENAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999915760.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=05120299-c55b-4895-897f-cf6a655e1bad",
+    "data": {
+        "linha": "79998351574",
+        "nomeCompleto": "ROSEMARY BARBOSA SANTOS",
+        "cpf": "31206409568",
+        "telefoneContato": "",
+        "dataNascimento": "17/05/1966",
+        "nomeMae": "SOFIA BARBOSA SANTOS",
+        "email": "professora.mary@live.com",
+        "cep": "49100000",
+        "endereco": "RUA GENIVALDO DE JESUS",
+        "numeroEndereco": "26",
+        "complementoEndereco": "",
+        "bairro": "ROSA ELZE",
+        "cidade": "S CRISTOVAO",
+        "estado": "SE",
+        "logradouro": "GENIVALDO DE JESUS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79998351574.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

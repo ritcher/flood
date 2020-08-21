@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991854803",
+        "nomeCompleto": "MATHEUS LIMA NUNES",
+        "cpf": "91833159268",
+        "telefoneContato": "",
+        "dataNascimento": "21/03/1986",
+        "nomeMae": "maria de fatima figueiredo lima",
+        "email": "lb.deftones@gmail.com",
+        "cep": "69040200",
+        "endereco": "RUA WENCESLAU BRAZ",
+        "numeroEndereco": "303",
+        "complementoEndereco": "",
+        "bairro": "DOM PEDRO I",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "WENCESLAU BRAZ",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991854803.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

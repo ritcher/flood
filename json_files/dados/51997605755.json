@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51997605755",
+        "nomeCompleto": "MONICA TATIANA DOS SANTOS",
+        "cpf": "00631824081",
+        "telefoneContato": "",
+        "dataNascimento": "02/10/1985",
+        "nomeMae": null,
+        "email": null,
+        "cep": "93600000",
+        "endereco": "RUA OTTO BAUERMANN",
+        "numeroEndereco": "1072",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ESTANCIA VELHA",
+        "estado": "rs",
+        "logradouro": "OTTO BAUERMANN",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51997605755.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

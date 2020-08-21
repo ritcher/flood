@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f14e358f-17e4-49f8-ac37-e1086b2aa109",
+    "data": {
+        "linha": "93991102893",
+        "nomeCompleto": "ELIZANGELA DE SOUSA RODRIGUES",
+        "cpf": "84165952249",
+        "telefoneContato": "",
+        "dataNascimento": "01/10/1985",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68200000",
+        "endereco": "Rua TRAVESSA E",
+        "numeroEndereco": "4",
+        "complementoEndereco": "",
+        "bairro": "BELA VISTA",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "TRAVESSA E",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991102893.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

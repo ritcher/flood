@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "47991259618",
+        "nomeCompleto": "ALESSANDRO DE BONA SARTOR",
+        "cpf": "02801553956",
+        "telefoneContato": "",
+        "dataNascimento": "07/09/1979",
+        "nomeMae": null,
+        "email": "asartor666@gmail.com",
+        "cep": "02517010",
+        "endereco": "RUA REIMS",
+        "numeroEndereco": "120",
+        "complementoEndereco": "",
+        "bairro": "JD DAS LARANJEIRAS",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "REIMS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 47991259618.",
+    "currentPlan": {
+        "code": "PRPREDIAR3GSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "PRPREDIAR3GSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

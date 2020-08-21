@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0ad44f15-c2e1-48d7-8e9c-dcd3a5fa9017",
+    "data": {
+        "linha": "93991689172",
+        "nomeCompleto": "SUELEM DE SOUSA CARVALHO OLIVEIRA",
+        "cpf": "01751764265",
+        "telefoneContato": "",
+        "dataNascimento": "29/06/1991",
+        "nomeMae": "ANTONIA SOUSA CARVALHO",
+        "email": null,
+        "cep": "68020010",
+        "endereco": "RUA  COUTO MAGALHAES 499 C",
+        "numeroEndereco": "499",
+        "complementoEndereco": "",
+        "bairro": "AER VELHO",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": " COUTO MAGALHAES 499 C",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991689172.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

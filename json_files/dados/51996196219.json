@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51996196219",
+        "nomeCompleto": "KAROLINE RODRIGUES KUROSAKI",
+        "cpf": "43378687800",
+        "telefoneContato": "",
+        "dataNascimento": "15/09/1995",
+        "nomeMae": null,
+        "email": null,
+        "cep": "05508000",
+        "endereco": "AVENIDA PRF LINEU PRESTES",
+        "numeroEndereco": "50",
+        "complementoEndereco": "",
+        "bairro": "BUTANTA",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "PRF LINEU PRESTES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51996196219.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

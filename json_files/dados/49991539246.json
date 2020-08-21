@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=06d09ad8-b563-409a-8742-596a83015f06",
+    "data": {
+        "linha": "49991539246",
+        "nomeCompleto": "Gilson Pereira",
+        "cpf": "03857009977",
+        "telefoneContato": "",
+        "dataNascimento": "18/11/1983",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68456590",
+        "endereco": "AVENIDA ALOISIO CHAVES",
+        "numeroEndereco": "40",
+        "complementoEndereco": "",
+        "bairro": "NOVA TUCURUI",
+        "cidade": "TUCURUI",
+        "estado": "PA",
+        "logradouro": "ALOISIO CHAVES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 49991539246.",
+    "currentPlan": {
+        "code": "PRPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

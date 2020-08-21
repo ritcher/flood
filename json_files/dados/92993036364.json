@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "92993036364",
+        "nomeCompleto": "FERNANDA DA COSTA SILVA",
+        "cpf": "95918485287",
+        "telefoneContato": "",
+        "dataNascimento": "15/06/1988",
+        "nomeMae": "MARIA ROSARIO GOMES DA COSTA",
+        "email": null,
+        "cep": "69097750",
+        "endereco": "RUA IRITAMA",
+        "numeroEndereco": "03",
+        "complementoEndereco": "",
+        "bairro": "CIDADE NOVA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "IRITAMA",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993036364.",
+    "currentPlan": {
+        "code": "VIVOCTRLF27N",
+        "price": 54.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-3GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

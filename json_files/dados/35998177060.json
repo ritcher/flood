@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "35998177060",
+        "nomeCompleto": "ANDRESSA DIENE DA SILVA",
+        "cpf": "13619412600",
+        "telefoneContato": "",
+        "dataNascimento": "17/03/1996",
+        "nomeMae": null,
+        "email": "andressadiene@ovi.com",
+        "cep": "58075020",
+        "endereco": " JOSUE DA SILVEIRA",
+        "numeroEndereco": "544",
+        "complementoEndereco": "",
+        "bairro": "ERNESTO GEISEL",
+        "cidade": "JOAO PESSOA",
+        "estado": "PB",
+        "logradouro": "JOSUE DA SILVEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 35998177060.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1012bf7c-d785-4f29-93e8-16919f6a08c2",
+    "data": {
+        "linha": "79998620760",
+        "nomeCompleto": "MICHELE INAHURIA CASTRO",
+        "cpf": "07608352175",
+        "telefoneContato": "",
+        "dataNascimento": "20/11/1998",
+        "nomeMae": null,
+        "email": "michellecastro1356@gmail.com",
+        "cep": "02275090",
+        "endereco": " PALMIRA BARBOSA",
+        "numeroEndereco": "420",
+        "complementoEndereco": "",
+        "bairro": "VILA GERMINAL",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "PALMIRA BARBOSA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79998620760.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

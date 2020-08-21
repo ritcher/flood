@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "14999038743",
+        "nomeCompleto": "APARECIDA GOMES DA SILVA",
+        "cpf": "14588135848",
+        "telefoneContato": "",
+        "dataNascimento": "13/07/1944",
+        "nomeMae": null,
+        "email": null,
+        "cep": "17511450",
+        "endereco": "RUA IDALBERTO ZAPPA",
+        "numeroEndereco": "7",
+        "complementoEndereco": "",
+        "bairro": "NUC HABITACIONAL D F",
+        "cidade": "MARILIA",
+        "estado": "sp",
+        "logradouro": "IDALBERTO ZAPPA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 14999038743.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

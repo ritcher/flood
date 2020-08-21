@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=eb5b37eb-2cc3-4fc4-93ff-2a35ca7b39aa",
+    "data": {
+        "linha": "94992428954",
+        "nomeCompleto": "PATRICIA DE JESUS DA SILVA",
+        "cpf": "61283121360",
+        "telefoneContato": "",
+        "dataNascimento": "13/10/1995",
+        "nomeMae": "RAIMUNDA DE JESUS",
+        "email": null,
+        "cep": "68580000",
+        "endereco": "RUA DA IGREJA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "NOVO PLANALTO",
+        "cidade": "ITUPIRANGA",
+        "estado": "PA",
+        "logradouro": "DA IGREJA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992428954.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

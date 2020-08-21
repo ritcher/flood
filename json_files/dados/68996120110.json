@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "68996120110",
+        "nomeCompleto": "LUZINETE DE MELO DAVI",
+        "cpf": "97821004200",
+        "telefoneContato": "",
+        "dataNascimento": "22/01/1988",
+        "nomeMae": "RAIMUNDA NONATA PEREIRA DE MELO",
+        "email": "dalu2014.dnc@gmail.com",
+        "cep": "69907824",
+        "endereco": " RAM DO MACARRAO",
+        "numeroEndereco": "802",
+        "complementoEndereco": "",
+        "bairro": "BELO JARDIM I",
+        "cidade": "R BRANCO",
+        "estado": "AC",
+        "logradouro": "RAM DO MACARRAO",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68996120110.",
+    "currentPlan": {
+        "code": "VIVOCTRLF47N",
+        "price": 34.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL 3GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

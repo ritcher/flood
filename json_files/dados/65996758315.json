@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65996758315",
+        "nomeCompleto": "BENEDITO BERTO DE OLIVEIRA",
+        "cpf": "10596836104",
+        "telefoneContato": "",
+        "dataNascimento": "06/09/1944",
+        "nomeMae": "TEREZA DE OLIVEIRA",
+        "email": null,
+        "cep": "78088210",
+        "endereco": "R 217",
+        "numeroEndereco": "12",
+        "complementoEndereco": "",
+        "bairro": "TIJUCAL",
+        "cidade": "CUIABA",
+        "estado": "MT",
+        "logradouro": "217",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65996758315.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

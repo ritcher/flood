@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992574898",
+        "nomeCompleto": "FRANCISCA DAS CHAGAS GOMES DA COSTA",
+        "cpf": "86557386204",
+        "telefoneContato": "",
+        "dataNascimento": "16/09/1975",
+        "nomeMae": "HILDA JOSE GOMES",
+        "email": "znp22qe1cx9m2cp@gmail.com",
+        "cep": "68625510",
+        "endereco": "RUA NS APARECIDA 139",
+        "numeroEndereco": "139",
+        "complementoEndereco": "",
+        "bairro": "CIDADE NOVA",
+        "cidade": "PARAGOMINAS",
+        "estado": "PA",
+        "logradouro": "NS APARECIDA 139",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992574898.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992250805",
+        "nomeCompleto": "LUCIANA FERREIRA SANTOS",
+        "cpf": "00017870208",
+        "telefoneContato": "",
+        "dataNascimento": "07/12/1981",
+        "nomeMae": "ROSALINA FERREIRA DOS SANTOS",
+        "email": null,
+        "cep": "66077291",
+        "endereco": "RUA  LAURO SODRE SN 5",
+        "numeroEndereco": "SN",
+        "complementoEndereco": "",
+        "bairro": "TERRA FIRME",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": " LAURO SODRE SN 5",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992250805.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

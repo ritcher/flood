@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992024674",
+        "nomeCompleto": "JOSE RODRIGUES BITENCOURT",
+        "cpf": "10238018253",
+        "telefoneContato": "",
+        "dataNascimento": "12/08/1958",
+        "nomeMae": "MARIA DE NAZARE R BITENCOUR",
+        "email": null,
+        "cep": "66010000",
+        "endereco": "AVENIDA PRES VARGAS 36",
+        "numeroEndereco": "36",
+        "complementoEndereco": "",
+        "bairro": "CAMPINA",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "PRES VARGAS 36",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992024674.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

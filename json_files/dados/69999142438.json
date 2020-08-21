@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999142438",
+        "nomeCompleto": "MATHEUS DA ROCHA MELO",
+        "cpf": "04206502293",
+        "telefoneContato": "",
+        "dataNascimento": "01/01/1978",
+        "nomeMae": null,
+        "email": null,
+        "cep": "78911073",
+        "endereco": "Rua RUA 18 DE JANEIRO",
+        "numeroEndereco": "5067",
+        "complementoEndereco": "",
+        "bairro": "COHAB",
+        "cidade": "PORTO VELHO",
+        "estado": "RO",
+        "logradouro": "RUA 18 DE JANEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999142438.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

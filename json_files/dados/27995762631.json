@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27995762631",
+        "nomeCompleto": "TATIANE BARBOSA DOS SANTOS",
+        "cpf": "11307337775",
+        "telefoneContato": "",
+        "dataNascimento": "23/03/1987",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29980000",
+        "endereco": "Rua ASSENTAMENTO NOVA VITORIA SN C",
+        "numeroEndereco": "SN",
+        "complementoEndereco": "",
+        "bairro": "ZONA RURAL",
+        "cidade": "PINHEIROS",
+        "estado": "es",
+        "logradouro": "ASSENTAMENTO NOVA VITORIA SN C",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27995762631.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

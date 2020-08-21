@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b1ed22a6-790d-4ccc-b047-a6cf5ec85b35",
+    "data": {
+        "linha": "38999164261",
+        "nomeCompleto": "LUIZ CARLOS DE SOUZA SILVA",
+        "cpf": "10077993667",
+        "telefoneContato": "",
+        "dataNascimento": "20/02/1985",
+        "nomeMae": null,
+        "email": null,
+        "cep": "39315000",
+        "endereco": "RUA RIACHO DAS AGUA",
+        "numeroEndereco": "109",
+        "complementoEndereco": "",
+        "bairro": "RIACHINHO",
+        "cidade": "URUCUIA",
+        "estado": "mg",
+        "logradouro": "RIACHO DAS AGUA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38999164261.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

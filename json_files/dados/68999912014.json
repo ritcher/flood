@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b46ed1fe-a61c-4859-9e4b-ae7064115579",
+    "data": {
+        "linha": "68999912014",
+        "nomeCompleto": "ANTONIA FERREIRA DE LIMA",
+        "cpf": "46155384215",
+        "telefoneContato": "",
+        "dataNascimento": "12/12/1973",
+        "nomeMae": "MARIA IZABEL DE LIMA",
+        "email": null,
+        "cep": "79090070",
+        "endereco": "RUA ANTONIO ABDO",
+        "numeroEndereco": "519",
+        "complementoEndereco": "",
+        "bairro": "VILA TAVEIROPOLIS",
+        "cidade": "CAMPO GRANDE",
+        "estado": "MS",
+        "logradouro": "ANTONIO ABDO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999912014.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

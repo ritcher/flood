@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11950348193",
+        "nomeCompleto": "ABDEL RAHEM ABDEL KARIM MUHD SALIM TAFAL",
+        "cpf": "02991974842",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "AICHE MOHAMAD MABUBE",
+        "email": "yasmin_waldorf@hotmail.com",
+        "cep": "02180010",
+        "endereco": "RUA SLD ALBINO CESA204",
+        "numeroEndereco": "204",
+        "complementoEndereco": "",
+        "bairro": "PRQ NOVO MUNDO",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "SLD ALBINO CESA204",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11950348193.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

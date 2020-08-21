@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65996766269",
+        "nomeCompleto": "ALEX FIALHO PINHEIRO",
+        "cpf": "06167192138",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "78060634",
+        "endereco": "Rua RUA BUENOS AIRES",
+        "numeroEndereco": "726",
+        "complementoEndereco": "",
+        "bairro": "JARDIM DAS AMERICAS",
+        "cidade": "CUIABA",
+        "estado": "MT",
+        "logradouro": "RUA BUENOS AIRES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65996766269.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

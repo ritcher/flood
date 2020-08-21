@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=550499b8-7529-4f8e-838d-6db9c4b3aa5a",
+    "data": {
+        "linha": "94992603428",
+        "nomeCompleto": "MARIA RAIMUNDA DA MOTA",
+        "cpf": "00263340201",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "66083340",
+        "endereco": "Rua TRAVESSA HUMAITA",
+        "numeroEndereco": "59",
+        "complementoEndereco": "",
+        "bairro": "PEDREIRA",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "TRAVESSA HUMAITA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992603428.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

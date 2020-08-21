@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=adea3134-e6e5-44b6-a0fc-3e6e5b9d9d79",
+    "data": {
+        "linha": "84981619431",
+        "nomeCompleto": "LUCILEIDE SILVA DE SOUZA",
+        "cpf": "94709173320",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": "au71ros5zv8tk9j@gmail.com",
+        "cep": "61652480",
+        "endereco": "RUA  JABOTI 1065",
+        "numeroEndereco": "1065",
+        "complementoEndereco": "",
+        "bairro": "MAL RONDON JUREMA",
+        "cidade": "CAUCAIA",
+        "estado": "CE",
+        "logradouro": " JABOTI 1065",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 84981619431.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

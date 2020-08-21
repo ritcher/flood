@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f8b5a5d1-0932-42af-93a0-4abefbab3ee7",
+    "data": {
+        "linha": "38999060628",
+        "nomeCompleto": "JAILSON OLIVEIRA DOS SANTOS",
+        "cpf": "13611171689",
+        "telefoneContato": "",
+        "dataNascimento": "20/06/1995",
+        "nomeMae": null,
+        "email": "jailson444@gmail.com",
+        "cep": "39437000",
+        "endereco": " 6",
+        "numeroEndereco": "73",
+        "complementoEndereco": "",
+        "bairro": "FLORES",
+        "cidade": "LONTRA",
+        "estado": "MG",
+        "logradouro": "6",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38999060628.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

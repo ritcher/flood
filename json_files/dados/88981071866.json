@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=4eb70361-379e-42d1-a2d7-4bbd10000eae",
+    "data": {
+        "linha": "88981071866",
+        "nomeCompleto": "JOAO MARIANO RIBEIRO DA SILVA FILHO",
+        "cpf": "03218784344",
+        "telefoneContato": "",
+        "dataNascimento": "23/02/1975",
+        "nomeMae": null,
+        "email": null,
+        "cep": "63290000",
+        "endereco": "Rua VL STA TEREZINHA",
+        "numeroEndereco": "543",
+        "complementoEndereco": "",
+        "bairro": "VL STA TEREZINHA",
+        "cidade": "JARDIM",
+        "estado": "CE",
+        "logradouro": "VL STA TEREZINHA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981071866.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

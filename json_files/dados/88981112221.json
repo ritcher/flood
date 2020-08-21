@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0b81a81d-1c3f-4a91-ad82-ff8a2449823f",
+    "data": {
+        "linha": "88981112221",
+        "nomeCompleto": "JANE MESSA RIBEIRO KUBIT",
+        "cpf": "00525528709",
+        "telefoneContato": "",
+        "dataNascimento": "20/01/1967",
+        "nomeMae": "ZENI MESSA RIBEIRO",
+        "email": "itael612@gmail.com",
+        "cep": "29010003",
+        "endereco": "AVENIDA JERONIMO MONTEIRO",
+        "numeroEndereco": "88",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "VITORIA",
+        "estado": "ES",
+        "logradouro": "JERONIMO MONTEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981112221.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

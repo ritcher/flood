@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=280ac460-7139-4f90-93a9-b3be2654e749",
+    "data": {
+        "linha": "88981241748",
+        "nomeCompleto": "JOSE VITORINO COELHO",
+        "cpf": "76436080325",
+        "telefoneContato": "",
+        "dataNascimento": "30/10/1969",
+        "nomeMae": null,
+        "email": "hg7jyotlbnzqr7t@gmail.com",
+        "cep": "63290000",
+        "endereco": "Rua SERRA CRAVATA",
+        "numeroEndereco": "Z",
+        "complementoEndereco": "",
+        "bairro": "VILA MARIA",
+        "cidade": "JD",
+        "estado": "CE",
+        "logradouro": "SERRA CRAVATA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981241748.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

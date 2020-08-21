@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31996183631",
+        "nomeCompleto": "WENER DORIA ALVES PEREIRA",
+        "cpf": "00393074684",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "MARIA DA CONCEICAO DORIA",
+        "email": "doriawener84@gmail.com",
+        "cep": "37190000",
+        "endereco": "RUA CAIAPO",
+        "numeroEndereco": "81",
+        "complementoEndereco": "",
+        "bairro": "VILA MARILENA",
+        "cidade": "TRES PONTAS",
+        "estado": "MG",
+        "logradouro": "CAIAPO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31996183631.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

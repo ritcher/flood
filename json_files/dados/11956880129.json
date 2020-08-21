@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11956880129",
+        "nomeCompleto": "LAURO AMORIM",
+        "cpf": "52223750800",
+        "telefoneContato": "",
+        "dataNascimento": "12/03/2000",
+        "nomeMae": null,
+        "email": "amorim.8000@gmail.com",
+        "cep": "08680060",
+        "endereco": "Rua RUA AREAL",
+        "numeroEndereco": "538",
+        "complementoEndereco": "",
+        "bairro": "VILA MARIA DE MAGGI",
+        "cidade": "SUZANO",
+        "estado": "sp",
+        "logradouro": "RUA AREAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11956880129.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

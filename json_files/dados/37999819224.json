@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=e1068cc0-e6ba-4ba2-9e65-a2b873318b01",
+    "data": {
+        "linha": "37999819224",
+        "nomeCompleto": "ANA ALICE APARECIDA SANTOS PEREIRA",
+        "cpf": "13323232607",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "35501223",
+        "endereco": "Rua RUA ALMIRANTE TAMANDARE",
+        "numeroEndereco": "200",
+        "complementoEndereco": "",
+        "bairro": "CATALAO",
+        "cidade": "DIVINOPOLIS",
+        "estado": "mg",
+        "logradouro": "RUA ALMIRANTE TAMANDARE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37999819224.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

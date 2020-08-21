@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=dfe7d5b3-96dc-4133-9465-aeeef931ad0e",
+    "data": {
+        "linha": "93991211931",
+        "nomeCompleto": "VALDEMAR BOGEA SILVA",
+        "cpf": "92882501315",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "65495000",
+        "endereco": "Rua RUA N",
+        "numeroEndereco": "20",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MIRANDA DO NORTE",
+        "estado": "MA",
+        "logradouro": "RUA N",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991211931.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

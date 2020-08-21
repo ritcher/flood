@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=fe6edf3b-76d2-45c4-8d40-b2d7574dc18a",
+    "data": {
+        "linha": "75998758786",
+        "nomeCompleto": "VALDINETE DE JESUS QUEIROZ",
+        "cpf": "50128396504",
+        "telefoneContato": "",
+        "dataNascimento": "02/07/1967",
+        "nomeMae": null,
+        "email": "pr66mki2@gmail.com",
+        "cep": "00000000",
+        "endereco": "RUA ALBERTO SARTORIO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CARAPINA",
+        "cidade": "S MATEUS",
+        "estado": "ES",
+        "logradouro": "ALBERTO SARTORIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 75998758786.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

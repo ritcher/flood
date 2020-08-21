@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "13997106996",
+        "nomeCompleto": "MAUR\u00edCIO CAMARGO OLIVEIRA",
+        "cpf": "41708019898",
+        "telefoneContato": "",
+        "dataNascimento": "07/07/1994",
+        "nomeMae": "ROSANGELA APARECIDA DE CAMARGO",
+        "email": "maauricio.camargo@yahoo.com.br",
+        "cep": "37730000",
+        "endereco": " . ANTONIO JOSE NOGUEIRA",
+        "numeroEndereco": "97",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CAMPESTRE",
+        "estado": "MG",
+        "logradouro": ". ANTONIO JOSE NOGUEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 13997106996.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1584d682-9d78-4ea6-a4f6-4723d5c4d74e",
+    "data": {
+        "linha": "79998469914",
+        "nomeCompleto": "BRUNO DE JESUS SANTOS",
+        "cpf": "06231674509",
+        "telefoneContato": "",
+        "dataNascimento": "01/01/1978",
+        "nomeMae": null,
+        "email": null,
+        "cep": "49010130",
+        "endereco": "R JOAO PESSOA",
+        "numeroEndereco": "293",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ARACAJU",
+        "estado": "SE",
+        "logradouro": "JOAO PESSOA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79998469914.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

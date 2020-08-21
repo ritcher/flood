@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "12996350239",
+        "nomeCompleto": "THIAGO MACEDO DOS SANTOS",
+        "cpf": "46277006878",
+        "telefoneContato": "",
+        "dataNascimento": "02/04/2001",
+        "nomeMae": null,
+        "email": null,
+        "cep": "12490000",
+        "endereco": "RUA CASTORINO GOMES RIBEIRO",
+        "numeroEndereco": "99",
+        "complementoEndereco": "",
+        "bairro": "ALFREDO PETERCEM",
+        "cidade": "S BENTO DO SAPUCAI",
+        "estado": "SP",
+        "logradouro": "CASTORINO GOMES RIBEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996350239.",
+    "currentPlan": {
+        "code": "VIVOCTRLF34N",
+        "price": 32.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-2GB_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

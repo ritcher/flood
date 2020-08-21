@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12996286951",
+        "nomeCompleto": "CARLOS EDUARDO SOARES",
+        "cpf": "30276790820",
+        "telefoneContato": "",
+        "dataNascimento": "19/12/1982",
+        "nomeMae": "ANA DO CARMO GONCALVES SOARES\t",
+        "email": null,
+        "cep": "12460000",
+        "endereco": " 'R MONTE VERDE",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "LOT SERRA AZUL",
+        "cidade": "CAMPOS DO JORDAO",
+        "estado": "SP",
+        "logradouro": "'R MONTE VERDE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996286951.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

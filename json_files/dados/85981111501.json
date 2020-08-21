@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "85981111501",
+        "nomeCompleto": "GLEISON SANTIAGO BARBOSA",
+        "cpf": "04904742338",
+        "telefoneContato": "",
+        "dataNascimento": "31/10/1990",
+        "nomeMae": null,
+        "email": "gleison.barbosa@ftlsa.com.br",
+        "cep": "60530110",
+        "endereco": " 123",
+        "numeroEndereco": "12",
+        "complementoEndereco": "",
+        "bairro": "",
+        "cidade": "FORTALEZA",
+        "estado": "CE",
+        "logradouro": "123",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 85981111501.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

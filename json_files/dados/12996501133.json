@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "12996501133",
+        "nomeCompleto": "LUANA MARIANA DA COSTA",
+        "cpf": "31704427835",
+        "telefoneContato": "",
+        "dataNascimento": "29/03/1983",
+        "nomeMae": "Nancy Nana Matsuda",
+        "email": "azylr1276on19@telegmail.com",
+        "cep": "18080000",
+        "endereco": "RUA COMENDADOHERMELINO MATARAZZO",
+        "numeroEndereco": "456",
+        "complementoEndereco": "",
+        "bairro": "REGIAO NORTE",
+        "cidade": "SOROCABA",
+        "estado": "SP",
+        "logradouro": "COMENDADOHERMELINO MATARAZZO",
+        "contaDigital": true,
+        "vencimentoFatura": "1",
+        "ciclo": "15",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996501133.",
+    "currentPlan": {
+        "code": "VIVOCTRLF50N",
+        "price": 69.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 4GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "14998982533",
+        "nomeCompleto": "DANIEL FERNANDO MANOEL SITTA",
+        "cpf": "49760255863",
+        "telefoneContato": "",
+        "dataNascimento": "13/12/2000",
+        "nomeMae": null,
+        "email": null,
+        "cep": "17280000",
+        "endereco": "Rua AVENIDA TIRADENTES",
+        "numeroEndereco": "88",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "PEDERNEIRAS",
+        "estado": "sp",
+        "logradouro": "AVENIDA TIRADENTES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 14998982533.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

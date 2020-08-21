@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992001245",
+        "nomeCompleto": "SOFIA MEDEIROS XAVIER",
+        "cpf": "06576781202",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69043371",
+        "endereco": "Rua RUA MARECHAL RONDON",
+        "numeroEndereco": "100",
+        "complementoEndereco": "",
+        "bairro": "ALVORADA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "RUA MARECHAL RONDON",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992001245.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

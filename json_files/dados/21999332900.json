@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21999332900",
+        "nomeCompleto": "ELIZABETH DE MIRANDA SAPUCAIA",
+        "cpf": "25863533749",
+        "telefoneContato": "",
+        "dataNascimento": "06/03/1941",
+        "nomeMae": "ALAYDE ALMEIDA RODRIGUES ",
+        "email": null,
+        "cep": "24415000",
+        "endereco": "RUA CORONEL LOURENCO IGNACIO",
+        "numeroEndereco": "46",
+        "complementoEndereco": "",
+        "bairro": "NEVES",
+        "cidade": "NITEROI",
+        "estado": "RJ",
+        "logradouro": "CORONEL LOURENCO IGNACIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21999332900.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

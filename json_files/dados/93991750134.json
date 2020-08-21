@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=7453acb1-35ee-454e-8a0f-99bea18d256e",
+    "data": {
+        "linha": "93991750134",
+        "nomeCompleto": "KATIANE MELO DA COSTA",
+        "cpf": "55367690220",
+        "telefoneContato": "",
+        "dataNascimento": "15/04/1989",
+        "nomeMae": null,
+        "email": "nayannelfreitas@gmail.com",
+        "cep": "68371510",
+        "endereco": "Rua LOT S DOMINGOS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "NOVA ALTAMIRA",
+        "cidade": "ALTAMIRA",
+        "estado": "PA",
+        "logradouro": "LOT S DOMINGOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991750134.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

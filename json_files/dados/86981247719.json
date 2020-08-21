@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=17b8197b-1183-49de-80e0-1a80d1d56a67",
+    "data": {
+        "linha": "86981247719",
+        "nomeCompleto": "ELISANGELA DE SOUSA PEREIRA",
+        "cpf": "02211987338",
+        "telefoneContato": "",
+        "dataNascimento": "12/08/1977",
+        "nomeMae": null,
+        "email": null,
+        "cep": "64260000",
+        "endereco": "Rua POVOADO S JOAO",
+        "numeroEndereco": "71",
+        "complementoEndereco": "",
+        "bairro": "MORRO DA ANA",
+        "cidade": "PIRIPIRI",
+        "estado": "PI",
+        "logradouro": "POVOADO S JOAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 86981247719.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

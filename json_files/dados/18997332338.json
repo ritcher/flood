@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18997332338",
+        "nomeCompleto": "MATEUS FERREIRA BARROS",
+        "cpf": "46298351809",
+        "telefoneContato": "",
+        "dataNascimento": "07/05/2002",
+        "nomeMae": null,
+        "email": null,
+        "cep": "17990000",
+        "endereco": "Rua RUA CARDEAL LEME",
+        "numeroEndereco": "572",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "PAULICEIA",
+        "estado": "sp",
+        "logradouro": "RUA CARDEAL LEME",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18997332338.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

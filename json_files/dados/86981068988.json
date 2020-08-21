@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=12ea37eb-4d7c-4ba9-9f5f-42dbf91d8d39",
+    "data": {
+        "linha": "86981068988",
+        "nomeCompleto": "FELIPE WESLLEY OLIVEIRA DA SILVA",
+        "cpf": "08067388393",
+        "telefoneContato": "",
+        "dataNascimento": "11/08/1998",
+        "nomeMae": null,
+        "email": "91cc998751@emailtown.club",
+        "cep": "67033610",
+        "endereco": " ALACID NUNES",
+        "numeroEndereco": "24",
+        "complementoEndereco": "",
+        "bairro": "AGUAS BRANCAS",
+        "cidade": "ANANINDEUA",
+        "estado": "PA",
+        "logradouro": "ALACID NUNES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 86981068988.",
+    "currentPlan": {
+        "code": "NEPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "NEPREDIARIOGSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

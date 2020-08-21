@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11941399141",
+        "nomeCompleto": "ANTONIO RUMAO GOMES",
+        "cpf": "38275285852",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": "lyuverdao@gmail.com",
+        "cep": "75000000",
+        "endereco": "RUA CONTORNO DA MATO GROSSO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "JUNDIAI",
+        "cidade": "ANAPOLIS",
+        "estado": "GO",
+        "logradouro": "CONTORNO DA MATO GROSSO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11941399141.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

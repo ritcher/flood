@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31998442687",
+        "nomeCompleto": "TANIA BARBOSA VIEIRA",
+        "cpf": "12308663618",
+        "telefoneContato": "",
+        "dataNascimento": "16/05/1994",
+        "nomeMae": null,
+        "email": "tania.eudora14@gmail.com",
+        "cep": "21031320",
+        "endereco": " TEMPORAL",
+        "numeroEndereco": "13",
+        "complementoEndereco": "",
+        "bairro": "RAMOS",
+        "cidade": "RIO DE JANEIRO",
+        "estado": "RJ",
+        "logradouro": "TEMPORAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31998442687.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

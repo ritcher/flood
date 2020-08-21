@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=82a1d92e-154a-4258-be04-bb31a9d9621b",
+    "data": {
+        "linha": "93991484538",
+        "nomeCompleto": "KESSIA CARVALHO MOTA",
+        "cpf": "01256643203",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "45300000",
+        "endereco": "Rua AVENIDA DOUTOR ABELARDO VELOSO",
+        "numeroEndereco": "256",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "AMARGOSA",
+        "estado": "BA",
+        "logradouro": "AVENIDA DOUTOR ABELARDO VELOSO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991484538.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

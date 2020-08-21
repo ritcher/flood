@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=2bb6dfce-2f6c-4051-9780-145f21c7e984",
+    "data": {
+        "linha": "93992252433",
+        "nomeCompleto": "JOHNNATHAN HENRIQUE CASTRO VIEIR",
+        "cpf": "01014709245",
+        "telefoneContato": "",
+        "dataNascimento": "20/02/1990",
+        "nomeMae": "SHEILA CASTRO VIEIRA",
+        "email": "sheilacastrovieirastm@gmail.com",
+        "cep": "68005070",
+        "endereco": "R GALDINO VELOSO",
+        "numeroEndereco": "57",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "GALDINO VELOSO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992252433.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

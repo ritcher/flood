@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15998717232",
+        "nomeCompleto": "ADENILTON GOMES BEZERRA",
+        "cpf": "00363726500",
+        "telefoneContato": "",
+        "dataNascimento": "04/01/1978",
+        "nomeMae": "MARIA CORREIA BEZERRA",
+        "email": "marciadias27.md@gmail.com",
+        "cep": "18075480",
+        "endereco": "R DONIZETE",
+        "numeroEndereco": "10",
+        "complementoEndereco": "",
+        "bairro": "VILA ALMEIDA",
+        "cidade": "SOROCABA",
+        "estado": "SP",
+        "logradouro": "DONIZETE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15998717232.",
+    "currentPlan": {
+        "code": "VIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Vivo Toda Hora",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

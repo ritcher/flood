@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=2d1a8e6d-48c2-44d6-90c5-e7e17d93d3a1",
+    "data": {
+        "linha": "88981107021",
+        "nomeCompleto": "ANTONIO OTAVIO TOMAZ DE SANTANA",
+        "cpf": "05737015394",
+        "telefoneContato": "",
+        "dataNascimento": "24/03/1992",
+        "nomeMae": null,
+        "email": null,
+        "cep": "38490000",
+        "endereco": "Rua FAZ MANDAGUARI AGROPECUARIA SE",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "SEDE",
+        "cidade": "INDIANOPOLIS",
+        "estado": "mg",
+        "logradouro": "FAZ MANDAGUARI AGROPECUARIA SE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981107021.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

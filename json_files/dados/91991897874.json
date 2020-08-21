@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "91991897874",
+        "nomeCompleto": "MARIA DE SOUZA",
+        "cpf": "26669986220",
+        "telefoneContato": "",
+        "dataNascimento": "02/12/1946",
+        "nomeMae": null,
+        "email": "eduardoburro@gmail.com",
+        "cep": "03124020",
+        "endereco": " JUVENTUS",
+        "numeroEndereco": "488",
+        "complementoEndereco": "",
+        "bairro": "PARQUE DA MOOCA",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "JUVENTUS",
+        "contaDigital": true,
+        "vencimentoFatura": "1",
+        "ciclo": "15",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991897874.",
+    "currentPlan": {
+        "code": "VIVOCTRLF51N",
+        "price": 84.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 5GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

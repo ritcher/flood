@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67996541493",
+        "nomeCompleto": "LUCAS SILVA FERREIRA",
+        "cpf": "52327421837",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": null,
+        "cep": "79106320",
+        "endereco": "Rua RUA DIVA LEMOS ALBERTINI",
+        "numeroEndereco": "161",
+        "complementoEndereco": "",
+        "bairro": "JARDIM ITALIA",
+        "cidade": "CAMPO GRANDE",
+        "estado": "MS",
+        "logradouro": "RUA DIVA LEMOS ALBERTINI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67996541493.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

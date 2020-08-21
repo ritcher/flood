@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11973233956",
+        "nomeCompleto": "PAMELA REGINA SILVA COSTA",
+        "cpf": "47693102850",
+        "telefoneContato": "",
+        "dataNascimento": "19/11/1998",
+        "nomeMae": null,
+        "email": null,
+        "cep": "04012001",
+        "endereco": "Rua RUA PELOTAS",
+        "numeroEndereco": "414",
+        "complementoEndereco": "",
+        "bairro": "VILA MARIANA",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "RUA PELOTAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11973233956.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

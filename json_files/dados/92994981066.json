@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994981066",
+        "nomeCompleto": "JOHNATHAN LUCIO LAMEGO DE OLIVEIRA",
+        "cpf": "01514994208",
+        "telefoneContato": "",
+        "dataNascimento": "03/10/1996",
+        "nomeMae": "ROSEKEURY LAMEGO DE OLIVEIRA",
+        "email": "01514994208@g.co",
+        "cep": "69103072",
+        "endereco": "Rua BC  DO MODULO UM 1306",
+        "numeroEndereco": "1306",
+        "complementoEndereco": "",
+        "bairro": "STO ANTONIO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "BC  DO MODULO UM 1306",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994981066.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21995749181",
+        "nomeCompleto": "ANDREA DENISE DA SILVA BULL",
+        "cpf": "03685869795",
+        "telefoneContato": "",
+        "dataNascimento": "03/04/1974",
+        "nomeMae": null,
+        "email": "3n3wj3fyqka0zx9@gmail.com",
+        "cep": "24744220",
+        "endereco": "RUA FRANCISCO VITORINO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "COLUBANDE",
+        "cidade": "SAO GONCALO",
+        "estado": "Rj",
+        "logradouro": "FRANCISCO VITORINO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21995749181.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

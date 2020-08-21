@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=33f350b1-3082-449b-b5e7-770b1591fc54",
+    "data": {
+        "linha": "84981155518",
+        "nomeCompleto": "LUCIELIO REGO MARTINS",
+        "cpf": "01000238431",
+        "telefoneContato": "",
+        "dataNascimento": "14/04/1981",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29914510",
+        "endereco": "AV CABOCLO BERNARDO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "POVOACAO",
+        "cidade": "LINHARES",
+        "estado": "ES",
+        "logradouro": "CABOCLO BERNARDO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 84981155518.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "14997981655",
+        "nomeCompleto": "GABRIEL BEZERRA SOUSA",
+        "cpf": "48680416819",
+        "telefoneContato": "",
+        "dataNascimento": "30/04/2003",
+        "nomeMae": null,
+        "email": null,
+        "cep": "00000000",
+        "endereco": " ANTONIO TAVARES DE VASCONCELOS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "VILA",
+        "cidade": "RECIFE",
+        "estado": "PE",
+        "logradouro": "ANTONIO TAVARES DE VASCONCELOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 14997981655.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f8daf077-298c-41e5-92a6-0b8166abe711",
+    "data": {
+        "linha": "99992188410",
+        "nomeCompleto": "ELIANE SILVA LIMA",
+        "cpf": "02110558326",
+        "telefoneContato": "",
+        "dataNascimento": "29/11/1984",
+        "nomeMae": null,
+        "email": null,
+        "cep": "65760000",
+        "endereco": "Rua RUA 3",
+        "numeroEndereco": "112",
+        "complementoEndereco": "",
+        "bairro": "PRES DUTRA",
+        "cidade": "PRESIDENTE DUTRA",
+        "estado": "MA",
+        "logradouro": "RUA 3",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99992188410.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

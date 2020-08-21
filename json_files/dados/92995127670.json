@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92995127670",
+        "nomeCompleto": "JEFFERSON NOGUEIRA DOS SANTOS",
+        "cpf": "70256849293",
+        "telefoneContato": "",
+        "dataNascimento": "02/12/1994",
+        "nomeMae": "MARLY AMORIM NOGUEIRA",
+        "email": "db29aphw4gfrtas@gmail.com",
+        "cep": "69099415",
+        "endereco": "RUA  DOS UIRAPURUS 1 N 474",
+        "numeroEndereco": "1",
+        "complementoEndereco": "",
+        "bairro": "CIDADE DE DEUS",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": " DOS UIRAPURUS 1 N 474",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92995127670.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

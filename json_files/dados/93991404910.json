@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=d6bebbc9-1ed9-40d3-b84a-322e9875aaa3",
+    "data": {
+        "linha": "93991404910",
+        "nomeCompleto": "REGINALDO DOS SANTOS GUIMAR\u00c3ES",
+        "cpf": "04633391267",
+        "telefoneContato": "",
+        "dataNascimento": "17/10/1997",
+        "nomeMae": "maria da silva",
+        "email": "4jpzpsedsse0j8e@gmail.com",
+        "cep": "00000000",
+        "endereco": "AV A",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "MARCOS FREIRE II",
+        "cidade": "NOSSA SENHORA DO SOCORRO",
+        "estado": "SE",
+        "logradouro": "A",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991404910.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=e5498261-4e81-43c9-a91c-fe1ef62bee75",
+    "data": {
+        "linha": "94992094104",
+        "nomeCompleto": "VALDIR DA SILVA",
+        "cpf": "45861269220",
+        "telefoneContato": "",
+        "dataNascimento": "07/11/1972",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68580000",
+        "endereco": "RUA SAO GERALDO",
+        "numeroEndereco": "22",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITUPIRANGA",
+        "estado": "PA",
+        "logradouro": "SAO GERALDO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992094104.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

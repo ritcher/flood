@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51998797948",
+        "nomeCompleto": "DEBORA REGINA MORAES",
+        "cpf": "01779236018",
+        "telefoneContato": "",
+        "dataNascimento": "29/10/1989",
+        "nomeMae": "MARIA O B MORAES",
+        "email": null,
+        "cep": "93530450",
+        "endereco": "RUA  MARIA ELZA BRAUN 221",
+        "numeroEndereco": "221",
+        "complementoEndereco": "",
+        "bairro": "DIEHL",
+        "cidade": "NOVO HAMBURGO",
+        "estado": "rs",
+        "logradouro": " MARIA ELZA BRAUN 221",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51998797948.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

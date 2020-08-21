@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15996438947",
+        "nomeCompleto": "FABIO DINIS SUDARIO DA CRUZ",
+        "cpf": "21279955899",
+        "telefoneContato": "",
+        "dataNascimento": "03/12/1972",
+        "nomeMae": "MARIA DE LOURDES SUDARIO DA CRUZ",
+        "email": "l5qf1odg8cg8557@gmail.com",
+        "cep": "18406000",
+        "endereco": "AVENIDA ROBERTO GEMIGNANI",
+        "numeroEndereco": "80",
+        "complementoEndereco": "",
+        "bairro": "CENTRAL PARK",
+        "cidade": "ITAPEVA",
+        "estado": "SP",
+        "logradouro": "ROBERTO GEMIGNANI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15996438947.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

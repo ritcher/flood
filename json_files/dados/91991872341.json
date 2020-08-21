@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991872341",
+        "nomeCompleto": "RENAN SILVA DOS SANTOS",
+        "cpf": "05003592299",
+        "telefoneContato": "",
+        "dataNascimento": "12/04/2001",
+        "nomeMae": "TELMA SUELI DE OLIVEIRA E SILVA",
+        "email": null,
+        "cep": "68925213",
+        "endereco": " 15 DE NOVEMBRO",
+        "numeroEndereco": "56",
+        "complementoEndereco": "",
+        "bairro": "CENTRAL",
+        "cidade": "SANTANA",
+        "estado": "AP",
+        "logradouro": "15 DE NOVEMBRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991872341.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

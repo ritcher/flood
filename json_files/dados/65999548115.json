@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65999548115",
+        "nomeCompleto": "LUANA DOS SANTOS RODRIGUES ASSUNCAO",
+        "cpf": "06149020100",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "78740048",
+        "endereco": "Rua RUA PAULO VI",
+        "numeroEndereco": "888",
+        "complementoEndereco": "",
+        "bairro": "VILA AURORA I",
+        "cidade": "RONDONOPOLIS",
+        "estado": "MT",
+        "logradouro": "RUA PAULO VI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65999548115.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

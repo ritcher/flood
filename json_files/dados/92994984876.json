@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994984876",
+        "nomeCompleto": "MATEUS NASCIMENTO DE OLIVEIRA",
+        "cpf": "86644270204",
+        "telefoneContato": "",
+        "dataNascimento": "11/04/1998",
+        "nomeMae": null,
+        "email": "gsard133jxkw18i@gmail.com",
+        "cep": "58000000",
+        "endereco": "R ALINE BARROS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ROGER",
+        "cidade": "JOAO PESSOA",
+        "estado": "PB",
+        "logradouro": "ALINE BARROS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994984876.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

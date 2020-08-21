@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11999339354",
+        "nomeCompleto": "JACIARA DA SILVA",
+        "cpf": "89750195515",
+        "telefoneContato": "",
+        "dataNascimento": "22/11/1975",
+        "nomeMae": null,
+        "email": null,
+        "cep": "08060060",
+        "endereco": "RUA CEL MANUEL FELICIANO DE SOUZ",
+        "numeroEndereco": "1221",
+        "complementoEndereco": "",
+        "bairro": "VL JACUI",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "CEL MANUEL FELICIANO DE SOUZ",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11999339354.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

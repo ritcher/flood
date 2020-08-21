@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31998039199",
+        "nomeCompleto": "PATRICIA KELLY ALVES MENDES",
+        "cpf": "02254853627",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "LUCIANA ALVES GOMES",
+        "email": null,
+        "cep": "30451496",
+        "endereco": "Rua BC  CENTRAL A 54",
+        "numeroEndereco": "54",
+        "complementoEndereco": "",
+        "bairro": "VL ANTENA",
+        "cidade": "BELO HORIZONTE",
+        "estado": "mg",
+        "logradouro": "BC  CENTRAL A 54",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31998039199.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

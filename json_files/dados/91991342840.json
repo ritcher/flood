@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991342840",
+        "nomeCompleto": "ROSINEIDE DOS SANTOS RODRIGUES",
+        "cpf": "01933098236",
+        "telefoneContato": "",
+        "dataNascimento": "15/06/1992",
+        "nomeMae": "MARIA DOS SANTOS RODRIGUES",
+        "email": null,
+        "cep": "66820595",
+        "endereco": "Rua RUA ELCIONE BARBALHO",
+        "numeroEndereco": "74",
+        "complementoEndereco": "",
+        "bairro": "TENONE",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "RUA ELCIONE BARBALHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991342840.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

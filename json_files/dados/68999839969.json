@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=2cc5dd3c-21f1-4b63-a7ed-6d3a8f0a88c2",
+    "data": {
+        "linha": "68999839969",
+        "nomeCompleto": "MATEUS LIMA DE SOUZA",
+        "cpf": "02319308288",
+        "telefoneContato": "",
+        "dataNascimento": "28/09/2001",
+        "nomeMae": "ANA MARIA PAIVA DE LIMA",
+        "email": null,
+        "cep": "69970000",
+        "endereco": "Rua RUA JOAO DE PAIVA",
+        "numeroEndereco": "723",
+        "complementoEndereco": "",
+        "bairro": "SENADOR POMPEU",
+        "cidade": "TARAUACA",
+        "estado": "AC",
+        "logradouro": "RUA JOAO DE PAIVA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999839969.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

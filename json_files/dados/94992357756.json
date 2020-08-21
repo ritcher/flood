@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6565bdd5-29ca-4e76-a367-170e0e72384e",
+    "data": {
+        "linha": "94992357756",
+        "nomeCompleto": "SILVONE FERNANDES DO COUTO",
+        "cpf": "74405152268",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68385000",
+        "endereco": "Rua RUA SUCUPIRA",
+        "numeroEndereco": "31",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "TUCUMA",
+        "estado": "PA",
+        "logradouro": "RUA SUCUPIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992357756.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

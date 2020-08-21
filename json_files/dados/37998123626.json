@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=cdb5f7ca-f264-418b-ab18-5ea0af21de84",
+    "data": {
+        "linha": "37998123626",
+        "nomeCompleto": "DINA MARIA CARVALHO",
+        "cpf": "90038738600",
+        "telefoneContato": "",
+        "dataNascimento": "22/10/1972",
+        "nomeMae": "geralda francisca carvalho",
+        "email": "elx9oszxo9s8duo@gmail.com",
+        "cep": "35550000",
+        "endereco": "RUA TEODORO AFONSO CAMOUNIER",
+        "numeroEndereco": "39",
+        "complementoEndereco": "",
+        "bairro": ".",
+        "cidade": "ITAPECERICA",
+        "estado": "MG",
+        "logradouro": "TEODORO AFONSO CAMOUNIER",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37998123626.",
+    "currentPlan": {
+        "code": "MGVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f3f64f59-7a2e-47a3-8d9e-6bd5cfbd778b",
+    "data": {
+        "linha": "93992378734",
+        "nomeCompleto": "ADAILTON DOS REIS MIRANDA",
+        "cpf": "02475233214",
+        "telefoneContato": "",
+        "dataNascimento": "04/07/1987",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69117000",
+        "endereco": "Rua NJAMIM LIMA",
+        "numeroEndereco": "42",
+        "complementoEndereco": "",
+        "bairro": "MONTE CASTELO II",
+        "cidade": "RIO PRETO DA EVA",
+        "estado": "AM",
+        "logradouro": "NJAMIM LIMA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992378734.",
+    "currentPlan": {
+        "code": "TCOPREDIAR3GSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": null,
+        "platform": null,
+        "partnerBrandData": null,
+        "loyalty": null
+    }
+}

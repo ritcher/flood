@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "51997354529",
+        "nomeCompleto": "ACIMAR FIGUEIRAS DOS SANTOS",
+        "cpf": "19466552015",
+        "telefoneContato": "",
+        "dataNascimento": "28/01/1942",
+        "nomeMae": null,
+        "email": null,
+        "cep": "96690000",
+        "endereco": "RUA PAPA JOAO XXIII",
+        "numeroEndereco": "330",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "PANTANO GRANDE",
+        "estado": "RS",
+        "logradouro": "PAPA JOAO XXIII",
+        "contaDigital": true,
+        "vencimentoFatura": "10",
+        "ciclo": "25",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51997354529.",
+    "currentPlan": {
+        "code": "VIVOCTRLF27N",
+        "price": 54.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-3GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

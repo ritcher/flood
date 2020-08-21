@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993980965",
+        "nomeCompleto": "SILVIA GUERRA FERNANDES",
+        "cpf": "16147642200",
+        "telefoneContato": "",
+        "dataNascimento": "07/09/1951",
+        "nomeMae": null,
+        "email": "thay_bcosta@hotmail.com",
+        "cep": "69063510",
+        "endereco": "RUA LEOPOLDO CARPINTEIRO PERES",
+        "numeroEndereco": "939",
+        "complementoEndereco": "",
+        "bairro": "PETROPOLIS",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "LEOPOLDO CARPINTEIRO PERES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993980965.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

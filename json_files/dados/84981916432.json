@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=7afec1fe-9c1c-49db-94c2-5f8ad1e4855e",
+    "data": {
+        "linha": "84981916432",
+        "nomeCompleto": "WALMIR LUCIO RIBEIRO",
+        "cpf": "05962887786",
+        "telefoneContato": "",
+        "dataNascimento": "11/05/1973",
+        "nomeMae": "Dalvanira Silva Ribeiro ",
+        "email": "advogado@walmirribeiro.adv.br",
+        "cep": "59152210",
+        "endereco": "RUA JACARANDA",
+        "numeroEndereco": "227",
+        "complementoEndereco": "",
+        "bairro": "NOVA PARNAMIRIM",
+        "cidade": "PARNAMIRIM",
+        "estado": "RN",
+        "logradouro": "JACARANDA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 84981916432.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

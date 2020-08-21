@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "14998856339",
+        "nomeCompleto": "ROBERTO LUIZ DE SOUZA",
+        "cpf": "91783860120",
+        "telefoneContato": "",
+        "dataNascimento": "20/06/1974",
+        "nomeMae": null,
+        "email": "jorgesantana17@gmail.com",
+        "cep": "01220000",
+        "endereco": "RUA BENTO FREITAS",
+        "numeroEndereco": "297",
+        "complementoEndereco": "",
+        "bairro": "REPUBLICA",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "BENTO FREITAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 14998856339.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

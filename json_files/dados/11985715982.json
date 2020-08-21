@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11985715982",
+        "nomeCompleto": "ABDO ZANERATTO TAWIL",
+        "cpf": "36439739859",
+        "telefoneContato": "",
+        "dataNascimento": "13/05/1986",
+        "nomeMae": null,
+        "email": "abdo_zt@hotmail.com",
+        "cep": "07092110",
+        "endereco": "RUA DJOSE MAURICIO DE OLIVEIRA 354 AP 33",
+        "numeroEndereco": "354",
+        "complementoEndereco": "",
+        "bairro": "GOPOUVA",
+        "cidade": "GUARULHOS",
+        "estado": "sp",
+        "logradouro": "DJOSE MAURICIO DE OLIVEIRA 354 AP 33",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11985715982.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

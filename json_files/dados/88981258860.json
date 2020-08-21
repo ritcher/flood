@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "88981258860",
+        "nomeCompleto": "ALAN VITOR ARAUJO TEIXEIRA",
+        "cpf": "07903929330",
+        "telefoneContato": "",
+        "dataNascimento": "28/01/2000",
+        "nomeMae": null,
+        "email": null,
+        "cep": "63515000",
+        "endereco": " SIT ALTOS K M",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "15 DE NOVEMBRO",
+        "cidade": "QUIXELO",
+        "estado": "CE",
+        "logradouro": "SIT ALTOS K M",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981258860.",
+    "currentPlan": {
+        "code": "VIVOCTRLF34A",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL_2,5GB_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

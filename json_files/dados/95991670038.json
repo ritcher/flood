@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=daa74175-1e85-4b9d-ae30-4049bddee5be",
+    "data": {
+        "linha": "95991670038",
+        "nomeCompleto": "WESLLEN LOPES RABELO",
+        "cpf": "02346422207",
+        "telefoneContato": "",
+        "dataNascimento": "25/02/1999",
+        "nomeMae": null,
+        "email": "filipejuliopaulodossantosfilipejuliopaulodossantos@bidoul.eng.br",
+        "cep": "04064030",
+        "endereco": " DOS GUAICANAS",
+        "numeroEndereco": "780",
+        "complementoEndereco": "",
+        "bairro": "PLAN PAULISTA",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "DOS GUAICANAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 95991670038.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

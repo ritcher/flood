@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=2c5a78fc-586e-4048-baac-9b7f2a99a9b1",
+    "data": {
+        "linha": "94991985611",
+        "nomeCompleto": "ALMIR RAVEL PEREIRA DOS SANTOS",
+        "cpf": "03876011205",
+        "telefoneContato": "",
+        "dataNascimento": "23/08/1995",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68557280",
+        "endereco": "RUA BDO RIO BRANCO",
+        "numeroEndereco": "1013",
+        "complementoEndereco": "",
+        "bairro": "MARAJOARA",
+        "cidade": "XINGUARA",
+        "estado": "PA",
+        "logradouro": "BDO RIO BRANCO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991985611.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

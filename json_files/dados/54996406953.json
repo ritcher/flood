@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "54996406953",
+        "nomeCompleto": "ANA LUIZA VIDAL DE SOUZA",
+        "cpf": "95077480087",
+        "telefoneContato": "",
+        "dataNascimento": "21/08/1978",
+        "nomeMae": null,
+        "email": "iq1l6z2g9u85k69@gmail.com",
+        "cep": "08720060",
+        "endereco": "AVENIDA JOSE GLICERIO DE MELLO",
+        "numeroEndereco": "1951",
+        "complementoEndereco": "",
+        "bairro": "JD CAMILA",
+        "cidade": "MOGI DAS CRUZES",
+        "estado": "sp",
+        "logradouro": "JOSE GLICERIO DE MELLO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 54996406953.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

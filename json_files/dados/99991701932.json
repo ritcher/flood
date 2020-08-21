@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=4ef07d2b-7cb3-4896-8bd4-ccf53fbee85c",
+    "data": {
+        "linha": "99991701932",
+        "nomeCompleto": "MAICON KILBERY SILVA DA CRUZ",
+        "cpf": "61525961306",
+        "telefoneContato": "",
+        "dataNascimento": "06/06/2002",
+        "nomeMae": null,
+        "email": null,
+        "cep": "99500000",
+        "endereco": " 03 DE MAIO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "LOEFF",
+        "cidade": "CARAZINHO",
+        "estado": "RS",
+        "logradouro": "03 DE MAIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99991701932.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

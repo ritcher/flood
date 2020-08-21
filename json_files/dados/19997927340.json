@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "19997927340",
+        "nomeCompleto": "GILDO SPADON PEREIRA",
+        "cpf": "22014349800",
+        "telefoneContato": "",
+        "dataNascimento": "05/12/1968",
+        "nomeMae": "tereza spadon pereira",
+        "email": null,
+        "cep": "13033035",
+        "endereco": " RUA RAUL SOARES DE MOURA",
+        "numeroEndereco": "221",
+        "complementoEndereco": "",
+        "bairro": "JARDIM AURELIA",
+        "cidade": "CAMPINAS",
+        "estado": "SP",
+        "logradouro": "RUA RAUL SOARES DE MOURA",
+        "contaDigital": true,
+        "vencimentoFatura": "1",
+        "ciclo": "15",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19997927340.",
+    "currentPlan": {
+        "code": "VIVOCTRLF27N",
+        "price": 54.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-3GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

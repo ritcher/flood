@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "35998562905",
+        "nomeCompleto": "KENIA DE CASSIA DE OLIVEIRA",
+        "cpf": "00022793631",
+        "telefoneContato": "",
+        "dataNascimento": "04/03/1973",
+        "nomeMae": "APARECIDA HELENA DE OLIVEIRA",
+        "email": null,
+        "cep": "37730000",
+        "endereco": " . DE CAXIAS",
+        "numeroEndereco": "09",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CAMPESTRE",
+        "estado": "MG",
+        "logradouro": ". DE CAXIAS",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 35998562905.",
+    "currentPlan": {
+        "code": "VIVOCTRLF27N",
+        "price": 54.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-3GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=719e50a4-beee-437d-ba09-cf0db6849b50",
+    "data": {
+        "linha": "68996033699",
+        "nomeCompleto": "GYSELLE BATISTA DE FIGUEIREDO",
+        "cpf": "03721394267",
+        "telefoneContato": "",
+        "dataNascimento": "04/07/2001",
+        "nomeMae": null,
+        "email": null,
+        "cep": "39560000",
+        "endereco": "Rua AVENIDA SALINAS",
+        "numeroEndereco": "18",
+        "complementoEndereco": "",
+        "bairro": "NOVA MATRONA",
+        "cidade": "SALINAS",
+        "estado": "mg",
+        "logradouro": "AVENIDA SALINAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68996033699.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

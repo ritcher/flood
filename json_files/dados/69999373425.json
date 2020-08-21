@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999373425",
+        "nomeCompleto": "JOSE RODRIGUES VIEIRA FILHO",
+        "cpf": "29093643215",
+        "telefoneContato": "",
+        "dataNascimento": "20/05/1966",
+        "nomeMae": null,
+        "email": null,
+        "cep": "76829786",
+        "endereco": "RUA CORINTHIANS",
+        "numeroEndereco": "6854",
+        "complementoEndereco": "",
+        "bairro": "LAGOINHA",
+        "cidade": "PORTO VELHO",
+        "estado": "RO",
+        "logradouro": "CORINTHIANS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999373425.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

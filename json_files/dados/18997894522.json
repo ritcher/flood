@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18997894522",
+        "nomeCompleto": "MAURILEI APARECIDO GIMENES GIMENES",
+        "cpf": "20649803850",
+        "telefoneContato": "",
+        "dataNascimento": "16/10/1973",
+        "nomeMae": "ADIVINA ANGELICA MONTEIRO GIMENES",
+        "email": null,
+        "cep": "17780000",
+        "endereco": "RUA JOAQUIM ALVES LANCHIM",
+        "numeroEndereco": "61",
+        "complementoEndereco": "",
+        "bairro": "RANCHARIA",
+        "cidade": "LUCELIA",
+        "estado": "SP",
+        "logradouro": "JOAQUIM ALVES LANCHIM",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18997894522.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

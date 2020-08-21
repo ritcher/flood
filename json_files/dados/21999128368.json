@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21999128368",
+        "nomeCompleto": "ALAN BARROS FERNANDES",
+        "cpf": "08372746729",
+        "telefoneContato": "",
+        "dataNascimento": "12/05/1981",
+        "nomeMae": "EDITH BARROS FERNANDES",
+        "email": null,
+        "cep": "21331660",
+        "endereco": "RUA  SALOMAO FILHO 155 AP 304",
+        "numeroEndereco": "155",
+        "complementoEndereco": "",
+        "bairro": "MAL HERMES",
+        "cidade": "RIO DE JANEIRO",
+        "estado": "Rj",
+        "logradouro": " SALOMAO FILHO 155 AP 304",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21999128368.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

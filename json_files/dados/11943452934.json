@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11943452934",
+        "nomeCompleto": "WESLEY BRAZ DA COSTA",
+        "cpf": "10243067631",
+        "telefoneContato": "",
+        "dataNascimento": "25/05/1989",
+        "nomeMae": "maria",
+        "email": "bom581mme@hotmail.com",
+        "cep": "40000000",
+        "endereco": "R A CJ BAHIA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "STA MONICA",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "A CJ BAHIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11943452934.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

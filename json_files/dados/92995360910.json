@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92995360910",
+        "nomeCompleto": "ALEXSANDER DE SOUZA PINHEIRO",
+        "cpf": "70296682276",
+        "telefoneContato": "",
+        "dataNascimento": "27/02/2000",
+        "nomeMae": null,
+        "email": "gabriela821@gmail.com",
+        "cep": "05736160",
+        "endereco": " MARIO LINHARES",
+        "numeroEndereco": "0821",
+        "complementoEndereco": "",
+        "bairro": "JARDIM INGA",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "MARIO LINHARES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92995360910.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

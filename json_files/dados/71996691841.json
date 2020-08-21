@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "71996691841",
+        "nomeCompleto": "RITA DE CASSIA OLIVEIRA DE ASSIS",
+        "cpf": "53824121549",
+        "telefoneContato": "",
+        "dataNascimento": "08/09/1971",
+        "nomeMae": "ILDA DE OLIVEIRA DE ASSIS",
+        "email": "vxeuc515b042gwx@gmail.com",
+        "cep": "41390405",
+        "endereco": "RUA LINDOLFO BARBOSA",
+        "numeroEndereco": "251",
+        "complementoEndereco": "",
+        "bairro": "VL CANARIA",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "LINDOLFO BARBOSA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 71996691841.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

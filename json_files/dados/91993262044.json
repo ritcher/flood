@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993262044",
+        "nomeCompleto": "MARIA DE FATIMA ALCANTARA CORREA",
+        "cpf": "37531590263",
+        "telefoneContato": "",
+        "dataNascimento": "16/09/1969",
+        "nomeMae": null,
+        "email": null,
+        "cep": "14061090",
+        "endereco": "RUA JOSE GROTA FILHO",
+        "numeroEndereco": "86",
+        "complementoEndereco": "",
+        "bairro": "ANTONIO MARINCEK",
+        "cidade": "RIBEIRAO PRETO",
+        "estado": "sp",
+        "logradouro": "JOSE GROTA FILHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993262044.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

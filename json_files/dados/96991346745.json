@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=4158de0b-e01d-4b78-b924-c4f8dfd612b2",
+    "data": {
+        "linha": "96991346745",
+        "nomeCompleto": "CONCEICAO DE MARIA DOS SANTOS VINHAS",
+        "cpf": "43260527249",
+        "telefoneContato": "",
+        "dataNascimento": "03/03/1957",
+        "nomeMae": null,
+        "email": "vinhasevelin@gmail.com",
+        "cep": "68911120",
+        "endereco": "AVENIDA MARIA DE OLIVEIRA SANTANA",
+        "numeroEndereco": "206",
+        "complementoEndereco": "",
+        "bairro": "FAZENDINHA",
+        "cidade": "MACAPA",
+        "estado": "AP",
+        "logradouro": "MARIA DE OLIVEIRA SANTANA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 96991346745.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

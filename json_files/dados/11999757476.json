@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11999757476",
+        "nomeCompleto": "ZAQUEU LIMA SILVA",
+        "cpf": "49195088830",
+        "telefoneContato": "",
+        "dataNascimento": "25/10/2000",
+        "nomeMae": "KATIA REGINA SILVA LIMA",
+        "email": null,
+        "cep": "58073485",
+        "endereco": "RUA  TEREZINHA DE MEDEIROS DANTAS SOUZA 142 C",
+        "numeroEndereco": "142",
+        "complementoEndereco": "",
+        "bairro": "AGUA FRIA",
+        "cidade": "JOAO PESSOA",
+        "estado": "PB",
+        "logradouro": " TEREZINHA DE MEDEIROS DANTAS SOUZA 142 C",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11999757476.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

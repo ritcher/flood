@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=28c01177-9d55-483e-b980-9ed4807fef26",
+    "data": {
+        "linha": "77999381317",
+        "nomeCompleto": "ROZE MEIRE CAMPOS DE SOUZA",
+        "cpf": "03183002574",
+        "telefoneContato": "",
+        "dataNascimento": "26/01/1977",
+        "nomeMae": null,
+        "email": null,
+        "cep": "47800744",
+        "endereco": "RUA STA LUCIA",
+        "numeroEndereco": "227",
+        "complementoEndereco": "",
+        "bairro": "STA LUZIA",
+        "cidade": "BARREIRAS",
+        "estado": "BA",
+        "logradouro": "STA LUCIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77999381317.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

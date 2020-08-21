@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=e3b2f503-fcd6-4fb5-a271-102a87898dce",
+    "data": {
+        "linha": "74999005010",
+        "nomeCompleto": "ALANNE ALVES DE DEUS CRUZ",
+        "cpf": "06922723309",
+        "telefoneContato": "",
+        "dataNascimento": "11/08/1996",
+        "nomeMae": "maria de souza ",
+        "email": null,
+        "cep": "00000000",
+        "endereco": "AV AFONSO PENA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CAMPO GRANDE",
+        "estado": "MS",
+        "logradouro": "AFONSO PENA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 74999005010.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

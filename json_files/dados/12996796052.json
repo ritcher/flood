@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12996796052",
+        "nomeCompleto": "BENEDITO JOSE ALVES",
+        "cpf": "15942099871",
+        "telefoneContato": "",
+        "dataNascimento": "29/08/1969",
+        "nomeMae": null,
+        "email": null,
+        "cep": "12212372",
+        "endereco": "RUA AUDEMO VENEZIANI",
+        "numeroEndereco": "70",
+        "complementoEndereco": "",
+        "bairro": "ALTO DA POTE",
+        "cidade": "SAO JOSE DOS CAMPOS",
+        "estado": "sp",
+        "logradouro": "AUDEMO VENEZIANI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996796052.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

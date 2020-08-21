@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21998248600",
+        "nomeCompleto": "DANIELE PEREIRA GRATIVOL",
+        "cpf": "12490546724",
+        "telefoneContato": "",
+        "dataNascimento": "22/07/1983",
+        "nomeMae": null,
+        "email": null,
+        "cep": "21775580",
+        "endereco": "TRAVESSA ALAGOAS",
+        "numeroEndereco": "30",
+        "complementoEndereco": "",
+        "bairro": "REALENGO",
+        "cidade": "RIO DE JANEIRO",
+        "estado": "Rj",
+        "logradouro": "ALAGOAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21998248600.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

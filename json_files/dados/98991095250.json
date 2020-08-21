@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=55d3a774-a422-48d7-a925-4ee97be4891d",
+    "data": {
+        "linha": "98991095250",
+        "nomeCompleto": "ANIZIO LUCENA FEITOSA NETO",
+        "cpf": "60698423321",
+        "telefoneContato": "",
+        "dataNascimento": "16/06/1995",
+        "nomeMae": null,
+        "email": "aniziomadrir@hotmail.com",
+        "cep": "65306495",
+        "endereco": "RUA  VITAL BRASIL 333",
+        "numeroEndereco": "333",
+        "complementoEndereco": "",
+        "bairro": "SABBAK",
+        "cidade": "SANTA INES",
+        "estado": "MA",
+        "logradouro": " VITAL BRASIL 333",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98991095250.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

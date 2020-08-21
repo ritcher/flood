@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991045597",
+        "nomeCompleto": "ADRIANE MESQUITA PINHO",
+        "cpf": "03316547258",
+        "telefoneContato": "",
+        "dataNascimento": "13/06/1997",
+        "nomeMae": "ANDREZA MARINHO MESQUITA",
+        "email": null,
+        "cep": "69022032",
+        "endereco": "RUA  RIO ACURUPA 197 CS",
+        "numeroEndereco": "197",
+        "complementoEndereco": "",
+        "bairro": "TARUMA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": " RIO ACURUPA 197 CS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991045597.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

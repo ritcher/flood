@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=d61c5e10-093d-49df-88e8-77f36b2b035f",
+    "data": {
+        "linha": "93992345678",
+        "nomeCompleto": "CARLOS RIVALDO FERREIRA DA SILVA",
+        "cpf": "09197192287",
+        "telefoneContato": "",
+        "dataNascimento": "10/12/1960",
+        "nomeMae": "MARIA",
+        "email": "carlosrivaldo@bol.com.br",
+        "cep": "68037001",
+        "endereco": "AV FERNANDO GUILHON",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "SALVACAO",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "FERNANDO GUILHON",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992345678.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

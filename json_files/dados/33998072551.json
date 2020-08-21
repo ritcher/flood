@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=4773db44-dd2b-44fc-8adf-926c986ab426",
+    "data": {
+        "linha": "33998072551",
+        "nomeCompleto": "HILDEBRANDO GOES BARRETO FILHO",
+        "cpf": "10328750549",
+        "telefoneContato": "",
+        "dataNascimento": "27/07/1955",
+        "nomeMae": "maria",
+        "email": "filipa@gmail.com",
+        "cep": "69092666",
+        "endereco": " 10",
+        "numeroEndereco": "111",
+        "complementoEndereco": "",
+        "bairro": "MONTE DAS OLIVEIRAS",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "10",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33998072551.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992409575",
+        "nomeCompleto": "MADIELSON GAMA BRAGA",
+        "cpf": "02037662297",
+        "telefoneContato": "",
+        "dataNascimento": "26/03/1993",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68800000",
+        "endereco": "RUA AJOSE ALVES OLIVEIRA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CASTANHEIRA",
+        "cidade": "BREVES",
+        "estado": "PA",
+        "logradouro": "AJOSE ALVES OLIVEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992409575.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

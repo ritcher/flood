@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=ee463b66-b448-469c-97db-4858a08f94d7",
+    "data": {
+        "linha": "94992385566",
+        "nomeCompleto": "DEUZILENE SILVA OLIVEIRA",
+        "cpf": "04362813330",
+        "telefoneContato": "",
+        "dataNascimento": "26/05/1985",
+        "nomeMae": "MARIA",
+        "email": null,
+        "cep": "68515000",
+        "endereco": "RUA ROGERIO CARDOSO",
+        "numeroEndereco": "1",
+        "complementoEndereco": "",
+        "bairro": "LIBERDADE 2",
+        "cidade": "PARAUAPEBAS",
+        "estado": "PA",
+        "logradouro": "ROGERIO CARDOSO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992385566.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

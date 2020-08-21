@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992114290",
+        "nomeCompleto": "ANDREIA DA CUNHA MIRANDA",
+        "cpf": "92402615249",
+        "telefoneContato": "",
+        "dataNascimento": "30/11/1981",
+        "nomeMae": "maria jose belem da cultura ",
+        "email": "andreialucasrenato@gmail.com",
+        "cep": "66670010",
+        "endereco": "RUA JUSCELINO KUBITSCHEK",
+        "numeroEndereco": "94",
+        "complementoEndereco": "",
+        "bairro": "COQUEIRO",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "JUSCELINO KUBITSCHEK",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992114290.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

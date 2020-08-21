@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12997075717",
+        "nomeCompleto": "MANOEL ANTONIO DOS SANTOS NETO",
+        "cpf": "47426110559",
+        "telefoneContato": "",
+        "dataNascimento": "05/01/1971",
+        "nomeMae": "Eloina Magno",
+        "email": "manoel.heliana@hotmail.com",
+        "cep": "11611217",
+        "endereco": "R ANTONIO TENORIO DOS SANTOS",
+        "numeroEndereco": "37",
+        "complementoEndereco": "",
+        "bairro": "ITATINGA",
+        "cidade": "S SEBASTIAO",
+        "estado": "SP",
+        "logradouro": "ANTONIO TENORIO DOS SANTOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12997075717.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

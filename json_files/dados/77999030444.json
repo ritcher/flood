@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=56a4af1d-a3f7-432d-a647-f59be5e73930",
+    "data": {
+        "linha": "77999030444",
+        "nomeCompleto": "LUIZA EDUARDA SILVA MONTEIRO",
+        "cpf": "08300481540",
+        "telefoneContato": "",
+        "dataNascimento": "23/07/1998",
+        "nomeMae": null,
+        "email": null,
+        "cep": "63132150",
+        "endereco": "RUA PEDRO GOMES DE NOROES",
+        "numeroEndereco": "560",
+        "complementoEndereco": "",
+        "bairro": "MURITI",
+        "cidade": "CRATO",
+        "estado": "CE",
+        "logradouro": "PEDRO GOMES DE NOROES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77999030444.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

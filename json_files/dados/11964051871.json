@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11964051871",
+        "nomeCompleto": "KEVELLYN GUIMARAES TAVARES DA SILVA",
+        "cpf": "46342600856",
+        "telefoneContato": "",
+        "dataNascimento": "17/07/2001",
+        "nomeMae": null,
+        "email": "kevellyntavares17@gmail.com",
+        "cep": "04022001",
+        "endereco": "Rua RUA ESTADO DE ISRAEL",
+        "numeroEndereco": "435",
+        "complementoEndereco": "",
+        "bairro": "VILA CLEMENTINO",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "RUA ESTADO DE ISRAEL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11964051871.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

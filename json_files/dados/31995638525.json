@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31995638525",
+        "nomeCompleto": "ANDRE HENRIQUE DE OLIVEIRA MOTA",
+        "cpf": "17542594648",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": null,
+        "cep": "31360450",
+        "endereco": "Rua RUA EVELYNE PAPE SINGER",
+        "numeroEndereco": "16",
+        "complementoEndereco": "",
+        "bairro": "CONJUNTO CONFISCO",
+        "cidade": "BELO HORIZONTE",
+        "estado": "mg",
+        "logradouro": "RUA EVELYNE PAPE SINGER",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31995638525.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

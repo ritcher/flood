@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0f85a9b6-5662-4fd7-a5d7-8304e0016a43",
+    "data": {
+        "linha": "93991447774",
+        "nomeCompleto": "ALBELANE GAMA DO NASCIMENTO",
+        "cpf": "77237579215",
+        "telefoneContato": "",
+        "dataNascimento": "19/08/1976",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68200000",
+        "endereco": "RUA DA PRAIA LUIZ QUEZA",
+        "numeroEndereco": "5",
+        "complementoEndereco": "",
+        "bairro": "INDEPENDENCIA",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "DA PRAIA LUIZ QUEZA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991447774.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

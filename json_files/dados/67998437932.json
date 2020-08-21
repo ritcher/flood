@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67998437932",
+        "nomeCompleto": "AILDESON FURTADO CARVALHO SILVA",
+        "cpf": "04440586139",
+        "telefoneContato": "",
+        "dataNascimento": "02/10/1993",
+        "nomeMae": null,
+        "email": null,
+        "cep": "79822260",
+        "endereco": "RUA ORESTE PEREIRA DE MATTOS",
+        "numeroEndereco": "551",
+        "complementoEndereco": "",
+        "bairro": "JARDIM FLORIDA",
+        "cidade": "DOURADOS",
+        "estado": "MS",
+        "logradouro": "ORESTE PEREIRA DE MATTOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67998437932.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

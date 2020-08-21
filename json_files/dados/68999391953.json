@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=52fc21a4-45de-4051-9eca-267f564910aa",
+    "data": {
+        "linha": "68999391953",
+        "nomeCompleto": "FABRICIA ARRUDA DE OLIVEIRA",
+        "cpf": "03492880207",
+        "telefoneContato": "",
+        "dataNascimento": "10/09/1997",
+        "nomeMae": "IVANILDES BARBOSA DE ARRUDA",
+        "email": null,
+        "cep": "69912440",
+        "endereco": "Rua RUA CORONEL JOAO CANCIO",
+        "numeroEndereco": "553",
+        "complementoEndereco": "",
+        "bairro": "ESTACAO EXPERIMENTAL",
+        "cidade": "RIO BRANCO",
+        "estado": "AC",
+        "logradouro": "RUA CORONEL JOAO CANCIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999391953.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

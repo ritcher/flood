@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994459096",
+        "nomeCompleto": "FRANCISCO PEREIRA VIEIRA",
+        "cpf": "00581738209",
+        "telefoneContato": "",
+        "dataNascimento": "26/01/1991",
+        "nomeMae": null,
+        "email": "francisco147324@hotmail.com",
+        "cep": "29155370",
+        "endereco": " CANADA",
+        "numeroEndereco": "02",
+        "complementoEndereco": "",
+        "bairro": "PORTO NOVO",
+        "cidade": "CARIACICA",
+        "estado": "ES",
+        "logradouro": "CANADA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994459096.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

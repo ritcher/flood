@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f3dbfe1a-ec26-4eb1-8db9-e4317e558c4b",
+    "data": {
+        "linha": "68999213490",
+        "nomeCompleto": "FABIO JUNIOR OLIVEIRA BEZERRA",
+        "cpf": "99362244268",
+        "telefoneContato": "",
+        "dataNascimento": "10/12/1988",
+        "nomeMae": "MARIA DULCINEIA",
+        "email": null,
+        "cep": "69934000",
+        "endereco": "RUA DQ DE CAXIAS 911 COMP",
+        "numeroEndereco": "911",
+        "complementoEndereco": "",
+        "bairro": "LIBERDADE",
+        "cidade": "EPITACIOLANDIA",
+        "estado": "AC",
+        "logradouro": "DQ DE CAXIAS 911 COMP",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999213490.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

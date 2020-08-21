@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15996414513",
+        "nomeCompleto": "DURCILENE MARTINS DOS SANTOS ALVES",
+        "cpf": "33027853805",
+        "telefoneContato": "",
+        "dataNascimento": "15/05/1968",
+        "nomeMae": "terezinha martins da silva",
+        "email": null,
+        "cep": "18078390",
+        "endereco": "R JOSE TRUGILLANO",
+        "numeroEndereco": "892",
+        "complementoEndereco": "",
+        "bairro": "PARQUE VITORIA REGIA",
+        "cidade": "SOROCABA",
+        "estado": "SP",
+        "logradouro": "JOSE TRUGILLANO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15996414513.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

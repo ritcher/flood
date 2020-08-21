@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=cc1d9efe-5ed1-4807-8461-96c7c7a502d5",
+    "data": {
+        "linha": "38999526064",
+        "nomeCompleto": "GLEISSON DA SILVA TELES",
+        "cpf": "13200759674",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "33020180",
+        "endereco": "Rua AVENIDA SALTO GRANDE",
+        "numeroEndereco": "235",
+        "complementoEndereco": "",
+        "bairro": "INDUSTRIAL AMERICANO",
+        "cidade": "SANTA LUZIA",
+        "estado": "mg",
+        "logradouro": "AVENIDA SALTO GRANDE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38999526064.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

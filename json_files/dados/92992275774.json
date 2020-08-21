@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992275774",
+        "nomeCompleto": "MARCELA DE ALMEIDA MENEZES",
+        "cpf": "02844738206",
+        "telefoneContato": "",
+        "dataNascimento": "29/10/1996",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69097457",
+        "endereco": "RUA 153",
+        "numeroEndereco": "2",
+        "complementoEndereco": "",
+        "bairro": "NOVA CIDADE",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "153",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992275774.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

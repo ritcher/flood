@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992166167",
+        "nomeCompleto": "JOAQUIM DE OLIVEIRA CARVALHO",
+        "cpf": "02902586264",
+        "telefoneContato": "",
+        "dataNascimento": "01/01/1995",
+        "nomeMae": "GRACIETE DE OLIVEIRA PAES",
+        "email": null,
+        "cep": "67125560",
+        "endereco": "Rua RUA C",
+        "numeroEndereco": "9",
+        "complementoEndereco": "",
+        "bairro": "QUARENTA HORAS",
+        "cidade": "ANANINDEUA",
+        "estado": "PA",
+        "logradouro": "RUA C",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992166167.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

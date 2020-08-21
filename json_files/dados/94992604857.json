@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=383221a1-7d32-444d-9263-bad801f8ae5c",
+    "data": {
+        "linha": "94992604857",
+        "nomeCompleto": "FRANCISCO AGACI CAMILO",
+        "cpf": "29480566249",
+        "telefoneContato": "",
+        "dataNascimento": "26/04/1967",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68503200",
+        "endereco": "RUA JOAO PESSOA",
+        "numeroEndereco": "130",
+        "complementoEndereco": "",
+        "bairro": "BELO HORIZONTE",
+        "cidade": "MARABA",
+        "estado": "PA",
+        "logradouro": "JOAO PESSOA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992604857.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

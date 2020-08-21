@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "33999056169",
+        "nomeCompleto": "EDIGAR PEREIRA ANDRADE",
+        "cpf": "11550753665",
+        "telefoneContato": "",
+        "dataNascimento": "14/02/1996",
+        "nomeMae": "MARIA PEREIRA",
+        "email": null,
+        "cep": "35280000",
+        "endereco": " RUA JUCELINO KUBISTSCHEK",
+        "numeroEndereco": "268",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITABIRINHA",
+        "estado": "MG",
+        "logradouro": "RUA JUCELINO KUBISTSCHEK",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999056169.",
+    "currentPlan": {
+        "code": "VIVOCTRLF27A",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL_4GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

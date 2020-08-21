@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "92995370812",
+        "nomeCompleto": "CRISTIOMAR MENDONCA FEITOSA",
+        "cpf": "00827205252",
+        "telefoneContato": "",
+        "dataNascimento": "21/03/1990",
+        "nomeMae": "JANE MARIA MENDO\u00c7A GIL",
+        "email": null,
+        "cep": "69103288",
+        "endereco": "RUA BELO HORIZONTE",
+        "numeroEndereco": "2306",
+        "complementoEndereco": "",
+        "bairro": "SAO CRISTOVAO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "BELO HORIZONTE",
+        "contaDigital": true,
+        "vencimentoFatura": "1",
+        "ciclo": "15",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92995370812.",
+    "currentPlan": {
+        "code": "VIVOCTRLF47N",
+        "price": 34.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL 3GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

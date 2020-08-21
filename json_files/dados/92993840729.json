@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993840729",
+        "nomeCompleto": "MARCIO JOSE REIS CHAGAS",
+        "cpf": "97136581087",
+        "telefoneContato": "",
+        "dataNascimento": "29/10/1979",
+        "nomeMae": null,
+        "email": "marcioreischagas@gmail.com",
+        "cep": "93546690",
+        "endereco": "RUA DA CONSTITUINTE",
+        "numeroEndereco": "300",
+        "complementoEndereco": "",
+        "bairro": "CANUDOS",
+        "cidade": "NOVO HAMBURGO",
+        "estado": "rs",
+        "logradouro": "DA CONSTITUINTE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993840729.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

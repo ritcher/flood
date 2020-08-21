@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27999420116",
+        "nomeCompleto": "Alex polli gomes",
+        "cpf": "37201904809",
+        "telefoneContato": "",
+        "dataNascimento": "01/02/1987",
+        "nomeMae": "Elizete aparecida polli",
+        "email": "alexpolli3@gmail.com",
+        "cep": "07054170",
+        "endereco": "RUA BRAULIO MUNIZ",
+        "numeroEndereco": "15",
+        "complementoEndereco": "",
+        "bairro": "JARDIM VILA GALVAO",
+        "cidade": "GUARULHOS",
+        "estado": "SP",
+        "logradouro": "BRAULIO MUNIZ",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27999420116.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

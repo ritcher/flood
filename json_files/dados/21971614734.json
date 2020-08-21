@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21971614734",
+        "nomeCompleto": "OSMAR FARIAS CAMELO",
+        "cpf": "44088272749",
+        "telefoneContato": "",
+        "dataNascimento": "17/12/1957",
+        "nomeMae": null,
+        "email": "osmarfariascamelo57@gmail.com.br",
+        "cep": "26062030",
+        "endereco": "Rua EST  BERNARDETE 203",
+        "numeroEndereco": "203",
+        "complementoEndereco": "",
+        "bairro": "BR DE GUANDU",
+        "cidade": "NOVA IGUACU",
+        "estado": "Rj",
+        "logradouro": "EST  BERNARDETE 203",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21971614734.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

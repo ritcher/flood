@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=38fdbb63-ff1a-4a50-82e8-57819fbba90e",
+    "data": {
+        "linha": "75998650960",
+        "nomeCompleto": "CELIDALVA PEREIRA MARCELO",
+        "cpf": "54140951591",
+        "telefoneContato": "",
+        "dataNascimento": "03/05/1970",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69908004",
+        "endereco": "RUA S MATEUS 115",
+        "numeroEndereco": "115",
+        "complementoEndereco": "",
+        "bairro": "BELO JARDIM II",
+        "cidade": "RIO BRANCO",
+        "estado": "AC",
+        "logradouro": "S MATEUS 115",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 75998650960.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

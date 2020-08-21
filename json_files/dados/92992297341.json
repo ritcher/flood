@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992297341",
+        "nomeCompleto": "MARIA DINANCY ALBUQUERQUE TRINDADE",
+        "cpf": "15370925291",
+        "telefoneContato": "",
+        "dataNascimento": "27/08/1958",
+        "nomeMae": null,
+        "email": "ph968brdm0y3jw4@gmail.com",
+        "cep": "69020020",
+        "endereco": "Rua ARAPE DE MANAUS",
+        "numeroEndereco": "3",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "ARAPE DE MANAUS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992297341.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

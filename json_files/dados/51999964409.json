@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51999964409",
+        "nomeCompleto": "ELISANDRO DE MORAES",
+        "cpf": "02838608045",
+        "telefoneContato": "",
+        "dataNascimento": "02/06/2000",
+        "nomeMae": "juracema fischborn de moraes",
+        "email": null,
+        "cep": "93540180",
+        "endereco": "RUA BAURU",
+        "numeroEndereco": "111",
+        "complementoEndereco": "",
+        "bairro": "CANUDOS",
+        "cidade": "NOVO HAMBURGO",
+        "estado": "RS",
+        "logradouro": "BAURU",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51999964409.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

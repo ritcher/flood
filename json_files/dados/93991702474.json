@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=50e1e655-bcbb-4386-937b-40e5cf0d93bf",
+    "data": {
+        "linha": "93991702474",
+        "nomeCompleto": "ISRAEL LIMA DE OLIVEIRA",
+        "cpf": "68031394253",
+        "telefoneContato": "",
+        "dataNascimento": "28/05/1968",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68620000",
+        "endereco": "Rua RUA DA ASSEMBLEIA DE DEUS",
+        "numeroEndereco": "220",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "VISEU",
+        "estado": "PA",
+        "logradouro": "RUA DA ASSEMBLEIA DE DEUS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991702474.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "54999995248",
+        "nomeCompleto": "DAIANE MIORELLI",
+        "cpf": "01181730066",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "MELCI AMBROSINA MIORELLI",
+        "email": null,
+        "cep": "65900480",
+        "endereco": "RUA Y",
+        "numeroEndereco": "626",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "IMPERATRIZ",
+        "estado": "MA",
+        "logradouro": "Y",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 54999995248.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

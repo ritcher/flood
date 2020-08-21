@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=193a5e04-2106-4a0a-b079-dd537c027278",
+    "data": {
+        "linha": "99991357219",
+        "nomeCompleto": "ALMENIR DA SILVA FERREIRA",
+        "cpf": "97827738320",
+        "telefoneContato": "",
+        "dataNascimento": "27/09/1956",
+        "nomeMae": null,
+        "email": "joandersonsilva6767@gmail.com",
+        "cep": "65930000",
+        "endereco": "RUA MOGNO",
+        "numeroEndereco": "24",
+        "complementoEndereco": "",
+        "bairro": "JD GLORIA",
+        "cidade": "ACAILANDIA",
+        "estado": "MA",
+        "logradouro": "MOGNO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99991357219.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

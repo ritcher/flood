@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "71999442991",
+        "nomeCompleto": "REBECA DA CONCEICAO GOMES",
+        "cpf": "06660425519",
+        "telefoneContato": "",
+        "dataNascimento": "30/10/1995",
+        "nomeMae": null,
+        "email": null,
+        "cep": "40391404",
+        "endereco": "RUA SUSSUNGA VELHA",
+        "numeroEndereco": "35",
+        "complementoEndereco": "",
+        "bairro": "S CAETANO",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "SUSSUNGA VELHA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 71999442991.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11998191918",
+        "nomeCompleto": "KETELIN ELAINE GANDRA ABREU",
+        "cpf": "47297582859",
+        "telefoneContato": "",
+        "dataNascimento": "12/10/1995",
+        "nomeMae": null,
+        "email": "ketelin.fju@outlook.com",
+        "cep": "01410000",
+        "endereco": "ALAMEDA  MIN  ROCHA  AZEV, 644",
+        "numeroEndereco": "153",
+        "complementoEndereco": "",
+        "bairro": "CERQUEIRA  CESAR",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": " MIN  ROCHA  AZEV, 644",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11998191918.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

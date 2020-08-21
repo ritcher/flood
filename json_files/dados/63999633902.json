@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a86c1737-d7d6-429e-b438-64095a45fc2b",
+    "data": {
+        "linha": "63999633902",
+        "nomeCompleto": "GLEISON ALVES FEITOZA",
+        "cpf": "02091858218",
+        "telefoneContato": "",
+        "dataNascimento": "28/03/1991",
+        "nomeMae": null,
+        "email": "l49qrwp0nx6xkbt@gmail.com",
+        "cep": "77060008",
+        "endereco": "RUA 7",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "JD AURENY IV",
+        "cidade": "PALMAS",
+        "estado": "TO",
+        "logradouro": "7",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 63999633902.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

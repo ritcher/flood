@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "21976572860",
+        "nomeCompleto": "LENY DE OLIVEIRA SEVERIANO",
+        "cpf": "62909657787",
+        "telefoneContato": "",
+        "dataNascimento": "20/07/1958",
+        "nomeMae": "MARIA MOREIRA DE OLIVEIRA",
+        "email": null,
+        "cep": "20550080",
+        "endereco": " . RUA 20",
+        "numeroEndereco": "103",
+        "complementoEndereco": "",
+        "bairro": "TIJUCA",
+        "cidade": "RIO DE JANEIRO",
+        "estado": "RJ",
+        "logradouro": ". RUA 20",
+        "contaDigital": true,
+        "vencimentoFatura": "17",
+        "ciclo": "01",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21976572860.",
+    "currentPlan": {
+        "code": "VIVOCTRLF28A",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL_5GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

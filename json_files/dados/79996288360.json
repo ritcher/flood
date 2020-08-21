@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=5ca27a23-2737-491a-a7cd-731fe1d268c4",
+    "data": {
+        "linha": "79996288360",
+        "nomeCompleto": "HUMBERTO SOUZA",
+        "cpf": "16512766504",
+        "telefoneContato": "",
+        "dataNascimento": "02/11/1943",
+        "nomeMae": "MARIA EVANGELISTA",
+        "email": "gutark2@gmail.com",
+        "cep": "49260000",
+        "endereco": "RUA MANOEL DIONIZIO FONTES",
+        "numeroEndereco": "361",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "UMBAUBA",
+        "estado": "SE",
+        "logradouro": "MANOEL DIONIZIO FONTES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79996288360.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

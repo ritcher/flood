@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "19999159725",
+        "nomeCompleto": "Patricia luisa leonetti",
+        "cpf": "33456167857",
+        "telefoneContato": "",
+        "dataNascimento": "19/03/1986",
+        "nomeMae": "Maria Lu\u00edsa leonetti",
+        "email": "ansiajaiaj@gmail.com",
+        "cep": "68037001",
+        "endereco": "AV FERNANDO GUILHON",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "SALVACAO",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "FERNANDO GUILHON",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19999159725.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

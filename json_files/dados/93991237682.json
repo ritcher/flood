@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=014dfee8-1c45-4293-b687-d442daf4cbe6",
+    "data": {
+        "linha": "93991237682",
+        "nomeCompleto": "MARCOS PAULO PAES DE MOURA",
+        "cpf": "66265924249",
+        "telefoneContato": "",
+        "dataNascimento": "02/12/1977",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68270000",
+        "endereco": "Rua ALOJAMENETO UIRAPURU",
+        "numeroEndereco": "13",
+        "complementoEndereco": "",
+        "bairro": "PORTO TROMBETAS",
+        "cidade": "ORIXIMINA",
+        "estado": "PA",
+        "logradouro": "ALOJAMENETO UIRAPURU",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991237682.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15996295501",
+        "nomeCompleto": "VICENTE FERNANDES MOTA",
+        "cpf": "19808327818",
+        "telefoneContato": "",
+        "dataNascimento": "05/04/1973",
+        "nomeMae": null,
+        "email": "wl81b4yg1tlh1uy@gmail.com",
+        "cep": "18303270",
+        "endereco": " JOSE MARIA LOPES TEIXEIRA",
+        "numeroEndereco": "850",
+        "complementoEndereco": "",
+        "bairro": "VILA APARECIDA",
+        "cidade": "CAPAO BONITO",
+        "estado": "SP",
+        "logradouro": "JOSE MARIA LOPES TEIXEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15996295501.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

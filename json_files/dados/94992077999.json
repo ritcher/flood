@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1d560cd8-4879-404b-b54a-bfda4666fd7d",
+    "data": {
+        "linha": "94992077999",
+        "nomeCompleto": "ELZIELE SIMOES DA SILVA",
+        "cpf": "04857446278",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68537000",
+        "endereco": "Rua AVENIDA WEINE CAVALCANTE",
+        "numeroEndereco": "72",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CANAA DOS CARAJAS",
+        "estado": "PA",
+        "logradouro": "AVENIDA WEINE CAVALCANTE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992077999.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

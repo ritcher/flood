@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=10909e4d-14a7-4992-972e-38b50cf2a7d0",
+    "data": {
+        "linha": "37998199224",
+        "nomeCompleto": "Luis Henrique de Jesus Oliveira",
+        "cpf": "38402970281",
+        "telefoneContato": "",
+        "dataNascimento": "22/04/1998",
+        "nomeMae": "cleonice c\u00e2ndida de Jesus",
+        "email": null,
+        "cep": "35540000",
+        "endereco": "RUA ALAGOAS",
+        "numeroEndereco": "356",
+        "complementoEndereco": "",
+        "bairro": "ROZARIO",
+        "cidade": "OLIVEIRA",
+        "estado": "MG",
+        "logradouro": "ALAGOAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37998199224.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

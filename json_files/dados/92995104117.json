@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92995104117",
+        "nomeCompleto": "GIANE PEREIRA",
+        "cpf": "11327345684",
+        "telefoneContato": "",
+        "dataNascimento": "25/02/1992",
+        "nomeMae": null,
+        "email": "jakila4978@mplusmail.com",
+        "cep": "37036000",
+        "endereco": "AVENIDA NANA PAIVA FIGUEIREDO",
+        "numeroEndereco": "66",
+        "complementoEndereco": "",
+        "bairro": "PARQUE RINALDO",
+        "cidade": "VARGINHA",
+        "estado": "MG",
+        "logradouro": "NANA PAIVA FIGUEIREDO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92995104117.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

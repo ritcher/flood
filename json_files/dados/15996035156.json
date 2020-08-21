@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15996035156",
+        "nomeCompleto": "Pedro Donizeti Alves Lopee",
+        "cpf": "22364370809",
+        "telefoneContato": "",
+        "dataNascimento": "25/05/1982",
+        "nomeMae": "Maria Isabel Alves Lopes",
+        "email": "pdalopez@gmail.com",
+        "cep": "18200170",
+        "endereco": "R BARBOSA FRANCO",
+        "numeroEndereco": "32",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITAPETININGA",
+        "estado": "SP",
+        "logradouro": "BARBOSA FRANCO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15996035156.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=7aaa2b9c-e4da-409f-ac5d-97e5948cbe86",
+    "data": {
+        "linha": "41991399239",
+        "nomeCompleto": "TELMA REGINA BARBOSA DO NASCIMENTO",
+        "cpf": "58581430910",
+        "telefoneContato": "",
+        "dataNascimento": "19/09/1965",
+        "nomeMae": "ANA TOMAZ BARBOSA",
+        "email": null,
+        "cep": "83085080",
+        "endereco": "RUA  DIRCEU MONTANARIM 495 C",
+        "numeroEndereco": "495",
+        "complementoEndereco": "",
+        "bairro": "QUISSISSANA",
+        "cidade": "SAO JOSE DOS PINHAIS",
+        "estado": "PR",
+        "logradouro": " DIRCEU MONTANARIM 495 C",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 41991399239.",
+    "currentPlan": {
+        "code": "PRPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

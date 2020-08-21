@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "19998256441",
+        "nomeCompleto": "rosilene aparecida gon\u00e7alves",
+        "cpf": "84686901987",
+        "telefoneContato": "",
+        "dataNascimento": "08/09/1972",
+        "nomeMae": "maria aparecida goncalves",
+        "email": null,
+        "cep": "13061381",
+        "endereco": "R CONDOR",
+        "numeroEndereco": "85",
+        "complementoEndereco": "",
+        "bairro": "VILA PADRE MANOEL DE NOBREGA",
+        "cidade": "CAMPINAS",
+        "estado": "SP",
+        "logradouro": "CONDOR",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19998256441.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

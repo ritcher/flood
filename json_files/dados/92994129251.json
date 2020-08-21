@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994129251",
+        "nomeCompleto": "NAIR LIGEIRO DE SOUZA",
+        "cpf": "24110167272",
+        "telefoneContato": "",
+        "dataNascimento": "19/03/1966",
+        "nomeMae": null,
+        "email": "nair_juridico@hotmail.com",
+        "cep": "69020110",
+        "endereco": "RUA JONATHAS PEDROSA",
+        "numeroEndereco": "2318",
+        "complementoEndereco": "",
+        "bairro": "PRACA 14 DE JANEIRO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "JONATHAS PEDROSA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994129251.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993514797",
+        "nomeCompleto": "GABRIEL CARNEIRO FERREIRA",
+        "cpf": "04196077226",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68450000",
+        "endereco": "Rua RUA BENJAMIN CONSTANT",
+        "numeroEndereco": "1060",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MOJU",
+        "estado": "PA",
+        "logradouro": "RUA BENJAMIN CONSTANT",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993514797.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

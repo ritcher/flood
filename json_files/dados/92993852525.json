@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993852525",
+        "nomeCompleto": "ALYSSON LIMA DE OLIVEIRA",
+        "cpf": "61575267268",
+        "telefoneContato": "",
+        "dataNascimento": "17/06/1978",
+        "nomeMae": "MARIA ELIANA LIMA DE OLIVEIRA",
+        "email": "alysson9070@hotmail.com",
+        "cep": "69040170",
+        "endereco": " RUA PLACIDO DE CASTRO",
+        "numeroEndereco": "443",
+        "complementoEndereco": "",
+        "bairro": "DOM PEDRO I",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "RUA PLACIDO DE CASTRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993852525.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

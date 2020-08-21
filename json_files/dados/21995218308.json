@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21995218308",
+        "nomeCompleto": "ALINE NASCIMENTO DE LIMA",
+        "cpf": "16889335732",
+        "telefoneContato": "",
+        "dataNascimento": "04/10/1996",
+        "nomeMae": null,
+        "email": "6bq97lq87g3nb9b@gmail.com",
+        "cep": "21320300",
+        "endereco": "RUA TELES",
+        "numeroEndereco": "117",
+        "complementoEndereco": "",
+        "bairro": "CAMPINHO",
+        "cidade": "RIO DE JANEIRO",
+        "estado": "Rj",
+        "logradouro": "TELES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21995218308.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

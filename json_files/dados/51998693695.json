@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51998693695",
+        "nomeCompleto": "EZEQUIEL MORAES DA ROSA",
+        "cpf": "04921848017",
+        "telefoneContato": "",
+        "dataNascimento": "18/10/2000",
+        "nomeMae": "EVA JOSIANE DE MORAES",
+        "email": null,
+        "cep": "93113086",
+        "endereco": "RUA NOVE",
+        "numeroEndereco": "75",
+        "complementoEndereco": "",
+        "bairro": "SANTOS DUMONT",
+        "cidade": "SAO LEOPOLDO",
+        "estado": "rs",
+        "logradouro": "NOVE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51998693695.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

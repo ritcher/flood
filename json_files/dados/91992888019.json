@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "91992888019",
+        "nomeCompleto": "ROSIVALDO DO CARMO FARIAS",
+        "cpf": "02090048271",
+        "telefoneContato": "",
+        "dataNascimento": "12/03/1990",
+        "nomeMae": null,
+        "email": "severino112@gmail.com",
+        "cep": "68925213",
+        "endereco": " 15 DE NOVEMBRO",
+        "numeroEndereco": "56",
+        "complementoEndereco": "",
+        "bairro": "CENTRAL",
+        "cidade": "SANTANA",
+        "estado": "AP",
+        "logradouro": "15 DE NOVEMBRO",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992888019.",
+    "currentPlan": {
+        "code": "VIVOCTRLF50N",
+        "price": 69.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 4GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

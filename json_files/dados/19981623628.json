@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "19981623628",
+        "nomeCompleto": "LEANDRO CALVI",
+        "cpf": "31044143860",
+        "telefoneContato": "",
+        "dataNascimento": "30/12/1982",
+        "nomeMae": "RAQUEL DE LIMA CALVI",
+        "email": "leandro.calvi@grupovile.com",
+        "cep": "13040038",
+        "endereco": " RUA COLOMBIA",
+        "numeroEndereco": "122",
+        "complementoEndereco": "",
+        "bairro": "JARDIM DO TREVO",
+        "cidade": "CAMPINAS",
+        "estado": "SP",
+        "logradouro": "RUA COLOMBIA",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19981623628.",
+    "currentPlan": {
+        "code": "VIVOCTRLF27N",
+        "price": 54.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-3GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

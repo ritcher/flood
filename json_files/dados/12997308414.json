@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12997308414",
+        "nomeCompleto": "MARIA SANDRA RODRIGUES",
+        "cpf": "18411362809",
+        "telefoneContato": "",
+        "dataNascimento": "02/06/1976",
+        "nomeMae": null,
+        "email": null,
+        "cep": "12490000",
+        "endereco": "Rua VL NS APARECIDA",
+        "numeroEndereco": "520",
+        "complementoEndereco": "",
+        "bairro": "SERRANOS",
+        "cidade": "SAO BENTO DO SAPUCAI",
+        "estado": "sp",
+        "logradouro": "VL NS APARECIDA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12997308414.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

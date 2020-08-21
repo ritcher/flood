@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=06775189-5d9b-4b01-8d2a-541661c067b1",
+    "data": {
+        "linha": "86981247718",
+        "nomeCompleto": "Thiago Da Silva Santos ",
+        "cpf": "61140837338",
+        "telefoneContato": "",
+        "dataNascimento": "11/02/1994",
+        "nomeMae": null,
+        "email": "gracianemelo484@gmail.com",
+        "cep": "72000000",
+        "endereco": " 05",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "SETOR LESTE",
+        "cidade": "BRASILIA",
+        "estado": "DF",
+        "logradouro": "05",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 86981247718.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

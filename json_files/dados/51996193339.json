@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51996193339",
+        "nomeCompleto": "PANTA ALBINO SOUZA DE MATOS",
+        "cpf": "48660540000",
+        "telefoneContato": "",
+        "dataNascimento": "26/09/1959",
+        "nomeMae": null,
+        "email": "tmaqiancespcdrb@telegmail.com",
+        "cep": "91060430",
+        "endereco": " ALFREDO NERI SOARES",
+        "numeroEndereco": "1241",
+        "complementoEndereco": "",
+        "bairro": "SARANDI",
+        "cidade": "PORTO ALEGRE",
+        "estado": "RS",
+        "logradouro": "ALFREDO NERI SOARES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51996193339.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

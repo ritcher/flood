@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=086ccf79-74b8-4da4-acfd-8986414b228f",
+    "data": {
+        "linha": "88981067606",
+        "nomeCompleto": "JOSE CARLOS DE OLIVEIRA",
+        "cpf": "05384401397",
+        "telefoneContato": "",
+        "dataNascimento": "31/01/1992",
+        "nomeMae": null,
+        "email": "zekarlos.oliveira2018@gmail.com",
+        "cep": "18708813",
+        "endereco": " DEMETRIO AURANI",
+        "numeroEndereco": "902",
+        "complementoEndereco": "",
+        "bairro": "CONJUNTO HABITACIONAL PADRE EMILIO IMMOS",
+        "cidade": "AVARE",
+        "estado": "SP",
+        "logradouro": "DEMETRIO AURANI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981067606.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999242306",
+        "nomeCompleto": "LUIS PEDRO NISIYAMAMOT",
+        "cpf": "04630559850",
+        "telefoneContato": "",
+        "dataNascimento": "20/10/1959",
+        "nomeMae": "ZAIRA NISIYAMAMOT",
+        "email": "shduydjut@gmail.com",
+        "cep": "68786000",
+        "endereco": "RUA MAGALHAES BARATA",
+        "numeroEndereco": "66",
+        "complementoEndereco": "",
+        "bairro": "PINA",
+        "cidade": "SANTO ANTONIO DO TAUA",
+        "estado": "PA",
+        "logradouro": "MAGALHAES BARATA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999242306.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

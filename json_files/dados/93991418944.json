@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6c6a0961-8e57-4b58-8413-76dc11177104",
+    "data": {
+        "linha": "93991418944",
+        "nomeCompleto": "CHARLES RODRIGUES NUNES",
+        "cpf": "90983807272",
+        "telefoneContato": "",
+        "dataNascimento": "23/10/1988",
+        "nomeMae": "Paulina Maria Rodrigues Nunes ",
+        "email": "chalinho244@gmail.com",
+        "cep": "68180440",
+        "endereco": "RUA  RICARDO JOSE FERREIRA",
+        "numeroEndereco": "860",
+        "complementoEndereco": "",
+        "bairro": "BELA VISTA",
+        "cidade": "ITAITUBA",
+        "estado": "PA",
+        "logradouro": " RICARDO JOSE FERREIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991418944.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

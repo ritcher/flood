@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=000ae763-9a44-444c-a141-cf4b04776fca",
+    "data": {
+        "linha": "38998897745",
+        "nomeCompleto": "LUCIANA APARECIDA SILVA LOPES  ",
+        "cpf": "06355144609",
+        "telefoneContato": "",
+        "dataNascimento": "09/09/1983",
+        "nomeMae": null,
+        "email": null,
+        "cep": "66030330",
+        "endereco": "Rua PSG DA LUTA",
+        "numeroEndereco": "25",
+        "complementoEndereco": "",
+        "bairro": "JURUNAS",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "PSG DA LUTA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38998897745.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65999590549",
+        "nomeCompleto": "JOSE LAURINDO",
+        "cpf": "65276400130",
+        "telefoneContato": "",
+        "dataNascimento": "14/09/1970",
+        "nomeMae": null,
+        "email": "jlhk8j4bbzrpvyv@gmail.com",
+        "cep": "31615450",
+        "endereco": " HERACLES",
+        "numeroEndereco": "111",
+        "complementoEndereco": "",
+        "bairro": "CENACULO",
+        "cidade": "BELO HORIZONTE",
+        "estado": "MG",
+        "logradouro": "HERACLES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65999590549.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

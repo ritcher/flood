@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "47992440092",
+        "nomeCompleto": "FERNANDA LETICIA GRANEMANN ROSA",
+        "cpf": "07602724925",
+        "telefoneContato": "",
+        "dataNascimento": "19/03/1996",
+        "nomeMae": null,
+        "email": null,
+        "cep": "76873282",
+        "endereco": "Rua SABIA",
+        "numeroEndereco": "1973",
+        "complementoEndereco": "",
+        "bairro": "ST 02",
+        "cidade": "ARIQUEMES",
+        "estado": "RO",
+        "logradouro": "SABIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 47992440092.",
+    "currentPlan": {
+        "code": "PRPREDIAR3GSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "PRPREDIAR3GSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

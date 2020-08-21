@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=3cc8d093-605c-47fe-9a22-64e2e602ec58",
+    "data": {
+        "linha": "88981258870",
+        "nomeCompleto": "NEILE MARIA FECHINE CRUZ",
+        "cpf": "20415060400",
+        "telefoneContato": "",
+        "dataNascimento": "09/01/1940",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "58102433",
+        "endereco": "RUA FREI MARTINHO",
+        "numeroEndereco": "311",
+        "complementoEndereco": "",
+        "bairro": "CONCEICAO",
+        "cidade": "CAMPINA GRANDE",
+        "estado": "PB",
+        "logradouro": "FREI MARTINHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981258870.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993337948",
+        "nomeCompleto": "NELSON SILVA DA COSTA JUNIOR",
+        "cpf": "02209921260",
+        "telefoneContato": "",
+        "dataNascimento": "25/06/1993",
+        "nomeMae": "ANDREIA MIRANDA CAPELA",
+        "email": null,
+        "cep": "31530310",
+        "endereco": "R DOS MESCARELOS",
+        "numeroEndereco": "60",
+        "complementoEndereco": "",
+        "bairro": "SANTA MONICA",
+        "cidade": "BELO HORIZONTE",
+        "estado": "MG",
+        "logradouro": "DOS MESCARELOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993337948.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

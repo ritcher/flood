@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=66273f7e-390a-44f6-8020-e9a71f46d4f8",
+    "data": {
+        "linha": "93991322551",
+        "nomeCompleto": "BIBIANO RODRIGUES DA SILVA",
+        "cpf": "22411968272",
+        "telefoneContato": "",
+        "dataNascimento": "06/11/1965",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68200000",
+        "endereco": "Rua C PROX C RAIMUNDO MA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ANINGAL",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "C PROX C RAIMUNDO MA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991322551.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

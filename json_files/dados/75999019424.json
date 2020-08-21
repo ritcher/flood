@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=8d6dd428-b7c4-4c73-964e-527e38340a3f",
+    "data": {
+        "linha": "75999019424",
+        "nomeCompleto": "DIONE OLIVEIRA FREITAS\t\t\t\t\t\t\t\t\t\t",
+        "cpf": "37632116591",
+        "telefoneContato": "",
+        "dataNascimento": "25/06/1966",
+        "nomeMae": null,
+        "email": null,
+        "cep": "46800000",
+        "endereco": "RUA JOSE NAVARO LEFUNDS",
+        "numeroEndereco": "290",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "RUY BARBOSA",
+        "estado": "BA",
+        "logradouro": "JOSE NAVARO LEFUNDS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 75999019424.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

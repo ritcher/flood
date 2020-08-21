@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "38998916656",
+        "nomeCompleto": "ARIELDO GARCIA MIRANDA",
+        "cpf": "03427088219",
+        "telefoneContato": "",
+        "dataNascimento": "21/12/1997",
+        "nomeMae": null,
+        "email": "bruxom557@gmail.com",
+        "cep": "08226021",
+        "endereco": " 18 DE ABRIL",
+        "numeroEndereco": "932",
+        "complementoEndereco": "",
+        "bairro": "CIDADE ANTONIO ESTEVAO DE CARVALHO",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "18 DE ABRIL",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38998916656.",
+    "currentPlan": {
+        "code": "VIVOCTRLF48N",
+        "price": 39.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 3GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

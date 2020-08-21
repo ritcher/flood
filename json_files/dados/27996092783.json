@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27996092783",
+        "nomeCompleto": "BRAIAN BORGES DE FREITAS",
+        "cpf": "17171534707",
+        "telefoneContato": "",
+        "dataNascimento": "28/10/2000",
+        "nomeMae": "PATRICIA BORGES DA CRUZ",
+        "email": null,
+        "cep": "29164832",
+        "endereco": "RUA DA ACACIA",
+        "numeroEndereco": "832",
+        "complementoEndereco": "",
+        "bairro": "BALNEARIO DE CARAPEBUS",
+        "cidade": "SERRA",
+        "estado": "ES",
+        "logradouro": "DA ACACIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27996092783.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

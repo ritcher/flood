@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "14996698686",
+        "nomeCompleto": "CRISTHIAN RAFAEL AGUILERA",
+        "cpf": "36157065877",
+        "telefoneContato": "",
+        "dataNascimento": "02/02/1988",
+        "nomeMae": "X",
+        "email": "luizlopesbarra@hotmail.com",
+        "cep": "17350000",
+        "endereco": "RUA NOSSA SENHORA DE FATIMA",
+        "numeroEndereco": "858",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "IGARACU DO TIETE",
+        "estado": "SP",
+        "logradouro": "NOSSA SENHORA DE FATIMA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 14996698686.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

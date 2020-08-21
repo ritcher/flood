@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=3daa21bf-4ea1-48de-b1a5-f87708b2645b",
+    "data": {
+        "linha": "99991310882",
+        "nomeCompleto": "FRANCISCO VICENTE CARVALHO",
+        "cpf": "02017945358",
+        "telefoneContato": "",
+        "dataNascimento": "22/06/1961",
+        "nomeMae": null,
+        "email": null,
+        "cep": "65700000",
+        "endereco": "RUA PANTANAL",
+        "numeroEndereco": "110",
+        "complementoEndereco": "",
+        "bairro": "VL PEDRO BRITO",
+        "cidade": "BACABAL",
+        "estado": "MA",
+        "logradouro": "PANTANAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99991310882.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

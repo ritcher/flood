@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15998276335",
+        "nomeCompleto": "REGINA DOS SANTOS",
+        "cpf": "16016936804",
+        "telefoneContato": "",
+        "dataNascimento": "13/01/1973",
+        "nomeMae": "MARIA ISABEL DOS SANTOS",
+        "email": "saregina001@gmail.com",
+        "cep": "18213110",
+        "endereco": "RUA  ALCEU CORREA DE MORAES 639 C",
+        "numeroEndereco": "639",
+        "complementoEndereco": "",
+        "bairro": "VL MACIA",
+        "cidade": "ITAPETININGA",
+        "estado": "sp",
+        "logradouro": " ALCEU CORREA DE MORAES 639 C",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15998276335.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

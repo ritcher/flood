@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15997189832",
+        "nomeCompleto": "MAX Anderson Quevedo Alexa",
+        "cpf": "00994706081",
+        "telefoneContato": "",
+        "dataNascimento": "29/08/1984",
+        "nomeMae": "maria",
+        "email": "do5ghwx0xf28@gmail.com",
+        "cep": "18071150",
+        "endereco": "RUA MARIA PALHARES MIGLIORINI",
+        "numeroEndereco": "SN",
+        "complementoEndereco": "",
+        "bairro": "VILA HELENA",
+        "cidade": "SOROCABA",
+        "estado": "SP",
+        "logradouro": "MARIA PALHARES MIGLIORINI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15997189832.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

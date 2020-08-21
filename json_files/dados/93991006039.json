@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a1fd4224-0b28-4250-a96f-2f21eefa2c97",
+    "data": {
+        "linha": "93991006039",
+        "nomeCompleto": "GERLANE COSTA DOS SANTOS",
+        "cpf": "03593050242",
+        "telefoneContato": "",
+        "dataNascimento": "26/07/1996",
+        "nomeMae": null,
+        "email": null,
+        "cep": "28200000",
+        "endereco": " RUA ARTHUR ANTUNES DE ALMEIDA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "AGUA SANTA",
+        "cidade": "SAO JOAO DA BARRA",
+        "estado": "RJ",
+        "logradouro": "RUA ARTHUR ANTUNES DE ALMEIDA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991006039.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

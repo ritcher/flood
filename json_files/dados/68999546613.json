@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=ad6dc5eb-b9f5-477a-b1c5-09ee0a18976e",
+    "data": {
+        "linha": "68999546613",
+        "nomeCompleto": "IVANILDO CHAVES DE MELO",
+        "cpf": "74288601215",
+        "telefoneContato": "",
+        "dataNascimento": "18/12/1981",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69900000",
+        "endereco": "R 01 LOTE 04",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "VILA QUINTAIS FLORESTAIS",
+        "cidade": "R BRANCO",
+        "estado": "AC",
+        "logradouro": "01 LOTE 04",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999546613.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

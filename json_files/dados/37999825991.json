@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=e1287f27-ccb4-402c-abe4-907e072936e2",
+    "data": {
+        "linha": "37999825991",
+        "nomeCompleto": "ELLEN OLIVEIRA MOTA",
+        "cpf": "14101019673",
+        "telefoneContato": "",
+        "dataNascimento": "19/11/1975",
+        "nomeMae": "CAIO NASCIMENTO GARCIA",
+        "email": "agpk9oh9lrbu@gmail.com",
+        "cep": "69100063",
+        "endereco": "AV PARQUE",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "PARQUE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37999825991.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

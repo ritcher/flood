@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "22996056284",
+        "nomeCompleto": "DEBORA BARRETO GOMES",
+        "cpf": "12099223718",
+        "telefoneContato": "",
+        "dataNascimento": "08/09/1981",
+        "nomeMae": null,
+        "email": "deborabarreto3965@gmail.com",
+        "cep": "28070050",
+        "endereco": "RUA A",
+        "numeroEndereco": "21",
+        "complementoEndereco": "",
+        "bairro": "PRQ GUARUS",
+        "cidade": "CAMPOS DOS GOYTACAZES",
+        "estado": "Rj",
+        "logradouro": "A",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 22996056284.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

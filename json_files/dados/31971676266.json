@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31971676266",
+        "nomeCompleto": "CIRLEY MAGALHAES ALVES DE SOUZA",
+        "cpf": "00970749694",
+        "telefoneContato": "",
+        "dataNascimento": "18/06/1965",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "31573420",
+        "endereco": "RUA CARAGUATATUBA",
+        "numeroEndereco": "208",
+        "complementoEndereco": "",
+        "bairro": "PIRATININGA (VENDA NOVA)",
+        "cidade": "BELO HORIZONTE",
+        "estado": "MG",
+        "logradouro": "CARAGUATATUBA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31971676266.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

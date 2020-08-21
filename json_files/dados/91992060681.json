@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992060681",
+        "nomeCompleto": "LIDIA MARIA FERREIRA MORAES",
+        "cpf": "67576559268",
+        "telefoneContato": "",
+        "dataNascimento": "14/12/1978",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68400000",
+        "endereco": "Rua MANDIOTEUA CUPIJO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ZONA RURAL",
+        "cidade": "CAMETA",
+        "estado": "PA",
+        "logradouro": "MANDIOTEUA CUPIJO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992060681.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

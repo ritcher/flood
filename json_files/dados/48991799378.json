@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "48991799378",
+        "nomeCompleto": "CLAUNETE ALVES DA SILVA",
+        "cpf": "00458801070",
+        "telefoneContato": "",
+        "dataNascimento": "07/03/1970",
+        "nomeMae": null,
+        "email": null,
+        "cep": "95480000",
+        "endereco": "RUA ARISTIDES FERREIRA",
+        "numeroEndereco": "204",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CAMBARA DO SUL",
+        "estado": "rs",
+        "logradouro": "ARISTIDES FERREIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 48991799378.",
+    "currentPlan": {
+        "code": "PRPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

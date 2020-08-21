@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c6c9f192-3ec4-4d79-82fd-7242482f60c5",
+    "data": {
+        "linha": "96991287440",
+        "nomeCompleto": "CELIO COELHO DA SILVA",
+        "cpf": "03262699241",
+        "telefoneContato": "",
+        "dataNascimento": "30/09/1995",
+        "nomeMae": null,
+        "email": null,
+        "cep": "14806155",
+        "endereco": "RUA MAURICIO GALLI",
+        "numeroEndereco": "905",
+        "complementoEndereco": "",
+        "bairro": "VL SEDENHO",
+        "cidade": "ARARAQUARA",
+        "estado": "sp",
+        "logradouro": "MAURICIO GALLI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 96991287440.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

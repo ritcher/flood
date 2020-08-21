@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994090734",
+        "nomeCompleto": "Glauco Cirilo Bel\u00e9m da Silva",
+        "cpf": "49322800259",
+        "telefoneContato": "",
+        "dataNascimento": "20/01/1973",
+        "nomeMae": "Maria da Concei\u00e7\u00e3o Bel\u00e9m da Silva",
+        "email": "0nl5ocgfzqkq4ro@gmail.com",
+        "cep": "69050010",
+        "endereco": "AVENIDA DJALMA BATISTA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "FLORES",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "DJALMA BATISTA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994090734.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

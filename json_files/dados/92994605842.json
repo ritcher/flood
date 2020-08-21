@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994605842",
+        "nomeCompleto": "RODRIGO OTAVIO SILVA DOS SANTOS",
+        "cpf": "96949210230",
+        "telefoneContato": "",
+        "dataNascimento": "20/09/1991",
+        "nomeMae": null,
+        "email": "raquelconsultoria2014@gmail.com",
+        "cep": "69103072",
+        "endereco": "Rua BC  DO MODULO UM 1306",
+        "numeroEndereco": "1306",
+        "complementoEndereco": "",
+        "bairro": "STO ANTONIO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "BC  DO MODULO UM 1306",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994605842.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

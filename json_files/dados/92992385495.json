@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992385495",
+        "nomeCompleto": "ELIANA CORREA GARCIA",
+        "cpf": "51322234272",
+        "telefoneContato": "",
+        "dataNascimento": "22/11/1974",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69082520",
+        "endereco": "RUA JOSE DUTRA",
+        "numeroEndereco": "284",
+        "complementoEndereco": "",
+        "bairro": "COROADO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "JOSE DUTRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992385495.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

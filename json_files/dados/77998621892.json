@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=4aba585a-0ac9-48c6-ba90-da8fd174ddb0",
+    "data": {
+        "linha": "77998621892",
+        "nomeCompleto": "MARILENE FERNANDES DOS SANTOS",
+        "cpf": "02638719595",
+        "telefoneContato": "",
+        "dataNascimento": "16/11/1982",
+        "nomeMae": "LINDAURA MARIA DOS SANTOS",
+        "email": null,
+        "cep": "45065550",
+        "endereco": "RUA  PLANALTO 696",
+        "numeroEndereco": "696",
+        "complementoEndereco": "",
+        "bairro": "PATAGONIA",
+        "cidade": "VITORIA DA CONQUISTA",
+        "estado": "BA",
+        "logradouro": " PLANALTO 696",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77998621892.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

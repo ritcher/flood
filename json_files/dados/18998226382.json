@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18998226382",
+        "nomeCompleto": "JOSEILDA RIBEIRO COSTA SANTOS",
+        "cpf": "14718380804",
+        "telefoneContato": "",
+        "dataNascimento": "20/10/1970",
+        "nomeMae": "APARECIDA RIBEIRO COSTA",
+        "email": null,
+        "cep": "19470000",
+        "endereco": "RUA MACEIO",
+        "numeroEndereco": "232",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "PRES EPITACIO",
+        "estado": "SP",
+        "logradouro": "MACEIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18998226382.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

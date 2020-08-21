@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15997171837",
+        "nomeCompleto": "THIAGO DEL ANTONIO",
+        "cpf": "38387170828",
+        "telefoneContato": "",
+        "dataNascimento": "01/01/1978",
+        "nomeMae": null,
+        "email": "theaguinho13@gmail.com",
+        "cep": "18460000",
+        "endereco": "Rua AVENIDA ZECA DE BARROS",
+        "numeroEndereco": "255",
+        "complementoEndereco": "",
+        "bairro": "JD FRONTEIRA",
+        "cidade": "ITARARE",
+        "estado": "sp",
+        "logradouro": "AVENIDA ZECA DE BARROS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15997171837.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

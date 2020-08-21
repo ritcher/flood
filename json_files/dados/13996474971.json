@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "13996474971",
+        "nomeCompleto": "JOABE DOS SANTOS SOUZA",
+        "cpf": "10290780500",
+        "telefoneContato": "",
+        "dataNascimento": "21/03/1995",
+        "nomeMae": null,
+        "email": "frankson68@gmail.com",
+        "cep": "69073620",
+        "endereco": " LUCAS",
+        "numeroEndereco": "56",
+        "complementoEndereco": "",
+        "bairro": "SAO LAZARO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "LUCAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 13996474971.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

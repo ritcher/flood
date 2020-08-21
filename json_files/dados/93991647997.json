@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=af6f9dc2-d998-4ac3-a0b1-8aef49ab1f6a",
+    "data": {
+        "linha": "93991647997",
+        "nomeCompleto": "GEILA RAYANE SANTOS DE SOUZA",
+        "cpf": "04580026233",
+        "telefoneContato": "",
+        "dataNascimento": "11/06/1999",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68005570",
+        "endereco": " RODRIGUES DOS SANTOS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "RODRIGUES DOS SANTOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991647997.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

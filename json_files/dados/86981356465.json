@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=507b61d3-1ce7-4507-b054-6591f579fe94",
+    "data": {
+        "linha": "86981356465",
+        "nomeCompleto": "RAIMUNDO NONATO MARINHO",
+        "cpf": "24044091315",
+        "telefoneContato": "",
+        "dataNascimento": "16/08/1963",
+        "nomeMae": null,
+        "email": "mqolyk4aki8call@gmail.com",
+        "cep": "64066000",
+        "endereco": "Rua CJ PEDRA MOLE",
+        "numeroEndereco": "23",
+        "complementoEndereco": "",
+        "bairro": "PEDRA MOLE",
+        "cidade": "TERESINA",
+        "estado": "PI",
+        "logradouro": "CJ PEDRA MOLE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 86981356465.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

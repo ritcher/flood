@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9de07a91-3407-4cb4-ad81-4a48936a2036",
+    "data": {
+        "linha": "94992579958",
+        "nomeCompleto": "APARECIDA ARAUJO DE SOUZA SANTOS",
+        "cpf": "06924463622",
+        "telefoneContato": "",
+        "dataNascimento": "21/08/1977",
+        "nomeMae": null,
+        "email": "cidda20001@gmail.com",
+        "cep": "17053140",
+        "endereco": " EST MUNICIPAL BAURU PIRATININGA",
+        "numeroEndereco": "203",
+        "complementoEndereco": "",
+        "bairro": "ZONA RURAL",
+        "cidade": "BAURU",
+        "estado": "SP",
+        "logradouro": "EST MUNICIPAL BAURU PIRATININGA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992579958.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

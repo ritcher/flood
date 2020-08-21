@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "91991283863",
+        "nomeCompleto": "TEREZA DOS SANTOS CARNEIRO",
+        "cpf": "35415452249",
+        "telefoneContato": "",
+        "dataNascimento": "16/09/1952",
+        "nomeMae": "raimunda nonata de jesus ",
+        "email": null,
+        "cep": "68450000",
+        "endereco": " TRAVESSA JUTAITEUA",
+        "numeroEndereco": "62",
+        "complementoEndereco": "",
+        "bairro": "NOVO HORIZONTE",
+        "cidade": "MOJU",
+        "estado": "PA",
+        "logradouro": "TRAVESSA JUTAITEUA",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991283863.",
+    "currentPlan": {
+        "code": "VIVOCTRLF6N",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL 4GB_ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

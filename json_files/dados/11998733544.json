@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11998733544",
+        "nomeCompleto": "DANIEL DOS SANTOS SILVA",
+        "cpf": "44345775817",
+        "telefoneContato": "",
+        "dataNascimento": "26/12/1997",
+        "nomeMae": "IRENI DOS SANTOS",
+        "email": null,
+        "cep": "09784065",
+        "endereco": "RUA STO ANTONIO 227",
+        "numeroEndereco": "227",
+        "complementoEndereco": "",
+        "bairro": "MONTANHAO",
+        "cidade": "SAO BERNARDO DO CAMPO",
+        "estado": "sp",
+        "logradouro": "STO ANTONIO 227",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11998733544.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

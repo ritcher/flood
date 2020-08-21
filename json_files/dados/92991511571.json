@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991511571",
+        "nomeCompleto": "RODRIGO DIEGO NAPOLES FRANCA",
+        "cpf": "02360065254",
+        "telefoneContato": "",
+        "dataNascimento": "21/05/1993",
+        "nomeMae": "NORMA SUELY DE NAPOLES",
+        "email": null,
+        "cep": "69409899",
+        "endereco": "A RURAL",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "AREA RURAL DE MANACAPURU",
+        "cidade": "MANACAPURU",
+        "estado": "AM",
+        "logradouro": "RURAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991511571.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

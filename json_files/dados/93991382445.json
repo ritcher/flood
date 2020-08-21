@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a9ba8928-22d8-4fe7-a279-ae6a45853463",
+    "data": {
+        "linha": "93991382445",
+        "nomeCompleto": "MARIA ASSUNCAO SOUSA DA SILVA",
+        "cpf": "64767272220",
+        "telefoneContato": "",
+        "dataNascimento": "15/08/1946",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68035050",
+        "endereco": "RUA RESISTENCIA",
+        "numeroEndereco": "413",
+        "complementoEndereco": "",
+        "bairro": "CONQUISTA",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "RESISTENCIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991382445.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

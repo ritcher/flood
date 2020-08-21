@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=eb0beb4c-502f-41c3-ae6c-ca00d37342de",
+    "data": {
+        "linha": "94991058376",
+        "nomeCompleto": "DORIVAN FERREIRA SANTOS",
+        "cpf": "00522270220",
+        "telefoneContato": "",
+        "dataNascimento": "02/04/1974",
+        "nomeMae": null,
+        "email": null,
+        "cep": "76820344",
+        "endereco": "RUA RENATO PEREZ",
+        "numeroEndereco": "1234",
+        "complementoEndereco": "",
+        "bairro": "AGENOR DE CARVALHO",
+        "cidade": "PORTO VELHO",
+        "estado": "RO",
+        "logradouro": "RENATO PEREZ",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991058376.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

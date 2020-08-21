@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=4e93d88a-13fe-46be-9d82-7947492f4d6d",
+    "data": {
+        "linha": "32999143386",
+        "nomeCompleto": "GERALDO JOSE HONORIO",
+        "cpf": "41686861915",
+        "telefoneContato": "",
+        "dataNascimento": "22/07/1957",
+        "nomeMae": null,
+        "email": "geraldo1234@gmail.com",
+        "cep": "76997000",
+        "endereco": " ALAGOAS",
+        "numeroEndereco": "663",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CEREJEIRAS",
+        "estado": "RO",
+        "logradouro": "ALAGOAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 32999143386.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=8f6d0f29-c10f-44a5-8c4d-94034cdab840",
+    "data": {
+        "linha": "68999363248",
+        "nomeCompleto": "MATHEUS SANTANA VIEIRA",
+        "cpf": "05226549245",
+        "telefoneContato": "",
+        "dataNascimento": "10/04/1998",
+        "nomeMae": "Elisangela Silva Santana ",
+        "email": "matheussvieira6899363248@gmail.com",
+        "cep": "69900974",
+        "endereco": " RUA QUINTINO BOCAIUVA",
+        "numeroEndereco": "299",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "R BRANCO",
+        "estado": "AC",
+        "logradouro": "RUA QUINTINO BOCAIUVA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999363248.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

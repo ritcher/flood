@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=8031b001-919c-46d3-99c7-b25fb9b4bd94",
+    "data": {
+        "linha": "63999475344",
+        "nomeCompleto": "Liege Louvane",
+        "cpf": "97130800097",
+        "telefoneContato": "",
+        "dataNascimento": "07/05/1980",
+        "nomeMae": "Lourdes maria",
+        "email": "rafaelvaltomiromacedo@gmail.com",
+        "cep": "15600000",
+        "endereco": " 1",
+        "numeroEndereco": "456",
+        "complementoEndereco": "",
+        "bairro": "VL BOM JESUS",
+        "cidade": "FERNANDOPOLIS",
+        "estado": "SP",
+        "logradouro": "1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 63999475344.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

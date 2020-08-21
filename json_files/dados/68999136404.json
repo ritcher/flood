@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=8172011d-f499-4a2d-9758-d6b55760aa59",
+    "data": {
+        "linha": "68999136404",
+        "nomeCompleto": "sierdilene da Cunha lima",
+        "cpf": "02054826278",
+        "telefoneContato": "",
+        "dataNascimento": "01/01/2000",
+        "nomeMae": "Maria Ant\u00f4nia Ferreira da cunha",
+        "email": "sierdilenelima10@gmail.com",
+        "cep": "69928000",
+        "endereco": "Rua RUA JUAREZ TAVORA",
+        "numeroEndereco": "367",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "PLACIDO DE CASTRO",
+        "estado": "AC",
+        "logradouro": "RUA JUAREZ TAVORA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999136404.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

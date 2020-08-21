@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c348df8c-14d5-4108-8487-18d932c23c71",
+    "data": {
+        "linha": "87981146924",
+        "nomeCompleto": "JULIANA BEZERRA DA SILVA",
+        "cpf": "07326595402",
+        "telefoneContato": "",
+        "dataNascimento": "25/01/1988",
+        "nomeMae": null,
+        "email": "julianasilva500@hotmail.com",
+        "cep": "04111001",
+        "endereco": "RUA DNETO DE ARAUJO",
+        "numeroEndereco": "357",
+        "complementoEndereco": "",
+        "bairro": "VILA MARIANA",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "DNETO DE ARAUJO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 87981146924.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

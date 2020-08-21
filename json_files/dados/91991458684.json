@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991458684",
+        "nomeCompleto": "TEREZINHA DE JESUS RODRIGUES DA SILVA",
+        "cpf": "08354090230",
+        "telefoneContato": "",
+        "dataNascimento": "11/06/1959",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68660000",
+        "endereco": "Rua RUA BERNARDO CARVALHO",
+        "numeroEndereco": "209",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SAO MIGUEL DO GUAMA",
+        "estado": "PA",
+        "logradouro": "RUA BERNARDO CARVALHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991458684.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

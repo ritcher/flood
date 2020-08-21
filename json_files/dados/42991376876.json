@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=564c162c-52a8-41c6-a49a-27e0b96461db",
+    "data": {
+        "linha": "42991376876",
+        "nomeCompleto": "MARINEZ DO ESPIRITO SANTO",
+        "cpf": "01320809901",
+        "telefoneContato": "",
+        "dataNascimento": "08/09/1993",
+        "nomeMae": null,
+        "email": null,
+        "cep": "85150000",
+        "endereco": "Rua FAXINAL DOS VIDAL",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "NT",
+        "cidade": "TURVO",
+        "estado": "PR",
+        "logradouro": "FAXINAL DOS VIDAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 42991376876.",
+    "currentPlan": {
+        "code": "PRPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

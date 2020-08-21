@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "13996235592",
+        "nomeCompleto": "ANTONIO ROGERIO SANTOS DE ABREU",
+        "cpf": "31562629867",
+        "telefoneContato": "",
+        "dataNascimento": "13/02/1985",
+        "nomeMae": "APARECIDA DE FATIMA SANTOS",
+        "email": "antoniofox1202@hotmail.com",
+        "cep": "11263235",
+        "endereco": " RUA QUATORZE",
+        "numeroEndereco": "178",
+        "complementoEndereco": "",
+        "bairro": "SAO LOURENCO",
+        "cidade": "BERTIOGA",
+        "estado": "SP",
+        "logradouro": "RUA QUATORZE",
+        "contaDigital": true,
+        "vencimentoFatura": "17",
+        "ciclo": "01",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 13996235592.",
+    "currentPlan": {
+        "code": "VIVOCTRLF2N",
+        "price": 65.99,
+        "marketingDescription": null,
+        "name": "VIVOCONTROLEDIGITAL-3,5GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1ccf8f84-a89b-461a-9abd-1a0e5dbde8ce",
+    "data": {
+        "linha": "93992105800",
+        "nomeCompleto": "IRILEIA DOS SANTOS SILVA",
+        "cpf": "03849987205",
+        "telefoneContato": "",
+        "dataNascimento": "26/05/1998",
+        "nomeMae": "MARINEUZA DOS SANTOS SILVA",
+        "email": null,
+        "cep": "68143000",
+        "endereco": "EST 1",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "BELTERRA",
+        "estado": "PA",
+        "logradouro": "1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992105800.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

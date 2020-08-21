@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0c2f2cb4-742b-465f-87e0-bfeeee43d782",
+    "data": {
+        "linha": "38997250804",
+        "nomeCompleto": "GRACIELE ALMEIDA FERREIRA",
+        "cpf": "09400847670",
+        "telefoneContato": "",
+        "dataNascimento": "19/12/2002",
+        "nomeMae": null,
+        "email": null,
+        "cep": "39437000",
+        "endereco": " 6",
+        "numeroEndereco": "73",
+        "complementoEndereco": "",
+        "bairro": "FLORES",
+        "cidade": "LONTRA",
+        "estado": "MG",
+        "logradouro": "6",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38997250804.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

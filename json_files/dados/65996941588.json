@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65996941588",
+        "nomeCompleto": "KENEDY ISRAEL DA SILVA",
+        "cpf": "05580855125",
+        "telefoneContato": "",
+        "dataNascimento": "01/01/1978",
+        "nomeMae": "ANA MARIA DA SILVA",
+        "email": null,
+        "cep": "78110300",
+        "endereco": "AV FELINTO MULHER",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "VARZEA GRANDE",
+        "estado": "MT",
+        "logradouro": "FELINTO MULHER",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65996941588.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

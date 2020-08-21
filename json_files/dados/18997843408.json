@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18997843408",
+        "nomeCompleto": "FERNANDA ADRIELE ALVES DA SILVA",
+        "cpf": "34956946848",
+        "telefoneContato": "",
+        "dataNascimento": "03/06/1983",
+        "nomeMae": "DALVA DE SOUZA REIS",
+        "email": null,
+        "cep": "68010430",
+        "endereco": "AVENIDA PEDRO GENTIL",
+        "numeroEndereco": "1030",
+        "complementoEndereco": "",
+        "bairro": "SANTANA",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "PEDRO GENTIL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18997843408.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

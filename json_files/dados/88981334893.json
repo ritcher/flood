@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b0edd24e-b9ea-49ec-9891-af8307463bc6",
+    "data": {
+        "linha": "88981334893",
+        "nomeCompleto": "PEDRO GOMES DA SILVA",
+        "cpf": "54616182353",
+        "telefoneContato": "",
+        "dataNascimento": "10/01/1970",
+        "nomeMae": null,
+        "email": null,
+        "cep": "62460000",
+        "endereco": "AVENIDA JOAO B DE VASCONCELO",
+        "numeroEndereco": "1",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "URUOCA",
+        "estado": "CE",
+        "logradouro": "JOAO B DE VASCONCELO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981334893.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

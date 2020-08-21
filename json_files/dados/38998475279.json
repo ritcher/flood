@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=dd7aaa27-305c-48d4-9413-8938a7e02876",
+    "data": {
+        "linha": "38998475279",
+        "nomeCompleto": "WYVERLENON DE OLIVEIRA",
+        "cpf": "15451493642",
+        "telefoneContato": "",
+        "dataNascimento": "16/09/2000",
+        "nomeMae": null,
+        "email": "b2ry3lsmq7jc9ix@gmail.com",
+        "cep": "39100000",
+        "endereco": " 1",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "JARDIM IMPERIAL",
+        "cidade": "DIAMANTINA",
+        "estado": "MG",
+        "logradouro": "1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38998475279.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

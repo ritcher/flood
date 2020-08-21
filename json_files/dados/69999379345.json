@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999379345",
+        "nomeCompleto": "JAQUELINE BERNARDO DE OLIVEIRA",
+        "cpf": "03571047222",
+        "telefoneContato": "",
+        "dataNascimento": "04/11/1997",
+        "nomeMae": "ROSELI DE OLIVEIRA BERNARDO",
+        "email": null,
+        "cep": "76987332",
+        "endereco": "RUA  SEISCENTOS E VINTE E TRES 1059",
+        "numeroEndereco": "1059",
+        "complementoEndereco": "",
+        "bairro": "S PAULO",
+        "cidade": "VILHENA",
+        "estado": "RO",
+        "logradouro": " SEISCENTOS E VINTE E TRES 1059",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999379345.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

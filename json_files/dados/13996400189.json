@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "13996400189",
+        "nomeCompleto": "ROBERT LUCAS DA SILVA DE JESUS",
+        "cpf": "50127867856",
+        "telefoneContato": "",
+        "dataNascimento": "02/01/2004",
+        "nomeMae": null,
+        "email": null,
+        "cep": "11350350",
+        "endereco": "R GREGORIO SERRAO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CIDADE NAUTICA",
+        "cidade": "S VICENTE",
+        "estado": "SP",
+        "logradouro": "GREGORIO SERRAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 13996400189.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

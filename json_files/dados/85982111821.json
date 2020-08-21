@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "85982111821",
+        "nomeCompleto": "PAULO DANIEL GOMES CAIXETA",
+        "cpf": "09711258641",
+        "telefoneContato": "",
+        "dataNascimento": "18/07/1991",
+        "nomeMae": null,
+        "email": null,
+        "cep": "35519000",
+        "endereco": "RUA DELBAPINTO DA FONSECA",
+        "numeroEndereco": "755",
+        "complementoEndereco": "",
+        "bairro": "ROMEU DUARTE",
+        "cidade": "NOVA SERRANA",
+        "estado": "mg",
+        "logradouro": "DELBAPINTO DA FONSECA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 85982111821.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

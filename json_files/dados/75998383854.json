@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=86ac643d-d8a9-4599-a7ec-4113ee1bc48b",
+    "data": {
+        "linha": "75998383854",
+        "nomeCompleto": "ADAILTON DA SILVA MORAIS",
+        "cpf": "07515052503",
+        "telefoneContato": "",
+        "dataNascimento": "23/05/1996",
+        "nomeMae": null,
+        "email": "adailtonmarcos71@gmail.com",
+        "cep": "44050234",
+        "endereco": "Rua RUA CONSELHEIRO LAFAIETE",
+        "numeroEndereco": "243",
+        "complementoEndereco": "",
+        "bairro": "QUEIMADINHA",
+        "cidade": "FEIRA DE SANTANA",
+        "estado": "BA",
+        "logradouro": "RUA CONSELHEIRO LAFAIETE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 75998383854.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

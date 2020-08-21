@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18996034050",
+        "nomeCompleto": "SIMONE TROIANI",
+        "cpf": "28162381805",
+        "telefoneContato": "",
+        "dataNascimento": "12/06/1979",
+        "nomeMae": null,
+        "email": null,
+        "cep": "19280000",
+        "endereco": "QD 304 1 A CC CAMARGO CORREA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO PRIMAVER",
+        "cidade": "TEODORO SAMPAIO",
+        "estado": "SP",
+        "logradouro": "1 A CC CAMARGO CORREA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18996034050.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

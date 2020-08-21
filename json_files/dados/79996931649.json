@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=e921ca49-606c-467c-a5b9-8546b013da86",
+    "data": {
+        "linha": "79996931649",
+        "nomeCompleto": "sivado matos silva",
+        "cpf": "60997052520",
+        "telefoneContato": "",
+        "dataNascimento": "15/03/1973",
+        "nomeMae": "fidelicia vieira de matos",
+        "email": null,
+        "cep": "27264140",
+        "endereco": "AVENIDA S LUCAS",
+        "numeroEndereco": "281",
+        "complementoEndereco": "",
+        "bairro": "S LUCAS",
+        "cidade": "VOLTA REDONDA",
+        "estado": "Rj",
+        "logradouro": "S LUCAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79996931649.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

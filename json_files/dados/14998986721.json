@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "14998986721",
+        "nomeCompleto": "MARCIEL DE OLIVEIRA LIMA",
+        "cpf": "07360634989",
+        "telefoneContato": "",
+        "dataNascimento": "06/08/1990",
+        "nomeMae": null,
+        "email": "ativeimaisumplano90@gmail.com",
+        "cep": "38770000",
+        "endereco": " 01",
+        "numeroEndereco": "50",
+        "complementoEndereco": "",
+        "bairro": "JARDIM PREDIAL",
+        "cidade": "JOAO PINHEIRO",
+        "estado": "MG",
+        "logradouro": "01",
+        "contaDigital": true,
+        "vencimentoFatura": "17",
+        "ciclo": "01",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 14998986721.",
+    "currentPlan": {
+        "code": "VIVOCTRLF50N",
+        "price": 69.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 4GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

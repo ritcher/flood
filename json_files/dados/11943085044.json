@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11943085044",
+        "nomeCompleto": "WANDERSON BUENO DE MORAIS",
+        "cpf": "35239133816",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1987",
+        "nomeMae": null,
+        "email": "wandersonbueno22@gmail.com",
+        "cep": "69400260",
+        "endereco": " EDUARDO RIBEIRO",
+        "numeroEndereco": "122",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MANACAPURU",
+        "estado": "AM",
+        "logradouro": "EDUARDO RIBEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11943085044.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

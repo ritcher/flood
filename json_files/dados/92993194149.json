@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993194149",
+        "nomeCompleto": "MARIA DA SILVA NUNES",
+        "cpf": "54442923191",
+        "telefoneContato": "",
+        "dataNascimento": "10/10/1990",
+        "nomeMae": null,
+        "email": "mauricioliz1507@gmail.com",
+        "cep": "59526970",
+        "endereco": " PRINCIPAL",
+        "numeroEndereco": "22",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "STA TERESA",
+        "estado": "RN",
+        "logradouro": "PRINCIPAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993194149.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

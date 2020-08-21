@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=5c914193-a1f5-435c-86f6-be730e742668",
+    "data": {
+        "linha": "37999851790",
+        "nomeCompleto": "DALIANE ARANTES FARIA",
+        "cpf": "07674677605",
+        "telefoneContato": "",
+        "dataNascimento": "29/04/1983",
+        "nomeMae": null,
+        "email": "dalianearantes@hotmail.com",
+        "cep": "03703060",
+        "endereco": " HANSA",
+        "numeroEndereco": "148",
+        "complementoEndereco": "",
+        "bairro": "JARDIM JAU ZONA LESTE",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "HANSA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37999851790.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

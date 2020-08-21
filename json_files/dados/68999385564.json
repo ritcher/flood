@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=93faa311-f49a-4c3d-b97d-69b8c06a72c5",
+    "data": {
+        "linha": "68999385564",
+        "nomeCompleto": "CLICIANE BRAGA DA COSTA",
+        "cpf": "01018259279",
+        "telefoneContato": "",
+        "dataNascimento": "24/02/1990",
+        "nomeMae": "MICAELA BRAGA DA SILVA",
+        "email": null,
+        "cep": "69900013",
+        "endereco": "TRAVESSA  CRUZEIRO DO SUL 1164",
+        "numeroEndereco": "1164",
+        "complementoEndereco": "",
+        "bairro": "BASE",
+        "cidade": "RIO BRANCO",
+        "estado": "AC",
+        "logradouro": " CRUZEIRO DO SUL 1164",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999385564.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

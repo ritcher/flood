@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=e862f29a-5ade-4d04-829f-d591b83964aa",
+    "data": {
+        "linha": "94992607218",
+        "nomeCompleto": "PATRICIA RODRIGUES DOS SANTOS",
+        "cpf": "00012850250",
+        "telefoneContato": "",
+        "dataNascimento": "21/01/1988",
+        "nomeMae": "EDEUZUITE DE ANDRADE SANTOS",
+        "email": null,
+        "cep": "68553030",
+        "endereco": "AVENIDA MAL RONDON 89 BL A 3 AP 304",
+        "numeroEndereco": "89",
+        "complementoEndereco": "",
+        "bairro": "NUC URBANO",
+        "cidade": "REDENCAO",
+        "estado": "PA",
+        "logradouro": "MAL RONDON 89 BL A 3 AP 304",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992607218.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c8486297-3c73-40ec-9cd1-197e5a9d640c",
+    "data": {
+        "linha": "93992387005",
+        "nomeCompleto": "CRISTIANE GOES DE LIRA",
+        "cpf": "02489417207",
+        "telefoneContato": "",
+        "dataNascimento": "17/10/1992",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68200000",
+        "endereco": "TRAVESSA FRANCISCO MONTEIRO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "LIBERDADE",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "FRANCISCO MONTEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992387005.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

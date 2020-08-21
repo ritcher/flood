@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "64999953575",
+        "nomeCompleto": "FERNANDA NEVES PEREIRA",
+        "cpf": "00933264160",
+        "telefoneContato": "",
+        "dataNascimento": "01/04/1986",
+        "nomeMae": "MARIA APARECIDA NEVES",
+        "email": "xjww7169ifiey1a@gmail.com",
+        "cep": "75200000",
+        "endereco": "RUA OLINTO GOMES DE OLIVEIRA",
+        "numeroEndereco": "31",
+        "complementoEndereco": "",
+        "bairro": "SETOR JK",
+        "cidade": "PIRES DO RIO",
+        "estado": "GO",
+        "logradouro": "OLINTO GOMES DE OLIVEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 64999953575.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

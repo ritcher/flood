@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992132493",
+        "nomeCompleto": "ANANIAS MENDONCA DA SILVA",
+        "cpf": "85642053272",
+        "telefoneContato": "",
+        "dataNascimento": "26/05/1980",
+        "nomeMae": null,
+        "email": "v76xqmy9jv2nkbw@gmail.com",
+        "cep": "69008010",
+        "endereco": "RUA CENTRAL",
+        "numeroEndereco": "23",
+        "complementoEndereco": "",
+        "bairro": "COL ANTONIO ALEIXO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "CENTRAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992132493.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67998647564",
+        "nomeCompleto": "MICHELLE APARECIDA ALVES",
+        "cpf": "03505214175",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "79680000",
+        "endereco": "Rua RUA JOSE CANDIDO DOS SANTOS",
+        "numeroEndereco": "196",
+        "complementoEndereco": "",
+        "bairro": "JARDIM NOVA AGUA CLARA",
+        "cidade": "AGUA CLARA",
+        "estado": "MS",
+        "logradouro": "RUA JOSE CANDIDO DOS SANTOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67998647564.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

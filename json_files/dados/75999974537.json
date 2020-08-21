@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9fab8855-ab7c-4749-a342-0ed2260419d0",
+    "data": {
+        "linha": "75999974537",
+        "nomeCompleto": "WESLEY MEDINA",
+        "cpf": "06404153181",
+        "telefoneContato": "",
+        "dataNascimento": "03/12/1994",
+        "nomeMae": null,
+        "email": "neyaj66863@zaelmo.com",
+        "cep": "69000000",
+        "endereco": " BC 02 DE AGOSTO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "VILA UNIAO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "BC 02 DE AGOSTO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 75999974537.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

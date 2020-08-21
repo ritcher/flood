@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=aef7b37d-51c7-42de-87d3-1c1f546ef19d",
+    "data": {
+        "linha": "77998505502",
+        "nomeCompleto": "CLAUDINEIA UMBURANA ARAUJO",
+        "cpf": "06692247586",
+        "telefoneContato": "",
+        "dataNascimento": "17/07/1992",
+        "nomeMae": "RITA DE CASSIA ALVES UMBURANA",
+        "email": "jjg63gzf17b0h5b@gmail.com",
+        "cep": "45079388",
+        "endereco": "RUA  B 5",
+        "numeroEndereco": "5",
+        "complementoEndereco": "",
+        "bairro": "ZABELE",
+        "cidade": "VITORIA DA CONQUISTA",
+        "estado": "BA",
+        "logradouro": " B 5",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77998505502.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

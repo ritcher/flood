@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1f0f8a89-d9e6-410b-95e3-2674f0918b14",
+    "data": {
+        "linha": "33999380953",
+        "nomeCompleto": "EDUARDO JERONIMO RODRIGUES",
+        "cpf": "16523469611",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "31525040",
+        "endereco": "Rua RUA CAMILA SOUZA MACHADO",
+        "numeroEndereco": "11",
+        "complementoEndereco": "",
+        "bairro": "SANTA MONICA",
+        "cidade": "BELO HORIZONTE",
+        "estado": "mg",
+        "logradouro": "RUA CAMILA SOUZA MACHADO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999380953.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

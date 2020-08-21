@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=55cf37df-6926-44af-a23e-201cf4d5ba66",
+    "data": {
+        "linha": "79996095968",
+        "nomeCompleto": "ANA LUCIA DE OLIVEIRA SILVA",
+        "cpf": "03727160594",
+        "telefoneContato": "",
+        "dataNascimento": "22/01/1986",
+        "nomeMae": null,
+        "email": "roresa7031@sweatmail.com",
+        "cep": "49100000",
+        "endereco": "AVENIDA PRICIPAL",
+        "numeroEndereco": "1",
+        "complementoEndereco": "",
+        "bairro": "ROZA MARIA",
+        "cidade": "SAO CRISTOVAO",
+        "estado": "SE",
+        "logradouro": "PRICIPAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79996095968.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

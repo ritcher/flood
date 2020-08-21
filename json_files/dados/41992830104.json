@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=27976ad9-1880-4169-9629-44606597240e",
+    "data": {
+        "linha": "41992830104",
+        "nomeCompleto": "GABRIEL FERREIRA DE SOUZA",
+        "cpf": "17400358790",
+        "telefoneContato": "",
+        "dataNascimento": "23/01/2000",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29155593",
+        "endereco": "Rua BOA ESPERANCA",
+        "numeroEndereco": "158",
+        "complementoEndereco": "",
+        "bairro": "FLEXAL I",
+        "cidade": "CARIACICA",
+        "estado": "es",
+        "logradouro": "BOA ESPERANCA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 41992830104.",
+    "currentPlan": {
+        "code": "PRPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

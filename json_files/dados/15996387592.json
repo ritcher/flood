@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15996387592",
+        "nomeCompleto": "Maycon Henrique De Oliveira Da Rosa",
+        "cpf": "44163900845",
+        "telefoneContato": "",
+        "dataNascimento": "09/02/1997",
+        "nomeMae": "SIMONE DE OLIVEIRA DA ROSA",
+        "email": null,
+        "cep": "18150000",
+        "endereco": "RUA BAIRRO DO CEITAL",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CEITAL",
+        "cidade": "IBIUNA",
+        "estado": "SP",
+        "logradouro": "BAIRRO DO CEITAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15996387592.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=11a43e47-56f1-4ced-a8cf-e93a4cd3131e",
+    "data": {
+        "linha": "33999164323",
+        "nomeCompleto": "GEORGE WOSHINGTON BARBOSA",
+        "cpf": "06462989688",
+        "telefoneContato": "",
+        "dataNascimento": "23/08/1985",
+        "nomeMae": null,
+        "email": null,
+        "cep": "18000000",
+        "endereco": "RUA ALAMEDA LUA NOVA",
+        "numeroEndereco": "01",
+        "complementoEndereco": "",
+        "bairro": "JD RENASCER",
+        "cidade": "SOROCABA",
+        "estado": "SP",
+        "logradouro": "ALAMEDA LUA NOVA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999164323.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991793953",
+        "nomeCompleto": "KRONGE FERNANDES LEITE",
+        "cpf": "09990526249",
+        "telefoneContato": "",
+        "dataNascimento": "03/09/1947",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69100000",
+        "endereco": "Rua RIO ARARI",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "INTEIOR",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "RIO ARARI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991793953.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

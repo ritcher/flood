@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21999792089",
+        "nomeCompleto": "SEVERINO GABRIEL PAULO",
+        "cpf": "85876526720",
+        "telefoneContato": "",
+        "dataNascimento": "15/04/1957",
+        "nomeMae": null,
+        "email": null,
+        "cep": "21863000",
+        "endereco": "Rua AVENIDA BRASIL",
+        "numeroEndereco": "77",
+        "complementoEndereco": "",
+        "bairro": "BANGU",
+        "cidade": "R DE JANEIRO",
+        "estado": "Rj",
+        "logradouro": "AVENIDA BRASIL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21999792089.",
+    "currentPlan": {
+        "code": "RJVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

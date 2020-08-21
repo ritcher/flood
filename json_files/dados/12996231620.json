@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12996231620",
+        "nomeCompleto": "FABRICIO HENRIQUE BARBOSA",
+        "cpf": "30262014807",
+        "telefoneContato": "",
+        "dataNascimento": "04/09/1981",
+        "nomeMae": null,
+        "email": "fabriciohbsbs@hotmail.com",
+        "cep": "12490000",
+        "endereco": " PEREIRA ALVES",
+        "numeroEndereco": "80",
+        "complementoEndereco": "",
+        "bairro": "",
+        "cidade": "S BENTO DO SAPUCAI",
+        "estado": "SP",
+        "logradouro": "PEREIRA ALVES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996231620.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18996033894",
+        "nomeCompleto": "VANIA LIMA DE CAMPOS",
+        "cpf": "28169545870",
+        "telefoneContato": "",
+        "dataNascimento": "25/07/1971",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "19280000",
+        "endereco": "Rua ATRO",
+        "numeroEndereco": "352",
+        "complementoEndereco": "",
+        "bairro": "PLANALTO DO SUL",
+        "cidade": "TEODORO SAMPAIO",
+        "estado": "sp",
+        "logradouro": "ATRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18996033894.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

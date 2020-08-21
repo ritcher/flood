@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "21967202675",
+        "nomeCompleto": "KERSEY MACEDO TAVARES DA CAMARA",
+        "cpf": "03085819541",
+        "telefoneContato": "",
+        "dataNascimento": "30/08/1999",
+        "nomeMae": null,
+        "email": "xj19jla49ogluyo@gmail.com",
+        "cep": "47800400",
+        "endereco": " DEPUTADO VIEIRA DE MELO",
+        "numeroEndereco": "9",
+        "complementoEndereco": "",
+        "bairro": "SAO MIGUEL",
+        "cidade": "BARREIRAS",
+        "estado": "BA",
+        "logradouro": "DEPUTADO VIEIRA DE MELO",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21967202675.",
+    "currentPlan": {
+        "code": "VIVOCTRLF51N",
+        "price": 84.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 5GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

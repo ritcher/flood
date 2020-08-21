@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993681214",
+        "nomeCompleto": "Luiz Carlos Bel\u00e9m Ferreira ",
+        "cpf": "99476614234",
+        "telefoneContato": "",
+        "dataNascimento": "15/04/1988",
+        "nomeMae": "Maria do Livramento Bel\u00e9m Ferreira ",
+        "email": "licobf_@hotmail.com",
+        "cep": "69195000",
+        "endereco": "PE GABRIEL",
+        "numeroEndereco": "845",
+        "complementoEndereco": "",
+        "bairro": "S SEBASTIAO",
+        "cidade": "BOA VISTA DO RAMOS",
+        "estado": "AM",
+        "logradouro": "GABRIEL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993681214.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

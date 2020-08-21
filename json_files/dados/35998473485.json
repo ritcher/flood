@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "35998473485",
+        "nomeCompleto": "EMILLY JENNIFER ALMEIDA",
+        "cpf": "84528885972",
+        "telefoneContato": "",
+        "dataNascimento": "24/10/1998",
+        "nomeMae": null,
+        "email": "heloisacarlarosaassuncaheloisacarlarosaassuncao@gmail.com",
+        "cep": "68503330",
+        "endereco": " RIO GRANDE DO SUL",
+        "numeroEndereco": "434",
+        "complementoEndereco": "",
+        "bairro": "BELO HORIZONTE",
+        "cidade": "MARABA",
+        "estado": "PA",
+        "logradouro": "RIO GRANDE DO SUL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 35998473485.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

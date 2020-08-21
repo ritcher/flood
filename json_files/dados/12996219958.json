@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12996219958",
+        "nomeCompleto": "Carlos Furtado ",
+        "cpf": "01552840883",
+        "telefoneContato": "",
+        "dataNascimento": "13/11/1932",
+        "nomeMae": "Maria Degani",
+        "email": "carlosfurtado2308@gmail.com",
+        "cep": "68450000",
+        "endereco": " CASTELO BRANCO",
+        "numeroEndereco": "23",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MOJU",
+        "estado": "PA",
+        "logradouro": "CASTELO BRANCO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996219958.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994194519",
+        "nomeCompleto": "MARCELO EMANUEL TAVARES DE CASTRO",
+        "cpf": "56423942668",
+        "telefoneContato": "",
+        "dataNascimento": "30/07/1966",
+        "nomeMae": null,
+        "email": "oliveiraoliveira554@gmail.com",
+        "cep": "58802035",
+        "endereco": " OTACILIO AFONSO DE SOUSA",
+        "numeroEndereco": "12",
+        "complementoEndereco": "",
+        "bairro": "GATO PRETO",
+        "cidade": "SOUSA",
+        "estado": "PB",
+        "logradouro": "OTACILIO AFONSO DE SOUSA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994194519.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

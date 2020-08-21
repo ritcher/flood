@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=d6eb4933-1532-4b30-b95d-311db4d03ce3",
+    "data": {
+        "linha": "93991465207",
+        "nomeCompleto": "KEDMA PATRICIA DA SILVA RATIS",
+        "cpf": "04732737218",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "66823072",
+        "endereco": "Rua AVENIDA CENTRAL I",
+        "numeroEndereco": "8",
+        "complementoEndereco": "",
+        "bairro": "COQUEIRO",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "AVENIDA CENTRAL I",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991465207.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

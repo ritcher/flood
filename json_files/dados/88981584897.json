@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=afa0982a-647c-4bec-9a89-8ddcabec4bb8",
+    "data": {
+        "linha": "88981584897",
+        "nomeCompleto": "JOSE ROSENO DOS SANTOS FILHO",
+        "cpf": "34692983353",
+        "telefoneContato": "",
+        "dataNascimento": "10/03/1963",
+        "nomeMae": null,
+        "email": null,
+        "cep": "09931414",
+        "endereco": "Rua RUA OURO",
+        "numeroEndereco": "150",
+        "complementoEndereco": "",
+        "bairro": "TABOAO",
+        "cidade": "DIADEMA",
+        "estado": "sp",
+        "logradouro": "RUA OURO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981584897.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

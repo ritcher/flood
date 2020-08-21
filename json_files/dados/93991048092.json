@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=fda1b848-8234-4f38-b414-7f5465a1e51f",
+    "data": {
+        "linha": "93991048092",
+        "nomeCompleto": "JANAINA PIMENTA ELEUTERIO",
+        "cpf": "02922787214",
+        "telefoneContato": "",
+        "dataNascimento": "27/07/1996",
+        "nomeMae": null,
+        "email": null,
+        "cep": "08410020",
+        "endereco": "RUA PRF FRANCISCO PINHEIRO",
+        "numeroEndereco": "2000",
+        "complementoEndereco": "",
+        "bairro": "VL PRCA ISABEL",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "PRF FRANCISCO PINHEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991048092.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=2000f360-5dfe-4a9a-889b-51dce89adf04",
+    "data": {
+        "linha": "32999166918",
+        "nomeCompleto": "LIVIANE JACOB DE PAULA DA SILVA",
+        "cpf": "14665430608",
+        "telefoneContato": "",
+        "dataNascimento": "28/04/1999",
+        "nomeMae": "SOLANGE JACOB DOS SANTOS",
+        "email": null,
+        "cep": "36150000",
+        "endereco": "RUA  EDUARDO TOSTES 17",
+        "numeroEndereco": "17",
+        "complementoEndereco": "",
+        "bairro": "NOVO HORIZONTE",
+        "cidade": "RIO NOVO",
+        "estado": "mg",
+        "logradouro": " EDUARDO TOSTES 17",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 32999166918.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

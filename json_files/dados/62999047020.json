@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "62999047020",
+        "nomeCompleto": "MARCOS VINICIUS RODRIGUES PINTO",
+        "cpf": "04030651194",
+        "telefoneContato": "",
+        "dataNascimento": "01/07/1994",
+        "nomeMae": null,
+        "email": null,
+        "cep": "74932630",
+        "endereco": "Rua RUA 42 E",
+        "numeroEndereco": "66",
+        "complementoEndereco": "",
+        "bairro": "GARAVELO RESIDENCIAL PARK",
+        "cidade": "APARECIDA DE GOIANIA",
+        "estado": "GO",
+        "logradouro": "RUA 42 E",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 62999047020.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

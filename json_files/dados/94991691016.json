@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=d148b6e1-f493-4306-8bd0-c5b0c7284eff",
+    "data": {
+        "linha": "94991691016",
+        "nomeCompleto": "LUZIA MARIA DA CONCEICAO",
+        "cpf": "38072815253",
+        "telefoneContato": "",
+        "dataNascimento": "25/03/1952",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68540000",
+        "endereco": "RUA A",
+        "numeroEndereco": "19",
+        "complementoEndereco": "",
+        "bairro": "TANCREDO NEVES",
+        "cidade": "CONCEICAO DO ARAGUAIA",
+        "estado": "PA",
+        "logradouro": "A",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991691016.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

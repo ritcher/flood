@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=10e1bc3d-06b1-4380-bd02-b276620eec71",
+    "data": {
+        "linha": "77999427680",
+        "nomeCompleto": "IVANETE MOREIRA LOPES",
+        "cpf": "29673824851",
+        "telefoneContato": "",
+        "dataNascimento": "27/01/1977",
+        "nomeMae": "ANAILDE MOREIRA DA CRUZ",
+        "email": null,
+        "cep": "05791100",
+        "endereco": "RUA  GUIDO MENEGHETTI 12 CS 1",
+        "numeroEndereco": "12",
+        "complementoEndereco": "",
+        "bairro": "JD MITSUTANI",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": " GUIDO MENEGHETTI 12 CS 1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77999427680.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

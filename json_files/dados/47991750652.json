@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "47991750652",
+        "nomeCompleto": "MARINEIA MACHADO FERREIRA",
+        "cpf": "00759806900",
+        "telefoneContato": "",
+        "dataNascimento": "23/08/1981",
+        "nomeMae": "NILZA HIPOLITO MACHADO",
+        "email": null,
+        "cep": "89114190",
+        "endereco": "RUA  IVO TESTONI 32 N AP01 S",
+        "numeroEndereco": "32",
+        "complementoEndereco": "",
+        "bairro": "STA TEREZINHA",
+        "cidade": "GASPAR",
+        "estado": "sc",
+        "logradouro": " IVO TESTONI 32 N AP01 S",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 47991750652.",
+    "currentPlan": {
+        "code": "PRPREDIAR3GSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "PRPREDIAR3GSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

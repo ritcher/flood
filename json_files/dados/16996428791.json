@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "16996428791",
+        "nomeCompleto": "Reginaldo sanguina martimiano",
+        "cpf": "01609067177",
+        "telefoneContato": "",
+        "dataNascimento": "18/12/1981",
+        "nomeMae": "Mercedes Sanguina Martimiano",
+        "email": "rumivedig@email-wizard.com",
+        "cep": "14840000",
+        "endereco": "AVENIDA DEZ DE ABRIL",
+        "numeroEndereco": "611",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "GUARIBA",
+        "estado": "SP",
+        "logradouro": "DEZ DE ABRIL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 16996428791.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

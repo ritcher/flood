@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992352211",
+        "nomeCompleto": "PAOLA NICOLE BRITO SILVA",
+        "cpf": "05219943227",
+        "telefoneContato": "",
+        "dataNascimento": "19/03/2000",
+        "nomeMae": null,
+        "email": null,
+        "cep": "44092642",
+        "endereco": " SERGIO CARNEIRO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "TOMBA",
+        "cidade": "FEIRA DE SANTANA",
+        "estado": "BA",
+        "logradouro": "SERGIO CARNEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992352211.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

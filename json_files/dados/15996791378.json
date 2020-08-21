@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15996791378",
+        "nomeCompleto": "JOSE FERNANDO VENANCIO",
+        "cpf": "28462701805",
+        "telefoneContato": "",
+        "dataNascimento": "27/06/1981",
+        "nomeMae": "MARIA APARECIDA VENANCIO",
+        "email": null,
+        "cep": "18425000",
+        "endereco": "RUA F ALVES NEGRAO POSTO UNIAO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "TAQUARIVAI",
+        "cidade": "TAQUARIVAI",
+        "estado": "SP",
+        "logradouro": "F ALVES NEGRAO POSTO UNIAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15996791378.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=dcf522ad-f61f-4bf9-9e8b-a1ee93dd2baf",
+    "data": {
+        "linha": "38999164761",
+        "nomeCompleto": "AURENICE RAMOS FARIAS",
+        "cpf": "11341710645",
+        "telefoneContato": "",
+        "dataNascimento": "30/03/1990",
+        "nomeMae": "MARIA",
+        "email": null,
+        "cep": "39480000",
+        "endereco": "RUA PADRE HENRIQUE",
+        "numeroEndereco": "10",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "JANUARIA",
+        "estado": "MG",
+        "logradouro": "PADRE HENRIQUE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38999164761.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

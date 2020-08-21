@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21996392111",
+        "nomeCompleto": "IZAAC RIBEIRO BARBOSA",
+        "cpf": "09782229709",
+        "telefoneContato": "",
+        "dataNascimento": "04/01/1985",
+        "nomeMae": null,
+        "email": null,
+        "cep": "22783116",
+        "endereco": "Rua EST DOS BANDEIRANTES",
+        "numeroEndereco": "13841",
+        "complementoEndereco": "",
+        "bairro": "CURICICA",
+        "cidade": "RIO DE JANEIRO",
+        "estado": "Rj",
+        "logradouro": "EST DOS BANDEIRANTES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21996392111.",
+    "currentPlan": {
+        "code": "RJVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

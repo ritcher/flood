@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27998643475",
+        "nomeCompleto": "EDUARDO EPIFANIO COSTA",
+        "cpf": "09643282759",
+        "telefoneContato": "",
+        "dataNascimento": "02/02/1937",
+        "nomeMae": "Em\u00edlia epifanio costa",
+        "email": "epifanio.costaa@gmail.com",
+        "cep": "29141881",
+        "endereco": "RUA BASILIO CALDEIRA DA SILVA",
+        "numeroEndereco": "331",
+        "complementoEndereco": "",
+        "bairro": "PADRE GABRIEL",
+        "cidade": "CARIACICA",
+        "estado": "ES",
+        "logradouro": "BASILIO CALDEIRA DA SILVA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27998643475.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

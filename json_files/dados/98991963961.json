@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=60c8fa45-b123-42e5-a08c-5593bfe91bee",
+    "data": {
+        "linha": "98991963961",
+        "nomeCompleto": "EMMANUEL MARQUES DE PAULA",
+        "cpf": "31683212819",
+        "telefoneContato": "",
+        "dataNascimento": "28/02/1983",
+        "nomeMae": null,
+        "email": "havvsh@gmail.com",
+        "cep": "58070120",
+        "endereco": "RUA RANGEL TRAVASSOS",
+        "numeroEndereco": "10",
+        "complementoEndereco": "",
+        "bairro": "VARJAO",
+        "cidade": "JOAO PESSOA",
+        "estado": "PB",
+        "logradouro": "RANGEL TRAVASSOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98991963961.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

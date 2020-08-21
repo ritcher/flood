@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "55997013777",
+        "nomeCompleto": "DENISE CACERES BALEJO",
+        "cpf": "02944087037",
+        "telefoneContato": "",
+        "dataNascimento": "05/03/1989",
+        "nomeMae": null,
+        "email": null,
+        "cep": "04425110",
+        "endereco": "RUA BABILONIA",
+        "numeroEndereco": "9",
+        "complementoEndereco": "",
+        "bairro": "CIDADE JULIA",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "BABILONIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 55997013777.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

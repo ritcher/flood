@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991794241",
+        "nomeCompleto": "JOSE HENRIQUE CALDEIRA PEREIRA",
+        "cpf": "41826795200",
+        "telefoneContato": "",
+        "dataNascimento": "03/08/1969",
+        "nomeMae": "caldeira",
+        "email": null,
+        "cep": "69101504",
+        "endereco": "RUA RONDONIA",
+        "numeroEndereco": "144",
+        "complementoEndereco": "",
+        "bairro": "SAO FRANCISCO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "RONDONIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991794241.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

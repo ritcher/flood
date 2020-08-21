@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0020abb4-f415-424c-b5b3-c72029c363d3",
+    "data": {
+        "linha": "87981615203",
+        "nomeCompleto": "LUCAS EMANOEL COSTA DA SILVA",
+        "cpf": "10671159437",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "LUCIANA PEREIRA COSTA DA SILVA",
+        "email": null,
+        "cep": "55292400",
+        "endereco": "RUA S MIGUEL 371",
+        "numeroEndereco": "371",
+        "complementoEndereco": "",
+        "bairro": "BOA VISTA",
+        "cidade": "GARANHUNS",
+        "estado": "PE",
+        "logradouro": "S MIGUEL 371",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 87981615203.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

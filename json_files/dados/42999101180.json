@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=e9b93bfe-24b8-4384-97bd-bc7f0097a024",
+    "data": {
+        "linha": "42999101180",
+        "nomeCompleto": "FABIO SABATOVICZ",
+        "cpf": "03884709925",
+        "telefoneContato": "",
+        "dataNascimento": "16/04/1983",
+        "nomeMae": "ANA LOURDES SABATOVICZ  ",
+        "email": null,
+        "cep": "85270000",
+        "endereco": "RUA MAXIMILIANO VICENTIM CENTRO",
+        "numeroEndereco": "1089",
+        "complementoEndereco": "",
+        "bairro": "PALMITAL",
+        "cidade": "PALMITAL",
+        "estado": "PR",
+        "logradouro": "MAXIMILIANO VICENTIM CENTRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 42999101180.",
+    "currentPlan": {
+        "code": "PRVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

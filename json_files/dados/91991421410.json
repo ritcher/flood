@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "POSPAGO",
+    "data": {
+        "linha": "91991421410",
+        "nomeCompleto": "AGRICOLA LEAO FEIO JUNIOR",
+        "cpf": "42481023234",
+        "telefoneContato": "",
+        "dataNascimento": "17/11/1973",
+        "nomeMae": "JULIA MARIA PUGET FEIO",
+        "email": "hafsj@g.com",
+        "cep": "67113050",
+        "endereco": "RUA UM",
+        "numeroEndereco": "37",
+        "complementoEndereco": "",
+        "bairro": "COQUEIRO",
+        "cidade": "ANANINDEUA",
+        "estado": "PA",
+        "logradouro": "UM",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991421410.",
+    "currentPlan": {
+        "code": "PLVIVO5GB18",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "PLN VIVO POS 8GB",
+        "platform": "POSPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

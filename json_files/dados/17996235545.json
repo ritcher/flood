@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "17996235545",
+        "nomeCompleto": "VALQUIRIA COVIZZI DA SILVA",
+        "cpf": "21331027870",
+        "telefoneContato": "",
+        "dataNascimento": "04/04/1978",
+        "nomeMae": null,
+        "email": "penismaria@gmail.com",
+        "cep": "15600000",
+        "endereco": " 1",
+        "numeroEndereco": "456",
+        "complementoEndereco": "",
+        "bairro": "VL BOM JESUS",
+        "cidade": "FERNANDOPOLIS",
+        "estado": "SP",
+        "logradouro": "1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 17996235545.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11971386497",
+        "nomeCompleto": "HUDSON SILVA RODRIGUES DE ASSIS",
+        "cpf": "05632746542",
+        "telefoneContato": "",
+        "dataNascimento": "21/02/1997",
+        "nomeMae": null,
+        "email": "7ovhyiukdclbwr7@gmail.com",
+        "cep": "04474340",
+        "endereco": "Rua EST  DO ALVARENGA 3970",
+        "numeroEndereco": "3970",
+        "complementoEndereco": "",
+        "bairro": "BAL S FRANCISCO",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "EST  DO ALVARENGA 3970",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11971386497.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

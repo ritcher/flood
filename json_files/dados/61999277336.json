@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "61999277336",
+        "nomeCompleto": "NATANAEL MOURA TEIXEIRA",
+        "cpf": "08297155170",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": null,
+        "cep": "70337060",
+        "endereco": "Rua SQS 304 BLOCO F",
+        "numeroEndereco": "573",
+        "complementoEndereco": "",
+        "bairro": "ASA SUL",
+        "cidade": "BRASILIA",
+        "estado": "DF",
+        "logradouro": "SQS 304 BLOCO F",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61999277336.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

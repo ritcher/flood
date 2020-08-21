@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15998435576",
+        "nomeCompleto": "ROMEU REZENDE DE SOUZA",
+        "cpf": "79434770815",
+        "telefoneContato": "",
+        "dataNascimento": "27/09/1953",
+        "nomeMae": null,
+        "email": null,
+        "cep": "18480000",
+        "endereco": "RUA SILVIO LUIS P MONTEIRO",
+        "numeroEndereco": "240",
+        "complementoEndereco": "",
+        "bairro": "CJ HABITACIONAL B1",
+        "cidade": "ITAPORANGA",
+        "estado": "sp",
+        "logradouro": "SILVIO LUIS P MONTEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15998435576.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

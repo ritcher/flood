@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0ec145ff-6bf9-4f0d-8967-0d87e9385f39",
+    "data": {
+        "linha": "81982756231",
+        "nomeCompleto": "JOSILENE CORREIA DA SILVA",
+        "cpf": "06108214406",
+        "telefoneContato": "",
+        "dataNascimento": "10/06/1985",
+        "nomeMae": null,
+        "email": null,
+        "cep": "55920000",
+        "endereco": "RUA DO MARACUJA",
+        "numeroEndereco": "48",
+        "complementoEndereco": "",
+        "bairro": "MARACUJA",
+        "cidade": "ITAMBE",
+        "estado": "PE",
+        "logradouro": "DO MARACUJA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 81982756231.",
+    "currentPlan": {
+        "code": "NEPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "NEPREDIARIOGSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

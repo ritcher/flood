@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "POSPAGO",
+    "data": {
+        "linha": "11975242558",
+        "nomeCompleto": "ANTONIA HELIA ALVES DA ROCHA",
+        "cpf": "81309660344",
+        "telefoneContato": "",
+        "dataNascimento": "24/10/1979",
+        "nomeMae": null,
+        "email": null,
+        "cep": "07123480",
+        "endereco": "RUA S MIGUEL DA GUAMA",
+        "numeroEndereco": "1380",
+        "complementoEndereco": "",
+        "bairro": "JARDIM SANTA CLARA",
+        "cidade": "GUARULHOS",
+        "estado": "SP",
+        "logradouro": "S MIGUEL DA GUAMA",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11975242558.",
+    "currentPlan": {
+        "code": "PLSMT2_5GB_2017MIG",
+        "price": 99.99,
+        "marketingDescription": null,
+        "name": "VIVO_POS 7GB.",
+        "platform": "POSPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=2d5583d4-cb0f-4033-ada5-9ae60bce4d3c",
+    "data": {
+        "linha": "93991311754",
+        "nomeCompleto": "FRANCIANE NUNES NOGUEIRA",
+        "cpf": "83343547204",
+        "telefoneContato": "",
+        "dataNascimento": "19/01/1979",
+        "nomeMae": "Maria",
+        "email": null,
+        "cep": "58000000",
+        "endereco": "R ALINE BARROS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ROGER",
+        "cidade": "JOAO PESSOA",
+        "estado": "PB",
+        "logradouro": "ALINE BARROS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991311754.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

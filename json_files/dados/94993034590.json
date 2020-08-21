@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b55884fb-6b47-4a4e-a1e1-44dc6fbd9b99",
+    "data": {
+        "linha": "94993034590",
+        "nomeCompleto": "PAULO NASCIMENTO SILVA",
+        "cpf": "02365702260",
+        "telefoneContato": "",
+        "dataNascimento": "20/06/1989",
+        "nomeMae": "JOANA CORDEIRO DO NASCIMENTO",
+        "email": null,
+        "cep": "68590000",
+        "endereco": "Rua RUA OLAVIO CORREA",
+        "numeroEndereco": "68",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "JACUNDA",
+        "estado": "PA",
+        "logradouro": "RUA OLAVIO CORREA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94993034590.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

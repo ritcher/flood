@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=ddd34065-e869-44d0-8080-2c0b8a80ae4b",
+    "data": {
+        "linha": "95991192524",
+        "nomeCompleto": "LUIZ AURELIO BRAGA PEREIRA",
+        "cpf": "71848622368",
+        "telefoneContato": "",
+        "dataNascimento": "25/01/1976",
+        "nomeMae": null,
+        "email": "pietrasuelivitoriagalvao-92@rafaelmarin.net",
+        "cep": "71625908",
+        "endereco": " SHIS QI",
+        "numeroEndereco": "586",
+        "complementoEndereco": "",
+        "bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
+        "cidade": "BRASILIA",
+        "estado": "DF",
+        "logradouro": "SHIS QI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 95991192524.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

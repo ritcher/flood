@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "82982218149",
+        "nomeCompleto": "FERNANDO MARCOS DOS SANTOS",
+        "cpf": "12200942427",
+        "telefoneContato": "",
+        "dataNascimento": "03/01/1997",
+        "nomeMae": "ANA MARIA DOS SANTOS",
+        "email": "meninodasfull@gmail.com",
+        "cep": "57230000",
+        "endereco": "RUA DO CEMITERIO",
+        "numeroEndereco": "195",
+        "complementoEndereco": "",
+        "bairro": "CORURIPE",
+        "cidade": "CORURIPE",
+        "estado": "AL",
+        "logradouro": "DO CEMITERIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 82982218149.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

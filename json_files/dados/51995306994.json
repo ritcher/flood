@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51995306994",
+        "nomeCompleto": "VANDA NUNES DORNELES",
+        "cpf": "01415707090",
+        "telefoneContato": "",
+        "dataNascimento": "12/01/1976",
+        "nomeMae": null,
+        "email": null,
+        "cep": "96610000",
+        "endereco": "RUA TOMAS FLORES",
+        "numeroEndereco": "1969",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ENCRUZILHADA DO SUL",
+        "estado": "rs",
+        "logradouro": "TOMAS FLORES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51995306994.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6b05d682-23e1-4866-8696-2d5ae8d6e38e",
+    "data": {
+        "linha": "93991255199",
+        "nomeCompleto": "JOSE CARLOS MARREIRO COSTA",
+        "cpf": "03519266237",
+        "telefoneContato": "",
+        "dataNascimento": "24/02/1976",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68200000",
+        "endereco": "RUA ANTONIO L B MONTEIRO",
+        "numeroEndereco": "160",
+        "complementoEndereco": "",
+        "bairro": "ESPERANCA DOIS",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "ANTONIO L B MONTEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991255199.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

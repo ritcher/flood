@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a1cc64aa-ceb2-432b-a0d5-1b9ef6b08c5e",
+    "data": {
+        "linha": "88981336791",
+        "nomeCompleto": "FRANCISCO EDSON ALBUQUERQUE VITAL",
+        "cpf": "62408251311",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": null,
+        "cep": "61645210",
+        "endereco": "Rua RUA MOZART PINTO",
+        "numeroEndereco": "1368",
+        "complementoEndereco": "",
+        "bairro": "PARQUE ALBANO",
+        "cidade": "CAUCAIA",
+        "estado": "CE",
+        "logradouro": "RUA MOZART PINTO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981336791.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=3757a24e-5dd5-4ea6-89be-ecfa80000160",
+    "data": {
+        "linha": "86981536721",
+        "nomeCompleto": "ROSILENE MENDES DA SILVA",
+        "cpf": "03753643319",
+        "telefoneContato": "",
+        "dataNascimento": "26/12/1981",
+        "nomeMae": "MARIA DOMINGAS MENDES DA SILVA",
+        "email": null,
+        "cep": "64100000",
+        "endereco": "RUA  SIMAOZINHO 471",
+        "numeroEndereco": "471",
+        "complementoEndereco": "",
+        "bairro": "B URBANO",
+        "cidade": "BARRAS",
+        "estado": "PI",
+        "logradouro": " SIMAOZINHO 471",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 86981536721.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

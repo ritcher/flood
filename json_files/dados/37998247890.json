@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=5e249652-bb3e-46d2-bfe5-d15c8f654c3e",
+    "data": {
+        "linha": "37998247890",
+        "nomeCompleto": "CLEONICE CANDIDA DE JESUS",
+        "cpf": "09310653647",
+        "telefoneContato": "",
+        "dataNascimento": "04/10/1982",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "35534000",
+        "endereco": "R 13 DE MAIO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "AMARAL",
+        "cidade": "CARMOPOLIS DE MINAS",
+        "estado": "MG",
+        "logradouro": "13 DE MAIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37998247890.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

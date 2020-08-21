@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f1828bba-024b-416f-a2f2-873d0988271b",
+    "data": {
+        "linha": "96991757400",
+        "nomeCompleto": "ana patricia brito silveira",
+        "cpf": "01649496230",
+        "telefoneContato": "",
+        "dataNascimento": "16/11/1987",
+        "nomeMae": "angelica brito silveira",
+        "email": "jw65m3t5zljsyhp@gmail.com",
+        "cep": "68928072",
+        "endereco": "RUA PRES MARECHAL DEODORO DA FONSECA 1058 C",
+        "numeroEndereco": "1058",
+        "complementoEndereco": "",
+        "bairro": "PARAISO",
+        "cidade": "SANTANA",
+        "estado": "AP",
+        "logradouro": "PRES MARECHAL DEODORO DA FONSECA 1058 C",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 96991757400.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

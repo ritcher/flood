@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21995790565",
+        "nomeCompleto": "RAFAEL FONTINELIO SILVA",
+        "cpf": "08782593760",
+        "telefoneContato": "",
+        "dataNascimento": "24/10/1980",
+        "nomeMae": "JOAQUINA FONTINELIO",
+        "email": "valsousaap001@gmail.com",
+        "cep": "21941480",
+        "endereco": " EST DAS CANARIAS",
+        "numeroEndereco": "1242",
+        "complementoEndereco": "",
+        "bairro": "GALEAO",
+        "cidade": "RIO DE JANEIRO",
+        "estado": "RJ",
+        "logradouro": "EST DAS CANARIAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21995790565.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

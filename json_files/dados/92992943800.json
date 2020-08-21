@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992943800",
+        "nomeCompleto": "ROBERT HANNES BATISTA DA SILVA",
+        "cpf": "01196364257",
+        "telefoneContato": "",
+        "dataNascimento": "19/04/1996",
+        "nomeMae": "maria batista da silva ",
+        "email": null,
+        "cep": "36680000",
+        "endereco": "RUA 16 DE MAIO",
+        "numeroEndereco": "150",
+        "complementoEndereco": "",
+        "bairro": "SAO JOSE",
+        "cidade": "S JOAO NEPOMUCENO",
+        "estado": "MG",
+        "logradouro": "16 DE MAIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992943800.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

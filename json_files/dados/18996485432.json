@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18996485432",
+        "nomeCompleto": "VLADIMIR BENVINDO DA COSTA",
+        "cpf": "43180866829",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "16905210",
+        "endereco": "Rua RUA JOSE LOPES DE OLIVEIRA",
+        "numeroEndereco": "1913",
+        "complementoEndereco": "",
+        "bairro": "VILA MESSIAS",
+        "cidade": "ANDRADINA",
+        "estado": "sp",
+        "logradouro": "RUA JOSE LOPES DE OLIVEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18996485432.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

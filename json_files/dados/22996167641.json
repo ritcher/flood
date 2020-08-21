@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "22996167641",
+        "nomeCompleto": "LUIZ MIRANDA SILVA",
+        "cpf": "47199847033",
+        "telefoneContato": "",
+        "dataNascimento": "19/02/1985",
+        "nomeMae": "Fabiola Paula ",
+        "email": "hnvghvcgel@gmail.com",
+        "cep": "28110000",
+        "endereco": " 1",
+        "numeroEndereco": "44",
+        "complementoEndereco": "",
+        "bairro": "SANTOS PRAZERES",
+        "cidade": "CAMPOS DOS GOYTACAZES",
+        "estado": "RJ",
+        "logradouro": "1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 22996167641.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

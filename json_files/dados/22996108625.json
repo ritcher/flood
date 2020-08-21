@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "22996108625",
+        "nomeCompleto": "ISABELA CARLA SILVA DO NASCIMENTO",
+        "cpf": "09436241429",
+        "telefoneContato": "",
+        "dataNascimento": "19/05/2001",
+        "nomeMae": "ISABEL CRISTINA FERREIRA DA SILVA",
+        "email": null,
+        "cep": "58407098",
+        "endereco": "RUA  ZUMBA MONTEIRO 106 CS",
+        "numeroEndereco": "106",
+        "complementoEndereco": "",
+        "bairro": "MTE CASTELO",
+        "cidade": "CAMPINA GRANDE",
+        "estado": "PB",
+        "logradouro": " ZUMBA MONTEIRO 106 CS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 22996108625.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

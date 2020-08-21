@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991977766",
+        "nomeCompleto": "RENAN MONTEIRO DA SILVA",
+        "cpf": "92881130291",
+        "telefoneContato": "",
+        "dataNascimento": "04/12/1988",
+        "nomeMae": null,
+        "email": "sene.amilton23@gmail.com",
+        "cep": "03047000",
+        "endereco": " 21 DE ABRIL",
+        "numeroEndereco": "923",
+        "complementoEndereco": "",
+        "bairro": "BRAS",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "21 DE ABRIL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991977766.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

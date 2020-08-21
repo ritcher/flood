@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "61999684857",
+        "nomeCompleto": "FRANCISCO DE ASSIS BARBOSA GABRIEL",
+        "cpf": "01014879167",
+        "telefoneContato": "",
+        "dataNascimento": "01/08/1983",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "29150545",
+        "endereco": "RUA SEN EURICO RESENDE",
+        "numeroEndereco": "20",
+        "complementoEndereco": "",
+        "bairro": "ORIENTE",
+        "cidade": "CARIACICA",
+        "estado": "es",
+        "logradouro": "SEN EURICO RESENDE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61999684857.",
+    "currentPlan": {
+        "code": "TCOPREDIAR3GSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": null,
+        "platform": null,
+        "partnerBrandData": null,
+        "loyalty": null
+    }
+}

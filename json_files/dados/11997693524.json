@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11997693524",
+        "nomeCompleto": "MARCELO FERNANDES DA SILVA",
+        "cpf": "17754040808",
+        "telefoneContato": "",
+        "dataNascimento": "05/09/1976",
+        "nomeMae": "maria",
+        "email": "marjusmarmjm@hotmail.com",
+        "cep": "06602395",
+        "endereco": "PRACA ISAAC ELIAS",
+        "numeroEndereco": "22",
+        "complementoEndereco": "",
+        "bairro": "JARDIM PATRIARCA",
+        "cidade": "JANDIRA",
+        "estado": "SP",
+        "logradouro": "ISAAC ELIAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11997693524.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

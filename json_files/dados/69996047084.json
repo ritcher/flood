@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69996047084",
+        "nomeCompleto": "LEONARDO BONIFACIO DOS SANTOS",
+        "cpf": "38446472791",
+        "telefoneContato": "",
+        "dataNascimento": "06/11/1951",
+        "nomeMae": null,
+        "email": null,
+        "cep": "23098006",
+        "endereco": "Rua EST SETE RIACHOS",
+        "numeroEndereco": "1821",
+        "complementoEndereco": "",
+        "bairro": "SANTISSIMO",
+        "cidade": "RIO DE JANEIRO",
+        "estado": "Rj",
+        "logradouro": "EST SETE RIACHOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69996047084.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

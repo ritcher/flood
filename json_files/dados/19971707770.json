@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "19971707770",
+        "nomeCompleto": "JOSE PEREIRA DO NASCIMENTO",
+        "cpf": "82875553968",
+        "telefoneContato": "",
+        "dataNascimento": "20/08/1971",
+        "nomeMae": "maria pereira do nascimento",
+        "email": null,
+        "cep": "13059685",
+        "endereco": "RUA CAIO GRACO PRADO",
+        "numeroEndereco": "27",
+        "complementoEndereco": "",
+        "bairro": "CIDADE SATELITE IRIS",
+        "cidade": "CAMPINAS",
+        "estado": "SP",
+        "logradouro": "CAIO GRACO PRADO",
+        "contaDigital": true,
+        "vencimentoFatura": "17",
+        "ciclo": "01",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19971707770.",
+    "currentPlan": {
+        "code": "VIVOCTRLF25N",
+        "price": 39.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIG-2GB_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "92993546022",
+        "nomeCompleto": "JESUINO ALMEIDA DOS SANTOS",
+        "cpf": "33657017291",
+        "telefoneContato": "",
+        "dataNascimento": "09/11/1961",
+        "nomeMae": null,
+        "email": "jesuino.almeida50@gmail.com",
+        "cep": "69008066",
+        "endereco": " GUILHERME ALEXANDRE",
+        "numeroEndereco": "BL/23",
+        "complementoEndereco": "",
+        "bairro": "COLONIA ANTONIO ALEIXO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "GUILHERME ALEXANDRE",
+        "contaDigital": true,
+        "vencimentoFatura": "10",
+        "ciclo": "25",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993546022.",
+    "currentPlan": {
+        "code": "VIVOCTRLF47N",
+        "price": 34.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL 3GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

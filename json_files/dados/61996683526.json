@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "61996683526",
+        "nomeCompleto": "GESSICA LORRANNY SOUZA CRUZ",
+        "cpf": "08719671547",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "72320001",
+        "endereco": "QUADRA QR 410 CONJUNTO 01 LOTE",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "SAMAMBAIA NORTE",
+        "cidade": "BRASILIA",
+        "estado": "DF",
+        "logradouro": "QR 410 CONJUNTO 01 LOTE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61996683526.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

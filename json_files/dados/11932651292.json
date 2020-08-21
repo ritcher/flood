@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11932651292",
+        "nomeCompleto": "LUIZ RICARDO NOGALIS DE CARVALHO",
+        "cpf": "37553206814",
+        "telefoneContato": "",
+        "dataNascimento": "19/05/1987",
+        "nomeMae": "CEUMA NOGALIS ALVES DE CARVALHO",
+        "email": null,
+        "cep": "69095035",
+        "endereco": "RUA FENIX",
+        "numeroEndereco": "2",
+        "complementoEndereco": "",
+        "bairro": "CIDADE NOVA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "FENIX",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11932651292.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

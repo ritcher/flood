@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "35999560543",
+        "nomeCompleto": "ANA EDNALVA DOS SANTOS",
+        "cpf": "01622619773",
+        "telefoneContato": "",
+        "dataNascimento": "26/12/1965",
+        "nomeMae": null,
+        "email": null,
+        "cep": "23895190",
+        "endereco": "TRAVESSA ABGAIL VICENTE DE LIMA",
+        "numeroEndereco": "36",
+        "complementoEndereco": "",
+        "bairro": "FAZ CAXIAS",
+        "cidade": "SEROPEDICA",
+        "estado": "Rj",
+        "logradouro": "ABGAIL VICENTE DE LIMA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 35999560543.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

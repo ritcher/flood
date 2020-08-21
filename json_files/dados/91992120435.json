@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992120435",
+        "nomeCompleto": "JESSICA LAMEGO DE FREITAS",
+        "cpf": "03613768208",
+        "telefoneContato": "",
+        "dataNascimento": "22/08/1998",
+        "nomeMae": "SELMA DOS SANTOS LAMEGO",
+        "email": null,
+        "cep": "66910370",
+        "endereco": "Rua RUA JUVENCIO SILVA",
+        "numeroEndereco": "23",
+        "complementoEndereco": "",
+        "bairro": "VILA",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "RUA JUVENCIO SILVA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992120435.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

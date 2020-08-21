@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=648546e1-5c6c-46e0-932e-bb794c8cab7f",
+    "data": {
+        "linha": "38997428875",
+        "nomeCompleto": "GABRIEL DOS SANTOS CARDOSO",
+        "cpf": "16830959608",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": null,
+        "cep": "30120080",
+        "endereco": "Rua RUA DOS CAETES",
+        "numeroEndereco": "530",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "BELO HORIZONTE",
+        "estado": "mg",
+        "logradouro": "RUA DOS CAETES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38997428875.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

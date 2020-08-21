@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "62996189874",
+        "nomeCompleto": "CAIO DE ALMEIDA ALVES",
+        "cpf": "70848730151",
+        "telefoneContato": "",
+        "dataNascimento": "09/07/2001",
+        "nomeMae": null,
+        "email": null,
+        "cep": "24310340",
+        "endereco": "EST FRANCISCO DA CRUZ NUNES",
+        "numeroEndereco": "72",
+        "complementoEndereco": "",
+        "bairro": "PENDOTIBA",
+        "cidade": "NITEROI",
+        "estado": "RJ",
+        "logradouro": "FRANCISCO DA CRUZ NUNES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 62996189874.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

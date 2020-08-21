@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "35997140957",
+        "nomeCompleto": "CARLOS VITOR MATA DE JESUS",
+        "cpf": "15026220681",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "37948000",
+        "endereco": "Rua RUA PREFEITO JOAO SILVA",
+        "numeroEndereco": "566",
+        "complementoEndereco": "",
+        "bairro": "NOSSA SENHORA APARECIDA",
+        "cidade": "BOM JESUS DA PENHA",
+        "estado": "mg",
+        "logradouro": "RUA PREFEITO JOAO SILVA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 35997140957.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=aa1bed29-6b64-40d0-999a-aff43b82ffb0",
+    "data": {
+        "linha": "38998231309",
+        "nomeCompleto": "JOSE ALVES DA SILVA",
+        "cpf": "08432331686",
+        "telefoneContato": "",
+        "dataNascimento": "04/10/1987",
+        "nomeMae": null,
+        "email": null,
+        "cep": "38730000",
+        "endereco": "RUA ESPIRITO SANTO",
+        "numeroEndereco": "6",
+        "complementoEndereco": "",
+        "bairro": "VARJAO",
+        "cidade": "GUIMARANIA",
+        "estado": "mg",
+        "logradouro": "ESPIRITO SANTO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38998231309.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

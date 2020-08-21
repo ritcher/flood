@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c7038e7c-9160-4f03-bf7c-ce908f7faf55",
+    "data": {
+        "linha": "93991221655",
+        "nomeCompleto": "JUSCELINO OLIVEIRA DOS SANTOS",
+        "cpf": "69437963215",
+        "telefoneContato": "",
+        "dataNascimento": "13/11/1975",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68200000",
+        "endereco": "Rua EST DA PRAIA LUIZ QUEZA",
+        "numeroEndereco": "25",
+        "complementoEndereco": "",
+        "bairro": "INDEPENDENCIA",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "EST DA PRAIA LUIZ QUEZA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991221655.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

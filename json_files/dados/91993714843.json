@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993714843",
+        "nomeCompleto": "JOAO VICTOR SOUSA REIS",
+        "cpf": "86588303220",
+        "telefoneContato": "",
+        "dataNascimento": "18/04/2001",
+        "nomeMae": "ELIENE MAGALHAES ALVES SOUSA",
+        "email": null,
+        "cep": "66065330",
+        "endereco": "Rua PSG STA HELENA 78",
+        "numeroEndereco": "78",
+        "complementoEndereco": "",
+        "bairro": "GUAMA",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "PSG STA HELENA 78",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993714843.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

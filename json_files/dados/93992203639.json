@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=aec9757b-f648-479c-86a0-0a4906d8f22c",
+    "data": {
+        "linha": "93992203639",
+        "nomeCompleto": "SUELY DA SILVA GALUCIO",
+        "cpf": "04124325282",
+        "telefoneContato": "",
+        "dataNascimento": "14/06/1999",
+        "nomeMae": "N\u00e3o Informado",
+        "email": null,
+        "cep": "69027660",
+        "endereco": "RUA PRIMEIRO DE MAIO",
+        "numeroEndereco": "552",
+        "complementoEndereco": "",
+        "bairro": "GLORIA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "PRIMEIRO DE MAIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992203639.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

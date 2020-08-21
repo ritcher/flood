@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9e531158-406e-4b87-a28a-caf0baa98931",
+    "data": {
+        "linha": "94991231750",
+        "nomeCompleto": "SANTIAGO SOUSA COSTA",
+        "cpf": "06021950208",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68556409",
+        "endereco": "Rua RUA OURO E PRATA",
+        "numeroEndereco": "996",
+        "complementoEndereco": "",
+        "bairro": "SETOR NOVO HORIZONTE",
+        "cidade": "XINGUARA",
+        "estado": "PA",
+        "logradouro": "RUA OURO E PRATA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991231750.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

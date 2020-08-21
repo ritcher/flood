@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c410ed7a-33b8-4603-bf4f-3650da676dd2",
+    "data": {
+        "linha": "33999097593",
+        "nomeCompleto": "JOSE MESSIAS DOS SANTOS",
+        "cpf": "07046043612",
+        "telefoneContato": "",
+        "dataNascimento": "13/10/1977",
+        "nomeMae": null,
+        "email": null,
+        "cep": "39855000",
+        "endereco": "Rua CRG QUEIXADA I",
+        "numeroEndereco": "1",
+        "complementoEndereco": "",
+        "bairro": "MGT RODOVIA",
+        "cidade": "OURO VERDE DE MINAS",
+        "estado": "mg",
+        "logradouro": "CRG QUEIXADA I",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999097593.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

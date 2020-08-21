@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=d0486851-2965-4b8f-af1f-8851f6e4a5fd",
+    "data": {
+        "linha": "37999287730",
+        "nomeCompleto": "taliza candida ferreira de andrade",
+        "cpf": "70570589690",
+        "telefoneContato": "",
+        "dataNascimento": "11/07/2002",
+        "nomeMae": null,
+        "email": null,
+        "cep": "35540000",
+        "endereco": " ANTONIO CINCO",
+        "numeroEndereco": "95",
+        "complementoEndereco": "",
+        "bairro": "SAO SEBASTIAO",
+        "cidade": "OLIVEIRA",
+        "estado": "MG",
+        "logradouro": "ANTONIO CINCO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37999287730.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

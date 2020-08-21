@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=10fa4ac3-2800-4c9a-acbb-ad9750fa87f7",
+    "data": {
+        "linha": "99991725609",
+        "nomeCompleto": "JOSINETE DOS SANTOS",
+        "cpf": "84463945534",
+        "telefoneContato": "",
+        "dataNascimento": "13/08/1981",
+        "nomeMae": "MIGUELZINA DOS SANTOS",
+        "email": null,
+        "cep": "44470000",
+        "endereco": "RUA  DIRETA PRAIA 43",
+        "numeroEndereco": "43",
+        "complementoEndereco": "",
+        "bairro": "BERLINQUE",
+        "cidade": "VERA CRUZ",
+        "estado": "BA",
+        "logradouro": " DIRETA PRAIA 43",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99991725609.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

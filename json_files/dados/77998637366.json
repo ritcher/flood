@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=153b487a-0e03-4cce-85f4-4858db75c76b",
+    "data": {
+        "linha": "77998637366",
+        "nomeCompleto": "MARIA EMILIA GOMES DE ALMEIDA SANTOS",
+        "cpf": "00988380595",
+        "telefoneContato": "",
+        "dataNascimento": "20/03/1972",
+        "nomeMae": null,
+        "email": null,
+        "cep": "47160000",
+        "endereco": "RUA MANOEL NUNES DA ROCHA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MANSIDAO",
+        "estado": "BA",
+        "logradouro": "MANOEL NUNES DA ROCHA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77998637366.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

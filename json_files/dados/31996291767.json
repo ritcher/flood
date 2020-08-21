@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "31996291767",
+        "nomeCompleto": "MANOEL PEREIRA ROSA",
+        "cpf": "73386570682",
+        "telefoneContato": "",
+        "dataNascimento": "30/07/1969",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "32044268",
+        "endereco": " RUA DA PAZ",
+        "numeroEndereco": "77",
+        "complementoEndereco": "",
+        "bairro": "COLONIAL",
+        "cidade": "CONTAGEM",
+        "estado": "MG",
+        "logradouro": "RUA DA PAZ",
+        "contaDigital": true,
+        "vencimentoFatura": "17",
+        "ciclo": "01",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31996291767.",
+    "currentPlan": {
+        "code": "VIVOCTRLF35N",
+        "price": 44.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-2,5GB_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

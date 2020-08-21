@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992519781",
+        "nomeCompleto": "JESSICA DA COSTA NASCIMENTO",
+        "cpf": "00028232259",
+        "telefoneContato": "",
+        "dataNascimento": "19/03/1990",
+        "nomeMae": "WANDA DO SOCORRO DA COSTA NASCIMENTO",
+        "email": null,
+        "cep": "36108000",
+        "endereco": "RUA  DA MARGEM CENTRAL 1",
+        "numeroEndereco": "1",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "EWBANK DA CAMARA",
+        "estado": "mg",
+        "logradouro": " DA MARGEM CENTRAL 1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992519781.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11932486712",
+        "nomeCompleto": "PAULO CESAR RODRIGUES DE ARAUJO",
+        "cpf": "29838739863",
+        "telefoneContato": "",
+        "dataNascimento": "05/09/1980",
+        "nomeMae": null,
+        "email": null,
+        "cep": "06609350",
+        "endereco": "RUA  VALDOMIRO ALVES DA SILVA 236 1",
+        "numeroEndereco": "236",
+        "complementoEndereco": "",
+        "bairro": "JD MARILIA",
+        "cidade": "JANDIRA",
+        "estado": "sp",
+        "logradouro": " VALDOMIRO ALVES DA SILVA 236 1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11932486712.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

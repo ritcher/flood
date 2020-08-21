@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994066911",
+        "nomeCompleto": "NARIANA MAGALH\u00c3ES RIBEIRO ",
+        "cpf": "02382414243",
+        "telefoneContato": "",
+        "dataNascimento": "09/10/1992",
+        "nomeMae": "NAZIA COSTA MAGALH\u00c3ES",
+        "email": "narianasilvaribeiro@gmail.com",
+        "cep": "64030380",
+        "endereco": " E",
+        "numeroEndereco": "450",
+        "complementoEndereco": "",
+        "bairro": "BELA VISTA",
+        "cidade": "TERESINA",
+        "estado": "PI",
+        "logradouro": "E",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994066911.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

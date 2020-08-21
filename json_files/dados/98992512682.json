@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c969d1fe-0ae6-443b-83c4-12deb9295df7",
+    "data": {
+        "linha": "98992512682",
+        "nomeCompleto": "WILDON SEREJO DA CUNHA",
+        "cpf": "74796135391",
+        "telefoneContato": "",
+        "dataNascimento": "29/11/1975",
+        "nomeMae": "MARIA JOSE SEREJO",
+        "email": "megashow15312ptsdb@gmail.com",
+        "cep": "65058288",
+        "endereco": " 02",
+        "numeroEndereco": "58",
+        "complementoEndereco": "",
+        "bairro": "JARDIM AMERICA",
+        "cidade": "S LUIS",
+        "estado": "MA",
+        "logradouro": "02",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98992512682.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

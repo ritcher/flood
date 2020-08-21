@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1b38dbef-5117-4839-a7fb-1e84f0e78520",
+    "data": {
+        "linha": "99991096754",
+        "nomeCompleto": "JOAO ALEXANDRE LIMA MOURAO",
+        "cpf": "93815921368",
+        "telefoneContato": "",
+        "dataNascimento": "16/09/1980",
+        "nomeMae": null,
+        "email": null,
+        "cep": "65900480",
+        "endereco": "RUA Y",
+        "numeroEndereco": "626",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "IMPERATRIZ",
+        "estado": "MA",
+        "logradouro": "Y",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99991096754.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993901013",
+        "nomeCompleto": "EDIPO BATISTA DE SOUZA",
+        "cpf": "00883934299",
+        "telefoneContato": "",
+        "dataNascimento": "26/03/1989",
+        "nomeMae": "GRACIANDA SEIXAS BATISTA",
+        "email": null,
+        "cep": "69097035",
+        "endereco": "RUA PEDRA GRANDE",
+        "numeroEndereco": "29",
+        "complementoEndereco": "",
+        "bairro": "NOVA CIDADE",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "PEDRA GRANDE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993901013.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

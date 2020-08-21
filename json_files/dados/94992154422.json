@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=edd59ca3-7807-4f76-9b46-d6f771caa178",
+    "data": {
+        "linha": "94992154422",
+        "nomeCompleto": "KARLEON FARIA DE MORAIS",
+        "cpf": "93184026191",
+        "telefoneContato": "",
+        "dataNascimento": "13/06/1972",
+        "nomeMae": "IDENI DAS GRACAS DE FARIA",
+        "email": null,
+        "cep": "78645000",
+        "endereco": "RUA SETONORTE",
+        "numeroEndereco": "190",
+        "complementoEndereco": "",
+        "bairro": "SETOR NORTE",
+        "cidade": "VILA RICA",
+        "estado": "MT",
+        "logradouro": "SETONORTE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992154422.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

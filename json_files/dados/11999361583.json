@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11999361583",
+        "nomeCompleto": "ELCE FREITAS CAVALCANTE ",
+        "cpf": "46631747520",
+        "telefoneContato": "",
+        "dataNascimento": "03/01/1965",
+        "nomeMae": null,
+        "email": null,
+        "cep": "08081040",
+        "endereco": "RUA ASCENSO FERNANDES",
+        "numeroEndereco": "818",
+        "complementoEndereco": "",
+        "bairro": "PARQUE PAULISTANO",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "ASCENSO FERNANDES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11999361583.",
+    "currentPlan": {
+        "code": "VIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Vivo Toda Hora",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

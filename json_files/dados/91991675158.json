@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991675158",
+        "nomeCompleto": "HEITOR LU\u00edS DIAS",
+        "cpf": "70527647411",
+        "telefoneContato": "",
+        "dataNascimento": "14/03/1995",
+        "nomeMae": null,
+        "email": "gksjwhdbsb@gmail.com",
+        "cep": "68630794",
+        "endereco": " VALDEMIR AMORIM",
+        "numeroEndereco": "26",
+        "complementoEndereco": "",
+        "bairro": "URAIM",
+        "cidade": "PARAGOMINAS",
+        "estado": "PA",
+        "logradouro": "VALDEMIR AMORIM",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991675158.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

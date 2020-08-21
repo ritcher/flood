@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991631946",
+        "nomeCompleto": "AMADEU DA SILVA CARDOSO",
+        "cpf": "69376808215",
+        "telefoneContato": "",
+        "dataNascimento": "18/04/1959",
+        "nomeMae": " AMADEU DA SILVA CARDOSO",
+        "email": "smrenxdtqyqosjd@telegmail.com",
+        "cep": "68400000",
+        "endereco": "RUA 24 DE DEZEMBRO",
+        "numeroEndereco": "3161",
+        "complementoEndereco": "",
+        "bairro": "NOVA CAMETA",
+        "cidade": "CAMETA",
+        "estado": "PA",
+        "logradouro": "24 DE DEZEMBRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991631946.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

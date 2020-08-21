@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0633721a-2eb0-46fe-b8da-591e2a343e12",
+    "data": {
+        "linha": "94992702587",
+        "nomeCompleto": "UESLEI FERREIRA DOS SANTOS",
+        "cpf": "96851120291",
+        "telefoneContato": "",
+        "dataNascimento": "20/05/1983",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68514300",
+        "endereco": "RUA SENA",
+        "numeroEndereco": "3",
+        "complementoEndereco": "",
+        "bairro": "MORADA NOVA",
+        "cidade": "MARABA",
+        "estado": "PA",
+        "logradouro": "SENA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992702587.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "62998516507",
+        "nomeCompleto": "RONALDO FERREIRA DA CONCEICAO",
+        "cpf": "04134368103",
+        "telefoneContato": "",
+        "dataNascimento": "21/07/1992",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "71919180",
+        "endereco": " RUA 36 NORTE",
+        "numeroEndereco": "1",
+        "complementoEndereco": "",
+        "bairro": "NORTE (AGUAS CLARAS)",
+        "cidade": "BRASILIA",
+        "estado": "DF",
+        "logradouro": "RUA 36 NORTE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 62998516507.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

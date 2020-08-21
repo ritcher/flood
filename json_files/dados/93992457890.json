@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=57f3d5e6-3c00-4fd7-849a-a114b33f9cdf",
+    "data": {
+        "linha": "93992457890",
+        "nomeCompleto": "LEONARDO FERRO DA SILVA",
+        "cpf": "02043596276",
+        "telefoneContato": "",
+        "dataNascimento": "20/10/1989",
+        "nomeMae": null,
+        "email": null,
+        "cep": "78550228",
+        "endereco": "Rua GOV JULIO CAMPOS",
+        "numeroEndereco": "731",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SINOP",
+        "estado": "MT",
+        "logradouro": "GOV JULIO CAMPOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992457890.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

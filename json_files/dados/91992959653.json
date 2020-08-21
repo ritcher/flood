@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992959653",
+        "nomeCompleto": "J\u00faNIOR SILVA",
+        "cpf": "01817415638",
+        "telefoneContato": "",
+        "dataNascimento": "22/05/1988",
+        "nomeMae": null,
+        "email": "vini2034@gmail.com",
+        "cep": "15150000",
+        "endereco": " 1 DAMHA",
+        "numeroEndereco": "3456",
+        "complementoEndereco": "",
+        "bairro": "COND VILLAGE II",
+        "cidade": "MONTE APRAZIVEL",
+        "estado": "SP",
+        "logradouro": "1 DAMHA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992959653.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

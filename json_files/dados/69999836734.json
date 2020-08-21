@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999836734",
+        "nomeCompleto": "ROSIANE TEIXEIRA BARBOSA",
+        "cpf": "74470060259",
+        "telefoneContato": "",
+        "dataNascimento": "24/02/1987",
+        "nomeMae": null,
+        "email": null,
+        "cep": "76805696",
+        "endereco": "Rua EST STO ANTONIO",
+        "numeroEndereco": "523",
+        "complementoEndereco": "",
+        "bairro": "TRIANGULO",
+        "cidade": "PORTO VELHO",
+        "estado": "RO",
+        "logradouro": "EST STO ANTONIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999836734.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11934433253",
+        "nomeCompleto": "ANDRE RABELO PEREIRA",
+        "cpf": "05392546307",
+        "telefoneContato": "",
+        "dataNascimento": "19/07/1991",
+        "nomeMae": "MARIA IVONETE RABELO",
+        "email": "rabeloandre30@gmail.com",
+        "cep": "44470000",
+        "endereco": "RUA  DIRETA PRAIA 43",
+        "numeroEndereco": "43",
+        "complementoEndereco": "",
+        "bairro": "BERLINQUE",
+        "cidade": "VERA CRUZ",
+        "estado": "BA",
+        "logradouro": " DIRETA PRAIA 43",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11934433253.",
+    "currentPlan": {
+        "code": "VIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Vivo Toda Hora",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

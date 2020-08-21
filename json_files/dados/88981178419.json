@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=688398fe-eb8a-4cb3-8d6d-493f4fe0444b",
+    "data": {
+        "linha": "88981178419",
+        "nomeCompleto": "CICERO VICENTE DOS SANTOS",
+        "cpf": "05350386310",
+        "telefoneContato": "",
+        "dataNascimento": "04/09/1970",
+        "nomeMae": null,
+        "email": "zcdnwy8c331k2gv@gmail.com",
+        "cep": "63290000",
+        "endereco": "SETOR SERRA BOA VISTA",
+        "numeroEndereco": "695",
+        "complementoEndereco": "",
+        "bairro": "NORTE",
+        "cidade": "JARDIM",
+        "estado": "CE",
+        "logradouro": "SERRA BOA VISTA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981178419.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18996786859",
+        "nomeCompleto": "ANSELMO DE POLI",
+        "cpf": "80366783815",
+        "telefoneContato": "",
+        "dataNascimento": "27/09/1952",
+        "nomeMae": null,
+        "email": null,
+        "cep": "40760620",
+        "endereco": " 14 DE JULHO",
+        "numeroEndereco": "65",
+        "complementoEndereco": "",
+        "bairro": "COUTOS",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "14 DE JULHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18996786859.",
+    "currentPlan": {
+        "code": "VIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Vivo Toda Hora",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

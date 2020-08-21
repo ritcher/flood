@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11934295864",
+        "nomeCompleto": "JULIO CESAR DE PONTES ASSIS",
+        "cpf": "34463187800",
+        "telefoneContato": "",
+        "dataNascimento": "15/07/1985",
+        "nomeMae": null,
+        "email": "maximuspizzataubate@gmail.com",
+        "cep": "12285440",
+        "endereco": "RUA DIRCEU DE OLIVEIRA LEITE",
+        "numeroEndereco": "213",
+        "complementoEndereco": "",
+        "bairro": "RES ESPERANCA",
+        "cidade": "CACAPAVA",
+        "estado": "sp",
+        "logradouro": "DIRCEU DE OLIVEIRA LEITE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11934295864.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=367a28b5-f422-4761-9176-bb8fd96e4419",
+    "data": {
+        "linha": "33999956150",
+        "nomeCompleto": "CAIO ANIZIO GOMES",
+        "cpf": "10280204655",
+        "telefoneContato": "",
+        "dataNascimento": "12/06/1998",
+        "nomeMae": "LUCIANE GOMES DA SILVA",
+        "email": null,
+        "cep": "35052858",
+        "endereco": "Rua RUA LAGOA DA PRATA",
+        "numeroEndereco": "143",
+        "complementoEndereco": "",
+        "bairro": "TURMALINA",
+        "cidade": "GOVERNADOR VALADARES",
+        "estado": "mg",
+        "logradouro": "RUA LAGOA DA PRATA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999956150.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

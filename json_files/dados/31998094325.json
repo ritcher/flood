@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31998094325",
+        "nomeCompleto": "CECILIA RICARDINA MARQUES DINIZ",
+        "cpf": "33833052600",
+        "telefoneContato": "",
+        "dataNascimento": "09/08/1954",
+        "nomeMae": "MARIA PEREIRA MARQUES",
+        "email": null,
+        "cep": "35732000",
+        "endereco": " OLARIA",
+        "numeroEndereco": "352",
+        "complementoEndereco": "",
+        "bairro": "",
+        "cidade": "BALDIM",
+        "estado": "MG",
+        "logradouro": "OLARIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31998094325.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

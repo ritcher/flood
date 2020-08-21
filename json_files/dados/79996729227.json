@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b5d4d904-6d6b-4176-ab02-9720dcf20199",
+    "data": {
+        "linha": "79996729227",
+        "nomeCompleto": "JAIR DE JESUS SANTOS FILHO",
+        "cpf": "86200137501",
+        "telefoneContato": "",
+        "dataNascimento": "14/04/2000",
+        "nomeMae": null,
+        "email": "jairmesquitajr@gmail.com",
+        "cep": "49160000",
+        "endereco": "AVENIDA PRINCIPAL",
+        "numeroEndereco": "11",
+        "complementoEndereco": "",
+        "bairro": "TAICOCA",
+        "cidade": "NOSSA SENHORA DO SOCORRO",
+        "estado": "SE",
+        "logradouro": "PRINCIPAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79996729227.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

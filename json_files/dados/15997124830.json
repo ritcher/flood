@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15997124830",
+        "nomeCompleto": "MARIA MADALENA CORREIA DA SILVA",
+        "cpf": "05177255840",
+        "telefoneContato": "",
+        "dataNascimento": "09/10/1960",
+        "nomeMae": null,
+        "email": null,
+        "cep": "40000000",
+        "endereco": "AV AMOEDO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CAMPINAS DE PIRAJA",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "AMOEDO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15997124830.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

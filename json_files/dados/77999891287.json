@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=118cfb15-ea01-4dd5-afb0-cc9564f1d2c1",
+    "data": {
+        "linha": "77999891287",
+        "nomeCompleto": "IVONETE LOPES DE ALMEIDA",
+        "cpf": "43562469500",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "47530000",
+        "endereco": "Rua RUA RUI BARBOSA",
+        "numeroEndereco": "30",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "OLIVEIRA DOS BREJINHOS",
+        "estado": "BA",
+        "logradouro": "RUA RUI BARBOSA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77999891287.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

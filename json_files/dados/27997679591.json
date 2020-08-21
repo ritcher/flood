@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27997679591",
+        "nomeCompleto": "ADRIANO NOVAIS",
+        "cpf": "16436872710",
+        "telefoneContato": "",
+        "dataNascimento": "27/11/1995",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "29177357",
+        "endereco": "RUA DEZESSETE",
+        "numeroEndereco": "228",
+        "complementoEndereco": "",
+        "bairro": "JARDIM BELA VISTA",
+        "cidade": "SERRA",
+        "estado": "ES",
+        "logradouro": "DEZESSETE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27997679591.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

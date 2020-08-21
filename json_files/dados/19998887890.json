@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "19998887890",
+        "nomeCompleto": "ENEIAS JORGE ARAUJO",
+        "cpf": "12371797855",
+        "telefoneContato": "",
+        "dataNascimento": "05/08/1970",
+        "nomeMae": null,
+        "email": null,
+        "cep": "13502150",
+        "endereco": "RUA 10 JP",
+        "numeroEndereco": "1535",
+        "complementoEndereco": "",
+        "bairro": "JD RES DAS PALMEIRAS",
+        "cidade": "R CLARO",
+        "estado": "SP",
+        "logradouro": "10 JP",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19998887890.",
+    "currentPlan": {
+        "code": "VIVOCTRLF27N",
+        "price": 54.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-3GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992816940",
+        "nomeCompleto": "PRISCILA DE SOUZA",
+        "cpf": "21804236837",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1978",
+        "nomeMae": null,
+        "email": "priscila-mira@hotmail.com",
+        "cep": "06767281",
+        "endereco": "Rua EST BENEDITO CEZARIO DE OLIVEI",
+        "numeroEndereco": "1323",
+        "complementoEndereco": "",
+        "bairro": "JD RECORD",
+        "cidade": "TABOAO DA SERRA",
+        "estado": "sp",
+        "logradouro": "EST BENEDITO CEZARIO DE OLIVEI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992816940.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

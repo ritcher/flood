@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "37999844181",
+        "nomeCompleto": "WILSON ALVES IVO",
+        "cpf": "04104140694",
+        "telefoneContato": "",
+        "dataNascimento": "15/09/1975",
+        "nomeMae": "MARIA VITORIA ALVES IVO",
+        "email": null,
+        "cep": "35530000",
+        "endereco": " AVENIDA BELA VISTA",
+        "numeroEndereco": "730",
+        "complementoEndereco": "",
+        "bairro": "BELA VISTA",
+        "cidade": "CLAUDIO",
+        "estado": "MG",
+        "logradouro": "AVENIDA BELA VISTA",
+        "contaDigital": true,
+        "vencimentoFatura": "21",
+        "ciclo": "05",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37999844181.",
+    "currentPlan": {
+        "code": "VIVOCTRLF27N",
+        "price": 54.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-3GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

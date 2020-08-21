@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21998137571",
+        "nomeCompleto": "LUCAS MENDES FERREIRA",
+        "cpf": "09664790680",
+        "telefoneContato": "",
+        "dataNascimento": "12/04/1993",
+        "nomeMae": null,
+        "email": null,
+        "cep": "31110600",
+        "endereco": "RUA IGUACU",
+        "numeroEndereco": "344",
+        "complementoEndereco": "",
+        "bairro": "CONCORDIA",
+        "cidade": "BELO HORIZONTE",
+        "estado": "mg",
+        "logradouro": "IGUACU",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21998137571.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

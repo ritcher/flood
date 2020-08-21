@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6475c452-99b8-4848-b5c5-f7e7f5e66037",
+    "data": {
+        "linha": "94992445137",
+        "nomeCompleto": "JOAO KLEBER SANTOS SILVA",
+        "cpf": "04919723261",
+        "telefoneContato": "",
+        "dataNascimento": "20/06/1995",
+        "nomeMae": "maria",
+        "email": "klebercenter22@gmail.com",
+        "cep": "11548000",
+        "endereco": "R 19",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "COTA 200",
+        "cidade": "CUBATAO",
+        "estado": "SP",
+        "logradouro": "19",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992445137.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

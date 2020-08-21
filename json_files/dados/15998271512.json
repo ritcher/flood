@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15998271512",
+        "nomeCompleto": "MARCIA DE JESUS CAMILO CARDOSO",
+        "cpf": "29595446840",
+        "telefoneContato": "",
+        "dataNascimento": "01/05/1977",
+        "nomeMae": null,
+        "email": null,
+        "cep": "18245000",
+        "endereco": "RUA MARCELO VIEIRA RAMOS",
+        "numeroEndereco": "330",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CAMPINA DO MONTE ALEGRE",
+        "estado": "SP",
+        "logradouro": "MARCELO VIEIRA RAMOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15998271512.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

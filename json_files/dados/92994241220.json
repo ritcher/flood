@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994241220",
+        "nomeCompleto": "gwendel Leonardo Rodrigues Trindade",
+        "cpf": "03655793278",
+        "telefoneContato": "",
+        "dataNascimento": "31/05/1999",
+        "nomeMae": "gwendoliny Rodrigues Trindade",
+        "email": "leo.rodrigues.glrt@gmail.com",
+        "cep": "69086020",
+        "endereco": "RUA RIO NAPUIAU",
+        "numeroEndereco": "39",
+        "complementoEndereco": "",
+        "bairro": "S JOSE OPERARIO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "RIO NAPUIAU",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994241220.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=aea6401e-0f6d-4b64-8691-cef9cc7a784c",
+    "data": {
+        "linha": "33999146389",
+        "nomeCompleto": "KLEBER GUTEMBERG DE LACERDA SILVA",
+        "cpf": "02137423570",
+        "telefoneContato": "",
+        "dataNascimento": "19/10/1984",
+        "nomeMae": null,
+        "email": "gatavulcana@gmail.com",
+        "cep": "23032775",
+        "endereco": "RUA MANOEL CORREA",
+        "numeroEndereco": "10",
+        "complementoEndereco": "",
+        "bairro": "GUARATIBA",
+        "cidade": "RIO DE JANEIRO",
+        "estado": "Rj",
+        "logradouro": "MANOEL CORREA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999146389.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

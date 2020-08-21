@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993579472",
+        "nomeCompleto": "LUCIENE GUEDES DE SOUSA",
+        "cpf": "48948187287",
+        "telefoneContato": "",
+        "dataNascimento": "12/09/1973",
+        "nomeMae": null,
+        "email": "lg2730512@gmail.com",
+        "cep": "18051862",
+        "endereco": " JARGE PEDRO LUZ",
+        "numeroEndereco": "SEM N\u00fa",
+        "complementoEndereco": "",
+        "bairro": "RES. VILA DOS INGLESES",
+        "cidade": "SOROCABA",
+        "estado": "SP",
+        "logradouro": "JARGE PEDRO LUZ",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993579472.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

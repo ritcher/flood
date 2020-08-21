@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31999289093",
+        "nomeCompleto": "VITOR ALMEIDA ANDRADE",
+        "cpf": "09530305630",
+        "telefoneContato": "",
+        "dataNascimento": "17/12/2001",
+        "nomeMae": null,
+        "email": null,
+        "cep": "32370680",
+        "endereco": "Rua RUA R",
+        "numeroEndereco": "30",
+        "complementoEndereco": "",
+        "bairro": "CONJUNTO AGUA BRANCA",
+        "cidade": "CONTAGEM",
+        "estado": "mg",
+        "logradouro": "RUA R",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31999289093.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

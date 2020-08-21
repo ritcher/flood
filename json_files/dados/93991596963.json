@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=14c9f10d-5e38-442d-a849-244306be761b",
+    "data": {
+        "linha": "93991596963",
+        "nomeCompleto": "ADRIANO ALVES BARBOSA",
+        "cpf": "01431263265",
+        "telefoneContato": "",
+        "dataNascimento": "03/03/1992",
+        "nomeMae": null,
+        "email": "adriano.vasco45@gmail.com",
+        "cep": "68140000",
+        "endereco": "RUA VLE DO XINGU",
+        "numeroEndereco": "646",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "URUARA",
+        "estado": "PA",
+        "logradouro": "VLE DO XINGU",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991596963.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

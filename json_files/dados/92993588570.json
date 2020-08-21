@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "92993588570",
+        "nomeCompleto": "SARA RAIANI PINHEIRO DOS SANTOS",
+        "cpf": "94556466253",
+        "telefoneContato": "",
+        "dataNascimento": "22/04/1991",
+        "nomeMae": "EGENI PINHEIRO FREITAS",
+        "email": "sarasantospinheiro47@gmail.com",
+        "cep": "69093555",
+        "endereco": "RUA BREJINHOS",
+        "numeroEndereco": "21",
+        "complementoEndereco": "",
+        "bairro": "MONTE DAS OLIVEIRAS",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "BREJINHOS",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993588570.",
+    "currentPlan": {
+        "code": "VIVOCTRLF25N",
+        "price": 39.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIG-2GB_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

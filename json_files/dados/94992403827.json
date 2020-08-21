@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=249e2dc3-0c12-4d67-8d94-9f2c7be88ea8",
+    "data": {
+        "linha": "94992403827",
+        "nomeCompleto": "MARIA DE LOURDES DA SILVA RODRIGUES",
+        "cpf": "74256963200",
+        "telefoneContato": "",
+        "dataNascimento": "12/11/1952",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68540000",
+        "endereco": "RUA QUARENTA E SEIS",
+        "numeroEndereco": "1029",
+        "complementoEndereco": "",
+        "bairro": "VL CRUZEIRO",
+        "cidade": "CONCEICAO DO ARAGUAIA",
+        "estado": "PA",
+        "logradouro": "QUARENTA E SEIS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992403827.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

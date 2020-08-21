@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0bfa9e85-5968-486d-83f4-defccfc7ac23",
+    "data": {
+        "linha": "93991704267",
+        "nomeCompleto": "DEYBSON DA SILVA MENEZES",
+        "cpf": "02765145210",
+        "telefoneContato": "",
+        "dataNascimento": "06/08/1993",
+        "nomeMae": null,
+        "email": "deyvidballamenezes@gmail.com",
+        "cep": "68200000",
+        "endereco": "TRAVESSA DR LAURO SODRE",
+        "numeroEndereco": "1734",
+        "complementoEndereco": "",
+        "bairro": "PLANALTO",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "DR LAURO SODRE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991704267.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

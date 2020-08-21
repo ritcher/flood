@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993057540",
+        "nomeCompleto": "JULIANA DA SILVA RAMOS",
+        "cpf": "19817189074",
+        "telefoneContato": "",
+        "dataNascimento": "26/08/1989",
+        "nomeMae": null,
+        "email": "cristianececiliamilenasouza_@3dmaker.com.br",
+        "cep": "29156018",
+        "endereco": " RUA C",
+        "numeroEndereco": "21",
+        "complementoEndereco": "",
+        "bairro": "CARIACICA SEDE",
+        "cidade": "CARIACICA",
+        "estado": "ES",
+        "logradouro": "RUA C",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993057540.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

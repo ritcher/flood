@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11971224814",
+        "nomeCompleto": "MARILIA CARLOS DE FRANCA",
+        "cpf": "18347610851",
+        "telefoneContato": "",
+        "dataNascimento": "01/01/1978",
+        "nomeMae": null,
+        "email": null,
+        "cep": "08593295",
+        "endereco": "Rua RUA OITO",
+        "numeroEndereco": "211",
+        "complementoEndereco": "",
+        "bairro": "VILA SABESP",
+        "cidade": "ITAQUAQUECETUBA",
+        "estado": "sp",
+        "logradouro": "RUA OITO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11971224814.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

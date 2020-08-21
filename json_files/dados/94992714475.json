@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=df68ddff-99cb-477a-8b3c-6506d8a52560",
+    "data": {
+        "linha": "94992714475",
+        "nomeCompleto": "ALBERTO GABRIEL REBELO DOS SANTOS PINHO",
+        "cpf": "70441857205",
+        "telefoneContato": "",
+        "dataNascimento": "07/11/1994",
+        "nomeMae": "N\u00e3o Informado",
+        "email": null,
+        "cep": "68020130",
+        "endereco": "RUA  OSVALDO CRUZ 1000 CANTO COM B JD",
+        "numeroEndereco": "1000",
+        "complementoEndereco": "",
+        "bairro": "DIAMANTINO",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": " OSVALDO CRUZ 1000 CANTO COM B JD",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992714475.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

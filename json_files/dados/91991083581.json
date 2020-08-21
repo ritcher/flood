@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991083581",
+        "nomeCompleto": "KELIANE BARROS DE ALMEIDA",
+        "cpf": "53546938291",
+        "telefoneContato": "",
+        "dataNascimento": "08/01/1986",
+        "nomeMae": null,
+        "email": null,
+        "cep": "66030330",
+        "endereco": "Rua PSG DA LUTA",
+        "numeroEndereco": "25",
+        "complementoEndereco": "",
+        "bairro": "JURUNAS",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "PSG DA LUTA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991083581.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

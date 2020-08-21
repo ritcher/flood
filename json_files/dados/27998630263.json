@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27998630263",
+        "nomeCompleto": "VALDEPRA REZENDE DO AMARAL",
+        "cpf": "08276254721",
+        "telefoneContato": "",
+        "dataNascimento": "04/05/1979",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29033032",
+        "endereco": " RAMPA ALTO BELO",
+        "numeroEndereco": "155",
+        "complementoEndereco": "",
+        "bairro": "",
+        "cidade": "VITORIA",
+        "estado": "ES",
+        "logradouro": "RAMPA ALTO BELO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27998630263.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0111103a-2642-4bef-85bc-5e55d2d9814c",
+    "data": {
+        "linha": "96991467509",
+        "nomeCompleto": "LAURIANE ARAUJO BARROSO",
+        "cpf": "02263735259",
+        "telefoneContato": "",
+        "dataNascimento": "22/03/1998",
+        "nomeMae": "JEANE DO SOCORRO DAMIAO ARAUJO",
+        "email": null,
+        "cep": "68948000",
+        "endereco": "Rua RUA C TRES",
+        "numeroEndereco": "1400",
+        "complementoEndereco": "",
+        "bairro": "VILA ADMINISTRATIVA",
+        "cidade": "SERRA DO NAVIO",
+        "estado": "AP",
+        "logradouro": "RUA C TRES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 96991467509.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

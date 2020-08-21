@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67998884683",
+        "nomeCompleto": "MAYSON OLIVEIRA SANTOS",
+        "cpf": "70144528193",
+        "telefoneContato": "",
+        "dataNascimento": "30/11/1996",
+        "nomeMae": null,
+        "email": null,
+        "cep": "75901040",
+        "endereco": "AVENIDA PRES VARGAS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ST CENTRAL",
+        "cidade": "RIO VERDE",
+        "estado": "GO",
+        "logradouro": "PRES VARGAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67998884683.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

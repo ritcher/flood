@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991660828",
+        "nomeCompleto": "ANA MARIA TELES BRAGA",
+        "cpf": "65965191200",
+        "telefoneContato": "",
+        "dataNascimento": "24/08/1974",
+        "nomeMae": "MARIA DE NAZARE TELES COELHO",
+        "email": null,
+        "cep": "69103032",
+        "endereco": "R ABDON MAMEDE",
+        "numeroEndereco": "2006",
+        "complementoEndereco": "",
+        "bairro": "SANTO ANTONIO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "ABDON MAMEDE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991660828.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "61996879520",
+        "nomeCompleto": "WENDELL ALVES XAVIER",
+        "cpf": "04901621181",
+        "telefoneContato": "",
+        "dataNascimento": "19/11/1991",
+        "nomeMae": "MARIA MAIRA",
+        "email": null,
+        "cep": "04111000",
+        "endereco": "R NETO DE ARAUJO",
+        "numeroEndereco": "11",
+        "complementoEndereco": "",
+        "bairro": "VILA MARIANA",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "NETO DE ARAUJO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61996879520.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

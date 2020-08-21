@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=77c204d5-6c2b-43b6-8dad-bc6239e703ad",
+    "data": {
+        "linha": "33999086101",
+        "nomeCompleto": "EVELIN MARILLES MACHADO SILVA",
+        "cpf": "11939483638",
+        "telefoneContato": "",
+        "dataNascimento": "03/10/1995",
+        "nomeMae": null,
+        "email": "evelinmarilles74@gmail.com",
+        "cep": "12919529",
+        "endereco": "RUA JULIETA LEME DE SIQUEIRA",
+        "numeroEndereco": "73",
+        "complementoEndereco": "",
+        "bairro": "STA LUZIA",
+        "cidade": "BRAGANCA PAULISTA",
+        "estado": "sp",
+        "logradouro": "JULIETA LEME DE SIQUEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999086101.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

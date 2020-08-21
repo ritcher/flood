@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=faffef9c-ca61-47a9-bf02-c9b11ff8fc11",
+    "data": {
+        "linha": "98992344578",
+        "nomeCompleto": "MARCIA OLIVEIRA DOS SANTOS",
+        "cpf": "09328466377",
+        "telefoneContato": "",
+        "dataNascimento": "30/06/1999",
+        "nomeMae": "MARIA DE FATIMA OLIVEIRA",
+        "email": "lf7921725@gmail.com",
+        "cep": "65380000",
+        "endereco": " BREJAO",
+        "numeroEndereco": "00",
+        "complementoEndereco": "",
+        "bairro": "BREJAO",
+        "cidade": "BOM JARDIM",
+        "estado": "MA",
+        "logradouro": "BREJAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98992344578.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

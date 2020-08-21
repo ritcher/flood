@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "54996647951",
+        "nomeCompleto": "BRUNO DE OLIVEIRA RIBEIRO",
+        "cpf": "04274926028",
+        "telefoneContato": "",
+        "dataNascimento": "28/05/1999",
+        "nomeMae": "GILDA MACHADO MONDO",
+        "email": null,
+        "cep": "95096050",
+        "endereco": "RUA  ANTONIO GATTERMANN 1",
+        "numeroEndereco": "1",
+        "complementoEndereco": "",
+        "bairro": "KAYSER",
+        "cidade": "CAXIAS DO SUL",
+        "estado": "rs",
+        "logradouro": " ANTONIO GATTERMANN 1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 54996647951.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

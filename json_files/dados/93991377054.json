@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=5bdd0032-ddd9-4936-9daa-47be626e7b12",
+    "data": {
+        "linha": "93991377054",
+        "nomeCompleto": "EDILZA DA SILVA CARIPUNA",
+        "cpf": "03726868267",
+        "telefoneContato": "",
+        "dataNascimento": "29/03/1997",
+        "nomeMae": "LENI FERREIRA DA SILVA",
+        "email": null,
+        "cep": "68200000",
+        "endereco": " 10 DE AGOSTO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "SANTA RITA",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "10 DE AGOSTO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991377054.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=596cee22-ae0a-455c-83fd-76a8b1abebf2",
+    "data": {
+        "linha": "89981346839",
+        "nomeCompleto": "MARLI INES COSSUL",
+        "cpf": "88921166068",
+        "telefoneContato": "",
+        "dataNascimento": "13/03/1965",
+        "nomeMae": null,
+        "email": null,
+        "cep": "64860000",
+        "endereco": "Rua FAZ COSSUL II",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ZONA RURAL",
+        "cidade": "URUCUI",
+        "estado": "PI",
+        "logradouro": "FAZ COSSUL II",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 89981346839.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

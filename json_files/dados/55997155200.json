@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "55997155200",
+        "nomeCompleto": "JAKSON GIOVANI DE BARROS PINHEIRO",
+        "cpf": "02699723070",
+        "telefoneContato": "",
+        "dataNascimento": "21/02/1989",
+        "nomeMae": null,
+        "email": null,
+        "cep": "97500080",
+        "endereco": "RUA BORGES DE MEDEIROS",
+        "numeroEndereco": "130",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "URUGUAIANA",
+        "estado": "rs",
+        "logradouro": "BORGES DE MEDEIROS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 55997155200.",
+    "currentPlan": {
+        "code": "RSVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

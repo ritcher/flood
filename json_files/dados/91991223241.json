@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "91991223241",
+        "nomeCompleto": "LUCIVALDO MARTINS DA SILVA",
+        "cpf": "00205306250",
+        "telefoneContato": "",
+        "dataNascimento": "01/05/1990",
+        "nomeMae": "DEUZARINA MARTINS DA SILVA",
+        "email": "lucivaldoplayboy25@gmail.com",
+        "cep": "65505970",
+        "endereco": " DA COMUNIDADE",
+        "numeroEndereco": "146",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "AFONSO CUNHA",
+        "estado": "MA",
+        "logradouro": "DA COMUNIDADE",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991223241.",
+    "currentPlan": {
+        "code": "VIVOCTRLF51N",
+        "price": 84.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 5GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

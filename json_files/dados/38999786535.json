@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0aa82dee-0296-42b4-8a00-ac1c9bdcffec",
+    "data": {
+        "linha": "38999786535",
+        "nomeCompleto": "SEBASTIAO LENO XAVIER OLIVEIRA",
+        "cpf": "10963986643",
+        "telefoneContato": "",
+        "dataNascimento": "19/11/1989",
+        "nomeMae": "MARIA NEIDE XAVIER OLIVEIRA",
+        "email": null,
+        "cep": "38600000",
+        "endereco": " FRANCISCO LEPO ROQUETE",
+        "numeroEndereco": "188",
+        "complementoEndereco": "",
+        "bairro": "PARACATUZINHO",
+        "cidade": "PARACATU",
+        "estado": "MG",
+        "logradouro": "FRANCISCO LEPO ROQUETE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38999786535.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

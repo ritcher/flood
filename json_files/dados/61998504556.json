@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "61998504556",
+        "nomeCompleto": "Antonia danielle rego aquino",
+        "cpf": "60854842322",
+        "telefoneContato": "",
+        "dataNascimento": "13/09/1997",
+        "nomeMae": "Irismar Gomes rego Aquino",
+        "email": "dannycarvalho899@gmail.com",
+        "cep": "65025230",
+        "endereco": "Rua RUA CASTRO ALVES",
+        "numeroEndereco": "305",
+        "complementoEndereco": "",
+        "bairro": "VILA PASSOS",
+        "cidade": "SAO LUIS",
+        "estado": "MA",
+        "logradouro": "RUA CASTRO ALVES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61998504556.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

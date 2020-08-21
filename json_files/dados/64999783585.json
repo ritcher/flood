@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "64999783585",
+        "nomeCompleto": "JULIO CESAR BORGES",
+        "cpf": "04183911818",
+        "telefoneContato": "",
+        "dataNascimento": "03/07/1961",
+        "nomeMae": null,
+        "email": "borgesjc61@gmail.com",
+        "cep": "57246025",
+        "endereco": "Rua QD D",
+        "numeroEndereco": "14",
+        "complementoEndereco": "",
+        "bairro": "HELIO JATOBA",
+        "cidade": "SAO MIGUEL DOS CAMPOS",
+        "estado": "AL",
+        "logradouro": "QD D",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 64999783585.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

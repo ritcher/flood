@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11996459289",
+        "nomeCompleto": "ANA CLAUDIA GOIS DA SILVA",
+        "cpf": "40059489871",
+        "telefoneContato": "",
+        "dataNascimento": "02/09/1987",
+        "nomeMae": null,
+        "email": null,
+        "cep": "08461190",
+        "endereco": " ALCIO CARNEIRO DE LIMA",
+        "numeroEndereco": "304",
+        "complementoEndereco": "",
+        "bairro": "CIDADE POPULAR",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "ALCIO CARNEIRO DE LIMA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11996459289.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "POSPAGO",
+    "data": {
+        "linha": "11997172809",
+        "nomeCompleto": "ADRIANA ALEIXO DIAS",
+        "cpf": "28342896897",
+        "telefoneContato": "",
+        "dataNascimento": "09/02/1975",
+        "nomeMae": null,
+        "email": null,
+        "cep": "09810310",
+        "endereco": "RUA JOSINA MARIA DA SILVA",
+        "numeroEndereco": "104",
+        "complementoEndereco": "",
+        "bairro": "VILA SACILOTTO",
+        "cidade": "S BERNARDO DO CAMPO",
+        "estado": "SP",
+        "logradouro": "JOSINA MARIA DA SILVA",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11997172809.",
+    "currentPlan": {
+        "code": "PLMTVIVO_DEP_COMP0",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "MULTIVIVO_GRATIS.",
+        "platform": "POSPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

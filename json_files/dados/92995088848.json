@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92995088848",
+        "nomeCompleto": "CAROLINE STEFANY SA DE OLIVEIRA",
+        "cpf": "02204280267",
+        "telefoneContato": "",
+        "dataNascimento": "22/09/1993",
+        "nomeMae": "mae",
+        "email": null,
+        "cep": "69400731",
+        "endereco": " BENJAMIM ROBERTO",
+        "numeroEndereco": "1318",
+        "complementoEndereco": "",
+        "bairro": "",
+        "cidade": "MANACAPURU",
+        "estado": "AM",
+        "logradouro": "BENJAMIM ROBERTO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92995088848.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

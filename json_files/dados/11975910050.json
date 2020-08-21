@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11975910050",
+        "nomeCompleto": "JUNCLES LUIZ DA SILVA",
+        "cpf": "99737817834",
+        "telefoneContato": "",
+        "dataNascimento": "03/12/1958",
+        "nomeMae": null,
+        "email": null,
+        "cep": "09980150",
+        "endereco": "RUA JOSE BONIFACIO",
+        "numeroEndereco": "1076",
+        "complementoEndereco": "",
+        "bairro": "SERRARIA",
+        "cidade": "DIADEMA",
+        "estado": "sp",
+        "logradouro": "JOSE BONIFACIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11975910050.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

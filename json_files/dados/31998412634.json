@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31998412634",
+        "nomeCompleto": "JOSE EDUARDO DE SOUZA ROBERTO",
+        "cpf": "01935365606",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": "joseeduardouruca@gmail.com",
+        "cep": "35930455",
+        "endereco": "Rua RUA TIETE",
+        "numeroEndereco": "736",
+        "complementoEndereco": "",
+        "bairro": "CENTRO INDUSTRIAL",
+        "cidade": "JOAO MONLEVADE",
+        "estado": "mg",
+        "logradouro": "RUA TIETE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31998412634.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

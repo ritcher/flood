@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "92994255706",
+        "nomeCompleto": "VIVIANE SOUZA DA SILVA",
+        "cpf": "01635064260",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1993",
+        "nomeMae": null,
+        "email": "soamor2011@live.com",
+        "cep": "68909017",
+        "endereco": "RUA MARABAIXO",
+        "numeroEndereco": "2781",
+        "complementoEndereco": "",
+        "bairro": "JARDIM FELICIDADE",
+        "cidade": "MACAPA",
+        "estado": "AP",
+        "logradouro": "MARABAIXO",
+        "contaDigital": true,
+        "vencimentoFatura": "17",
+        "ciclo": "01",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994255706.",
+    "currentPlan": {
+        "code": "VIVOCTRLF57N",
+        "price": 52.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL NOVO 3,5GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

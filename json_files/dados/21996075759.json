@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21996075759",
+        "nomeCompleto": "CAMILA PERES FERREIRA",
+        "cpf": "10857866680",
+        "telefoneContato": "",
+        "dataNascimento": "20/02/1998",
+        "nomeMae": null,
+        "email": "camila_peresssp@hotmail.com",
+        "cep": "01315020",
+        "endereco": "RUA DO BIXIGA",
+        "numeroEndereco": "697",
+        "complementoEndereco": "",
+        "bairro": "BELA VISTA",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "DO BIXIGA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21996075759.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

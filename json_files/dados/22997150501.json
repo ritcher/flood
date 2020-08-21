@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "22997150501",
+        "nomeCompleto": "CRISTIANO CHAGAS DOS SANTOS",
+        "cpf": "16533651706",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "28927000",
+        "endereco": "Rua RUA SINAGOGA",
+        "numeroEndereco": "400",
+        "complementoEndereco": "",
+        "bairro": "AQUARIUS",
+        "cidade": "TAMOIOS",
+        "estado": "Rj",
+        "logradouro": "RUA SINAGOGA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 22997150501.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

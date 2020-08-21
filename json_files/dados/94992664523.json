@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=36a9f4cb-041b-4fc2-b627-dd078ff5ca47",
+    "data": {
+        "linha": "94992664523",
+        "nomeCompleto": "danrley silva dos reis",
+        "cpf": "69996466272",
+        "telefoneContato": "",
+        "dataNascimento": "18/04/1972",
+        "nomeMae": "MARIA REIS",
+        "email": null,
+        "cep": "68515000",
+        "endereco": "RUA 6",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CIDADE NOVA",
+        "cidade": "PARAUAPEBAS",
+        "estado": "PA",
+        "logradouro": "6",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992664523.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

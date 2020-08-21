@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "35997013255",
+        "nomeCompleto": "LUCIANA DE SOUZA BENTO",
+        "cpf": "11479806676",
+        "telefoneContato": "",
+        "dataNascimento": "18/10/1976",
+        "nomeMae": null,
+        "email": null,
+        "cep": "37660000",
+        "endereco": "RUA ARAS",
+        "numeroEndereco": "120",
+        "complementoEndereco": "",
+        "bairro": "ARAS",
+        "cidade": "PARAISOPOLIS",
+        "estado": "mg",
+        "logradouro": "ARAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 35997013255.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

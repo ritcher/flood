@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993366474",
+        "nomeCompleto": "EDIVALDO DA SILVA",
+        "cpf": "60425067220",
+        "telefoneContato": "",
+        "dataNascimento": "03/12/1976",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69152070",
+        "endereco": "RUA NS APARECIDA",
+        "numeroEndereco": "3623",
+        "complementoEndereco": "",
+        "bairro": "PAULO CORREA",
+        "cidade": "PARINTINS",
+        "estado": "AM",
+        "logradouro": "NS APARECIDA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993366474.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

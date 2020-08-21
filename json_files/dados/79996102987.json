@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=935bf3d0-88bc-4f48-a8bd-7b9145773cab",
+    "data": {
+        "linha": "79996102987",
+        "nomeCompleto": "MARIA DOS ANJOS SANTOS SOUZA",
+        "cpf": "02656691540",
+        "telefoneContato": "",
+        "dataNascimento": "03/05/1972",
+        "nomeMae": "maria",
+        "email": "ffcyne@cityroyal.org",
+        "cep": "49480000",
+        "endereco": "RUA F",
+        "numeroEndereco": "94",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SIMAO DIAS",
+        "estado": "SE",
+        "logradouro": "F",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79996102987.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

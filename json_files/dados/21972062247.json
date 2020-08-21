@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21972062247",
+        "nomeCompleto": "ANDRE PEREIRA DINIZ",
+        "cpf": "07506726688",
+        "telefoneContato": "",
+        "dataNascimento": "15/02/1984",
+        "nomeMae": null,
+        "email": "pablimbiel@gmail.com",
+        "cep": "78120590",
+        "endereco": "Rua RPE SANTOS",
+        "numeroEndereco": "47",
+        "complementoEndereco": "",
+        "bairro": "PRQ DO LAGO",
+        "cidade": "VARZEA GRANDE",
+        "estado": "MT",
+        "logradouro": "RPE SANTOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21972062247.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

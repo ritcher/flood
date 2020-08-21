@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=e169ff78-e621-4ce5-bfda-ca6af4b139fd",
+    "data": {
+        "linha": "68999815864",
+        "nomeCompleto": "JESSE MORENO DA SILVA",
+        "cpf": "39095835200",
+        "telefoneContato": "",
+        "dataNascimento": "14/05/1972",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69918452",
+        "endereco": "R LUIZ Z DA SILVA",
+        "numeroEndereco": "2",
+        "complementoEndereco": "",
+        "bairro": "CONJUNTO MANOEL JULIAO",
+        "cidade": "R BRANCO",
+        "estado": "AC",
+        "logradouro": "LUIZ Z DA SILVA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999815864.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21996383418",
+        "nomeCompleto": "MARIA IZABEL ANTAO CHAVES",
+        "cpf": "09852288733",
+        "telefoneContato": "",
+        "dataNascimento": "31/05/1946",
+        "nomeMae": null,
+        "email": null,
+        "cep": "24120325",
+        "endereco": "RUA SAO JOSE",
+        "numeroEndereco": "340",
+        "complementoEndereco": "",
+        "bairro": "FONSECA",
+        "cidade": "NITEROI",
+        "estado": "Rj",
+        "logradouro": "SAO JOSE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21996383418.",
+    "currentPlan": {
+        "code": "RJVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

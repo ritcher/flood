@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18997015765",
+        "nomeCompleto": "crislaineAlves dos Reis",
+        "cpf": "38366742890",
+        "telefoneContato": "",
+        "dataNascimento": "11/09/1988",
+        "nomeMae": "Dalva souza farias",
+        "email": "crislaine.alves.reis@gmail.com",
+        "cep": "26291030",
+        "endereco": "RUA  CARLOS ACIOLI 78 C 27",
+        "numeroEndereco": "78",
+        "complementoEndereco": "",
+        "bairro": "VALVERDE",
+        "cidade": "NOVA IGUACU",
+        "estado": "Rj",
+        "logradouro": " CARLOS ACIOLI 78 C 27",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18997015765.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c3924171-9aae-41fe-989b-b7a873e3813d",
+    "data": {
+        "linha": "87981569867",
+        "nomeCompleto": "INGRID NAIARA DE SOUZA SANTOS",
+        "cpf": "71545471460",
+        "telefoneContato": "",
+        "dataNascimento": "11/08/1999",
+        "nomeMae": null,
+        "email": null,
+        "cep": "56895000",
+        "endereco": "Rua RUA MONSENHOR ELIZEU DINIZ",
+        "numeroEndereco": "343",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SANTA CRUZ DA BAIXA VERDE",
+        "estado": "PE",
+        "logradouro": "RUA MONSENHOR ELIZEU DINIZ",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 87981569867.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

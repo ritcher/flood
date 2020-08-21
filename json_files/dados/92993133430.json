@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993133430",
+        "nomeCompleto": "FLAVIO DA SILVA MARINHO",
+        "cpf": "02785565231",
+        "telefoneContato": "",
+        "dataNascimento": "03/03/1997",
+        "nomeMae": null,
+        "email": "rauljoaquimgoncalves_@officetectecnologia.com.br",
+        "cep": "69101476",
+        "endereco": "RUA HUMAITA",
+        "numeroEndereco": "3527",
+        "complementoEndereco": "",
+        "bairro": "S FRANCISCO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "HUMAITA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993133430.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

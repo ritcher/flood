@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=4158b523-4850-47f0-a1da-39b205c7d79b",
+    "data": {
+        "linha": "37999430184",
+        "nomeCompleto": "IOLANDA PEREIRA DE ALMEIDA SILVA",
+        "cpf": "12012761607",
+        "telefoneContato": "",
+        "dataNascimento": "19/06/1994",
+        "nomeMae": null,
+        "email": null,
+        "cep": "35680151",
+        "endereco": "Rua RUA TURFA",
+        "numeroEndereco": "245",
+        "complementoEndereco": "",
+        "bairro": "PADRE EUSTAQUIO",
+        "cidade": "ITAUNA",
+        "estado": "mg",
+        "logradouro": "RUA TURFA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37999430184.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

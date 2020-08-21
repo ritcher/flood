@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15997256084",
+        "nomeCompleto": "ELAINE ANTUNES RODRIGUES AOKI",
+        "cpf": "28750723820",
+        "telefoneContato": "",
+        "dataNascimento": "16/06/1973",
+        "nomeMae": null,
+        "email": "mieken73@hotmail.com",
+        "cep": "18278717",
+        "endereco": "Rua PRFA LEDA RODRIGUES ROCHA",
+        "numeroEndereco": "160",
+        "complementoEndereco": "",
+        "bairro": "RESIDENCIAL ATLANTA",
+        "cidade": "TATUI",
+        "estado": "sp",
+        "logradouro": "PRFA LEDA RODRIGUES ROCHA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15997256084.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=cbc5f975-3e4f-440e-bb87-fcd1fddcedae",
+    "data": {
+        "linha": "93991507483",
+        "nomeCompleto": "NAIDE DA SILVA PEREIRA",
+        "cpf": "65928164220",
+        "telefoneContato": "",
+        "dataNascimento": "24/07/1958",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68170000",
+        "endereco": "RUA ALEGRE VILA JURUTI VELHO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ZONA RURAL",
+        "cidade": "JURUTI",
+        "estado": "PA",
+        "logradouro": "ALEGRE VILA JURUTI VELHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991507483.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

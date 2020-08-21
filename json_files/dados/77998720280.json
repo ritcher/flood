@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a94e78ba-dfa1-447b-9881-4174c6d87126",
+    "data": {
+        "linha": "77998720280",
+        "nomeCompleto": "RAFAEL SANTOS SILVA",
+        "cpf": "86575888542",
+        "telefoneContato": "",
+        "dataNascimento": "26/08/1999",
+        "nomeMae": null,
+        "email": "rafaelsilvass987@gmail.com",
+        "cep": "46110000",
+        "endereco": "Rua RUA N",
+        "numeroEndereco": "10",
+        "complementoEndereco": "",
+        "bairro": "POPULAR 2",
+        "cidade": "MALHADA DE PEDRAS",
+        "estado": "BA",
+        "logradouro": "RUA N",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77998720280.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

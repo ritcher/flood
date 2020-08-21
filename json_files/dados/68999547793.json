@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=075b0680-6a0d-4326-a3a0-cf30d9a36b7c",
+    "data": {
+        "linha": "68999547793",
+        "nomeCompleto": "LUCAS COSTA DOS ANJOS",
+        "cpf": "05317527201",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": "8hzsycs94asy@gmail.com",
+        "cep": "69900062",
+        "endereco": "Rua RUA BENJAMIM CONSTANT",
+        "numeroEndereco": "664",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "RIO BRANCO",
+        "estado": "AC",
+        "logradouro": "RUA BENJAMIM CONSTANT",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999547793.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

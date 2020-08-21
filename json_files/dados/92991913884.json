@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991913884",
+        "nomeCompleto": "DAIANA DA SILVA LEITE",
+        "cpf": "01096399288",
+        "telefoneContato": "",
+        "dataNascimento": "04/06/1991",
+        "nomeMae": "MATILDE LIMA DA SILVA",
+        "email": null,
+        "cep": "69093149",
+        "endereco": "AVENIDA JOSE HENRIQUE B RODRIGUES",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "SANTA ETELVINA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "JOSE HENRIQUE B RODRIGUES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991913884.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

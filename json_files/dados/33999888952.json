@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b5b9f7a0-1cc1-4ee3-91cc-db9e587f51ed",
+    "data": {
+        "linha": "33999888952",
+        "nomeCompleto": "CELIA LIMA FERREIRA",
+        "cpf": "00696699613",
+        "telefoneContato": "",
+        "dataNascimento": "01/05/1975",
+        "nomeMae": null,
+        "email": null,
+        "cep": "35162461",
+        "endereco": "RUA MARMELOS",
+        "numeroEndereco": "234",
+        "complementoEndereco": "",
+        "bairro": "LIMOEIRO",
+        "cidade": "IPATINGA",
+        "estado": "mg",
+        "logradouro": "MARMELOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999888952.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

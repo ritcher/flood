@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "71997110203",
+        "nomeCompleto": "FELICIA DOS ANJOS CAMPOS",
+        "cpf": "10641335504",
+        "telefoneContato": "",
+        "dataNascimento": "13/01/1957",
+        "nomeMae": "MARIA DOS ANJOS SANTOS",
+        "email": "kezzjuremal@gmail.com",
+        "cep": "48110970",
+        "endereco": " RUA CAPITAO MANOEL AUGUSTO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CATU",
+        "estado": "BA",
+        "logradouro": "RUA CAPITAO MANOEL AUGUSTO",
+        "contaDigital": true,
+        "vencimentoFatura": "1",
+        "ciclo": "15",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 71997110203.",
+    "currentPlan": {
+        "code": "VIVOCTRLF34N",
+        "price": 32.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-2GB_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

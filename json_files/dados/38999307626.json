@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=8a92b3b8-11e1-483b-93f3-b08a5ea3708f",
+    "data": {
+        "linha": "38999307626",
+        "nomeCompleto": "TEREZINHA DE ABREU XAVIER",
+        "cpf": "59990104620",
+        "telefoneContato": "",
+        "dataNascimento": "05/09/1934",
+        "nomeMae": "PETRINA ANTONIA COSTA",
+        "email": null,
+        "cep": "39370000",
+        "endereco": "RUA CON CLEMENTE LAURES",
+        "numeroEndereco": "490",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "JEQUITAI",
+        "estado": "MG",
+        "logradouro": "CON CLEMENTE LAURES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38999307626.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

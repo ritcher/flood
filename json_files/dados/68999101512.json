@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=d26092d8-8172-474a-8dce-ae943f9845ff",
+    "data": {
+        "linha": "68999101512",
+        "nomeCompleto": "NILCELI DE ANDRADE LIMA",
+        "cpf": "00943472202",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "MARIA DAS GRACAS DE LIMA",
+        "email": null,
+        "cep": "69900974",
+        "endereco": "RUA  QUINTINO BOCAIUVA 299",
+        "numeroEndereco": "299",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "RIO BRANCO",
+        "estado": "AC",
+        "logradouro": " QUINTINO BOCAIUVA 299",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999101512.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

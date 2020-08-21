@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=129550d0-9a1d-4536-b0d1-9d6cda4cded1",
+    "data": {
+        "linha": "93991158755",
+        "nomeCompleto": "GABRIEL BRAZ DOS SANTOS",
+        "cpf": "01636156240",
+        "telefoneContato": "",
+        "dataNascimento": "01/01/1990",
+        "nomeMae": "maria braz dos santos",
+        "email": "czsjliy4n2qt7p9@gmail.com",
+        "cep": "68379200",
+        "endereco": "RUA ANTONIO CAFREN",
+        "numeroEndereco": "400",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CASTELO DOS SONHOS",
+        "estado": "PA",
+        "logradouro": "ANTONIO CAFREN",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991158755.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

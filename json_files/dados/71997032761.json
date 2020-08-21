@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "71997032761",
+        "nomeCompleto": "RUAN SANTOS BRITO",
+        "cpf": "07226975548",
+        "telefoneContato": "",
+        "dataNascimento": "26/04/1998",
+        "nomeMae": null,
+        "email": "ruanbrito152018@hotmail.com",
+        "cep": "26062030",
+        "endereco": "Rua EST  BERNARDETE 203",
+        "numeroEndereco": "203",
+        "complementoEndereco": "",
+        "bairro": "BR DE GUANDU",
+        "cidade": "NOVA IGUACU",
+        "estado": "Rj",
+        "logradouro": "EST  BERNARDETE 203",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 71997032761.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

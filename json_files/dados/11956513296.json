@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11956513296",
+        "nomeCompleto": "ANDERSON DA SILVA DE SA",
+        "cpf": "48344092876",
+        "telefoneContato": "",
+        "dataNascimento": "16/09/1997",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69195000",
+        "endereco": " 151",
+        "numeroEndereco": "666",
+        "complementoEndereco": "",
+        "bairro": "VITORIA REGIA",
+        "cidade": "BOA VISTA DO RAMOS",
+        "estado": "AM",
+        "logradouro": "151",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11956513296.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

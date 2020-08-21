@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0fcd6c7d-dd1a-48e5-ba7d-d57ea3c69959",
+    "data": {
+        "linha": "94991897153",
+        "nomeCompleto": "LUCAS DA SILVA AGUIAR",
+        "cpf": "02697685219",
+        "telefoneContato": "",
+        "dataNascimento": "14/06/1994",
+        "nomeMae": null,
+        "email": "lukasaguiar21@outlook.com",
+        "cep": "38740000",
+        "endereco": "RUA RODOLFO LEMOS DE CASTRO",
+        "numeroEndereco": "1184",
+        "complementoEndereco": "",
+        "bairro": "BOA ESPERANCA",
+        "cidade": "PATROCINIO",
+        "estado": "MG",
+        "logradouro": "RODOLFO LEMOS DE CASTRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991897153.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

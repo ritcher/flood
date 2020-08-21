@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27996366996",
+        "nomeCompleto": "SIDICLEY SANTOS PEREIRA",
+        "cpf": "09467053721",
+        "telefoneContato": "",
+        "dataNascimento": "05/09/1982",
+        "nomeMae": null,
+        "email": null,
+        "cep": "31530310",
+        "endereco": "R DOS MESCARELOS",
+        "numeroEndereco": "60",
+        "complementoEndereco": "",
+        "bairro": "SANTA MONICA",
+        "cidade": "BELO HORIZONTE",
+        "estado": "MG",
+        "logradouro": "DOS MESCARELOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27996366996.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

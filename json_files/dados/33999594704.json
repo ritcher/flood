@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c387ad50-4951-4412-8d7d-03bc58d24f8e",
+    "data": {
+        "linha": "33999594704",
+        "nomeCompleto": "WRIENY SILVA CUNHA",
+        "cpf": "14404405650",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "36900000",
+        "endereco": "Rua RUA DOS IMIGRANTES",
+        "numeroEndereco": "28",
+        "complementoEndereco": "",
+        "bairro": "VILA NOVA",
+        "cidade": "MANHUACU",
+        "estado": "mg",
+        "logradouro": "RUA DOS IMIGRANTES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999594704.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

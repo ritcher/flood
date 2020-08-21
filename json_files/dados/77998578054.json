@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=77637bcb-7d19-4b52-9110-ffd517072894",
+    "data": {
+        "linha": "77998578054",
+        "nomeCompleto": "SINELCI DA SILVA BIZERRA",
+        "cpf": "68600771587",
+        "telefoneContato": "",
+        "dataNascimento": "28/02/1974",
+        "nomeMae": null,
+        "email": null,
+        "cep": "46460000",
+        "endereco": "RUA  UILCON LINS 2",
+        "numeroEndereco": "2",
+        "complementoEndereco": "",
+        "bairro": "SEDE",
+        "cidade": "PALMAS DE MONTE ALTO",
+        "estado": "BA",
+        "logradouro": " UILCON LINS 2",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77998578054.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

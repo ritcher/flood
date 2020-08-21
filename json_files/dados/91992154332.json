@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992154332",
+        "nomeCompleto": "ECLEISYELE GOMES DO AMARAL",
+        "cpf": "01581212283",
+        "telefoneContato": "",
+        "dataNascimento": "27/04/1990",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68480000",
+        "endereco": "RUA SETE DE SETEMBRO",
+        "numeroEndereco": "171",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "PORTEL",
+        "estado": "PA",
+        "logradouro": "SETE DE SETEMBRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992154332.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

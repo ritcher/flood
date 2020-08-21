@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=5ab6f64f-21c9-4255-a1a9-0bc50d20b814",
+    "data": {
+        "linha": "77999633086",
+        "nomeCompleto": "RUTE MEIRE PEREIRA MARTINS",
+        "cpf": "04234379506",
+        "telefoneContato": "",
+        "dataNascimento": "04/02/1986",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68450000",
+        "endereco": "Rua RUA BENJAMIN CONSTANT",
+        "numeroEndereco": "1060",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MOJU",
+        "estado": "PA",
+        "logradouro": "RUA BENJAMIN CONSTANT",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77999633086.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

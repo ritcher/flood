@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991162823",
+        "nomeCompleto": "JO\u00e3O TEODORO DE ASSIZ",
+        "cpf": "04651561934",
+        "telefoneContato": "",
+        "dataNascimento": "19/05/1946",
+        "nomeMae": null,
+        "email": "hiwetoc586@2go-mail.com",
+        "cep": "69073620",
+        "endereco": " LUCAS",
+        "numeroEndereco": "2",
+        "complementoEndereco": "",
+        "bairro": "SAO LAZARO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "LUCAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991162823.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992452098",
+        "nomeCompleto": "RAFAEL NEVES DE SOUSA",
+        "cpf": "04006431201",
+        "telefoneContato": "",
+        "dataNascimento": "22/10/1996",
+        "nomeMae": "ROSENILDA GOMES NEVES",
+        "email": null,
+        "cep": "69100000",
+        "endereco": " RUA 6",
+        "numeroEndereco": "2939",
+        "complementoEndereco": "",
+        "bairro": "IRACY",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "RUA 6",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992452098.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

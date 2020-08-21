@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9d7d07de-5990-4e17-95ae-006425c0396f",
+    "data": {
+        "linha": "38999087439",
+        "nomeCompleto": "JOAO PAULO LIMA GONCALVES",
+        "cpf": "11991441690",
+        "telefoneContato": "",
+        "dataNascimento": "15/06/1992",
+        "nomeMae": null,
+        "email": "jsozcn1xwzsqc9m@gmail.com",
+        "cep": "09895020",
+        "endereco": "RUA SERGIO CARDOSO",
+        "numeroEndereco": "103",
+        "complementoEndereco": "",
+        "bairro": "PLANALTO",
+        "cidade": "SAO BERNARDO DO CAMPO",
+        "estado": "sp",
+        "logradouro": "SERGIO CARDOSO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38999087439.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "48991047258",
+        "nomeCompleto": "PEDRO ALEX DE SOUSA LUZ",
+        "cpf": "02820011152",
+        "telefoneContato": "",
+        "dataNascimento": "18/08/1989",
+        "nomeMae": null,
+        "email": "3gag9@mirai.re",
+        "cep": "95045510",
+        "endereco": " MANOEL VASCO FLORES",
+        "numeroEndereco": "50",
+        "complementoEndereco": "",
+        "bairro": "SANTA FE",
+        "cidade": "CAXIAS DO SUL",
+        "estado": "RS",
+        "logradouro": "MANOEL VASCO FLORES",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 48991047258.",
+    "currentPlan": {
+        "code": "VIVOCTRLF51N",
+        "price": 84.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 5GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

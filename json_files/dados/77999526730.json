@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=643d7082-9b17-456b-bbb0-e35db6b586bb",
+    "data": {
+        "linha": "77999526730",
+        "nomeCompleto": "LEONARDO NORBERTO MENNA BARRETO",
+        "cpf": "02585525066",
+        "telefoneContato": "",
+        "dataNascimento": "19/09/1999",
+        "nomeMae": "MARINA APARECIDA GONCALVES NORBERTO",
+        "email": null,
+        "cep": "79074065",
+        "endereco": "RUA DOS PEREIRAS",
+        "numeroEndereco": "28",
+        "complementoEndereco": "",
+        "bairro": "JD MONTE ALEGRE",
+        "cidade": "CAMPO GRANDE",
+        "estado": "MS",
+        "logradouro": "DOS PEREIRAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77999526730.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

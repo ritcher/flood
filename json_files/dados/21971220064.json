@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21971220064",
+        "nomeCompleto": "ALCINA LOPES VICTORINO",
+        "cpf": "08766634806",
+        "telefoneContato": "",
+        "dataNascimento": "02/10/1968",
+        "nomeMae": null,
+        "email": "alcinavic@uol.com.br",
+        "cep": "08730660",
+        "endereco": "RUA JARDELINA DE ALMEIDA LOPES",
+        "numeroEndereco": "761",
+        "complementoEndereco": "",
+        "bairro": "PQ SANTANA",
+        "cidade": "MOGI DAS CRUZES",
+        "estado": "SP",
+        "logradouro": "JARDELINA DE ALMEIDA LOPES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21971220064.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

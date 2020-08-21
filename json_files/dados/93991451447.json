@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=d3a04f00-8e9f-4c01-8bad-6680ba58d701",
+    "data": {
+        "linha": "93991451447",
+        "nomeCompleto": "MARIA DE NAZARE DE SOUSA",
+        "cpf": "36627755220",
+        "telefoneContato": "",
+        "dataNascimento": "29/08/1955",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68200000",
+        "endereco": "Rua COMUNIDADE TACHI CURUMUM COMUN",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "TACHI CURUMU",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "COMUNIDADE TACHI CURUMUM COMUN",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991451447.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

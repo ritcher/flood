@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=56353d96-c8fe-49cb-bb57-8fea93d0f837",
+    "data": {
+        "linha": "68999615314",
+        "nomeCompleto": "RUAN RIQUELME PINHEIRO DA SILVA",
+        "cpf": "00225974258",
+        "telefoneContato": "",
+        "dataNascimento": "07/12/2005",
+        "nomeMae": null,
+        "email": null,
+        "cep": "19470000",
+        "endereco": "Rua VICINAL CAIUA P EPITACIO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ACENT ALAGOINHA",
+        "cidade": "PRESIDENTE EPITACIO",
+        "estado": "sp",
+        "logradouro": "VICINAL CAIUA P EPITACIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999615314.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

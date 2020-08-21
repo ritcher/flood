@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=d6f5b9ea-a997-4bc7-888e-b78d9752f8ee",
+    "data": {
+        "linha": "93991795939",
+        "nomeCompleto": "LUCAS SOUSA FARIAS",
+        "cpf": "04476943241",
+        "telefoneContato": "",
+        "dataNascimento": "07/12/2004",
+        "nomeMae": null,
+        "email": null,
+        "cep": "89226690",
+        "endereco": "RUA CALLISTO",
+        "numeroEndereco": "642",
+        "complementoEndereco": "",
+        "bairro": "JD PARAISO",
+        "cidade": "JOINVILLE",
+        "estado": "sc",
+        "logradouro": "CALLISTO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991795939.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

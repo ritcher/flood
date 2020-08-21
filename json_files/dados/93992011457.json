@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=77d4114a-21b8-4d83-bc8e-ca5af9e6483a",
+    "data": {
+        "linha": "93992011457",
+        "nomeCompleto": "ELTON DOUGLAS DE JESUS CASTRO",
+        "cpf": "03929366231",
+        "telefoneContato": "",
+        "dataNascimento": "31/10/1995",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68193000",
+        "endereco": "AVENIDA JAMANXIN",
+        "numeroEndereco": "4",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "NOVO PROGRESSO",
+        "estado": "PA",
+        "logradouro": "JAMANXIN",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992011457.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

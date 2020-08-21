@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=721add11-30cd-4e5c-aa20-dea7c05ba64c",
+    "data": {
+        "linha": "93991161820",
+        "nomeCompleto": "ROSELIA DOS SANTOS MELO",
+        "cpf": "70048672262",
+        "telefoneContato": "",
+        "dataNascimento": "07/05/1977",
+        "nomeMae": "IDEMILA DOS SANTOS",
+        "email": null,
+        "cep": "68270000",
+        "endereco": "Rua CONQUISTA 406",
+        "numeroEndereco": "406",
+        "complementoEndereco": "",
+        "bairro": "PENTA",
+        "cidade": "ORIXIMINA",
+        "estado": "PA",
+        "logradouro": "CONQUISTA 406",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991161820.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

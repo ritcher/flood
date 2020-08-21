@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21998684375",
+        "nomeCompleto": "WAGNER LOPES MEDEIROS MILLER",
+        "cpf": "09469062701",
+        "telefoneContato": "",
+        "dataNascimento": "01/07/1981",
+        "nomeMae": "ANGELICA PIRES LOPES MILLER",
+        "email": null,
+        "cep": "26291030",
+        "endereco": "RUA  CARLOS ACIOLI 78 C 27",
+        "numeroEndereco": "78",
+        "complementoEndereco": "",
+        "bairro": "VALVERDE",
+        "cidade": "NOVA IGUACU",
+        "estado": "Rj",
+        "logradouro": " CARLOS ACIOLI 78 C 27",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21998684375.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

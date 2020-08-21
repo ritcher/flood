@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27997090942",
+        "nomeCompleto": "SILIRIO OTACILIO MOREIRA BARBOSA",
+        "cpf": "10469531762",
+        "telefoneContato": "",
+        "dataNascimento": "07/05/1985",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29135323",
+        "endereco": "AVENIDA ANTONIO FREIRE",
+        "numeroEndereco": "18",
+        "complementoEndereco": "",
+        "bairro": "MARCILIO DE NORONHA",
+        "cidade": "VIANA",
+        "estado": "es",
+        "logradouro": "ANTONIO FREIRE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27997090942.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

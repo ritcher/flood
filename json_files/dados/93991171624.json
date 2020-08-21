@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=af779ea1-28a3-46b0-9919-eb75631adbe1",
+    "data": {
+        "linha": "93991171624",
+        "nomeCompleto": "JOSIELE PEREIRA MOTA",
+        "cpf": "03099561290",
+        "telefoneContato": "",
+        "dataNascimento": "09/07/1995",
+        "nomeMae": null,
+        "email": null,
+        "cep": "45930000",
+        "endereco": "RUA  SALVADO599",
+        "numeroEndereco": "599",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MUCURI",
+        "estado": "BA",
+        "logradouro": " SALVADO599",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991171624.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

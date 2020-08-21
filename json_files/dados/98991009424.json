@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=43e3899f-a08a-4a9c-abcb-a3e2535e00f1",
+    "data": {
+        "linha": "98991009424",
+        "nomeCompleto": "DAMASIO DE SOUSA DE BRITO",
+        "cpf": "04782661380",
+        "telefoneContato": "",
+        "dataNascimento": "16/11/1993",
+        "nomeMae": null,
+        "email": "evelynemilydamota_@ltecno.com.br",
+        "cep": "69918506",
+        "endereco": " UBATUBA",
+        "numeroEndereco": "628",
+        "complementoEndereco": "",
+        "bairro": "VILAGE WILDE MACIEL",
+        "cidade": "R BRANCO",
+        "estado": "AC",
+        "logradouro": "UBATUBA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98991009424.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

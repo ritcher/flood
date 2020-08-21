@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999126543",
+        "nomeCompleto": "KAREN TALITA DA SILVA CONCEICAO",
+        "cpf": "03670305270",
+        "telefoneContato": "",
+        "dataNascimento": "03/09/1997",
+        "nomeMae": "MARIA CRISTINA MOREIRA DA SILVA CONCEICAO",
+        "email": null,
+        "cep": "76900970",
+        "endereco": " EST EST ANEL VIARIO LOTE 80I DA SECCAO A DA GLEBA PYRINEOS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "GLEBA PYRINEOS",
+        "cidade": "JIPARANA",
+        "estado": "RO",
+        "logradouro": "EST EST ANEL VIARIO LOTE 80I DA SECCAO A DA GLEBA PYRINEOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999126543.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

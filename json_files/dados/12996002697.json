@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12996002697",
+        "nomeCompleto": "VIVIANE MARIA DE JESUS BENTO",
+        "cpf": "31190974894",
+        "telefoneContato": "",
+        "dataNascimento": "21/10/1984",
+        "nomeMae": "Juracina Maria de Jesus Bento",
+        "email": "vmjbento@hotmail.com",
+        "cep": "12236500",
+        "endereco": "RUA GISELE MARTINS",
+        "numeroEndereco": "680",
+        "complementoEndereco": "",
+        "bairro": "CIDADE MORUMBI",
+        "cidade": "S JOSE DOS CAMPOS",
+        "estado": "SP",
+        "logradouro": "GISELE MARTINS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996002697.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

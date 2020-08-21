@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992707355",
+        "nomeCompleto": "JOAO VITOR DE VALE FERREIRA",
+        "cpf": "04755700221",
+        "telefoneContato": "",
+        "dataNascimento": "15/06/2000",
+        "nomeMae": "JACIRENE DE VALE FERREIRA",
+        "email": "vitorbala355@gmail.com",
+        "cep": "68870000",
+        "endereco": "RUA  SEIS SEXTA 208 MOTO FESTA",
+        "numeroEndereco": "208",
+        "complementoEndereco": "",
+        "bairro": "S PEDRO",
+        "cidade": "SOURE",
+        "estado": "PA",
+        "logradouro": " SEIS SEXTA 208 MOTO FESTA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992707355.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

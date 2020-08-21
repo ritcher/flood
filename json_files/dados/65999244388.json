@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65999244388",
+        "nomeCompleto": "JOSIMARA PRADO DOS SANTOS",
+        "cpf": "04221934107",
+        "telefoneContato": "",
+        "dataNascimento": "14/03/1997",
+        "nomeMae": "MARIA CONCEICAO PRADO DOS SANTOS",
+        "email": null,
+        "cep": "78055742",
+        "endereco": "RUA  DEZESSEIS 34 Q 29",
+        "numeroEndereco": "34",
+        "complementoEndereco": "",
+        "bairro": "JD VITORIA",
+        "cidade": "CUIABA",
+        "estado": "MT",
+        "logradouro": " DEZESSEIS 34 Q 29",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65999244388.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

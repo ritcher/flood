@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994410655",
+        "nomeCompleto": "EULER BARBOSA DE ASSUNCAO",
+        "cpf": "75907097272",
+        "telefoneContato": "",
+        "dataNascimento": "24/09/1980",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "69092497",
+        "endereco": "RUA ARARIBA",
+        "numeroEndereco": "344",
+        "complementoEndereco": "",
+        "bairro": "MTE DAS OLIVEIRAS",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "ARARIBA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994410655.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

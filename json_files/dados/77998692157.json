@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c0c47a79-75ac-4372-affe-cff64aba6211",
+    "data": {
+        "linha": "77998692157",
+        "nomeCompleto": "macau jansin costa ",
+        "cpf": "21623198372",
+        "telefoneContato": "",
+        "dataNascimento": "30/06/1963",
+        "nomeMae": "maria jansin costa",
+        "email": "vivolojko64@vivo.com",
+        "cep": "40760620",
+        "endereco": " 14 DE JULHO",
+        "numeroEndereco": "65",
+        "complementoEndereco": "",
+        "bairro": "COUTOS",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "14 DE JULHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77998692157.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

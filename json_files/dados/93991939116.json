@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6041cda5-3283-47b2-b0d2-dcffeb3e984c",
+    "data": {
+        "linha": "93991939116",
+        "nomeCompleto": "NEYRE FABIA ALMEIDA DA CRUZ",
+        "cpf": "70114365296",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": null,
+        "cep": "66077005",
+        "endereco": "Rua PASSAGEM CANAA",
+        "numeroEndereco": "641",
+        "complementoEndereco": "",
+        "bairro": "TERRA FIRME",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "PASSAGEM CANAA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991939116.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

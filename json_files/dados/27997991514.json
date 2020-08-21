@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27997991514",
+        "nomeCompleto": "RENATA ROSA SALLES",
+        "cpf": "99839903772",
+        "telefoneContato": "",
+        "dataNascimento": "03/09/1965",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29112345",
+        "endereco": "RUA DEMETRIO RIBEIRO",
+        "numeroEndereco": "92",
+        "complementoEndereco": "",
+        "bairro": "RIO MARINHO",
+        "cidade": "VILA VELHA",
+        "estado": "es",
+        "logradouro": "DEMETRIO RIBEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27997991514.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

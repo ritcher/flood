@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=d4f99ea0-4c1f-4b5a-954e-834f1460f499",
+    "data": {
+        "linha": "42991367896",
+        "nomeCompleto": "LINDAURA MOTA",
+        "cpf": "74123696953",
+        "telefoneContato": "",
+        "dataNascimento": "17/08/1971",
+        "nomeMae": null,
+        "email": null,
+        "cep": "85067370",
+        "endereco": "RUA EVARISTO DA VEIGA",
+        "numeroEndereco": "170",
+        "complementoEndereco": "",
+        "bairro": "MORRO ALTO",
+        "cidade": "GUARAPUAVA",
+        "estado": "PR",
+        "logradouro": "EVARISTO DA VEIGA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 42991367896.",
+    "currentPlan": {
+        "code": "PRVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

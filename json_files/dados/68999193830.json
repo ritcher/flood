@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=904013d7-4568-4322-bcfb-e1b6466d36fb",
+    "data": {
+        "linha": "68999193830",
+        "nomeCompleto": "MARCOS SILVA DOS SANTOS",
+        "cpf": "03093238277",
+        "telefoneContato": "",
+        "dataNascimento": "07/01/1994",
+        "nomeMae": null,
+        "email": "leandroigornicolasrodrigues__leandroigornicolasrodrigues@db9.com.br",
+        "cep": "93048150",
+        "endereco": " GUSTAVO SCHREIBER",
+        "numeroEndereco": "396",
+        "complementoEndereco": "",
+        "bairro": "CAMPESTRE",
+        "cidade": "S LEOPOLDO",
+        "estado": "RS",
+        "logradouro": "GUSTAVO SCHREIBER",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999193830.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

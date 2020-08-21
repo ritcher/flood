@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=3efdc3a7-b619-4c6e-a3de-aca895ac7a58",
+    "data": {
+        "linha": "93991611231",
+        "nomeCompleto": "Davi S\u00f3stenes Lago Oliveira",
+        "cpf": "05231712183",
+        "telefoneContato": "",
+        "dataNascimento": "01/02/1997",
+        "nomeMae": null,
+        "email": "davi.sostenis1@gmail.com",
+        "cep": "68060210",
+        "endereco": "TRAVESSA SECUNDINO SARDINHA",
+        "numeroEndereco": "20",
+        "complementoEndereco": "",
+        "bairro": "ALTER DO CHAO",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "SECUNDINO SARDINHA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991611231.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

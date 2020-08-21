@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11942204499",
+        "nomeCompleto": "MARIA CORDEIRO DE ALENCAR",
+        "cpf": "00935429840",
+        "telefoneContato": "",
+        "dataNascimento": "21/06/1955",
+        "nomeMae": null,
+        "email": null,
+        "cep": "06360290",
+        "endereco": "RUA SERRA DA MANTIQUEIRA",
+        "numeroEndereco": "81",
+        "complementoEndereco": "",
+        "bairro": "JARDIM PLANALTO",
+        "cidade": "CARAPICUIBA",
+        "estado": "sp",
+        "logradouro": "SERRA DA MANTIQUEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11942204499.",
+    "currentPlan": {
+        "code": "VIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Vivo Toda Hora",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

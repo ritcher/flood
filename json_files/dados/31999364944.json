@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31999364944",
+        "nomeCompleto": "SERGIO ALEXANDRE DE SOUZA",
+        "cpf": "02952182663",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "36280000",
+        "endereco": "RUA DRUBENS DO VALE AMADO",
+        "numeroEndereco": "470",
+        "complementoEndereco": "",
+        "bairro": "ROSARIO",
+        "cidade": "CARANDAI",
+        "estado": "mg",
+        "logradouro": "DRUBENS DO VALE AMADO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31999364944.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

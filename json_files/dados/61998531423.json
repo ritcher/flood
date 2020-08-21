@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "61998531423",
+        "nomeCompleto": "ROBERTO PEREIRA DOS SANTOS",
+        "cpf": "00687865140",
+        "telefoneContato": "",
+        "dataNascimento": "28/02/1944",
+        "nomeMae": "maria ",
+        "email": null,
+        "cep": "78120000",
+        "endereco": "AVENIDA 31 DE MARCO",
+        "numeroEndereco": "1",
+        "complementoEndereco": "",
+        "bairro": "UNIPARK",
+        "cidade": "VARZEA GRANDE",
+        "estado": "MT",
+        "logradouro": "31 DE MARCO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61998531423.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

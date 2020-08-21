@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "71996721894",
+        "nomeCompleto": "EDIVALDO DO CARMO PEREIRA",
+        "cpf": "97344680220",
+        "telefoneContato": "",
+        "dataNascimento": "19/04/1987",
+        "nomeMae": null,
+        "email": "edivaldo23ff@live.com",
+        "cep": "66811880",
+        "endereco": "Rua SOUZA FRANCO",
+        "numeroEndereco": "335",
+        "complementoEndereco": "",
+        "bairro": "AGULHA",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "SOUZA FRANCO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 71996721894.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

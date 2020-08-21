@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31996786537",
+        "nomeCompleto": "CARLOS HENRIQUE MELO",
+        "cpf": "04051778100",
+        "telefoneContato": "",
+        "dataNascimento": "21/07/1990",
+        "nomeMae": null,
+        "email": null,
+        "cep": "72316221",
+        "endereco": "Rua QR 210 CJ 20",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "SAMAMBAIA NORTE",
+        "cidade": "SAMAMBAIA",
+        "estado": "DF",
+        "logradouro": "QR 210 CJ 20",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31996786537.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

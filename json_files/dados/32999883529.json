@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=e3a096f5-47fe-4ef9-b8e1-b2b4c45874e5",
+    "data": {
+        "linha": "32999883529",
+        "nomeCompleto": "SUZANE BARRETO GOMES",
+        "cpf": "08240692346",
+        "telefoneContato": "",
+        "dataNascimento": "01/01/1991",
+        "nomeMae": null,
+        "email": "bb8reoywr5m3@gmail.com",
+        "cep": "69100063",
+        "endereco": "AVENIDA PARQUE",
+        "numeroEndereco": "050",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "PARQUE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 32999883529.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11933992196",
+        "nomeCompleto": "JULIO LOPES",
+        "cpf": "03756192830",
+        "telefoneContato": "",
+        "dataNascimento": "21/07/1958",
+        "nomeMae": null,
+        "email": "canald778@gmail.com",
+        "cep": "06890000",
+        "endereco": " 1",
+        "numeroEndereco": "6",
+        "complementoEndereco": "",
+        "bairro": "PAIOL DO MEIO",
+        "cidade": "S LOURENCO DA SERRA",
+        "estado": "SP",
+        "logradouro": "1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11933992196.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

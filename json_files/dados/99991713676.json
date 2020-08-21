@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=4757b755-bd34-4184-a72d-418896326a63",
+    "data": {
+        "linha": "99991713676",
+        "nomeCompleto": "SUANY CRISTINA DAS CHAGAS GONCALVES",
+        "cpf": "62511982307",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": "limagomes@gmail.com",
+        "cep": "65900520",
+        "endereco": "Rua RUA RIO GRANDE DO NORTE",
+        "numeroEndereco": "544",
+        "complementoEndereco": "",
+        "bairro": "JUCARA",
+        "cidade": "IMPERATRIZ",
+        "estado": "MA",
+        "logradouro": "RUA RIO GRANDE DO NORTE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99991713676.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

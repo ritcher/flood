@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "64999659734",
+        "nomeCompleto": "ANTONIA REGINA BATISTA SILVA",
+        "cpf": "70827717113",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": null,
+        "cep": "75645000",
+        "endereco": "Rua RUA SANTOS DUMONT",
+        "numeroEndereco": "592",
+        "complementoEndereco": "",
+        "bairro": "S CENTRAL",
+        "cidade": "PROFESSOR JAMIL",
+        "estado": "GO",
+        "logradouro": "RUA SANTOS DUMONT",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 64999659734.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

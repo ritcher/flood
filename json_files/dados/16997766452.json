@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "16997766452",
+        "nomeCompleto": "ANDRE ROSA ARAUJO",
+        "cpf": "26349711840",
+        "telefoneContato": "",
+        "dataNascimento": "25/10/1978",
+        "nomeMae": null,
+        "email": "araujoandre230@gmail.com",
+        "cep": "14180000",
+        "endereco": "Rua ANTONIO APARECIDO BESTETI",
+        "numeroEndereco": "486",
+        "complementoEndereco": "",
+        "bairro": "NOVO HORIZONTE",
+        "cidade": "PONTAL",
+        "estado": "sp",
+        "logradouro": "ANTONIO APARECIDO BESTETI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 16997766452.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

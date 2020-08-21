@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "71996979918",
+        "nomeCompleto": "MARLA MARLIETE RAMOS SANTOS",
+        "cpf": "85916881550",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "48500000",
+        "endereco": "Rua RUA PRINCIPAL",
+        "numeroEndereco": "858",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "EUCLIDES DA CUNHA",
+        "estado": "BA",
+        "logradouro": "RUA PRINCIPAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 71996979918.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

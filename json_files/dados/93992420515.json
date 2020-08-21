@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1ab89875-8189-44b2-a72b-838f485707fb",
+    "data": {
+        "linha": "93992420515",
+        "nomeCompleto": "MARIA ARAUJO GAMA NASCIMENTO",
+        "cpf": "82404445049",
+        "telefoneContato": "",
+        "dataNascimento": "14/04/1987",
+        "nomeMae": null,
+        "email": "ericley35@gmail.com",
+        "cep": "01416001",
+        "endereco": " BRIGADEIRO TOBIAS",
+        "numeroEndereco": "606",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "BRIGADEIRO TOBIAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992420515.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

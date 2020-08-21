@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993246241",
+        "nomeCompleto": "JOCYMEIRY DA SILVA GUIMARAES",
+        "cpf": "71094563234",
+        "telefoneContato": "",
+        "dataNascimento": "20/10/1981",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69035000",
+        "endereco": "RUA BELEM",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "COMPENSA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "BELEM",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993246241.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1c86ecb1-dd0f-4beb-bb45-f78b8635ef3e",
+    "data": {
+        "linha": "68999606194",
+        "nomeCompleto": "ALEXANDRE SILVA DA COSTA",
+        "cpf": "04047266230",
+        "telefoneContato": "",
+        "dataNascimento": "05/04/1999",
+        "nomeMae": null,
+        "email": "0su52hbm30sf@gmail.com",
+        "cep": "69980000",
+        "endereco": "RUA RIO DE JANEIRO",
+        "numeroEndereco": "980",
+        "complementoEndereco": "",
+        "bairro": "CRUZEIRAO",
+        "cidade": "CRUZEIRO DO SUL",
+        "estado": "AC",
+        "logradouro": "RIO DE JANEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999606194.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

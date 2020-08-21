@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=afc35835-efcd-41f8-8224-bdd59d0d268d",
+    "data": {
+        "linha": "75998406140",
+        "nomeCompleto": "JAIRLANE DOS SANTOS SILVA",
+        "cpf": "06328823525",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "44066616",
+        "endereco": "Rua RUA CRISTAL",
+        "numeroEndereco": "132",
+        "complementoEndereco": "",
+        "bairro": "CONCEICAO",
+        "cidade": "FEIRA DE SANTANA",
+        "estado": "BA",
+        "logradouro": "RUA CRISTAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 75998406140.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

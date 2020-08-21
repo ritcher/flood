@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11975491562",
+        "nomeCompleto": "MARILEIA DOS SANTOS OLIVEIRA",
+        "cpf": "28429272810",
+        "telefoneContato": "",
+        "dataNascimento": "27/04/1979",
+        "nomeMae": "MARIA DE LOURDES",
+        "email": "cj8eprcxikf8m0e@gmail.com",
+        "cep": "07402795",
+        "endereco": "R PORTO ALEGRE",
+        "numeroEndereco": "149",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ARUJA",
+        "estado": "SP",
+        "logradouro": "PORTO ALEGRE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11975491562.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

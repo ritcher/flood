@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999301718",
+        "nomeCompleto": "WENDERSO NASCIMENTO SOUZA",
+        "cpf": "04897046203",
+        "telefoneContato": "",
+        "dataNascimento": "16/10/2000",
+        "nomeMae": null,
+        "email": "vaindod987@gmail.com",
+        "cep": "15150000",
+        "endereco": " 1 DAMHA",
+        "numeroEndereco": "7292",
+        "complementoEndereco": "",
+        "bairro": "COND VILLAGE II",
+        "cidade": "MONTE APRAZIVEL",
+        "estado": "SP",
+        "logradouro": "1 DAMHA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999301718.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67999563280",
+        "nomeCompleto": "JUCIMAR DE MAGALHAES",
+        "cpf": "01958548103",
+        "telefoneContato": "",
+        "dataNascimento": "28/01/1988",
+        "nomeMae": null,
+        "email": "mnzdkx58hdm6k@telegmail.com",
+        "cep": "85950000",
+        "endereco": "RUA GETULIO VARGAS",
+        "numeroEndereco": "1513",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "PALOTINA",
+        "estado": "PR",
+        "logradouro": "GETULIO VARGAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67999563280.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

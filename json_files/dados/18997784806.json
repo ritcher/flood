@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18997784806",
+        "nomeCompleto": "GISELE MARTE NORBERTO",
+        "cpf": "38131045838",
+        "telefoneContato": "",
+        "dataNascimento": "11/08/1990",
+        "nomeMae": "MARISA MARIA MARTE NORBERTO",
+        "email": null,
+        "cep": "33200000",
+        "endereco": "R DAS CODORNAS",
+        "numeroEndereco": "296",
+        "complementoEndereco": "",
+        "bairro": "VIDA NOVA",
+        "cidade": "VESPASIANO",
+        "estado": "MG",
+        "logradouro": "DAS CODORNAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18997784806.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

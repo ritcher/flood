@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=5e9cb8b3-1cfe-4a04-b77a-cb1aad73094b",
+    "data": {
+        "linha": "74999198646",
+        "nomeCompleto": "JORGE PAULO DA SILVA ANDRADE",
+        "cpf": "00658453580",
+        "telefoneContato": "",
+        "dataNascimento": "08/12/1983",
+        "nomeMae": null,
+        "email": null,
+        "cep": "44900000",
+        "endereco": "Rua RUA SEVERIANO MOUTINHO",
+        "numeroEndereco": "38",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "IRECE",
+        "estado": "BA",
+        "logradouro": "RUA SEVERIANO MOUTINHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 74999198646.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=eb7d87ad-7533-4eaa-a330-3133678105bc",
+    "data": {
+        "linha": "94993050619",
+        "nomeCompleto": "WENDRELY PEREIRA DE SOUZA",
+        "cpf": "06698825263",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68458690",
+        "endereco": "Rua RUA F",
+        "numeroEndereco": "16",
+        "complementoEndereco": "",
+        "bairro": "VILA PIONEIRA",
+        "cidade": "TUCURUI",
+        "estado": "PA",
+        "logradouro": "RUA F",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94993050619.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31996482408",
+        "nomeCompleto": "GIVAN AFONSO MOREIRA DE SOUSA",
+        "cpf": "16438664600",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "32310070",
+        "endereco": "Rua RUA MARECHAL DEODORO DA FONSECA",
+        "numeroEndereco": "49",
+        "complementoEndereco": "",
+        "bairro": "JK",
+        "cidade": "CONTAGEM",
+        "estado": "mg",
+        "logradouro": "RUA MARECHAL DEODORO DA FONSECA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31996482408.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

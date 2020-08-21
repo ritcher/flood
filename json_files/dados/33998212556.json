@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=01027fad-4b25-406a-88dd-645a7bfc2e26",
+    "data": {
+        "linha": "33998212556",
+        "nomeCompleto": "VANDERSON LOPES DE LAIA",
+        "cpf": "70170942635",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": "vanderson.lopes.7945@gmail.com",
+        "cep": "36900000",
+        "endereco": "Rua AVENIDA MELO VIANA",
+        "numeroEndereco": "515",
+        "complementoEndereco": "",
+        "bairro": "BOM PASTOR",
+        "cidade": "MANHUACU",
+        "estado": "mg",
+        "logradouro": "AVENIDA MELO VIANA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33998212556.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

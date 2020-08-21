@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=ad1169f3-2372-414c-a29c-e11126584d9c",
+    "data": {
+        "linha": "96991486022",
+        "nomeCompleto": "Eliana Lobato da costa",
+        "cpf": "99644290291",
+        "telefoneContato": "",
+        "dataNascimento": "17/12/1989",
+        "nomeMae": "Maria estelita Maciel Lobato",
+        "email": "elianalobatodacosta05@gmail.com",
+        "cep": "68905540",
+        "endereco": "RUA RIO JAPURA",
+        "numeroEndereco": "198",
+        "complementoEndereco": "",
+        "bairro": "PERPETUO SOCORRO",
+        "cidade": "MACAPA",
+        "estado": "AP",
+        "logradouro": "RIO JAPURA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 96991486022.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

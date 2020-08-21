@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "47992877830",
+        "nomeCompleto": "LUCAS SOUSA DA SILVA",
+        "cpf": "01030753130",
+        "telefoneContato": "",
+        "dataNascimento": "12/09/1986",
+        "nomeMae": null,
+        "email": null,
+        "cep": "77060144",
+        "endereco": "RUA CEARA QD SW 3 TAQUARALTO LT",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "JD AURENY I",
+        "cidade": "PALMAS",
+        "estado": "TO",
+        "logradouro": "CEARA QD SW 3 TAQUARALTO LT",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 47992877830.",
+    "currentPlan": {
+        "code": "PRPREDIAR3GSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "PRPREDIAR3GSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

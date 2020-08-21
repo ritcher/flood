@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15996247953",
+        "nomeCompleto": "ELIAS VENANCIO DOS SANTOS",
+        "cpf": "84465425953",
+        "telefoneContato": "",
+        "dataNascimento": "17/08/1969",
+        "nomeMae": null,
+        "email": null,
+        "cep": "87525000",
+        "endereco": "Rua RUA PONTA GROSSA",
+        "numeroEndereco": "160",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "IVATE",
+        "estado": "PR",
+        "logradouro": "RUA PONTA GROSSA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15996247953.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

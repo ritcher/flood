@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a87245e9-6849-46ed-8a1e-825ea0bbe0f8",
+    "data": {
+        "linha": "68999578046",
+        "nomeCompleto": "AURIMAR NASCIMENTO DA COSTA",
+        "cpf": "48370908268",
+        "telefoneContato": "",
+        "dataNascimento": "08/07/1976",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69900160",
+        "endereco": "RUA BENJAMIN CONSTANT",
+        "numeroEndereco": "829",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "RIO BRANCO",
+        "estado": "AC",
+        "logradouro": "BENJAMIN CONSTANT",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999578046.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

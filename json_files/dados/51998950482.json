@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51998950482",
+        "nomeCompleto": "MICHELI OLIVEIRA DE OLIVEIRA",
+        "cpf": "01698849028",
+        "telefoneContato": "",
+        "dataNascimento": "25/03/1997",
+        "nomeMae": null,
+        "email": null,
+        "cep": "93600000",
+        "endereco": "RUA 1 PORTO ALEGRE",
+        "numeroEndereco": "365",
+        "complementoEndereco": "",
+        "bairro": "LAGO AZUL",
+        "cidade": "ESTANCIA VELHA",
+        "estado": "RS",
+        "logradouro": "1 PORTO ALEGRE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51998950482.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

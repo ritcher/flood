@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67996543636",
+        "nomeCompleto": "CILENE APARECIDA DA SILVA",
+        "cpf": "60812532104",
+        "telefoneContato": "",
+        "dataNascimento": "30/08/1975",
+        "nomeMae": "cicera silvino da silva ",
+        "email": null,
+        "cep": "79096730",
+        "endereco": "RUA DARIO TOMAZELLI JUNIOR",
+        "numeroEndereco": "109",
+        "complementoEndereco": "",
+        "bairro": "CAIOBA",
+        "cidade": "CAMPO GRANDE",
+        "estado": "MS",
+        "logradouro": "DARIO TOMAZELLI JUNIOR",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67996543636.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "13996400935",
+        "nomeCompleto": "ENOQUE GOMES DOS SANTOS",
+        "cpf": "70716561182",
+        "telefoneContato": "",
+        "dataNascimento": "18/11/2000",
+        "nomeMae": "MARGARETH PEREIRA DOS SANTOS",
+        "email": null,
+        "cep": "74969310",
+        "endereco": "RUA  TOPAZIO SN Q 26 LT 1",
+        "numeroEndereco": "SN",
+        "complementoEndereco": "",
+        "bairro": "ST FABRICIO",
+        "cidade": "APARECIDA DE GOIANIA",
+        "estado": "GO",
+        "logradouro": " TOPAZIO SN Q 26 LT 1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 13996400935.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

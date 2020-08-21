@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992020249",
+        "nomeCompleto": "ADRIANO DE MELO BEZERRA",
+        "cpf": "47950005220",
+        "telefoneContato": "",
+        "dataNascimento": "28/10/1973",
+        "nomeMae": "MARIA JOSE DE MELO BEZERRA",
+        "email": null,
+        "cep": "68786000",
+        "endereco": "RUA FRANCISCO RODRIGUES",
+        "numeroEndereco": "842",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SANTO ANTONIO DO TAUA",
+        "estado": "PA",
+        "logradouro": "FRANCISCO RODRIGUES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992020249.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27997290377",
+        "nomeCompleto": "LEONARDO ALVES DOS SANTOS",
+        "cpf": "02150563533",
+        "telefoneContato": "",
+        "dataNascimento": "26/12/1985",
+        "nomeMae": null,
+        "email": null,
+        "cep": "35280000",
+        "endereco": " MOAIR CANDIDO DO VALE",
+        "numeroEndereco": "253",
+        "complementoEndereco": "",
+        "bairro": "MILHIONARIOS",
+        "cidade": "ITABIRINHA",
+        "estado": "MG",
+        "logradouro": "MOAIR CANDIDO DO VALE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27997290377.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

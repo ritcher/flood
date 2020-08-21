@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27996572302",
+        "nomeCompleto": "ERILDO AUGUSTO DA SILVA",
+        "cpf": "03152914784",
+        "telefoneContato": "",
+        "dataNascimento": "09/07/1972",
+        "nomeMae": "GERALDA MARIA MADALENA",
+        "email": "leidimarsilva678@hi2.in",
+        "cep": "29113060",
+        "endereco": "RUA  BOAPABA 21",
+        "numeroEndereco": "21",
+        "complementoEndereco": "",
+        "bairro": "VLE ENCANTADO",
+        "cidade": "VILA VELHA",
+        "estado": "es",
+        "logradouro": " BOAPABA 21",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27996572302.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

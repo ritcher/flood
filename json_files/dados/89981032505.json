@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=2fe4de1c-3ac2-4be6-890b-e6733269054c",
+    "data": {
+        "linha": "89981032505",
+        "nomeCompleto": "EDUARDO ALMEIDA DA SILVA",
+        "cpf": "01626811350",
+        "telefoneContato": "",
+        "dataNascimento": "26/04/1980",
+        "nomeMae": null,
+        "email": null,
+        "cep": "45465000",
+        "endereco": "AVENIDA TANCREDO NEVES",
+        "numeroEndereco": "100",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "TEOLANDIA",
+        "estado": "BA",
+        "logradouro": "TANCREDO NEVES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 89981032505.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

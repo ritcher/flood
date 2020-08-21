@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f014a61a-7e32-4f48-a8d7-c0916f00cc12",
+    "data": {
+        "linha": "94992155326",
+        "nomeCompleto": "DOMINGOS ROMAN CABRERA",
+        "cpf": "06192254168",
+        "telefoneContato": "",
+        "dataNascimento": "04/08/1942",
+        "nomeMae": null,
+        "email": "googlesadio@gmail.com",
+        "cep": "26525000",
+        "endereco": " ANTONIO MANOEL DOS SANTOS",
+        "numeroEndereco": "987",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "NILOPOLIS",
+        "estado": "RJ",
+        "logradouro": "ANTONIO MANOEL DOS SANTOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992155326.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

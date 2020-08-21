@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994314931",
+        "nomeCompleto": "ADRIANO DOS SANTOS CORTEZ",
+        "cpf": "02810944202",
+        "telefoneContato": "",
+        "dataNascimento": "10/05/1994",
+        "nomeMae": null,
+        "email": "dryko.santos.cortez@gmail.com",
+        "cep": "69103468",
+        "endereco": "RUA 25 DE DEZEMBRO",
+        "numeroEndereco": "2641",
+        "complementoEndereco": "",
+        "bairro": "EDUARDO BRAGA I",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "25 DE DEZEMBRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994314931.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

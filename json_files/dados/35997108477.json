@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "35997108477",
+        "nomeCompleto": "IZABEL DE MORAIS LIMA",
+        "cpf": "59357215204",
+        "telefoneContato": "",
+        "dataNascimento": "02/06/1976",
+        "nomeMae": null,
+        "email": "1ac92j76@gmail.com",
+        "cep": "68940000",
+        "endereco": "Rua IND I SAMAUMA",
+        "numeroEndereco": "23",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MAZAGAO",
+        "estado": "AP",
+        "logradouro": "IND I SAMAUMA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 35997108477.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

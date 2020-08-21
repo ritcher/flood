@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a551e1a9-4e26-4ea3-a10b-4643c3f81b98",
+    "data": {
+        "linha": "77999450678",
+        "nomeCompleto": "VANUSA PEREIRA ALVES",
+        "cpf": "04378612526",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "45028365",
+        "endereco": "Rua RUA C",
+        "numeroEndereco": "559",
+        "complementoEndereco": "",
+        "bairro": "CANDEIAS",
+        "cidade": "VITORIA DA CONQUISTA",
+        "estado": "BA",
+        "logradouro": "RUA C",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77999450678.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

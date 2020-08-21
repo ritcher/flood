@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993508952",
+        "nomeCompleto": "EDUARDA CASTRO DE FREITAS",
+        "cpf": "03186464200",
+        "telefoneContato": "",
+        "dataNascimento": "02/08/1999",
+        "nomeMae": null,
+        "email": "eduardafreeitas10@gmail.com",
+        "cep": "69089042",
+        "endereco": "Rua RUA ZONA FRANCA",
+        "numeroEndereco": "169",
+        "complementoEndereco": "",
+        "bairro": "ARMANDO MENDES",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "RUA ZONA FRANCA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993508952.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

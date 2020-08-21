@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65998031534",
+        "nomeCompleto": "ALCIENE RODRIGUES DE MOURA",
+        "cpf": "02356664165",
+        "telefoneContato": "",
+        "dataNascimento": "20/08/1988",
+        "nomeMae": null,
+        "email": "gx03eh812ak8lb7@gmail.com",
+        "cep": "78118570",
+        "endereco": "RUA DOS GAVIOES",
+        "numeroEndereco": "17",
+        "complementoEndereco": "",
+        "bairro": "HELIO PONCE DE ARRUD",
+        "cidade": "VARZEA GRANDE",
+        "estado": "MT",
+        "logradouro": "DOS GAVIOES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65998031534.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

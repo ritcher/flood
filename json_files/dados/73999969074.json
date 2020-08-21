@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=feb24245-ab79-439d-938a-9a37e0a8e22d",
+    "data": {
+        "linha": "73999969074",
+        "nomeCompleto": "CLAUDILEIA FERREIRA DE NOVAES",
+        "cpf": "02099382506",
+        "telefoneContato": "",
+        "dataNascimento": "01/11/1980",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29161160",
+        "endereco": "Rua ROD BR 101",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ROSARIO DE FATIMA",
+        "cidade": "SERRA",
+        "estado": "es",
+        "logradouro": "ROD BR 101",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 73999969074.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

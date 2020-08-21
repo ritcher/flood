@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51996361082",
+        "nomeCompleto": "RONALDO CONCEICAO ANDRADE",
+        "cpf": "61197136380",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": "maryaalcantara0002@gmail.com",
+        "cep": "95773000",
+        "endereco": " JULIO DE CASTILHOS",
+        "numeroEndereco": "32",
+        "complementoEndereco": "",
+        "bairro": "SAO PEDRO",
+        "cidade": "ALTO FELIZ",
+        "estado": "RS",
+        "logradouro": "JULIO DE CASTILHOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51996361082.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

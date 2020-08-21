@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=32299373-ec96-4859-b75b-9840f20d27ed",
+    "data": {
+        "linha": "89981033182",
+        "nomeCompleto": "BRUNO HENRIQUE DE ABREU SOUZA",
+        "cpf": "08424714300",
+        "telefoneContato": "",
+        "dataNascimento": "07/11/2001",
+        "nomeMae": null,
+        "email": null,
+        "cep": "54420170",
+        "endereco": "RUA DOMINGOS SAVIO",
+        "numeroEndereco": "77",
+        "complementoEndereco": "",
+        "bairro": "PIEDADE",
+        "cidade": "JABOATAO DOS GUARARAPES",
+        "estado": "PE",
+        "logradouro": "DOMINGOS SAVIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 89981033182.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

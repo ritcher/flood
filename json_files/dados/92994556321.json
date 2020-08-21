@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994556321",
+        "nomeCompleto": "DANIEL OLIVEIRA DO CARMO",
+        "cpf": "04179679264",
+        "telefoneContato": "",
+        "dataNascimento": "24/10/2014",
+        "nomeMae": "MARIA OLIVEIRA DO CARMO",
+        "email": "stimirf548498ej@gmail.com",
+        "cep": "40000000",
+        "endereco": " PORTO LONGE RUI BARBOSA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": ".",
+        "cidade": "RUI BARBOSA",
+        "estado": "BA",
+        "logradouro": "PORTO LONGE RUI BARBOSA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994556321.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

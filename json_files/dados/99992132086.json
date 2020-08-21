@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=fd5fd518-5237-4d60-a39f-116638c3c040",
+    "data": {
+        "linha": "99992132086",
+        "nomeCompleto": "MARIA DIOMAR SOARES DE MORAIS",
+        "cpf": "00874128374",
+        "telefoneContato": "",
+        "dataNascimento": "07/12/1969",
+        "nomeMae": "Luiza Gomes Ferreira ",
+        "email": "mariadiomar820@gmail.com",
+        "cep": "78000000",
+        "endereco": " 27",
+        "numeroEndereco": "567S",
+        "complementoEndereco": "",
+        "bairro": "JARDIM VITORIA",
+        "cidade": "TANGARA DA SERRA",
+        "estado": "MT",
+        "logradouro": "27",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99992132086.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

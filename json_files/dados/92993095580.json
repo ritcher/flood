@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993095580",
+        "nomeCompleto": "ADRIANO DO CARMO BARROS",
+        "cpf": "70147666279",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": "jefferson.marti2020@gmail.com",
+        "cep": "69082431",
+        "endereco": "RUA  RODOLFO GRIMM 530",
+        "numeroEndereco": "530",
+        "complementoEndereco": "",
+        "bairro": "COROADO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": " RODOLFO GRIMM 530",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993095580.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

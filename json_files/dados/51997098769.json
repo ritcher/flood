@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51997098769",
+        "nomeCompleto": "DOUGLAS LUAN BARBOSA",
+        "cpf": "04183490022",
+        "telefoneContato": "",
+        "dataNascimento": "01/02/1999",
+        "nomeMae": null,
+        "email": null,
+        "cep": "91130480",
+        "endereco": "Rua RUA ZEFERINO DIAS",
+        "numeroEndereco": "131",
+        "complementoEndereco": "",
+        "bairro": "SARANDI",
+        "cidade": "PORTO ALEGRE",
+        "estado": "rs",
+        "logradouro": "RUA ZEFERINO DIAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51997098769.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

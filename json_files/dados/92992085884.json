@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992085884",
+        "nomeCompleto": "GRACIANO SEVERINO DA SILVA NETO",
+        "cpf": "74944010249",
+        "telefoneContato": "",
+        "dataNascimento": "02/04/1980",
+        "nomeMae": null,
+        "email": "r7xbmfwb1i89rlk@gmail.com",
+        "cep": "72900278",
+        "endereco": "Rua QD 73 18 C",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SANTO ANTONIO DO DESCOBERTO",
+        "estado": "GO",
+        "logradouro": "QD 73 18 C",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992085884.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18996543643",
+        "nomeCompleto": "JULIANA DOS SANTOS OLIVEIRA",
+        "cpf": "34989879848",
+        "telefoneContato": "",
+        "dataNascimento": "05/08/1983",
+        "nomeMae": "celina dos santos oliveira",
+        "email": null,
+        "cep": "19042400",
+        "endereco": "RUA AURORA DE COSTE FREDERIGI",
+        "numeroEndereco": "337",
+        "complementoEndereco": "",
+        "bairro": "JARDIM SUMARE",
+        "cidade": "PRES PRUDENTE",
+        "estado": "SP",
+        "logradouro": "AURORA DE COSTE FREDERIGI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18996543643.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

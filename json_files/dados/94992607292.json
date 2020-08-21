@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9d78cb65-4eb0-4759-b3f2-8308b2d9f925",
+    "data": {
+        "linha": "94992607292",
+        "nomeCompleto": "MAYKELLE SERRA TRINDADE",
+        "cpf": "70670232114",
+        "telefoneContato": "",
+        "dataNascimento": "15/11/1998",
+        "nomeMae": null,
+        "email": null,
+        "cep": "74932010",
+        "endereco": "RUA 5 E",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "GARAVELO RESIDENCIAL",
+        "cidade": "APARECIDA DE GOIANIA",
+        "estado": "GO",
+        "logradouro": "5 E",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992607292.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

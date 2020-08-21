@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "17996796511",
+        "nomeCompleto": "ALEXSSANDRO JUNIOR FERREIRA",
+        "cpf": "06383669680",
+        "telefoneContato": "",
+        "dataNascimento": "04/05/1984",
+        "nomeMae": "Aparecida Donizete Monteiro Ferreira",
+        "email": null,
+        "cep": "15685000",
+        "endereco": "FAZENDA SEBASTIAO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "INTERIOR",
+        "cidade": "OUROESTE",
+        "estado": "SP",
+        "logradouro": "SEBASTIAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 17996796511.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

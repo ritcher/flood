@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=25fd8d3b-303c-471f-a14a-67972e782eb9",
+    "data": {
+        "linha": "93991474244",
+        "nomeCompleto": "EVALDO RAMOS DA SILVA'",
+        "cpf": "76936490263",
+        "telefoneContato": "",
+        "dataNascimento": "02/04/1972",
+        "nomeMae": "MARIA",
+        "email": null,
+        "cep": "68200000",
+        "endereco": "TRAVESSA CEL RAMIRO DUARTE",
+        "numeroEndereco": "625",
+        "complementoEndereco": "",
+        "bairro": "ANINGAL",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "CEL RAMIRO DUARTE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991474244.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

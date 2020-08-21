@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=e58d402f-4f3e-420f-9c33-73d48efcaa4b",
+    "data": {
+        "linha": "53999313454",
+        "nomeCompleto": "MONIQUE MELLO DE SOUZA",
+        "cpf": "01838037012",
+        "telefoneContato": "",
+        "dataNascimento": "06/02/1986",
+        "nomeMae": null,
+        "email": null,
+        "cep": "39185000",
+        "endereco": "RUA DA CAPOERINHA",
+        "numeroEndereco": "45",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SAO GONCALO DO RIO PRETO",
+        "estado": "mg",
+        "logradouro": "DA CAPOERINHA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 53999313454.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

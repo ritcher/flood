@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=d3af0949-d0f2-4b36-a144-7c0bdfbb0981",
+    "data": {
+        "linha": "32999197950",
+        "nomeCompleto": "LEONARDO DOMINGOS ARAUJO",
+        "cpf": "11159836604",
+        "telefoneContato": "",
+        "dataNascimento": "18/12/1989",
+        "nomeMae": "MARIA JOSE DOMINGOS CORREIA",
+        "email": "j6pfzjyt37t2xb5@gmail.com",
+        "cep": "36150000",
+        "endereco": "RUA 21 DE DEZEMBRO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "NS APARECIDA",
+        "cidade": "R NOVO",
+        "estado": "MG",
+        "logradouro": "21 DE DEZEMBRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 32999197950.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

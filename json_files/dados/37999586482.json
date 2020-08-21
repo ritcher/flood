@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1e409b66-40a1-4e89-ad3d-de8c471a3f7a",
+    "data": {
+        "linha": "37999586482",
+        "nomeCompleto": "MARCIO ANTONIO MOTA",
+        "cpf": "90929543653",
+        "telefoneContato": "",
+        "dataNascimento": "28/01/1970",
+        "nomeMae": "marta maria de jesus mota",
+        "email": null,
+        "cep": "35610000",
+        "endereco": " RUA JOSUE CHAGAS",
+        "numeroEndereco": "253",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "DORES DO INDAIA",
+        "estado": "MG",
+        "logradouro": "RUA JOSUE CHAGAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37999586482.",
+    "currentPlan": {
+        "code": "MGVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

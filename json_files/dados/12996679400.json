@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12996679400",
+        "nomeCompleto": "MONICA LUIZA PORTO OLIVEIRA",
+        "cpf": "29348130889",
+        "telefoneContato": "",
+        "dataNascimento": "11/03/1982",
+        "nomeMae": null,
+        "email": null,
+        "cep": "12490000",
+        "endereco": "RUA NS APARECIDA",
+        "numeroEndereco": "520",
+        "complementoEndereco": "",
+        "bairro": "SERRANO",
+        "cidade": "SAO BENTO DO SAPUCAI",
+        "estado": "sp",
+        "logradouro": "NS APARECIDA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996679400.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

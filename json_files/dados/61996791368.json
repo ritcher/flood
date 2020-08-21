@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "61996791368",
+        "nomeCompleto": "MACIEL DOS SANTOS FERREIRA",
+        "cpf": "00940880121",
+        "telefoneContato": "",
+        "dataNascimento": "02/03/1985",
+        "nomeMae": "perpetua do Socorro dos Santos Ferreira ",
+        "email": "msantosravi@gmail.com",
+        "cep": "71693701",
+        "endereco": " RES VITORIA RUA 1",
+        "numeroEndereco": "18",
+        "complementoEndereco": "",
+        "bairro": "RESIDENCIAL VITORIA (SAO SEBASTIAO)",
+        "cidade": "BRASILIA",
+        "estado": "DF",
+        "logradouro": "RES VITORIA RUA 1",
+        "contaDigital": true,
+        "vencimentoFatura": "17",
+        "ciclo": "01",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61996791368.",
+    "currentPlan": {
+        "code": "VIVOCTRLF27A",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL_4GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=98a63f3b-6685-490f-838c-854114d87f93",
+    "data": {
+        "linha": "89981155125",
+        "nomeCompleto": "MARIA APARECIDA DE JESUS",
+        "cpf": "01514140330",
+        "telefoneContato": "",
+        "dataNascimento": "23/08/1981",
+        "nomeMae": null,
+        "email": null,
+        "cep": "00000000",
+        "endereco": " ANTONIO TAVARES DE VASCONCELOS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "VILA",
+        "cidade": "RECIFE",
+        "estado": "PE",
+        "logradouro": "ANTONIO TAVARES DE VASCONCELOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 89981155125.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

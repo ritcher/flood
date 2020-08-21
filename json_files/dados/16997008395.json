@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "16997008395",
+        "nomeCompleto": "CLAUDIMAR DE SOUZA LOPES",
+        "cpf": "33909446809",
+        "telefoneContato": "",
+        "dataNascimento": "30/03/1988",
+        "nomeMae": null,
+        "email": "claudimarlopes@hotmail.com",
+        "cep": "14790000",
+        "endereco": "AVENIDA  VINTE E SETE A 2003",
+        "numeroEndereco": "2003",
+        "complementoEndereco": "",
+        "bairro": "FABIO TALARICO",
+        "cidade": "GUAIRA",
+        "estado": "sp",
+        "logradouro": " VINTE E SETE A 2003",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 16997008395.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

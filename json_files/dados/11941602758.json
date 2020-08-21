@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "11941602758",
+        "nomeCompleto": "VALMIR GUIMARAES TEIXEIRA",
+        "cpf": "00647260700",
+        "telefoneContato": "",
+        "dataNascimento": "21/07/1969",
+        "nomeMae": null,
+        "email": "ppvsk16797@finxmail.com",
+        "cep": "69082520",
+        "endereco": " JOSE DUTRA",
+        "numeroEndereco": "143",
+        "complementoEndereco": "",
+        "bairro": "COROADO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "JOSE DUTRA",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11941602758.",
+    "currentPlan": {
+        "code": "VIVOCTRLF50N",
+        "price": 69.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 4GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

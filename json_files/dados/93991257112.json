@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6b243904-56a8-4b8e-b000-2b7b28d1b844",
+    "data": {
+        "linha": "93991257112",
+        "nomeCompleto": "edivan douglas assun\u00e7\u00e3o neto",
+        "cpf": "03437462202",
+        "telefoneContato": "",
+        "dataNascimento": "30/03/1995",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68200000",
+        "endereco": "TRAVESSA 7 DE SETEMBRO",
+        "numeroEndereco": "322",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "7 DE SETEMBRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991257112.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

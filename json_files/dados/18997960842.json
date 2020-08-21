@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18997960842",
+        "nomeCompleto": "Giselda Maria de Souza",
+        "cpf": "26013052824",
+        "telefoneContato": "",
+        "dataNascimento": "17/11/1975",
+        "nomeMae": "Ros\u00e1ria F\u00e1tima de Souza",
+        "email": null,
+        "cep": "15290000",
+        "endereco": "R RUBIAO JR",
+        "numeroEndereco": "370",
+        "complementoEndereco": "",
+        "bairro": "LIVRAMENTO",
+        "cidade": "BURITAMA",
+        "estado": "SP",
+        "logradouro": "RUBIAO JR",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18997960842.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

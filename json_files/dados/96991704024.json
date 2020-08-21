@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=3a540b6e-a61a-4ef6-bb60-74316cb71d22",
+    "data": {
+        "linha": "96991704024",
+        "nomeCompleto": "VANUZA FERNANDES DA SILVA",
+        "cpf": "02486952233",
+        "telefoneContato": "",
+        "dataNascimento": "20/12/1986",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68927185",
+        "endereco": "TRAVESSA 23",
+        "numeroEndereco": "261",
+        "complementoEndereco": "",
+        "bairro": "PROV I",
+        "cidade": "SANTANA",
+        "estado": "AP",
+        "logradouro": "23",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 96991704024.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=5dcdc8d2-a0e7-4db9-8ef0-2675a1ccd14e",
+    "data": {
+        "linha": "94993032270",
+        "nomeCompleto": "CLAUDILENE DA CONCEICAO LAURINDA",
+        "cpf": "75284383249",
+        "telefoneContato": "",
+        "dataNascimento": "05/08/1976",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68473972",
+        "endereco": "RUA FRANCISCO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "BELO MONTE",
+        "cidade": "NOVO REPARTIMENTO",
+        "estado": "PA",
+        "logradouro": "FRANCISCO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94993032270.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

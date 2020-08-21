@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=e6155b38-fbdd-4751-8a2e-c80626208297",
+    "data": {
+        "linha": "93991891302",
+        "nomeCompleto": "MATHEUS DA SILVA BRAGA",
+        "cpf": "04450873238",
+        "telefoneContato": "",
+        "dataNascimento": "23/10/2000",
+        "nomeMae": "ALDENICE FERREIRA DA SILVA BRAGA",
+        "email": null,
+        "cep": "66077005",
+        "endereco": "Rua PSG  CANAA 21 SOBRE LJ",
+        "numeroEndereco": "21",
+        "complementoEndereco": "",
+        "bairro": "TERRA FIRME",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "PSG  CANAA 21 SOBRE LJ",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991891302.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

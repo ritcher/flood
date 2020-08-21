@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92995369495",
+        "nomeCompleto": "REJANE DO NASCIMENTO TAVEIRA",
+        "cpf": "51736470272",
+        "telefoneContato": "",
+        "dataNascimento": "08/04/1974",
+        "nomeMae": null,
+        "email": "6632bw3noiudzu0@gmail.com",
+        "cep": "69039220",
+        "endereco": "RUA BRASIL",
+        "numeroEndereco": "27",
+        "complementoEndereco": "",
+        "bairro": "NOVO ISRAEL",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "BRASIL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92995369495.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

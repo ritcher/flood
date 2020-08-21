@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=23926788-cb7a-489d-bc7e-39c884092316",
+    "data": {
+        "linha": "98991389328",
+        "nomeCompleto": "RAIMUNDO NONATO PEREIRA DA SILVA",
+        "cpf": "76004465372",
+        "telefoneContato": "",
+        "dataNascimento": "13/06/1978",
+        "nomeMae": null,
+        "email": null,
+        "cep": "65044070",
+        "endereco": "RUA SEIS DE JANEIRO",
+        "numeroEndereco": "31",
+        "complementoEndereco": "",
+        "bairro": "COROADINHO",
+        "cidade": "SAO LUIS",
+        "estado": "MA",
+        "logradouro": "SEIS DE JANEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98991389328.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

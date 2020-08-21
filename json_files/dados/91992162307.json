@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992162307",
+        "nomeCompleto": "Carlos Henrique",
+        "cpf": "13629178855",
+        "telefoneContato": "",
+        "dataNascimento": "08/01/1975",
+        "nomeMae": "Leila Etelvina Barris Henrique",
+        "email": "biellrodriguesr7@gmail.com",
+        "cep": "05379000",
+        "endereco": "AVENIDA RIO PEQUENO",
+        "numeroEndereco": "120",
+        "complementoEndereco": "",
+        "bairro": "BUTANTA",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "RIO PEQUENO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992162307.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

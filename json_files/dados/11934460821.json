@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11934460821",
+        "nomeCompleto": "THALES HENRIQUE MELO DE OLIVEIRA",
+        "cpf": "02365478280",
+        "telefoneContato": "",
+        "dataNascimento": "15/12/1996",
+        "nomeMae": null,
+        "email": null,
+        "cep": "07173400",
+        "endereco": "RUA ITAPE",
+        "numeroEndereco": "123",
+        "complementoEndereco": "",
+        "bairro": "JD MARIA DIRCE",
+        "cidade": "GUARULHOS",
+        "estado": "sp",
+        "logradouro": "ITAPE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11934460821.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

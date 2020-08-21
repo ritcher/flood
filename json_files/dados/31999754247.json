@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31999754247",
+        "nomeCompleto": "GUSTAVO HENRIQUE GOMES COSTA",
+        "cpf": "08360246645",
+        "telefoneContato": "",
+        "dataNascimento": "19/04/1988",
+        "nomeMae": "MARIA",
+        "email": "henriquegusttavo87@gmail.com",
+        "cep": "69911862",
+        "endereco": "RUA JOAO GOMES",
+        "numeroEndereco": "757",
+        "complementoEndereco": "",
+        "bairro": "AYRTON SENNA",
+        "cidade": "R BRANCO",
+        "estado": "AC",
+        "logradouro": "JOAO GOMES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31999754247.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

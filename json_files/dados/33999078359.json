@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=586d99c2-7497-4f4a-a7dc-39b79a81e714",
+    "data": {
+        "linha": "33999078359",
+        "nomeCompleto": "ESTEFFANY CHANCES RODRIGUES LOURENCO",
+        "cpf": "13055157656",
+        "telefoneContato": "",
+        "dataNascimento": "01/01/1978",
+        "nomeMae": null,
+        "email": null,
+        "cep": "39820000",
+        "endereco": "Rua RUA DO ROSARIO",
+        "numeroEndereco": "86",
+        "complementoEndereco": "",
+        "bairro": "ANASTACIO ROQUE",
+        "cidade": "NOVO CRUZEIRO",
+        "estado": "mg",
+        "logradouro": "RUA DO ROSARIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999078359.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

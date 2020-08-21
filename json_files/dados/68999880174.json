@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6b9004aa-b04b-44cd-99db-9c84ef752f58",
+    "data": {
+        "linha": "68999880174",
+        "nomeCompleto": "DALCIVAN DA SILVA FERREIRA",
+        "cpf": "02462367284",
+        "telefoneContato": "",
+        "dataNascimento": "16/04/1995",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69930000",
+        "endereco": "RUA CHICO MENDES",
+        "numeroEndereco": "78",
+        "complementoEndereco": "",
+        "bairro": "CIBERIA",
+        "cidade": "XAPURI",
+        "estado": "AC",
+        "logradouro": "CHICO MENDES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999880174.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

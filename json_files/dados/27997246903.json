@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27997246903",
+        "nomeCompleto": "PATRICIA PEDRINI",
+        "cpf": "15053081786",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29043290",
+        "endereco": "Rua RUA HONORIO MAGALHAES RAMALHO",
+        "numeroEndereco": "42",
+        "complementoEndereco": "",
+        "bairro": "SANTA CECILIA",
+        "cidade": "VITORIA",
+        "estado": "es",
+        "logradouro": "RUA HONORIO MAGALHAES RAMALHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27997246903.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

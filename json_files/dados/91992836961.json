@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992836961",
+        "nomeCompleto": "LEANDRO BRAGA GOMES",
+        "cpf": "97073334215",
+        "telefoneContato": "",
+        "dataNascimento": "24/04/1991",
+        "nomeMae": "MARIA DE NAZARE BRAGA GOMES",
+        "email": null,
+        "cep": "66812430",
+        "endereco": "Rua TRAVESSA SOUZA FRANCO",
+        "numeroEndereco": "352",
+        "complementoEndereco": "",
+        "bairro": "PONTA GROSSA",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "TRAVESSA SOUZA FRANCO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992836961.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

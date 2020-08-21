@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c9f3e6ce-c917-41c2-b9a6-4bdb30471972",
+    "data": {
+        "linha": "41991928954",
+        "nomeCompleto": "NILTON ARRUDA SANTOS",
+        "cpf": "02293098958",
+        "telefoneContato": "",
+        "dataNascimento": "18/04/1979",
+        "nomeMae": null,
+        "email": "niltonarrudasantos@gmail.com",
+        "cep": "83401120",
+        "endereco": " DO PARDAL",
+        "numeroEndereco": "139",
+        "complementoEndereco": "",
+        "bairro": "",
+        "cidade": "COLOMBO",
+        "estado": "PR",
+        "logradouro": "DO PARDAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 41991928954.",
+    "currentPlan": {
+        "code": "PRPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

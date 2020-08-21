@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51980656941",
+        "nomeCompleto": "SARA ESTER CASTRO",
+        "cpf": "05949627148",
+        "telefoneContato": "",
+        "dataNascimento": "09/03/1966",
+        "nomeMae": null,
+        "email": "eelianestefanybrunasouza@imail.com",
+        "cep": "97572136",
+        "endereco": " ATALIBA GONCALVES",
+        "numeroEndereco": "32",
+        "complementoEndereco": "",
+        "bairro": "PRADO",
+        "cidade": "SANTANA DO LIVRAMENTO",
+        "estado": "RS",
+        "logradouro": "ATALIBA GONCALVES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51980656941.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

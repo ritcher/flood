@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999020916",
+        "nomeCompleto": "GILBERTO NEVES DE ALMEIDA",
+        "cpf": "02315290236",
+        "telefoneContato": "",
+        "dataNascimento": "05/07/1986",
+        "nomeMae": null,
+        "email": null,
+        "cep": "76811392",
+        "endereco": "RUA AREIA BRANCA",
+        "numeroEndereco": "5964",
+        "complementoEndereco": "",
+        "bairro": "CASTANHEIRA",
+        "cidade": "PORTO VELHO",
+        "estado": "RO",
+        "logradouro": "AREIA BRANCA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999020916.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

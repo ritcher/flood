@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92995101171",
+        "nomeCompleto": "VANESSA DO SANTOS MIRANDA ",
+        "cpf": "03946310214",
+        "telefoneContato": "",
+        "dataNascimento": "01/02/1995",
+        "nomeMae": "SILVANA SILVA DOS SANTOS ",
+        "email": null,
+        "cep": "69730000",
+        "endereco": "RUA ALMEIRINDA MALAQUIAS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "N ESPERANCA",
+        "cidade": "NOVO AIRAO",
+        "estado": "AM",
+        "logradouro": "ALMEIRINDA MALAQUIAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92995101171.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

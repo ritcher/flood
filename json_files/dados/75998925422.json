@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=29cb0ab0-bbd6-4a64-8b5f-ed2e9f6bc702",
+    "data": {
+        "linha": "75998925422",
+        "nomeCompleto": "DERLIANE DELFINA DE ABREU",
+        "cpf": "82397848287",
+        "telefoneContato": "",
+        "dataNascimento": "25/06/1985",
+        "nomeMae": "Maria Dino",
+        "email": null,
+        "cep": "43100000",
+        "endereco": "COL LANDUFA ALVES",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ALTO DO IPE",
+        "cidade": "CANDEIAS",
+        "estado": "BA",
+        "logradouro": "LANDUFA ALVES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 75998925422.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

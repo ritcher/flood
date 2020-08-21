@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992141649",
+        "nomeCompleto": "JAQUELINE DE SOUZA FERRAZ",
+        "cpf": "81991576234",
+        "telefoneContato": "",
+        "dataNascimento": "13/03/1985",
+        "nomeMae": null,
+        "email": null,
+        "cep": "00000000",
+        "endereco": " AGOSTINHO CACAO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "JD ITAMARACA",
+        "cidade": "INDAIATUBA",
+        "estado": "SP",
+        "logradouro": "AGOSTINHO CACAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992141649.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

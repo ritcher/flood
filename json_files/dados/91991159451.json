@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991159451",
+        "nomeCompleto": "ANTONIO CARLOS AVIZ CASTRO",
+        "cpf": "60004720210",
+        "telefoneContato": "",
+        "dataNascimento": "10/09/1978",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68786000",
+        "endereco": "TRAVESSA VITOR PRAXEDES",
+        "numeroEndereco": "2",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SANTO ANTONIO DO TAUA",
+        "estado": "PA",
+        "logradouro": "VITOR PRAXEDES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991159451.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

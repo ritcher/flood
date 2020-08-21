@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=7ff9a479-1214-41ab-92f7-cfd284135c41",
+    "data": {
+        "linha": "79999159943",
+        "nomeCompleto": "MARIA DE FATIMA FONSECA DE NORONHA",
+        "cpf": "40289702534",
+        "telefoneContato": "",
+        "dataNascimento": "13/05/1967",
+        "nomeMae": "MARIA JOSE FONSECA DE NORONHA",
+        "email": null,
+        "cep": "49095080",
+        "endereco": "RUA DHUMBERTO MOURAO GUIMARAES 16",
+        "numeroEndereco": "16",
+        "complementoEndereco": "",
+        "bairro": "JABOTIANA",
+        "cidade": "ARACAJU",
+        "estado": "SE",
+        "logradouro": "DHUMBERTO MOURAO GUIMARAES 16",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79999159943.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

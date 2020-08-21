@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "19971067569",
+        "nomeCompleto": "PAULO SERGIO PEREIRA DOS SANTOS",
+        "cpf": "45821959896",
+        "telefoneContato": "",
+        "dataNascimento": "16/05/2001",
+        "nomeMae": "JUNIA MARIZE PEREIRA DOS SANTOS",
+        "email": null,
+        "cep": "91570200",
+        "endereco": "Rua RUA CONTINENTAL",
+        "numeroEndereco": "695",
+        "complementoEndereco": "",
+        "bairro": "LOMBA DO PINHEIRO",
+        "cidade": "PORTO ALEGRE",
+        "estado": "rs",
+        "logradouro": "RUA CONTINENTAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19971067569.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f7ffeec1-3f52-469c-be1e-73f09456cbb3",
+    "data": {
+        "linha": "73999341695",
+        "nomeCompleto": "ANA PAULA ALVES DE ANDRADE",
+        "cpf": "00407714588",
+        "telefoneContato": "",
+        "dataNascimento": "27/03/1977",
+        "nomeMae": null,
+        "email": null,
+        "cep": "45615970",
+        "endereco": "AVENIDA PAULO PORTELA",
+        "numeroEndereco": "317",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "BUERAREMA",
+        "estado": "BA",
+        "logradouro": "PAULO PORTELA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 73999341695.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

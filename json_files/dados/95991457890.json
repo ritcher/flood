@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=294ec5e9-81cd-44dd-8a9e-75f705ac112d",
+    "data": {
+        "linha": "95991457890",
+        "nomeCompleto": "ANTONIO JOSE CASTRO DOS SANTOS",
+        "cpf": "11246170272",
+        "telefoneContato": "",
+        "dataNascimento": "27/09/1960",
+        "nomeMae": "ELIZA EVARISTO DOS SANTOS",
+        "email": null,
+        "cep": "69304470",
+        "endereco": "R ROTARY",
+        "numeroEndereco": "260",
+        "complementoEndereco": "",
+        "bairro": "MECEJANA",
+        "cidade": "BOA VISTA",
+        "estado": "RR",
+        "logradouro": "ROTARY",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 95991457890.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

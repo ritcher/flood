@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999918873",
+        "nomeCompleto": "LUIZ EDUARDO SOUSA DE ALBUQUERQUE",
+        "cpf": "02148007254",
+        "telefoneContato": "",
+        "dataNascimento": "23/02/1995",
+        "nomeMae": null,
+        "email": null,
+        "cep": "76820676",
+        "endereco": "RUA RUTILIO",
+        "numeroEndereco": "4723",
+        "complementoEndereco": "",
+        "bairro": "FLODOALDO PONTES PIN",
+        "cidade": "PORTO VELHO",
+        "estado": "RO",
+        "logradouro": "RUTILIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999918873.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

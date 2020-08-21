@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=23a1f6d9-5da0-4603-82b3-98256a3fd775",
+    "data": {
+        "linha": "77998467294",
+        "nomeCompleto": "ANTONIO PEREIRA DA SILVA",
+        "cpf": "12208841549",
+        "telefoneContato": "",
+        "dataNascimento": "22/12/1952",
+        "nomeMae": null,
+        "email": null,
+        "cep": "47690000",
+        "endereco": "RUA ARCO IRIS",
+        "numeroEndereco": "240",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CORIBE",
+        "estado": "BA",
+        "logradouro": "ARCO IRIS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77998467294.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

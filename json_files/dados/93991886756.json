@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=390c3ed1-ea4e-49bb-a952-5d8f1591174c",
+    "data": {
+        "linha": "93991886756",
+        "nomeCompleto": "MARIA DA CONCEICAO MOURA DA SILVA",
+        "cpf": "02735322270",
+        "telefoneContato": "",
+        "dataNascimento": "30/11/1984",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68000000",
+        "endereco": "Rua COL TABOCAL",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "UNIAO",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "COL TABOCAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991886756.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

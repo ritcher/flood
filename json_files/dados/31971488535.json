@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31971488535",
+        "nomeCompleto": "ADELIA DA CONCEICAO CARVALHO PAULINO",
+        "cpf": "93642466672",
+        "telefoneContato": "",
+        "dataNascimento": "19/11/1961",
+        "nomeMae": null,
+        "email": null,
+        "cep": "32400000",
+        "endereco": "RUA ITAPEMA",
+        "numeroEndereco": "119",
+        "complementoEndereco": "",
+        "bairro": "LAGO AZUL",
+        "cidade": "IBIRITE",
+        "estado": "mg",
+        "logradouro": "ITAPEMA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31971488535.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

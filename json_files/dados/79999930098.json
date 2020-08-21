@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b3e84e7b-3db6-4d71-a0d0-1b39c7c1a6c5",
+    "data": {
+        "linha": "79999930098",
+        "nomeCompleto": "ALICE MARIA DO NASCIMENTO BISPO",
+        "cpf": "69428182591",
+        "telefoneContato": "",
+        "dataNascimento": "03/04/1933",
+        "nomeMae": null,
+        "email": null,
+        "cep": "49400000",
+        "endereco": "RUA JOAQUIM PRATA",
+        "numeroEndereco": "266",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "LAGARTO",
+        "estado": "SE",
+        "logradouro": "JOAQUIM PRATA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79999930098.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65996469082",
+        "nomeCompleto": "Wellington Pereira dos Santos",
+        "cpf": "06217679132",
+        "telefoneContato": "",
+        "dataNascimento": "21/05/1999",
+        "nomeMae": "Sueli Matias dos Santos",
+        "email": "wellingtonzinha123@gmail.com",
+        "cep": "78240970",
+        "endereco": "R 13 DE MAIO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "PORTO ESPERIDIAO",
+        "estado": "MT",
+        "logradouro": "13 DE MAIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65996469082.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

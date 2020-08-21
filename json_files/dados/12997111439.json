@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12997111439",
+        "nomeCompleto": "ALESSANDRA MARIA DA SILVA",
+        "cpf": "34599043800",
+        "telefoneContato": "",
+        "dataNascimento": "02/10/1985",
+        "nomeMae": null,
+        "email": "alesilva422@hotmail.com",
+        "cep": "12092090",
+        "endereco": "RUA ANDRE CURSINO DOS SANTOS",
+        "numeroEndereco": "840",
+        "complementoEndereco": "",
+        "bairro": "SAO GONCALO",
+        "cidade": "TAUBATE",
+        "estado": "sp",
+        "logradouro": "ANDRE CURSINO DOS SANTOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12997111439.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

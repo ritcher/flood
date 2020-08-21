@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992536609",
+        "nomeCompleto": "TATIANA DOS SANTOS",
+        "cpf": "71627316272",
+        "telefoneContato": "",
+        "dataNascimento": "25/04/1977",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68450000",
+        "endereco": "Rua RGINAL",
+        "numeroEndereco": "32",
+        "complementoEndereco": "",
+        "bairro": "PAROLANDIA",
+        "cidade": "MOJU",
+        "estado": "PA",
+        "logradouro": "RGINAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992536609.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

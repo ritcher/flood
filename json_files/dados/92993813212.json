@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993813212",
+        "nomeCompleto": "EDUARDA NAIR FIGUEIREDO",
+        "cpf": "06026370072",
+        "telefoneContato": "",
+        "dataNascimento": "15/10/1990",
+        "nomeMae": null,
+        "email": "igorfernandofabiosilveira-84@custodes.com.br",
+        "cep": "12405550",
+        "endereco": " WALDOMIRO MARCONDES",
+        "numeroEndereco": "22",
+        "complementoEndereco": "",
+        "bairro": "CASTOLIRA",
+        "cidade": "PINDAMONHANGABA",
+        "estado": "SP",
+        "logradouro": "WALDOMIRO MARCONDES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993813212.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

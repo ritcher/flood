@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991402766",
+        "nomeCompleto": "EDI CARLOS FRAGATA DA COSTA",
+        "cpf": "66642817249",
+        "telefoneContato": "",
+        "dataNascimento": "11/07/1981",
+        "nomeMae": null,
+        "email": "edicarlosfragatadacostafragata@gmail.com",
+        "cep": "69087031",
+        "endereco": "RUA MIN JARBAS PASSARINHO",
+        "numeroEndereco": "36",
+        "complementoEndereco": "",
+        "bairro": "TANCREDO NEVES",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "MIN JARBAS PASSARINHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991402766.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

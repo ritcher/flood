@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991666580",
+        "nomeCompleto": "MARIA DA SILVA RAMOS",
+        "cpf": "05507417040",
+        "telefoneContato": "",
+        "dataNascimento": "17/01/1990",
+        "nomeMae": "Maisa da Silva nunes",
+        "email": "mabsjsuysghshshshshs@gmail.com",
+        "cep": "79106772",
+        "endereco": " GERMINAL",
+        "numeroEndereco": "561",
+        "complementoEndereco": "",
+        "bairro": "JARDIM AEROPORTO",
+        "cidade": "CAMPO GRANDE",
+        "estado": "MS",
+        "logradouro": "GERMINAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991666580.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

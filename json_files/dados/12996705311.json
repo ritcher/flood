@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12996705311",
+        "nomeCompleto": "ISABELA APARECIDA DE PAULA",
+        "cpf": "45898870881",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "12440200",
+        "endereco": "Rua RUA DOUTOR GONZAGA",
+        "numeroEndereco": "201",
+        "complementoEndereco": "",
+        "bairro": "MOREIRA CESAR",
+        "cidade": "PINDAMONHANGABA",
+        "estado": "sp",
+        "logradouro": "RUA DOUTOR GONZAGA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996705311.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1c4f09d3-eee0-4fab-8557-6ac6ab95e0be",
+    "data": {
+        "linha": "79996494279",
+        "nomeCompleto": "JOSE ADELINO DE CARVALHO",
+        "cpf": "64936686891",
+        "telefoneContato": "",
+        "dataNascimento": "22/12/1938",
+        "nomeMae": null,
+        "email": null,
+        "cep": "49810000",
+        "endereco": "RUA BOA SORTE",
+        "numeroEndereco": "134",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "POCO REDONDO",
+        "estado": "SE",
+        "logradouro": "BOA SORTE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79996494279.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

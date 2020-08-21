@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=21e456fe-237a-4f79-8078-29dfbb65586d",
+    "data": {
+        "linha": "99991579235",
+        "nomeCompleto": "VANDIRA TEODORO DOS SANTOS NASCIMENTO",
+        "cpf": "58589520110",
+        "telefoneContato": "",
+        "dataNascimento": "01/06/1966",
+        "nomeMae": "maria",
+        "email": "silvaaltos@gmail.com",
+        "cep": "74685490",
+        "endereco": "AVENIDA SAO JORGE",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "VILA JARDIM SAO JUDAS TADEU",
+        "cidade": "GOIANIA",
+        "estado": "GO",
+        "logradouro": "SAO JORGE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99991579235.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51999549361",
+        "nomeCompleto": "MAGNO VENaNCIO FIGUEIRA",
+        "cpf": "72975803095",
+        "telefoneContato": "",
+        "dataNascimento": "19/02/1985",
+        "nomeMae": "Fabiola Paula ",
+        "email": "chhcgbvfjgg@gmail.com",
+        "cep": "07115000",
+        "endereco": " PAULO SERGIO OLIVEIRA DE AQUINO",
+        "numeroEndereco": "66",
+        "complementoEndereco": "",
+        "bairro": "CIDADE MAIA",
+        "cidade": "GUARULHOS",
+        "estado": "SP",
+        "logradouro": "PAULO SERGIO OLIVEIRA DE AQUINO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51999549361.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

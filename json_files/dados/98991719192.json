@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b2612f73-5f6c-4701-9e32-b850cd241fb2",
+    "data": {
+        "linha": "98991719192",
+        "nomeCompleto": "JOELSON OSEAS GONCALVES DOS SANTOS DINIZ",
+        "cpf": "07421618384",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "65255000",
+        "endereco": "Rua RUA SOUSANDRADE",
+        "numeroEndereco": "102",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "GUIMARAES",
+        "estado": "MA",
+        "logradouro": "RUA SOUSANDRADE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98991719192.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

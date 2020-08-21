@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21999448890",
+        "nomeCompleto": "HELEN DE ANDRADE VIANA",
+        "cpf": "08234814761",
+        "telefoneContato": "",
+        "dataNascimento": "24/10/1977",
+        "nomeMae": null,
+        "email": null,
+        "cep": "24753000",
+        "endereco": "AVENIDA EUGENIO BORGES",
+        "numeroEndereco": "1591",
+        "complementoEndereco": "",
+        "bairro": "RIO DO OURO",
+        "cidade": "SAO GONCALO",
+        "estado": "Rj",
+        "logradouro": "EUGENIO BORGES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21999448890.",
+    "currentPlan": {
+        "code": "RJVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11998045344",
+        "nomeCompleto": "MILTON BRIZIO DA SILVA",
+        "cpf": "38928019400",
+        "telefoneContato": "",
+        "dataNascimento": "06/01/1962",
+        "nomeMae": null,
+        "email": null,
+        "cep": "04905000",
+        "endereco": "Rua EST DO M BOI MIRIM",
+        "numeroEndereco": "152",
+        "complementoEndereco": "",
+        "bairro": "JARDIM DAS FLORES",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "EST DO M BOI MIRIM",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11998045344.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

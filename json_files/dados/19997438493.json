@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "19997438493",
+        "nomeCompleto": "THAIS HELENA DE CAMARGO LEITE",
+        "cpf": "22961174813",
+        "telefoneContato": "",
+        "dataNascimento": "20/06/1987",
+        "nomeMae": null,
+        "email": null,
+        "cep": "63270000",
+        "endereco": "Rua SIT SACO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ZONA RURAL",
+        "cidade": "PORTEIRAS",
+        "estado": "CE",
+        "logradouro": "SIT SACO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19997438493.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993972039",
+        "nomeCompleto": "REGIANEDO NASCIMENTO PAVERA",
+        "cpf": "51736470272",
+        "telefoneContato": "",
+        "dataNascimento": "08/04/1974",
+        "nomeMae": "IVANIRA DO NASCIMENTO PAVERA",
+        "email": "6632bw3noiudzu0@gmail.com",
+        "cep": "69039220",
+        "endereco": "AVENIDA BRASIL",
+        "numeroEndereco": "27",
+        "complementoEndereco": "",
+        "bairro": "NOVA ISRAEL",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "BRASIL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993972039.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

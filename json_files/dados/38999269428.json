@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=dca102da-8ccc-47cf-8512-0f3b2f14a7b6",
+    "data": {
+        "linha": "38999269428",
+        "nomeCompleto": "GERALDINO MARIA PEREIRA",
+        "cpf": "78146267653",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "35790000",
+        "endereco": "Rua RUA JOAO MACHADO",
+        "numeroEndereco": "166",
+        "complementoEndereco": "",
+        "bairro": "S JOSE DA LAGO",
+        "cidade": "CURVELO",
+        "estado": "mg",
+        "logradouro": "RUA JOAO MACHADO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38999269428.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993736546",
+        "nomeCompleto": "AMOS PANTOJA MARTINS",
+        "cpf": "70586421254",
+        "telefoneContato": "",
+        "dataNascimento": "15/12/1994",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "00000000",
+        "endereco": "R ANTONIO TAVARES DE VASCONCELOS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "VILA",
+        "cidade": "RECIFE",
+        "estado": "PE",
+        "logradouro": "ANTONIO TAVARES DE VASCONCELOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993736546.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

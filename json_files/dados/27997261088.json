@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27997261088",
+        "nomeCompleto": "ELTON SERGIO DIAS DOS SANTOS",
+        "cpf": "07505079778",
+        "telefoneContato": "",
+        "dataNascimento": "12/11/1977",
+        "nomeMae": null,
+        "email": "eltonsergio10@gmail.com",
+        "cep": "29111620",
+        "endereco": "AVENIDA RIO MARINHO",
+        "numeroEndereco": "1027",
+        "complementoEndereco": "",
+        "bairro": "COBILANDIA",
+        "cidade": "VILA VELHA",
+        "estado": "es",
+        "logradouro": "RIO MARINHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27997261088.",
+    "currentPlan": {
+        "code": "RJVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

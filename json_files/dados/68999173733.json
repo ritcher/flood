@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=ac3f8c25-a1b8-48a9-a293-899d0278563a",
+    "data": {
+        "linha": "68999173733",
+        "nomeCompleto": "MARCIO SILVA FERREIRA",
+        "cpf": "98491261249",
+        "telefoneContato": "",
+        "dataNascimento": "04/12/1989",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69906512",
+        "endereco": "TRAVESSA VASCO DA GAMA",
+        "numeroEndereco": "406",
+        "complementoEndereco": "",
+        "bairro": "TAQUARI",
+        "cidade": "RIO BRANCO",
+        "estado": "AC",
+        "logradouro": "VASCO DA GAMA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999173733.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

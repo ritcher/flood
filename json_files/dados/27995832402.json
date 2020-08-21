@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27995832402",
+        "nomeCompleto": "EVANDRO JOSE DOS REIS",
+        "cpf": "62437747672",
+        "telefoneContato": "",
+        "dataNascimento": "10/11/1967",
+        "nomeMae": null,
+        "email": "unimagem3@gmail.com",
+        "cep": "29931370",
+        "endereco": "AVENIDA JOSE BAHIA",
+        "numeroEndereco": "460",
+        "complementoEndereco": "",
+        "bairro": "BOA VISTA",
+        "cidade": "SAO MATEUS",
+        "estado": "es",
+        "logradouro": "JOSE BAHIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27995832402.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

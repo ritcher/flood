@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "92994181465",
+        "nomeCompleto": "EVILENE ROCHA DA COSTA",
+        "cpf": "51836270291",
+        "telefoneContato": "",
+        "dataNascimento": "29/06/1980",
+        "nomeMae": "IRANDIR SOUZA DA ROCHA",
+        "email": null,
+        "cep": "69099705",
+        "endereco": "RUA IAPANA",
+        "numeroEndereco": "44",
+        "complementoEndereco": "",
+        "bairro": "NOVO ALEIXO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "IAPANA",
+        "contaDigital": true,
+        "vencimentoFatura": "10",
+        "ciclo": "25",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994181465.",
+    "currentPlan": {
+        "code": "VIVOCTRLF1N",
+        "price": 51.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL 3GB - ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

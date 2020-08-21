@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=79df7e5d-2004-454e-93bf-deb93cc37842",
+    "data": {
+        "linha": "68996075376",
+        "nomeCompleto": "FRANCISCO EMERSON COSTA DE LIMA",
+        "cpf": "04550939206",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69907701",
+        "endereco": "Rua RODOVIA BR 364",
+        "numeroEndereco": "253",
+        "complementoEndereco": "",
+        "bairro": "SANTA INES",
+        "cidade": "RIO BRANCO",
+        "estado": "AC",
+        "logradouro": "RODOVIA BR 364",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68996075376.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

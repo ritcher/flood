@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=32b8ae6c-7c80-4128-be6c-c7232d335c8e",
+    "data": {
+        "linha": "68999531733",
+        "nomeCompleto": "STEPHANY CAMILE GOMES DINIZ",
+        "cpf": "01674921284",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69900078",
+        "endereco": "Rua AVENIDA BRASIL",
+        "numeroEndereco": "112",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "RIO BRANCO",
+        "estado": "AC",
+        "logradouro": "AVENIDA BRASIL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999531733.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

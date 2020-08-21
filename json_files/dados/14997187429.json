@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "14997187429",
+        "nomeCompleto": "PAULA RENATA NATAL",
+        "cpf": "34132873897",
+        "telefoneContato": "",
+        "dataNascimento": "15/07/1982",
+        "nomeMae": "MARIA DE LURDES NATAL",
+        "email": "ra8t59tom4hutj7@gmail.com",
+        "cep": "18605886",
+        "endereco": "RUA JOSE C GONCALVES PIN",
+        "numeroEndereco": "222",
+        "complementoEndereco": "",
+        "bairro": "STA MARIA I",
+        "cidade": "BOTUCATU",
+        "estado": "sp",
+        "logradouro": "JOSE C GONCALVES PIN",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 14997187429.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

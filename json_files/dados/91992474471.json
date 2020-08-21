@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992474471",
+        "nomeCompleto": "JOSENILTON DAMASCENO CONCEICAO",
+        "cpf": "01758091274",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "66813790",
+        "endereco": "Rua PASSAGEM DOS INOCENTES I",
+        "numeroEndereco": "131",
+        "complementoEndereco": "",
+        "bairro": "CAMPINA DE ICOARACI",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "PASSAGEM DOS INOCENTES I",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992474471.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

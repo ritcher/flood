@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31996723135",
+        "nomeCompleto": "MARIA APARECIDA REZENDE LACERDA",
+        "cpf": "37838237653",
+        "telefoneContato": "",
+        "dataNascimento": "22/01/1957",
+        "nomeMae": "JULIETA CANDIDA REZENDE",
+        "email": "dasodhasodhas72@gmail.com",
+        "cep": "00000000",
+        "endereco": "R AGOSTINHO CACAO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "JD ITAMARACA",
+        "cidade": "INDAIATUBA",
+        "estado": "SP",
+        "logradouro": "AGOSTINHO CACAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31996723135.",
+    "currentPlan": {
+        "code": "MGVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

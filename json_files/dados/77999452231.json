@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c58bd943-2931-4146-b13b-d87d73d6bf1d",
+    "data": {
+        "linha": "77999452231",
+        "nomeCompleto": "ELENILSON SOUZA OLIVEIRA",
+        "cpf": "83421220506",
+        "telefoneContato": "",
+        "dataNascimento": "06/09/1981",
+        "nomeMae": null,
+        "email": null,
+        "cep": "89760000",
+        "endereco": " 'AV TANCREDO NEVES",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "PIONEIROS",
+        "cidade": "ITA",
+        "estado": "SC",
+        "logradouro": "'AV TANCREDO NEVES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77999452231.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

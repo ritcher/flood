@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "19998732552",
+        "nomeCompleto": "THIAGO LUIZ PIRES COLIN",
+        "cpf": "31619514842",
+        "telefoneContato": "",
+        "dataNascimento": "13/12/1982",
+        "nomeMae": null,
+        "email": "f6gt8aa34mi8@gmail.com",
+        "cep": "27000000",
+        "endereco": "RUA ANTONIO MOURA DA SILVA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "PARQUE AEROPORTO",
+        "cidade": "MACAE",
+        "estado": "RJ",
+        "logradouro": "ANTONIO MOURA DA SILVA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19998732552.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

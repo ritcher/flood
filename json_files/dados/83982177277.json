@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "83982177277",
+        "nomeCompleto": "EVELINE MARIA DA SILVA",
+        "cpf": "09149221493",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "58407015",
+        "endereco": "Rua RUA PROFESSOR HORTENCIO RIBEIRO",
+        "numeroEndereco": "23",
+        "complementoEndereco": "",
+        "bairro": "MONTE CASTELO",
+        "cidade": "CAMPINA GRANDE",
+        "estado": "PB",
+        "logradouro": "RUA PROFESSOR HORTENCIO RIBEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 83982177277.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

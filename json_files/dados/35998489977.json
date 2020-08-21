@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "35998489977",
+        "nomeCompleto": "NIVALDO GARCIA MACHADO",
+        "cpf": "07983624646",
+        "telefoneContato": "",
+        "dataNascimento": "01/01/1978",
+        "nomeMae": "Nivaldo Garcia Machado",
+        "email": "7da6ypjup42m0bs@gmail.com",
+        "cep": "37640000",
+        "endereco": " EST DO JUNCAL",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "JD",
+        "cidade": "EXTREMA",
+        "estado": "MG",
+        "logradouro": "EST DO JUNCAL",
+        "contaDigital": true,
+        "vencimentoFatura": "17",
+        "ciclo": "01",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 35998489977.",
+    "currentPlan": {
+        "code": "VIVOCTRLF27N",
+        "price": 54.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-3GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

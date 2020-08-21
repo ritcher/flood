@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991015717",
+        "nomeCompleto": "RAFAEL GARCIA DA SILVA",
+        "cpf": "02872108203",
+        "telefoneContato": "",
+        "dataNascimento": "22/04/1994",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69103356",
+        "endereco": "RUA JOAO BEZERRA",
+        "numeroEndereco": "23",
+        "complementoEndereco": "",
+        "bairro": "SAO CRISTOVAO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "JOAO BEZERRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991015717.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

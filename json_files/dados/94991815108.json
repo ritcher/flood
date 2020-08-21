@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=cbaa65d8-269e-44cf-b017-3a20ca612e6b",
+    "data": {
+        "linha": "94991815108",
+        "nomeCompleto": "IRANILDE TEIXEIRA DA SILVA",
+        "cpf": "79624430225",
+        "telefoneContato": "",
+        "dataNascimento": "31/10/1977",
+        "nomeMae": "MARIA EROTILDES TEIXEIRA",
+        "email": "renildoc78@gmail.com",
+        "cep": "68580000",
+        "endereco": "Rua JOSEFINA 416",
+        "numeroEndereco": "416",
+        "complementoEndereco": "",
+        "bairro": "ITUPIRANGA",
+        "cidade": "ITUPIRANGA",
+        "estado": "PA",
+        "logradouro": "JOSEFINA 416",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991815108.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

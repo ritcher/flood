@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a56484c3-4e90-4801-a3cd-77dd8f46e887",
+    "data": {
+        "linha": "74998133814",
+        "nomeCompleto": "HIDECI DA COSTA BARBOSA",
+        "cpf": "02363388542",
+        "telefoneContato": "",
+        "dataNascimento": "09/12/1975",
+        "nomeMae": null,
+        "email": "r3vklmwb@gmail.com",
+        "cep": "47200000",
+        "endereco": "AVENIDA OTAVIO MANGABEIRA",
+        "numeroEndereco": "34",
+        "complementoEndereco": "",
+        "bairro": "QUADRA 15",
+        "cidade": "REMANSO",
+        "estado": "BA",
+        "logradouro": "OTAVIO MANGABEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 74998133814.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

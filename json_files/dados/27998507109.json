@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "27998507109",
+        "nomeCompleto": "ERIVAN AGUIAR DE JESUS",
+        "cpf": "04872077504",
+        "telefoneContato": "",
+        "dataNascimento": "14/08/1986",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29175784",
+        "endereco": " RUA HOMERO MASSENA",
+        "numeroEndereco": "28",
+        "complementoEndereco": "",
+        "bairro": "LAGOA DE JACARAIPE",
+        "cidade": "SERRA",
+        "estado": "ES",
+        "logradouro": "RUA HOMERO MASSENA",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27998507109.",
+    "currentPlan": {
+        "code": "VIVOCTRLF34N",
+        "price": 32.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-2GB_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993762429",
+        "nomeCompleto": "Anderson Rom\u00e3o de Freitas ",
+        "cpf": "01294505297",
+        "telefoneContato": "",
+        "dataNascimento": "06/02/1989",
+        "nomeMae": "Rosineide Azevedo Rom\u00e3o",
+        "email": "andersonadlux33@gmail.comm",
+        "cep": "69100063",
+        "endereco": " PARQUE",
+        "numeroEndereco": "1752",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "PARQUE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993762429.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

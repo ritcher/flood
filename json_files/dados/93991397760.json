@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6a09748d-75d6-4f18-95ad-3792f056ca26",
+    "data": {
+        "linha": "93991397760",
+        "nomeCompleto": "ALEXSANDRA SALES DA SILVA",
+        "cpf": "04192287218",
+        "telefoneContato": "",
+        "dataNascimento": "01/10/2000",
+        "nomeMae": null,
+        "email": "allehsales174@gmail.com",
+        "cep": "66617360",
+        "endereco": "Rua TRAVESSA SAO LUIS",
+        "numeroEndereco": "12",
+        "complementoEndereco": "",
+        "bairro": "VAL DE CAES",
+        "cidade": "BELEM",
+        "estado": "PA",
+        "logradouro": "TRAVESSA SAO LUIS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991397760.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

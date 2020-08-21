@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21999041301",
+        "nomeCompleto": "KERSEY MACEDO TAVARES DA CAMARA",
+        "cpf": "03085819541",
+        "telefoneContato": "",
+        "dataNascimento": "30/08/1999",
+        "nomeMae": null,
+        "email": "xj19jla49ogluyo@gmail.com",
+        "cep": "75801150",
+        "endereco": "AVENIDA CASTELO BRANCO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "VL OLAVO",
+        "cidade": "JATAI",
+        "estado": "GO",
+        "logradouro": "CASTELO BRANCO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21999041301.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11972808268",
+        "nomeCompleto": "Manoel Antonio",
+        "cpf": "04774171832",
+        "telefoneContato": "",
+        "dataNascimento": "04/05/1961",
+        "nomeMae": "Geralda Serna Pedro",
+        "email": "antoniomanoel066@gmail.com",
+        "cep": "35519000",
+        "endereco": "Rua RUA JOAO MARTINS DO ESPIRITO SANTO",
+        "numeroEndereco": "12",
+        "complementoEndereco": "",
+        "bairro": "PARQUE DONA GUMERCINDA MARTINS",
+        "cidade": "NOVA SERRANA",
+        "estado": "mg",
+        "logradouro": "RUA JOAO MARTINS DO ESPIRITO SANTO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11972808268.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

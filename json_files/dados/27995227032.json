@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27995227032",
+        "nomeCompleto": "PAULO FELIX DE OLIVEIRA NETO",
+        "cpf": "12156509735",
+        "telefoneContato": "",
+        "dataNascimento": "05/08/1984",
+        "nomeMae": null,
+        "email": "bernardodiegoyagoramos_@valltech.com.br",
+        "cep": "40720115",
+        "endereco": " PAULO",
+        "numeroEndereco": "665",
+        "complementoEndereco": "",
+        "bairro": "PERIPERI",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "PAULO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27995227032.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

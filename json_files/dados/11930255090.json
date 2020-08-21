@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11930255090",
+        "nomeCompleto": "GIUSEPPE SEBASTIANO DIOGUARDI JUNIOR",
+        "cpf": "22013050801",
+        "telefoneContato": "",
+        "dataNascimento": "25/12/1975",
+        "nomeMae": "TERESINHA BATISTA DE MIRANDA FILQUEIRA",
+        "email": "galves.gd@uol.com.br",
+        "cep": "05439010",
+        "endereco": "RUA AGISSE",
+        "numeroEndereco": "232",
+        "complementoEndereco": "",
+        "bairro": "JD DAS BANDEIRAS",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "AGISSE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11930255090.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

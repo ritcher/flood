@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=856af35e-596e-41e9-9b62-db9b4651ffe0",
+    "data": {
+        "linha": "94991490924",
+        "nomeCompleto": "MACIEL LIMA DE SOUZA",
+        "cpf": "79773168204",
+        "telefoneContato": "",
+        "dataNascimento": "21/11/1983",
+        "nomeMae": "MARIA LIMA DE SOUZA",
+        "email": null,
+        "cep": "68501280",
+        "endereco": "RUA  GOIAS 1101 C A",
+        "numeroEndereco": "1101",
+        "complementoEndereco": "",
+        "bairro": "LIBERDADE",
+        "cidade": "MARABA",
+        "estado": "PA",
+        "logradouro": " GOIAS 1101 C A",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94991490924.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

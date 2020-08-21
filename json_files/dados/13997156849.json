@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "13997156849",
+        "nomeCompleto": "ANA CRISTINA FERNANDES MU",
+        "cpf": "09795306871",
+        "telefoneContato": "",
+        "dataNascimento": "21/04/1972",
+        "nomeMae": "IZALDETE FERNANDES MUNIZ",
+        "email": null,
+        "cep": "11348000",
+        "endereco": "R CELLULA MATTER",
+        "numeroEndereco": "770",
+        "complementoEndereco": "",
+        "bairro": "PARQUE CONTINENTAL",
+        "cidade": "S VICENTE",
+        "estado": "SP",
+        "logradouro": "CELLULA MATTER",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 13997156849.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

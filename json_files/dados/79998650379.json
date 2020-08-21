@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6dd8cae4-353e-42db-bd6c-ed4dc2c4e32a",
+    "data": {
+        "linha": "79998650379",
+        "nomeCompleto": "LINCOLN FRANCISCO DO NASCIMENTO",
+        "cpf": "03169254979",
+        "telefoneContato": "",
+        "dataNascimento": "14/06/1979",
+        "nomeMae": null,
+        "email": "emc8bocq18t16m0@gmail.com",
+        "cep": "89300000",
+        "endereco": "RUA ANIEGUALBERTO",
+        "numeroEndereco": "438",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MAFRA",
+        "estado": "SC",
+        "logradouro": "ANIEGUALBERTO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79998650379.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

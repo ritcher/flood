@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994205171",
+        "nomeCompleto": "ALUIZIO FERREIRA DE SOUZA",
+        "cpf": "60117028215",
+        "telefoneContato": "",
+        "dataNascimento": "21/02/1977",
+        "nomeMae": "RAIMUNDA FERREIRA DA SILVA",
+        "email": null,
+        "cep": "69098279",
+        "endereco": " PROFESSOR LOURENCO THURY",
+        "numeroEndereco": "05",
+        "complementoEndereco": "",
+        "bairro": "NOVO ALEIXO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "PROFESSOR LOURENCO THURY",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994205171.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

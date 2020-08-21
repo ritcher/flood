@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0ed9ab63-2349-46cd-8ef1-676a3d617b52",
+    "data": {
+        "linha": "99991458902",
+        "nomeCompleto": "OSANA RODRIGUES DA SILVA",
+        "cpf": "89258835387",
+        "telefoneContato": "",
+        "dataNascimento": "27/07/1965",
+        "nomeMae": null,
+        "email": null,
+        "cep": "65923000",
+        "endereco": "RUA 3",
+        "numeroEndereco": "104",
+        "complementoEndereco": "",
+        "bairro": "CIKEL",
+        "cidade": "AMARANTE DO MARANHAO",
+        "estado": "MA",
+        "logradouro": "3",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99991458902.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

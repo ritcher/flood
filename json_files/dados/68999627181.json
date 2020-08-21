@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=64f7638e-e705-4126-9880-76bc95ffbee9",
+    "data": {
+        "linha": "68999627181",
+        "nomeCompleto": "FRANCISCO ADELAR CARVALHO DA SILVA",
+        "cpf": "69760837234",
+        "telefoneContato": "",
+        "dataNascimento": "10/10/1974",
+        "nomeMae": "    Lidia Carvalho Da Silva",
+        "email": null,
+        "cep": "69945000",
+        "endereco": "AVENIDA MARIA SOARES ROCHA",
+        "numeroEndereco": "418",
+        "complementoEndereco": "",
+        "bairro": "PORTELINHA",
+        "cidade": "ACRELANDIA",
+        "estado": "AC",
+        "logradouro": "MARIA SOARES ROCHA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999627181.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

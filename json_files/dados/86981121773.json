@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9f81c2c3-4233-4b2a-9207-b9dc87bb5bf0",
+    "data": {
+        "linha": "86981121773",
+        "nomeCompleto": "ANA CLAUDIA DE SOUSA",
+        "cpf": "87940361368",
+        "telefoneContato": "",
+        "dataNascimento": "16/12/1967",
+        "nomeMae": null,
+        "email": "wladsonsousa333@gmail.com",
+        "cep": "69088000",
+        "endereco": " 12",
+        "numeroEndereco": "0",
+        "complementoEndereco": "",
+        "bairro": "MONTE SIAO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "12",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 86981121773.",
+    "currentPlan": {
+        "code": "NEPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "NEPREDIARIOGSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

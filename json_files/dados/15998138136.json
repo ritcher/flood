@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15998138136",
+        "nomeCompleto": "MARLILETE MARIA DA COSTA",
+        "cpf": "13590908866",
+        "telefoneContato": "",
+        "dataNascimento": "11/05/1963",
+        "nomeMae": null,
+        "email": null,
+        "cep": "18180000",
+        "endereco": "Rua NADIA MINKOVISK",
+        "numeroEndereco": "452",
+        "complementoEndereco": "",
+        "bairro": "VL NADIA",
+        "cidade": "TAPIRAI",
+        "estado": "sp",
+        "logradouro": "NADIA MINKOVISK",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15998138136.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

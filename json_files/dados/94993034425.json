@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=fd678bc2-db5c-45ed-8501-032d6f9fe4b7",
+    "data": {
+        "linha": "94993034425",
+        "nomeCompleto": "ABEDIAS PEREIRA DA SILVA",
+        "cpf": "32891555287",
+        "telefoneContato": "",
+        "dataNascimento": "06/05/1966",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68625000",
+        "endereco": "RUA PE VIEIRA",
+        "numeroEndereco": "94",
+        "complementoEndereco": "",
+        "bairro": "COMERCIAL",
+        "cidade": "PARAGOMINAS",
+        "estado": "PA",
+        "logradouro": "PE VIEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94993034425.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

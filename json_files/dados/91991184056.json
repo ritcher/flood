@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991184056",
+        "nomeCompleto": "ERIANE COSTA COSTA DE OLIVEIRA",
+        "cpf": "70399601252",
+        "telefoneContato": "",
+        "dataNascimento": "06/12/1999",
+        "nomeMae": null,
+        "email": "yojawom650@x3mailer.com",
+        "cep": "44200000",
+        "endereco": " 2 DE JULHO",
+        "numeroEndereco": "02",
+        "complementoEndereco": "",
+        "bairro": "CENTRO.",
+        "cidade": "STO AMARO",
+        "estado": "BA",
+        "logradouro": "2 DE JULHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991184056.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

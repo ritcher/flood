@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "79998044464",
+        "nomeCompleto": "LUIS CARLOS DE MATOS",
+        "cpf": "05157803591",
+        "telefoneContato": "",
+        "dataNascimento": "16/06/1950",
+        "nomeMae": null,
+        "email": "cprime701@gmail.com",
+        "cep": "44590000",
+        "endereco": " 2 PAULO GOMES",
+        "numeroEndereco": "98",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "STA TEREZINHA",
+        "estado": "BA",
+        "logradouro": "2 PAULO GOMES",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79998044464.",
+    "currentPlan": {
+        "code": "VIVOCTRLF51N",
+        "price": 84.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 5GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

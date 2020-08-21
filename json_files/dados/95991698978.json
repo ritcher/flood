@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c3d58f7a-dbf4-42a7-a2f9-5133f730ab8b",
+    "data": {
+        "linha": "95991698978",
+        "nomeCompleto": "NADIANE OLIVEIRA DA SILVA",
+        "cpf": "01511589248",
+        "telefoneContato": "",
+        "dataNascimento": "16/08/1991",
+        "nomeMae": "MARIA DE FATIMA OLIVEIRA",
+        "email": "yif5sse60p8nfg3@gmail.com",
+        "cep": "69316186",
+        "endereco": "RUA GOIANIA",
+        "numeroEndereco": "310",
+        "complementoEndereco": "",
+        "bairro": "NOVA CIDADE",
+        "cidade": "BOA VISTA",
+        "estado": "RR",
+        "logradouro": "GOIANIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 95991698978.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

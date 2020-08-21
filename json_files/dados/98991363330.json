@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=494dc207-0467-4649-a11f-92ec7c0f764a",
+    "data": {
+        "linha": "98991363330",
+        "nomeCompleto": "ANTONIO JOSE LIMA SEREJO DOS SANTOS",
+        "cpf": "04662000300",
+        "telefoneContato": "",
+        "dataNascimento": "25/07/1997",
+        "nomeMae": "MARIA SANTOS",
+        "email": "antonioserejo1426@gmail.com",
+        "cep": "65480000",
+        "endereco": "RUA PRINCIPAL",
+        "numeroEndereco": "22",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ARARI",
+        "estado": "MA",
+        "logradouro": "PRINCIPAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98991363330.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

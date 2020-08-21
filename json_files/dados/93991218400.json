@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=5d860d5c-72a9-4151-9ff3-a22a7f315f06",
+    "data": {
+        "linha": "93991218400",
+        "nomeCompleto": "JOSE NIVALDO BENTES DOS SANTOS",
+        "cpf": "60596724268",
+        "telefoneContato": "",
+        "dataNascimento": "21/11/1975",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "68200000",
+        "endereco": "RUA 1445",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "SAO FRANCISCO",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "1445",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991218400.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

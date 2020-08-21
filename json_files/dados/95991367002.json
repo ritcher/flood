@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f4944826-b107-4ba9-95ed-4dbcbbfe2634",
+    "data": {
+        "linha": "95991367002",
+        "nomeCompleto": "DANUBIA CABRAL DE SOUZA",
+        "cpf": "77759800282",
+        "telefoneContato": "",
+        "dataNascimento": "24/04/1984",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69317586",
+        "endereco": "RUA S",
+        "numeroEndereco": "33161",
+        "complementoEndereco": "",
+        "bairro": "CIDADE SATELITE",
+        "cidade": "BOA VISTA",
+        "estado": "rr",
+        "logradouro": "S",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 95991367002.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

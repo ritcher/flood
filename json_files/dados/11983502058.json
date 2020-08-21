@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "11983502058",
+        "nomeCompleto": "EDERSON DA SILVA RODRIGUES",
+        "cpf": "12110023813",
+        "telefoneContato": "",
+        "dataNascimento": "27/03/1975",
+        "nomeMae": "DIVA EFRREIRA DA SILVA RODRIGUES",
+        "email": "ederson.rodrigues33@gmail.com",
+        "cep": "08041200",
+        "endereco": "RUA CORVETA EUTERPE",
+        "numeroEndereco": "132",
+        "complementoEndereco": "",
+        "bairro": "JARDIM LUCINDA",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "CORVETA EUTERPE",
+        "contaDigital": true,
+        "vencimentoFatura": "21",
+        "ciclo": "05",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11983502058.",
+    "currentPlan": {
+        "code": "VIVOCTRLF28N",
+        "price": 69.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-4GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

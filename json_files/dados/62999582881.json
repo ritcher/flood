@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "62999582881",
+        "nomeCompleto": "ANTONIO SOARES",
+        "cpf": "73356409387",
+        "telefoneContato": "",
+        "dataNascimento": "10/04/1969",
+        "nomeMae": null,
+        "email": "dualissoares9@gmail.com",
+        "cep": "74230010",
+        "endereco": "Rua T",
+        "numeroEndereco": "15",
+        "complementoEndereco": "",
+        "bairro": "ST BUENO",
+        "cidade": "GOIANIA",
+        "estado": "GO",
+        "logradouro": "T",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 62999582881.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

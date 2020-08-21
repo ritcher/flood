@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991470103",
+        "nomeCompleto": "JACKELINE ROLIM COELHO",
+        "cpf": "70407784241",
+        "telefoneContato": "",
+        "dataNascimento": "23/05/1998",
+        "nomeMae": null,
+        "email": "s3aqrlbrf2gpxf2@gmail.com",
+        "cep": "69000000",
+        "endereco": " BC 02 DE AGOSTO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "VILA UNIAO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "BC 02 DE AGOSTO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991470103.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

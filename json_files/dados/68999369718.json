@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=d3787ace-0073-40e7-b85c-2a658bd5a739",
+    "data": {
+        "linha": "68999369718",
+        "nomeCompleto": "Adeildo Lucas Dami\u00e3o J\u00fanior",
+        "cpf": "05102428209",
+        "telefoneContato": "",
+        "dataNascimento": "09/02/2002",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69980000",
+        "endereco": " 12 SANTA LUZIA",
+        "numeroEndereco": "3101",
+        "complementoEndereco": "",
+        "bairro": "15 DE NOVEMBRO",
+        "cidade": "CRUZEIRO DO SUL",
+        "estado": "AC",
+        "logradouro": "12 SANTA LUZIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999369718.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

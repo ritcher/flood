@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=cde98a3e-4df6-428c-9f49-278f63e5c5bd",
+    "data": {
+        "linha": "32999199750",
+        "nomeCompleto": "EDILSON DE OLIVEIRA ALVES",
+        "cpf": "07474410656",
+        "telefoneContato": "",
+        "dataNascimento": "13/11/1985",
+        "nomeMae": null,
+        "email": null,
+        "cep": "36546000",
+        "endereco": "AVENIDA ALVARO JANUZZI",
+        "numeroEndereco": "637",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "DIVINESIA",
+        "estado": "MG",
+        "logradouro": "ALVARO JANUZZI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 32999199750.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

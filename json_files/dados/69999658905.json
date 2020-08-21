@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999658905",
+        "nomeCompleto": "DEUCINETE PALHETA DE MENEZES",
+        "cpf": "92072135249",
+        "telefoneContato": "",
+        "dataNascimento": "17/10/1985",
+        "nomeMae": null,
+        "email": "kakashi.gamer@gmail.com",
+        "cep": "21000000",
+        "endereco": " ROD BR 101",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "KM 272",
+        "cidade": "PONTA DA LAMA",
+        "estado": "RJ",
+        "logradouro": "ROD BR 101",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999658905.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

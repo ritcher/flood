@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31971416032",
+        "nomeCompleto": "RALPH CORDEIRO ALVIM",
+        "cpf": "11058929720",
+        "telefoneContato": "",
+        "dataNascimento": "08/08/1986",
+        "nomeMae": null,
+        "email": "9w19s6szlkc37bi@gmail.com",
+        "cep": "76829413",
+        "endereco": "Rua RUA INACIO MENDES",
+        "numeroEndereco": "7545",
+        "complementoEndereco": "",
+        "bairro": "JUSCELINO KUBITSCHEK",
+        "cidade": "PORTO VELHO",
+        "estado": "RO",
+        "logradouro": "RUA INACIO MENDES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31971416032.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

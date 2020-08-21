@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11944742109",
+        "nomeCompleto": "Francisco Eroides Quagliato Filho ",
+        "cpf": "06174970876",
+        "telefoneContato": "",
+        "dataNascimento": "11/08/1966",
+        "nomeMae": "Stella Fatima Correa Rocha Quagliato",
+        "email": "fran3003@gmail.com",
+        "cep": "19907120",
+        "endereco": "AV JOSE ESTEVES MANO FILHO",
+        "numeroEndereco": "200",
+        "complementoEndereco": "",
+        "bairro": "JARDIM PAULISTA",
+        "cidade": "OURINHOS",
+        "estado": "SP",
+        "logradouro": "JOSE ESTEVES MANO FILHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11944742109.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

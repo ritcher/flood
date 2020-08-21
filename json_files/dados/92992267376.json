@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992267376",
+        "nomeCompleto": "RITA DA SILVA DA COSTA",
+        "cpf": "70531851257",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69089160",
+        "endereco": "Rua RUA IGARAPE ARACA",
+        "numeroEndereco": "15",
+        "complementoEndereco": "",
+        "bairro": "ARMANDO MENDES",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "RUA IGARAPE ARACA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992267376.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

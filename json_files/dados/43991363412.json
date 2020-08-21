@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=54fce4d0-736a-4817-939a-ce3cd13afad1",
+    "data": {
+        "linha": "43991363412",
+        "nomeCompleto": "DIONATAN DA SILVA MACIEL",
+        "cpf": "43748078889",
+        "telefoneContato": "",
+        "dataNascimento": "05/08/1993",
+        "nomeMae": null,
+        "email": null,
+        "cep": "18970000",
+        "endereco": "RUA SILVIO MOACIALVIM REGALA",
+        "numeroEndereco": "46",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "CHAVANTES",
+        "estado": "sp",
+        "logradouro": "SILVIO MOACIALVIM REGALA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 43991363412.",
+    "currentPlan": {
+        "code": "PRPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

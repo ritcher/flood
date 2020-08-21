@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "61998114106",
+        "nomeCompleto": "charles Osvaldo campos",
+        "cpf": "09890060698",
+        "telefoneContato": "",
+        "dataNascimento": "02/07/1990",
+        "nomeMae": "Luiza Gomes de Aguiar",
+        "email": "ivanirmoura1998@gmail.com",
+        "cep": "68037140",
+        "endereco": "RUA  JACAMIM 24468",
+        "numeroEndereco": "24468",
+        "complementoEndereco": "",
+        "bairro": "SALVACAO",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": " JACAMIM 24468",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61998114106.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

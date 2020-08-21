@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21998081176",
+        "nomeCompleto": "VANDERSON MOTTA DA SILVA",
+        "cpf": "14245789735",
+        "telefoneContato": "",
+        "dataNascimento": "27/04/1991",
+        "nomeMae": null,
+        "email": null,
+        "cep": "26113060",
+        "endereco": "RUA IRECE",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "BOM PASTOR",
+        "cidade": "BELFORD ROXO",
+        "estado": "Rj",
+        "logradouro": "IRECE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21998081176.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

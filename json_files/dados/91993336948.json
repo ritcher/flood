@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993336948",
+        "nomeCompleto": "GABRIEL GAMA DE JESUS",
+        "cpf": "04287494296",
+        "telefoneContato": "",
+        "dataNascimento": "13/09/1999",
+        "nomeMae": null,
+        "email": "gabriel.gama.1232760@gmail.com",
+        "cep": "67010520",
+        "endereco": "Rua RUA PARABOR",
+        "numeroEndereco": "267",
+        "complementoEndereco": "",
+        "bairro": "GUANABARA",
+        "cidade": "ANANINDEUA",
+        "estado": "PA",
+        "logradouro": "RUA PARABOR",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993336948.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

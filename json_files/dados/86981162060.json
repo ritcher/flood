@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9a123bf7-2f6a-4fe5-b946-10c09aa24b5d",
+    "data": {
+        "linha": "86981162060",
+        "nomeCompleto": "HENRIQUE FREITAS DAMASCENO",
+        "cpf": "02161220314",
+        "telefoneContato": "",
+        "dataNascimento": "30/08/1986",
+        "nomeMae": null,
+        "email": "hanryfh44@gmail.com",
+        "cep": "65636240",
+        "endereco": "RUA S JUDAS TADEU",
+        "numeroEndereco": "1341",
+        "complementoEndereco": "",
+        "bairro": "SAO BENEDITO",
+        "cidade": "TIMON",
+        "estado": "MA",
+        "logradouro": "S JUDAS TADEU",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 86981162060.",
+    "currentPlan": {
+        "code": "NEPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "NEPREDIARIOGSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=fbe46115-746f-412e-9f80-4c8a990deeb0",
+    "data": {
+        "linha": "95991308072",
+        "nomeCompleto": "ANTONIA GOMES GONCALVES",
+        "cpf": "74786997234",
+        "telefoneContato": "",
+        "dataNascimento": "20/11/1982",
+        "nomeMae": "MARIA VITALINA GOMES GONCALVES",
+        "email": "bonkb6o12zs2fjn@gmail.com",
+        "cep": "29903105",
+        "endereco": "RUA HENRIQUE DE COIMBRA",
+        "numeroEndereco": "209",
+        "complementoEndereco": "",
+        "bairro": "INTERLAGOS",
+        "cidade": "LINHARES",
+        "estado": "es",
+        "logradouro": "HENRIQUE DE COIMBRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 95991308072.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

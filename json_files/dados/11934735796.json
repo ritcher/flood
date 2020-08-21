@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11934735796",
+        "nomeCompleto": "ALCIMARA FERREIRA COSTA",
+        "cpf": "05766157576",
+        "telefoneContato": "",
+        "dataNascimento": "01/09/1994",
+        "nomeMae": "MEIRAILDES SANTOS FERREIRA",
+        "email": null,
+        "cep": "45930000",
+        "endereco": "RUA  SALVADO599",
+        "numeroEndereco": "599",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MUCURI",
+        "estado": "BA",
+        "logradouro": " SALVADO599",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11934735796.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

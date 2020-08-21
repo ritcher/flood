@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92994816661",
+        "nomeCompleto": "CLEICIVAN TEIXEIRA DE SOUZA VINHOTE",
+        "cpf": "01486804292",
+        "telefoneContato": "",
+        "dataNascimento": "17/04/1993",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69400419",
+        "endereco": "Rua JOAO XXIII",
+        "numeroEndereco": "887",
+        "complementoEndereco": "",
+        "bairro": "S FRANCISCO",
+        "cidade": "MANACAPURU",
+        "estado": "AM",
+        "logradouro": "JOAO XXIII",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92994816661.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "62996135163",
+        "nomeCompleto": "MARIA ANTONIA DE SALVES RODRIGUES",
+        "cpf": "84427035191",
+        "telefoneContato": "",
+        "dataNascimento": "28/08/1957",
+        "nomeMae": "maria martins de souza",
+        "email": null,
+        "cep": "78635970",
+        "endereco": "RUA CINCO",
+        "numeroEndereco": "484",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "AGUA BOA",
+        "estado": "MT",
+        "logradouro": "CINCO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 62996135163.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

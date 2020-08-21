@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992258796",
+        "nomeCompleto": "ALLISSON PRIMO DOS SANTOS",
+        "cpf": "02661436286",
+        "telefoneContato": "",
+        "dataNascimento": "05/11/1996",
+        "nomeMae": "LUCICLEIDE PRIMO DE MELLO",
+        "email": null,
+        "cep": "69005020",
+        "endereco": "Rua RUA DOS BARES",
+        "numeroEndereco": "126",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "RUA DOS BARES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992258796.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

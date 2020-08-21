@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31997255499",
+        "nomeCompleto": "Maria Juracy Ribeiro ",
+        "cpf": "37989243172",
+        "telefoneContato": "",
+        "dataNascimento": "27/01/1967",
+        "nomeMae": "Dominga Ribeiro dos Santos",
+        "email": null,
+        "cep": "32420040",
+        "endereco": "RUA  BOM SUCESSO 131",
+        "numeroEndereco": "131",
+        "complementoEndereco": "",
+        "bairro": "PRQ DUVAL DE BARROS PARQUE DURVAL DE BAR",
+        "cidade": "IBIRITE",
+        "estado": "mg",
+        "logradouro": " BOM SUCESSO 131",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31997255499.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

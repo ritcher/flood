@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "19998182485",
+        "nomeCompleto": "CARLOS VICENTE DE PAULA",
+        "cpf": "09585453835",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "JACINTA GOMES DE PAULA",
+        "email": "emldzvjk@gmail.com",
+        "cep": "13483120",
+        "endereco": "RUA DAGUINALDO DE LIMA VIOTTI JUNIO238",
+        "numeroEndereco": "238",
+        "complementoEndereco": "",
+        "bairro": "PRQ RESIDENCIAL ABILIO PEDRO",
+        "cidade": "LIMEIRA",
+        "estado": "sp",
+        "logradouro": "DAGUINALDO DE LIMA VIOTTI JUNIO238",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19998182485.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

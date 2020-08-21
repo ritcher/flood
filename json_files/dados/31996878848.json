@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31996878848",
+        "nomeCompleto": "DANIEL SOUZA VICENTE",
+        "cpf": "25619957802",
+        "telefoneContato": "",
+        "dataNascimento": "11/05/1980",
+        "nomeMae": null,
+        "email": "dsvicente@gmail.com",
+        "cep": "04918280",
+        "endereco": " RUA PRF RUBENS OSCAR GUELLI",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "JARDIM SAO FRANCISCO(ZONA SUL)",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "RUA PRF RUBENS OSCAR GUELLI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31996878848.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

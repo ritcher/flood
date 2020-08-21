@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999995634",
+        "nomeCompleto": "RONILSON DA COSTA FARIA MONTEIRO",
+        "cpf": "03160443264",
+        "telefoneContato": "",
+        "dataNascimento": "15/09/1988",
+        "nomeMae": "CLAUDIA MARCIA DA COSTA FARIA",
+        "email": "ronilsoncf@gmail.com",
+        "cep": "76963694",
+        "endereco": "RUA  QUINTINO BOCAIUVA 2416 CS",
+        "numeroEndereco": "2416",
+        "complementoEndereco": "",
+        "bairro": "JD CLODOALDO",
+        "cidade": "CACOAL",
+        "estado": "RO",
+        "logradouro": " QUINTINO BOCAIUVA 2416 CS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999995634.",
+    "currentPlan": {
+        "code": "TCOPREDIAR3GSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": null,
+        "platform": null,
+        "partnerBrandData": null,
+        "loyalty": null
+    }
+}

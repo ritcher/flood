@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=bfe1445c-f5c7-421e-9e44-74a4fe4adaa4",
+    "data": {
+        "linha": "93991025093",
+        "nomeCompleto": "TIAGO NUNES VIANA",
+        "cpf": "01236561252",
+        "telefoneContato": "",
+        "dataNascimento": "02/11/1999",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68005480",
+        "endereco": "AVENIDA FREDERICO COSTA",
+        "numeroEndereco": "4045",
+        "complementoEndereco": "",
+        "bairro": "PRAINHA",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "FREDERICO COSTA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991025093.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

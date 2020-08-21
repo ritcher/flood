@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15996905201",
+        "nomeCompleto": "WYLLIAMS ALVES SOUZA",
+        "cpf": "09740035493",
+        "telefoneContato": "",
+        "dataNascimento": "23/09/1992",
+        "nomeMae": null,
+        "email": null,
+        "cep": "18550000",
+        "endereco": "RUA OSVALDO LEITE LIMA",
+        "numeroEndereco": "373",
+        "complementoEndereco": "",
+        "bairro": "P R ESPLANAD",
+        "cidade": "BOITUVA",
+        "estado": "sp",
+        "logradouro": "OSVALDO LEITE LIMA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15996905201.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "22997765611",
+        "nomeCompleto": "MIRIAN FERREIRA BRAGANCA",
+        "cpf": "02923901738",
+        "telefoneContato": "",
+        "dataNascimento": "16/12/1975",
+        "nomeMae": "sdasdas",
+        "email": "mirianbraganca75@gmail.com",
+        "cep": "28970000",
+        "endereco": "RUA JUSSARA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "COQUEIRAL",
+        "cidade": "ARARUAMA",
+        "estado": "RJ",
+        "logradouro": "JUSSARA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 22997765611.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

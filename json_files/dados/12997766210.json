@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12997766210",
+        "nomeCompleto": "MAGNOLIA CARVALHO PRIMO",
+        "cpf": "21041354860",
+        "telefoneContato": "",
+        "dataNascimento": "23/12/1972",
+        "nomeMae": "MARIA DAS MERCES CARVALHO",
+        "email": null,
+        "cep": "37660000",
+        "endereco": "R 1046",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "GOIABAL",
+        "cidade": "PARAISOPOLIS",
+        "estado": "MG",
+        "logradouro": "1046",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12997766210.",
+    "currentPlan": {
+        "code": "VIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Vivo Toda Hora",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

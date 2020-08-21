@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "11950300767",
+        "nomeCompleto": "MARIA NATALI MARQUES DOS SANTOS MELO",
+        "cpf": "18366092801",
+        "telefoneContato": "",
+        "dataNascimento": "25/12/1977",
+        "nomeMae": null,
+        "email": "fn024172@gmail.com",
+        "cep": "07140233",
+        "endereco": " JOAQUINA DE JESUS",
+        "numeroEndereco": "6",
+        "complementoEndereco": "",
+        "bairro": "PARQUE SANTO AGOSTINHO",
+        "cidade": "GUARULHOS",
+        "estado": "SP",
+        "logradouro": "JOAQUINA DE JESUS",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11950300767.",
+    "currentPlan": {
+        "code": "VIVOCTRLF50N",
+        "price": 69.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 4GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

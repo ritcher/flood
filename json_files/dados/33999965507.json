@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=d4ec12d9-635f-4653-bec8-be4474942a01",
+    "data": {
+        "linha": "33999965507",
+        "nomeCompleto": "Nelma Soares da Silva Santos ",
+        "cpf": "07609252670",
+        "telefoneContato": "",
+        "dataNascimento": "23/06/1982",
+        "nomeMae": "Carlida Soares do Santos",
+        "email": "edgarpereira8578@gmail.com",
+        "cep": "35280000",
+        "endereco": "RUA  BOA VISTA 116",
+        "numeroEndereco": "116",
+        "complementoEndereco": "",
+        "bairro": "NT",
+        "cidade": "ITABIRINHA",
+        "estado": "mg",
+        "logradouro": " BOA VISTA 116",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999965507.",
+    "currentPlan": {
+        "code": "MGVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

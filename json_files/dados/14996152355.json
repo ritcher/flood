@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "14996152355",
+        "nomeCompleto": "EDSON BRESCANSIM",
+        "cpf": "06175281870",
+        "telefoneContato": "",
+        "dataNascimento": "02/03/1965",
+        "nomeMae": null,
+        "email": null,
+        "cep": "13175574",
+        "endereco": " HILDA COSTA PRADO",
+        "numeroEndereco": "31",
+        "complementoEndereco": "",
+        "bairro": "CHACARA MONTE ALEGRE",
+        "cidade": "SUMARE",
+        "estado": "sp",
+        "logradouro": "HILDA COSTA PRADO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 14996152355.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11930761113",
+        "nomeCompleto": "LUIS FILIPE MORAIS DE MELO",
+        "cpf": "35825717854",
+        "telefoneContato": "",
+        "dataNascimento": "08/09/2001",
+        "nomeMae": "RITA DE CASSIA GOMES DE MORAIS",
+        "email": null,
+        "cep": "13313523",
+        "endereco": "RUA  DOIS FERIOZZI 87",
+        "numeroEndereco": "87",
+        "complementoEndereco": "",
+        "bairro": "PROGRESSO",
+        "cidade": "ITU",
+        "estado": "sp",
+        "logradouro": " DOIS FERIOZZI 87",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11930761113.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

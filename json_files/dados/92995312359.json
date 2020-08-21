@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92995312359",
+        "nomeCompleto": "ANTONIA NASCIMENTO DOS SANTOS",
+        "cpf": "27579999234",
+        "telefoneContato": "",
+        "dataNascimento": "13/06/1965",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69084471",
+        "endereco": "RUA SAO PEDRO",
+        "numeroEndereco": "35",
+        "complementoEndereco": "",
+        "bairro": "ZUMBI DOS PALMARES",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "SAO PEDRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92995312359.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

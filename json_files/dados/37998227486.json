@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=160a250b-0c0e-48c8-bc2b-2770e588962d",
+    "data": {
+        "linha": "37998227486",
+        "nomeCompleto": "SERGIO ROBERTO MONTEIRO ROCHA",
+        "cpf": "16015730650",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": "552n428i77hiilx@gmail.com",
+        "cep": "35500010",
+        "endereco": "Rua AVENIDA VINTE E UM DE ABRIL",
+        "numeroEndereco": "121",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "DIVINOPOLIS",
+        "estado": "mg",
+        "logradouro": "AVENIDA VINTE E UM DE ABRIL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 37998227486.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=7eb270fc-f601-4673-be4e-0878cb7c6638",
+    "data": {
+        "linha": "97991976978",
+        "nomeCompleto": "EMANUELE MARINHO BARRETO ",
+        "cpf": "01958400203",
+        "telefoneContato": "",
+        "dataNascimento": "10/10/2001",
+        "nomeMae": "MARTA DE SOUZA MARINHO BARRETO",
+        "email": "willianvicente554@hotmail.com",
+        "cep": "69890000",
+        "endereco": "AVENIDA VARCY HERCULANO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "IPIXUNA",
+        "estado": "AM",
+        "logradouro": "VARCY HERCULANO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 97991976978.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=65bb1920-2c33-438e-a13c-5f5e84240eb6",
+    "data": {
+        "linha": "88981090565",
+        "nomeCompleto": "GERLANIA RAIMUNDA DOS SANTOS",
+        "cpf": "63295830304",
+        "telefoneContato": "",
+        "dataNascimento": "09/06/1980",
+        "nomeMae": null,
+        "email": null,
+        "cep": "63270000",
+        "endereco": "Rua SIT SACO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ZONA RURAL",
+        "cidade": "PORTEIRAS",
+        "estado": "CE",
+        "logradouro": "SIT SACO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981090565.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

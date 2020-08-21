@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=7f7fdbd0-d146-4433-bc13-af956e9f19ef",
+    "data": {
+        "linha": "93992258681",
+        "nomeCompleto": "DOUGLAS JOSE MONTEIRO PEREIRA",
+        "cpf": "00119017210",
+        "telefoneContato": "",
+        "dataNascimento": "09/11/1993",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69039700",
+        "endereco": "RUA ROMANOS",
+        "numeroEndereco": "36",
+        "complementoEndereco": "",
+        "bairro": "NOVO ISRAEL",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "ROMANOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992258681.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

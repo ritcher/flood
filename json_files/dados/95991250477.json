@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=dd5646fb-3cbd-41d2-9d03-433e59181d00",
+    "data": {
+        "linha": "95991250477",
+        "nomeCompleto": "LEONARDO CESAR DE OLIVEIRA",
+        "cpf": "00248276654",
+        "telefoneContato": "",
+        "dataNascimento": "06/03/1977",
+        "nomeMae": null,
+        "email": "tatapellegrine99@gmail.com",
+        "cep": "35520310",
+        "endereco": "RUA CONCEICAO PINTO DO AMARAL",
+        "numeroEndereco": "513",
+        "complementoEndereco": "",
+        "bairro": "SAO GERALDO",
+        "cidade": "NOVA SERRANA",
+        "estado": "mg",
+        "logradouro": "CONCEICAO PINTO DO AMARAL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 95991250477.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

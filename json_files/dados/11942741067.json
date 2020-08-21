@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11942741067",
+        "nomeCompleto": "ADILENA CONRADO RODRIGUES",
+        "cpf": "37157359880",
+        "telefoneContato": "",
+        "dataNascimento": "16/03/1984",
+        "nomeMae": null,
+        "email": "b29gvgo6s38b01d@gmail.com",
+        "cep": "08720060",
+        "endereco": "AVENIDA JOSE GLICERIO DE MELLO",
+        "numeroEndereco": "1951",
+        "complementoEndereco": "",
+        "bairro": "JD CAMILA",
+        "cidade": "MOGI DAS CRUZES",
+        "estado": "sp",
+        "logradouro": "JOSE GLICERIO DE MELLO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11942741067.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91992241755",
+        "nomeCompleto": "ZENILSON GOMES DE SA SERRANO DE ANDRADE",
+        "cpf": "71208305468",
+        "telefoneContato": "",
+        "dataNascimento": "02/09/1967",
+        "nomeMae": "maria",
+        "email": "zeni.10@gmail.com",
+        "cep": "64775000",
+        "endereco": " 1 CONCEICAO",
+        "numeroEndereco": "187",
+        "complementoEndereco": "",
+        "bairro": "JOSE DOS SANTOS",
+        "cidade": "BONFIM DO PIAUI",
+        "estado": "PI",
+        "logradouro": "1 CONCEICAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91992241755.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=d7486a50-02ee-47b6-a1cd-bf845ff930e9",
+    "data": {
+        "linha": "96991355701",
+        "nomeCompleto": "LUCAS MOTA",
+        "cpf": "04224315246",
+        "telefoneContato": "",
+        "dataNascimento": "30/11/1998",
+        "nomeMae": null,
+        "email": "deuzuina0@gmail.com",
+        "cep": "68903290",
+        "endereco": " AIMORE",
+        "numeroEndereco": "NA",
+        "complementoEndereco": "",
+        "bairro": "",
+        "cidade": "MACAPA",
+        "estado": "AP",
+        "logradouro": "AIMORE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 96991355701.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6e8f3ad5-23b3-4aac-a914-515b1efa7c65",
+    "data": {
+        "linha": "79998599220",
+        "nomeCompleto": "MARIA APARECIDA SANTOS DE SANTANA",
+        "cpf": "03696676543",
+        "telefoneContato": "",
+        "dataNascimento": "26/02/1987",
+        "nomeMae": null,
+        "email": null,
+        "cep": "49066240",
+        "endereco": "RUA BERILO FONSECA DORIA",
+        "numeroEndereco": "141",
+        "complementoEndereco": "",
+        "bairro": "INDUSTRIAL",
+        "cidade": "ARACAJU",
+        "estado": "SE",
+        "logradouro": "BERILO FONSECA DORIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79998599220.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

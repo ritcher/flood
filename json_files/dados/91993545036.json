@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993545036",
+        "nomeCompleto": "EDIVANE DA SILVA E SILVA",
+        "cpf": "02614513245",
+        "telefoneContato": "",
+        "dataNascimento": "21/04/1993",
+        "nomeMae": "MARIA DO SOCORRO DA SILVA",
+        "email": null,
+        "cep": "67035450",
+        "endereco": "PASSAGEM PAULO",
+        "numeroEndereco": "14",
+        "complementoEndereco": "",
+        "bairro": "DISTRITO INDUSTRIAL",
+        "cidade": "ANANINDEUA",
+        "estado": "PA",
+        "logradouro": "PAULO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993545036.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

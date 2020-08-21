@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "64999887549",
+        "nomeCompleto": "SAMUEL JUNIO TEXEIRA SILVA",
+        "cpf": "03559549159",
+        "telefoneContato": "",
+        "dataNascimento": "09/01/1991",
+        "nomeMae": "Maria",
+        "email": "wy4kiz9oam7n6u8@gmail.com",
+        "cep": "11900000",
+        "endereco": "RUA GERACINO GUEDES",
+        "numeroEndereco": "151",
+        "complementoEndereco": "",
+        "bairro": "SERROTE",
+        "cidade": "REGISTRO",
+        "estado": "sp",
+        "logradouro": "GERACINO GUEDES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 64999887549.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

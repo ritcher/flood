@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11934389925",
+        "nomeCompleto": "JOVENTINO SOARES LIMA",
+        "cpf": "17805139253",
+        "telefoneContato": "",
+        "dataNascimento": "13/06/1952",
+        "nomeMae": null,
+        "email": "menormito2k21@gmail.com",
+        "cep": "68550005",
+        "endereco": "Rua AVENIDA BRASIL",
+        "numeroEndereco": "55",
+        "complementoEndereco": "",
+        "bairro": "JARDIM CUMARU",
+        "cidade": "REDENCAO",
+        "estado": "PA",
+        "logradouro": "AVENIDA BRASIL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11934389925.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

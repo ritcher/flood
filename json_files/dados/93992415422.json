@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9e046ec0-f1fe-403e-b3e4-46450105bbdf",
+    "data": {
+        "linha": "93992415422",
+        "nomeCompleto": "LUA MARQUES XAVIER",
+        "cpf": "02065656239",
+        "telefoneContato": "",
+        "dataNascimento": "24/04/1993",
+        "nomeMae": "juremilda albuquerque castro",
+        "email": "marksman_paladino@hotmail.com",
+        "cep": "68143000",
+        "endereco": "EST 1",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "BELTERRA",
+        "estado": "PA",
+        "logradouro": "1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992415422.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

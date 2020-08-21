@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11995486074",
+        "nomeCompleto": "FRANCISCO PAULO BARBOZA",
+        "cpf": "42694661890",
+        "telefoneContato": "",
+        "dataNascimento": "05/09/1994",
+        "nomeMae": null,
+        "email": "kinglost588@gmail.com",
+        "cep": "69101476",
+        "endereco": "RUA HUMAITA",
+        "numeroEndereco": "3527",
+        "complementoEndereco": "",
+        "bairro": "S FRANCISCO",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "HUMAITA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11995486074.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

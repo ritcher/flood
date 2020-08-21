@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992401766",
+        "nomeCompleto": "ANA BEATRIZ DA CRUZ NATIVIDADE",
+        "cpf": "01460457269",
+        "telefoneContato": "",
+        "dataNascimento": "06/12/2003",
+        "nomeMae": null,
+        "email": null,
+        "cep": "06386360",
+        "endereco": "RUA AVAHIWANDERLEY DE LIMA",
+        "numeroEndereco": "210",
+        "complementoEndereco": "",
+        "bairro": "JARDIM PAULISTA",
+        "cidade": "CARAPICUIBA",
+        "estado": "sp",
+        "logradouro": "AVAHIWANDERLEY DE LIMA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992401766.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

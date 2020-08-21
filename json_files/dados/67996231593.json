@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67996231593",
+        "nomeCompleto": "MARIA FRANCINALVA DA SILVA ANDRADE",
+        "cpf": "70558045405",
+        "telefoneContato": "",
+        "dataNascimento": "28/11/1996",
+        "nomeMae": "MARIA DO CARMO DA SILVA",
+        "email": null,
+        "cep": "56163000",
+        "endereco": "RUA  LUIZ CABRAL 17",
+        "numeroEndereco": "17",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "PARNAMIRIM",
+        "estado": "PE",
+        "logradouro": " LUIZ CABRAL 17",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67996231593.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

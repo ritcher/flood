@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11955506068",
+        "nomeCompleto": "IDALINA M DE JESUS DOMINGUES DE MESQUITA",
+        "cpf": "05489702893",
+        "telefoneContato": "",
+        "dataNascimento": "09/02/1966",
+        "nomeMae": null,
+        "email": null,
+        "cep": "13323320",
+        "endereco": "RUA MARTIM AFONSO DE SOUZA",
+        "numeroEndereco": "135",
+        "complementoEndereco": "",
+        "bairro": "NOSSA SENHORA DO MONTE SERRAT",
+        "cidade": "SALTO",
+        "estado": "SP",
+        "logradouro": "MARTIM AFONSO DE SOUZA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11955506068.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

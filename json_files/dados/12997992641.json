@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12997992641",
+        "nomeCompleto": "HADDAWAY LITHELY DE LIMA",
+        "cpf": "44562693835",
+        "telefoneContato": "",
+        "dataNascimento": "01/01/1978",
+        "nomeMae": null,
+        "email": null,
+        "cep": "12305020",
+        "endereco": "Rua AVENIDA COSTA RICA",
+        "numeroEndereco": "105",
+        "complementoEndereco": "",
+        "bairro": "JARDIM MARCONDES",
+        "cidade": "JACAREI",
+        "estado": "sp",
+        "logradouro": "AVENIDA COSTA RICA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12997992641.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

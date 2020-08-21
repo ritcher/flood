@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31971393048",
+        "nomeCompleto": "NAIARA PRISCILA DA SILVA FERNANDES",
+        "cpf": "09826725609",
+        "telefoneContato": "",
+        "dataNascimento": "05/08/1988",
+        "nomeMae": "MARILIA APARECIDA DA SILVA",
+        "email": "ox5j2ojqlkdp7p2@gmail.com",
+        "cep": "32050060",
+        "endereco": "RUA  VC UM 51",
+        "numeroEndereco": "51",
+        "complementoEndereco": "",
+        "bairro": "NOVA CONTAGEM",
+        "cidade": "CONTAGEM",
+        "estado": "mg",
+        "logradouro": " VC UM 51",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31971393048.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "17996581689",
+        "nomeCompleto": "ODAIR JOSE BARCELOS DA SILVA",
+        "cpf": "14444872802",
+        "telefoneContato": "",
+        "dataNascimento": "12/04/1973",
+        "nomeMae": null,
+        "email": null,
+        "cep": "15053823",
+        "endereco": " RUA DOS LIRIOS",
+        "numeroEndereco": "305",
+        "complementoEndereco": "",
+        "bairro": "ESTANCIA SAO MANOEL (ZONA RURAL)",
+        "cidade": "S JOSE DO RIO PRETO",
+        "estado": "SP",
+        "logradouro": "RUA DOS LIRIOS",
+        "contaDigital": true,
+        "vencimentoFatura": "1",
+        "ciclo": "15",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 17996581689.",
+    "currentPlan": {
+        "code": "VIVOCTRLF51N",
+        "price": 84.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 5GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

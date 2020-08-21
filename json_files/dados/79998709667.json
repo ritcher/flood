@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=df91aa92-e250-4e05-979f-fd7dbe979e72",
+    "data": {
+        "linha": "79998709667",
+        "nomeCompleto": "ANDRE DOS SANTOS",
+        "cpf": "05091625500",
+        "telefoneContato": "",
+        "dataNascimento": "09/03/1994",
+        "nomeMae": "Anda fa\u00e7o dkfj",
+        "email": "mqlzm4p4lm3vaxt@gmail.com",
+        "cep": "49640000",
+        "endereco": "AVENIDA ADOLFO PRADO",
+        "numeroEndereco": "99",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SANTA ROSA DE LIMA",
+        "estado": "SE",
+        "logradouro": "ADOLFO PRADO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79998709667.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

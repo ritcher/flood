@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=dadb70d7-6aab-4902-a399-f61dc8143572",
+    "data": {
+        "linha": "79999936491",
+        "nomeCompleto": "ANDREIA OLIVEIRA GUEDES DE AZEVEDO",
+        "cpf": "18089517862",
+        "telefoneContato": "",
+        "dataNascimento": "09/03/1975",
+        "nomeMae": null,
+        "email": "mkm19p@gmail.com",
+        "cep": "14061090",
+        "endereco": "RUA JOSE GROTA FILHO",
+        "numeroEndereco": "86",
+        "complementoEndereco": "",
+        "bairro": "ANTONIO MARINCEK",
+        "cidade": "RIBEIRAO PRETO",
+        "estado": "sp",
+        "logradouro": "JOSE GROTA FILHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79999936491.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

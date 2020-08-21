@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=86e3b214-40b7-47e7-99ca-d1d21ac2d46d",
+    "data": {
+        "linha": "93992439891",
+        "nomeCompleto": "SACHA VIANA CATIVO",
+        "cpf": "04979999271",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68020790",
+        "endereco": "AVENIDA FR VICENTE 1098",
+        "numeroEndereco": "1098",
+        "complementoEndereco": "",
+        "bairro": "AER VELHO",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "FR VICENTE 1098",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992439891.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

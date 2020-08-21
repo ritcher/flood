@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31971467529",
+        "nomeCompleto": "JOSE AUGUSTO DOS SANTOS",
+        "cpf": "68642539615",
+        "telefoneContato": "",
+        "dataNascimento": "28/08/1967",
+        "nomeMae": null,
+        "email": "augustosantos67@hotmail.com",
+        "cep": "35700453",
+        "endereco": "RUA GUARANIS",
+        "numeroEndereco": "712",
+        "complementoEndereco": "",
+        "bairro": "NOSSA SENHORA DO CAR",
+        "cidade": "SETE LAGOAS",
+        "estado": "mg",
+        "logradouro": "GUARANIS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31971467529.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

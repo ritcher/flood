@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=8231b287-373e-47fa-b39e-7f8e667fa836",
+    "data": {
+        "linha": "77998250801",
+        "nomeCompleto": "JOABSON SANTOS DE JESUS",
+        "cpf": "85931873589",
+        "telefoneContato": "",
+        "dataNascimento": "15/05/1993",
+        "nomeMae": "AURENITA NERES SANTOS",
+        "email": "joabsonsilva_2011@hotmail.com",
+        "cep": "45037600",
+        "endereco": " RUA B",
+        "numeroEndereco": "37",
+        "complementoEndereco": "",
+        "bairro": "ESPIRITO SANTO",
+        "cidade": "VITORIA DA CONQUISTA",
+        "estado": "BA",
+        "logradouro": "RUA B",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77998250801.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

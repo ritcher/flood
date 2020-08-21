@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=2834ce7d-7b30-450b-aac9-fbc2f4edf108",
+    "data": {
+        "linha": "95991297601",
+        "nomeCompleto": "LETICIA LIMA DE SA",
+        "cpf": "11598399640",
+        "telefoneContato": "",
+        "dataNascimento": "16/06/1991",
+        "nomeMae": null,
+        "email": null,
+        "cep": "35519000",
+        "endereco": "RUA DELBAPINTO DA FONSECA",
+        "numeroEndereco": "755",
+        "complementoEndereco": "",
+        "bairro": "ROMEU DUARTE",
+        "cidade": "NOVA SERRANA",
+        "estado": "mg",
+        "logradouro": "DELBAPINTO DA FONSECA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 95991297601.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

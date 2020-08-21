@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=a100df4e-8c04-448c-9aa6-8b3b90de9c90",
+    "data": {
+        "linha": "93991848185",
+        "nomeCompleto": "ROSANGELA SOUSA DE JESUS",
+        "cpf": "91001471253",
+        "telefoneContato": "",
+        "dataNascimento": "03/12/1992",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "00000000",
+        "endereco": "R ANTONIO TAVARES DE VASCONCELOS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "VILA",
+        "cidade": "RECIFE",
+        "estado": "PE",
+        "logradouro": "ANTONIO TAVARES DE VASCONCELOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991848185.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

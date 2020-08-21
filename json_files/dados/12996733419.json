@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12996733419",
+        "nomeCompleto": "MARTA LUCIA DOS SANTOS CARVALHO DE OLIVEIRA",
+        "cpf": "26482773826",
+        "telefoneContato": "",
+        "dataNascimento": "15/09/1977",
+        "nomeMae": null,
+        "email": null,
+        "cep": "12460000",
+        "endereco": "RUA DA MARIA",
+        "numeroEndereco": "40",
+        "complementoEndereco": "",
+        "bairro": "STA CRUZ",
+        "cidade": "CAMPOS DO JORDAO",
+        "estado": "sp",
+        "logradouro": "DA MARIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996733419.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

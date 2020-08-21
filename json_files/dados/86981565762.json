@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6930ddff-d3f7-4b8c-9571-ae7622cd7235",
+    "data": {
+        "linha": "86981565762",
+        "nomeCompleto": "INGRID GOMES SOARES",
+        "cpf": "04258553336",
+        "telefoneContato": "",
+        "dataNascimento": "27/03/1991",
+        "nomeMae": null,
+        "email": "ingridsoares1@hotmail.com",
+        "cep": "64320000",
+        "endereco": "Rua MARIQUINHA NOGUEIRA",
+        "numeroEndereco": "501",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "PIMENTEIRAS",
+        "estado": "PI",
+        "logradouro": "MARIQUINHA NOGUEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 86981565762.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

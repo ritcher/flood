@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11930525783",
+        "nomeCompleto": "GIVANEIDE PEREIRA DE LIMA",
+        "cpf": "07797942730",
+        "telefoneContato": "",
+        "dataNascimento": "12/08/1976",
+        "nomeMae": "maria",
+        "email": "neidelima@gmail.com",
+        "cep": "02169000",
+        "endereco": "R JOAO CARLOS LOBO BOTELHO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "JARDIM ANDARAI",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "JOAO CARLOS LOBO BOTELHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11930525783.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

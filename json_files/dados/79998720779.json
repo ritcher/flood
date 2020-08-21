@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=907c9a97-6795-4118-8643-d357bcea46b5",
+    "data": {
+        "linha": "79998720779",
+        "nomeCompleto": "JOSE NICKSON DOS SANTOS CABRAL",
+        "cpf": "08068173560",
+        "telefoneContato": "",
+        "dataNascimento": "14/05/2006",
+        "nomeMae": null,
+        "email": null,
+        "cep": "78370000",
+        "endereco": "RUA ANGELO MASSON",
+        "numeroEndereco": "196",
+        "complementoEndereco": "",
+        "bairro": "VL ALVORADA",
+        "cidade": "NOVA OLIMPIA",
+        "estado": "MT",
+        "logradouro": "ANGELO MASSON",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79998720779.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

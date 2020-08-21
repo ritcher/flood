@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11934681244",
+        "nomeCompleto": "LAURO AMORIM",
+        "cpf": "52223750800",
+        "telefoneContato": "",
+        "dataNascimento": "12/03/2000",
+        "nomeMae": "N\u00e3o Informado",
+        "email": "amorim.8000@gmail.com",
+        "cep": "08537350",
+        "endereco": "RUA  JOAO FERNANDES 60",
+        "numeroEndereco": "60",
+        "complementoEndereco": "",
+        "bairro": "JD ROSANA",
+        "cidade": "FERRAZ DE VASCONCELOS",
+        "estado": "sp",
+        "logradouro": " JOAO FERNANDES 60",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11934681244.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

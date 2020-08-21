@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9659f12a-cc35-46f8-b33e-e0313c706c89",
+    "data": {
+        "linha": "68996015859",
+        "nomeCompleto": "Alana Pereira dos Reis ",
+        "cpf": "11234583674",
+        "telefoneContato": "",
+        "dataNascimento": "08/03/1998",
+        "nomeMae": "Eva Balbino Pereira de Arruda",
+        "email": "hsjshhshs@gmail.com",
+        "cep": "84165000",
+        "endereco": " BRO SANTA RITA",
+        "numeroEndereco": "0967",
+        "complementoEndereco": "",
+        "bairro": "SANTA RITA",
+        "cidade": "CASTRO",
+        "estado": "PR",
+        "logradouro": "BRO SANTA RITA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68996015859.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

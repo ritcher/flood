@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "92991192365",
+        "nomeCompleto": "FERNANDA CLAUDIO RIBEIRO",
+        "cpf": "96036915268",
+        "telefoneContato": "",
+        "dataNascimento": "04/06/1989",
+        "nomeMae": "IRENE CLAUDIO FERREIRA",
+        "email": null,
+        "cep": "69088301",
+        "endereco": " RUA SUMARE",
+        "numeroEndereco": "901",
+        "complementoEndereco": "",
+        "bairro": "JORGE TEIXEIRA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "RUA SUMARE",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991192365.",
+    "currentPlan": {
+        "code": "VIVOCTRLF2N",
+        "price": 65.99,
+        "marketingDescription": null,
+        "name": "VIVOCONTROLEDIGITAL-3,5GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27996342850",
+        "nomeCompleto": "FELIPE BONELLA GUIMARAES",
+        "cpf": "16069747771",
+        "telefoneContato": "",
+        "dataNascimento": "28/01/1994",
+        "nomeMae": "SUELANGIA MARA BONELLA",
+        "email": "bonella1728@gmail.com",
+        "cep": "29168625",
+        "endereco": "RUA DO FAISAO",
+        "numeroEndereco": "42",
+        "complementoEndereco": "",
+        "bairro": "PORTO CANOA",
+        "cidade": "SERRA",
+        "estado": "ES",
+        "logradouro": "DO FAISAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27996342850.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

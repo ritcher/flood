@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "55996677014",
+        "nomeCompleto": "WILLYAN RAMOS LOPES",
+        "cpf": "87235994053",
+        "telefoneContato": "",
+        "dataNascimento": "31/01/1996",
+        "nomeMae": null,
+        "email": "97118729will@gmail.com",
+        "cep": "97300000",
+        "endereco": "Rua JOAO MANOEL",
+        "numeroEndereco": "1261",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SAO GABRIEL",
+        "estado": "rs",
+        "logradouro": "JOAO MANOEL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 55996677014.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

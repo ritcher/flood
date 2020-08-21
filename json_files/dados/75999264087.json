@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=355180e4-cdb8-4ac0-963b-f15de833628e",
+    "data": {
+        "linha": "75999264087",
+        "nomeCompleto": "JULIA ALVES DE SOUZA",
+        "cpf": "06613307882",
+        "telefoneContato": "",
+        "dataNascimento": "02/11/1953",
+        "nomeMae": "MARIA ALVES DE JESUS",
+        "email": null,
+        "cep": "11495204",
+        "endereco": "TRAVESSA  TREZENTOS E NOVENTA E UM 53 Q 172 L 11",
+        "numeroEndereco": "53",
+        "complementoEndereco": "",
+        "bairro": "MORRINHOS",
+        "cidade": "GUARUJA",
+        "estado": "sp",
+        "logradouro": " TREZENTOS E NOVENTA E UM 53 Q 172 L 11",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 75999264087.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

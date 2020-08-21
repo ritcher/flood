@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6c40437c-0006-4c38-a69f-ba38fd83af3c",
+    "data": {
+        "linha": "68999460062",
+        "nomeCompleto": "ELIEIDE CORREA DA SILVA",
+        "cpf": "64354687291",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69915196",
+        "endereco": "Rua EST  DO CALAFATE 865",
+        "numeroEndereco": "865",
+        "complementoEndereco": "",
+        "bairro": "NOVA ESPERANCA",
+        "cidade": "RIO BRANCO",
+        "estado": "AC",
+        "logradouro": "EST  DO CALAFATE 865",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999460062.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

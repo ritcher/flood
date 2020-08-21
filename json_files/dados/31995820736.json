@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31995820736",
+        "nomeCompleto": "GEFERSON CLAUDIO PEREIRA",
+        "cpf": "10281039640",
+        "telefoneContato": "",
+        "dataNascimento": "10/08/1989",
+        "nomeMae": "MARIA APARECIDA SILVA",
+        "email": "gffin@hotmail.com",
+        "cep": "35904006",
+        "endereco": "RUA CORTA MADEIRA",
+        "numeroEndereco": "69",
+        "complementoEndereco": "",
+        "bairro": "PEDREIRA",
+        "cidade": "ITABIRA",
+        "estado": "MG",
+        "logradouro": "CORTA MADEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31995820736.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

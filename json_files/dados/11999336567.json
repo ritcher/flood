@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11999336567",
+        "nomeCompleto": "MARIA LUCIENE NEVES PEREIRA",
+        "cpf": "12394933801",
+        "telefoneContato": "",
+        "dataNascimento": "26/09/1968",
+        "nomeMae": null,
+        "email": null,
+        "cep": "89760000",
+        "endereco": " 'AV TANCREDO NEVES",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "PIONEIROS",
+        "cidade": "ITA",
+        "estado": "SC",
+        "logradouro": "'AV TANCREDO NEVES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11999336567.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

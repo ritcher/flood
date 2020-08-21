@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992010302",
+        "nomeCompleto": "FRANCISCO SILVA COSTA",
+        "cpf": "12028711272",
+        "telefoneContato": "",
+        "dataNascimento": "28/09/1960",
+        "nomeMae": null,
+        "email": "p2k2v9c7ac62tvj@gmail.com",
+        "cep": "58000000",
+        "endereco": "R ALINE BARROS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ROGER",
+        "cidade": "JOAO PESSOA",
+        "estado": "PB",
+        "logradouro": "ALINE BARROS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992010302.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991058054",
+        "nomeCompleto": "DOUGLAS CUNHA DE ARAUJO",
+        "cpf": "05095811294",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "FRANCIDALVA CUNHA DE ARAUJO",
+        "email": null,
+        "cep": "68800000",
+        "endereco": "Rua BEIJAMIM CONSTANT 364",
+        "numeroEndereco": "364",
+        "complementoEndereco": "",
+        "bairro": "CASTANHEIRA",
+        "cidade": "BREVES",
+        "estado": "PA",
+        "logradouro": "BEIJAMIM CONSTANT 364",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991058054.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

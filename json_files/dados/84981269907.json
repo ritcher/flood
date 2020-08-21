@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=cb6f5194-a184-4265-9682-befd702fa730",
+    "data": {
+        "linha": "84981269907",
+        "nomeCompleto": "ANA LUCIA DA SILVA",
+        "cpf": "01142973476",
+        "telefoneContato": "",
+        "dataNascimento": "14/02/1980",
+        "nomeMae": null,
+        "email": null,
+        "cep": "88359090",
+        "endereco": "RUA MARIA NICOLODI PERASSA",
+        "numeroEndereco": "160",
+        "complementoEndereco": "",
+        "bairro": "DOM JOAQUIM",
+        "cidade": "BRUSQUE",
+        "estado": "sc",
+        "logradouro": "MARIA NICOLODI PERASSA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 84981269907.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

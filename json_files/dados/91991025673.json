@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991025673",
+        "nomeCompleto": "DHENIF LUCIANA FRANCA NOBRE",
+        "cpf": "02982295288",
+        "telefoneContato": "",
+        "dataNascimento": "07/03/1993",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68786000",
+        "endereco": "RUA SAO JORGE",
+        "numeroEndereco": "30",
+        "complementoEndereco": "",
+        "bairro": "ZONA RURAL",
+        "cidade": "SANTO ANTONIO DO TAUA",
+        "estado": "PA",
+        "logradouro": "SAO JORGE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991025673.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

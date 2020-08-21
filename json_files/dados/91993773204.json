@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993773204",
+        "nomeCompleto": "EDEVANE MALAGUTTE SCHMATZ",
+        "cpf": "03802452992",
+        "telefoneContato": "",
+        "dataNascimento": "25/12/1982",
+        "nomeMae": null,
+        "email": "alvesbatistaruanvitor@gmail.com",
+        "cep": "82600020",
+        "endereco": " MODESTO PICCOLI",
+        "numeroEndereco": "464",
+        "complementoEndereco": "",
+        "bairro": "TINGUI",
+        "cidade": "CURITIBA",
+        "estado": "PR",
+        "logradouro": "MODESTO PICCOLI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993773204.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

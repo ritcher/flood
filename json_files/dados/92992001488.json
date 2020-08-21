@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "92992001488",
+        "nomeCompleto": "FRANCISCO BARBOSA VIEIRA",
+        "cpf": "06881190263",
+        "telefoneContato": "",
+        "dataNascimento": "23/01/1952",
+        "nomeMae": "NEMORINA BARBOSA DA SILVA ",
+        "email": null,
+        "cep": "69735000",
+        "endereco": " RUA BOTO",
+        "numeroEndereco": "133",
+        "complementoEndereco": "",
+        "bairro": "GALO DA SERRA",
+        "cidade": "PRES FIGUEIREDO",
+        "estado": "AM",
+        "logradouro": "RUA BOTO",
+        "contaDigital": true,
+        "vencimentoFatura": "10",
+        "ciclo": "25",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992001488.",
+    "currentPlan": {
+        "code": "VIVOCTRLF2N",
+        "price": 65.99,
+        "marketingDescription": null,
+        "name": "VIVOCONTROLEDIGITAL-3,5GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999008756",
+        "nomeCompleto": "MARCIO JONES TAVARES MEDEIROS",
+        "cpf": "22181067287",
+        "telefoneContato": "",
+        "dataNascimento": "10/10/1970",
+        "nomeMae": "MARIA DA PAIXAO TAVARES MEDEIROS",
+        "email": "c5za10caxaq63di@gmail.com",
+        "cep": "76807139",
+        "endereco": "AV JATUARANA",
+        "numeroEndereco": "4818",
+        "complementoEndereco": "",
+        "bairro": "NOVA FLORESTA",
+        "cidade": "PORTO VELHO",
+        "estado": "RO",
+        "logradouro": "JATUARANA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999008756.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

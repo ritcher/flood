@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=bbc12843-2d01-489b-b389-2ec897683a7b",
+    "data": {
+        "linha": "93991802124",
+        "nomeCompleto": "ORCELIA MARIA MOTA DO REGO",
+        "cpf": "70375909249",
+        "telefoneContato": "",
+        "dataNascimento": "21/10/1981",
+        "nomeMae": "Maria Mota",
+        "email": null,
+        "cep": "68035160",
+        "endereco": "RUA MARIA JOSE",
+        "numeroEndereco": "112",
+        "complementoEndereco": "",
+        "bairro": "MARACANA",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "MARIA JOSE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991802124.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

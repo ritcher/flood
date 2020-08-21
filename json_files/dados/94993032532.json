@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "94993032532",
+        "nomeCompleto": "LURDIMILA CARDOSO BARROS",
+        "cpf": "04758121311",
+        "telefoneContato": "",
+        "dataNascimento": "25/08/1988",
+        "nomeMae": "MARILURDES DE JESUS CARDOSO",
+        "email": null,
+        "cep": "65360000",
+        "endereco": " DOS SOL",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MONCAO",
+        "estado": "MA",
+        "logradouro": "DOS SOL",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94993032532.",
+    "currentPlan": {
+        "code": "VIVOCTRLF35N",
+        "price": 44.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-2,5GB_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "14997601059",
+        "nomeCompleto": "GISELE CUNHA FERREIRA",
+        "cpf": "41689362871",
+        "telefoneContato": "",
+        "dataNascimento": "13/05/1993",
+        "nomeMae": null,
+        "email": "farocarlos63@gmail.com",
+        "cep": "38770000",
+        "endereco": " 01",
+        "numeroEndereco": "457",
+        "complementoEndereco": "",
+        "bairro": "JARDIM PREDIAL",
+        "cidade": "JOAO PINHEIRO",
+        "estado": "MG",
+        "logradouro": "01",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 14997601059.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

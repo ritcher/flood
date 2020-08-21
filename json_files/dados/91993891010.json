@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993891010",
+        "nomeCompleto": "RAYSSA EDIZANDRA GUEDES DE SOUZA",
+        "cpf": "02021058220",
+        "telefoneContato": "",
+        "dataNascimento": "19/06/1993",
+        "nomeMae": "sandra maria de souza guedes",
+        "email": "rayssaguedes19@hotmail.com",
+        "cep": "68780000",
+        "endereco": "RUA TRINTA E UM DE AGOST",
+        "numeroEndereco": "73",
+        "complementoEndereco": "",
+        "bairro": "ARAPIRANGA",
+        "cidade": "VIGIA",
+        "estado": "PA",
+        "logradouro": "TRINTA E UM DE AGOST",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993891010.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

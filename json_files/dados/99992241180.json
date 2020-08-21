@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b00b69e0-90b8-41e7-8588-85affc7528ae",
+    "data": {
+        "linha": "99992241180",
+        "nomeCompleto": "CAMILA SOUSA DA CRUZ",
+        "cpf": "02499765364",
+        "telefoneContato": "",
+        "dataNascimento": "25/12/1986",
+        "nomeMae": "nao informado",
+        "email": "igororlando388@gmail.com",
+        "cep": "41390320",
+        "endereco": "VILA VILA SAO JOSE",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "VILA CANARIA",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "VILA SAO JOSE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99992241180.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

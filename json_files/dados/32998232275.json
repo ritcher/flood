@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "32998232275",
+        "nomeCompleto": "MARIA JOSE DA SILVA APARECIDA",
+        "cpf": "93795386691",
+        "telefoneContato": "",
+        "dataNascimento": "11/11/1960",
+        "nomeMae": null,
+        "email": null,
+        "cep": "36302348",
+        "endereco": "RUA KENNEDY",
+        "numeroEndereco": "28",
+        "complementoEndereco": "",
+        "bairro": "VILA SAO VICENTE (COLONIA DO MARCAL)",
+        "cidade": "S JOAO DEL REI",
+        "estado": "MG",
+        "logradouro": "KENNEDY",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 32998232275.",
+    "currentPlan": {
+        "code": "VIVOCTRLF35N",
+        "price": 44.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-2,5GB_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

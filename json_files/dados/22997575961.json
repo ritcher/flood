@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "22997575961",
+        "nomeCompleto": "THAMIRES SILVA DE CASTRO",
+        "cpf": "15773823748",
+        "telefoneContato": "",
+        "dataNascimento": "19/06/1996",
+        "nomeMae": null,
+        "email": null,
+        "cep": "20921160",
+        "endereco": "Rua RUA PRIMEIRO",
+        "numeroEndereco": "36",
+        "complementoEndereco": "",
+        "bairro": "SAO CRISTOVAO",
+        "cidade": "RIO DE JANEIRO",
+        "estado": "Rj",
+        "logradouro": "RUA PRIMEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 22997575961.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

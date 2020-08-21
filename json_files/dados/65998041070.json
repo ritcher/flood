@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "65998041070",
+        "nomeCompleto": "VICTORIA EUGENIA CARNEIRA SANTIAGO FERST",
+        "cpf": "02056222167",
+        "telefoneContato": "",
+        "dataNascimento": "08/08/1996",
+        "nomeMae": "ENERY BERNADETE CARNEIRO SANTIAGO FERST",
+        "email": "ferstvic@gmail.com",
+        "cep": "78140215",
+        "endereco": "AVENIDA ULISSES POMPEU DE CAMPOS",
+        "numeroEndereco": "3190",
+        "complementoEndereco": "",
+        "bairro": "JARDIM PANORAMA",
+        "cidade": "VARZEA GRANDE",
+        "estado": "MT",
+        "logradouro": "ULISSES POMPEU DE CAMPOS",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65998041070.",
+    "currentPlan": {
+        "code": "VIVOCTRLF30N",
+        "price": 85.99,
+        "marketingDescription": null,
+        "name": "VIVOCTRL DIGITAL-5GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

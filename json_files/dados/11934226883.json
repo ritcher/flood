@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11934226883",
+        "nomeCompleto": "MARIA DE FATIMA FERREIRA DE SOUZA",
+        "cpf": "05389574680",
+        "telefoneContato": "",
+        "dataNascimento": "21/03/1979",
+        "nomeMae": null,
+        "email": "jackelinebarbosa435@gmail.com",
+        "cep": "17400000",
+        "endereco": "Rua JOAO CORREIA LEITE DE MORAES",
+        "numeroEndereco": "924",
+        "complementoEndereco": "",
+        "bairro": "LABIENOPOLIS",
+        "cidade": "GARCA",
+        "estado": "sp",
+        "logradouro": "JOAO CORREIA LEITE DE MORAES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11934226883.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

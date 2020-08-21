@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=c24d76aa-c528-481d-ab67-9304ac20514e",
+    "data": {
+        "linha": "98991669417",
+        "nomeCompleto": "JALDEMIR GONCALVES",
+        "cpf": "48863475334",
+        "telefoneContato": "",
+        "dataNascimento": "13/09/1973",
+        "nomeMae": null,
+        "email": null,
+        "cep": "76840000",
+        "endereco": "Rua ROD BR",
+        "numeroEndereco": "364",
+        "complementoEndereco": "",
+        "bairro": "JACI PARANA",
+        "cidade": "PORTO VELHO",
+        "estado": "RO",
+        "logradouro": "ROD BR",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98991669417.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

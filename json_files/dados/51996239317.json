@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51996239317",
+        "nomeCompleto": "SANDRA REGINA GREGORY MALLMANN",
+        "cpf": "00937702005",
+        "telefoneContato": "",
+        "dataNascimento": "19/08/1986",
+        "nomeMae": null,
+        "email": null,
+        "cep": "95870000",
+        "endereco": "Rua LFERINO RIBEIRO",
+        "numeroEndereco": "125",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "BOM RETIRO DO SUL",
+        "estado": "rs",
+        "logradouro": "LFERINO RIBEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51996239317.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

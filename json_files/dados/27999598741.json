@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27999598741",
+        "nomeCompleto": "DAIANE DE ARAUJO MIRANDA",
+        "cpf": "15956649712",
+        "telefoneContato": "",
+        "dataNascimento": "07/03/1994",
+        "nomeMae": "DAIANE DE ARAUJO MIRANDA",
+        "email": "daiane@ru.mail",
+        "cep": "29060050",
+        "endereco": "Rua RUA ODETTE DE OLIVEIRA LACOURT",
+        "numeroEndereco": "601",
+        "complementoEndereco": "",
+        "bairro": "JARDIM DA PENHA",
+        "cidade": "VITORIA",
+        "estado": "es",
+        "logradouro": "RUA ODETTE DE OLIVEIRA LACOURT",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27999598741.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

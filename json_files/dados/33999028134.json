@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=46bab937-bd4a-479d-a693-fe898a72b52a",
+    "data": {
+        "linha": "33999028134",
+        "nomeCompleto": "MATEUS VITOR SANDES DA SILVA",
+        "cpf": "13178500685",
+        "telefoneContato": "",
+        "dataNascimento": "29/11/2000",
+        "nomeMae": "IRENE SANDES SILVA",
+        "email": null,
+        "cep": "39803203",
+        "endereco": "RUA  DOS LIRIOS 30 A",
+        "numeroEndereco": "30",
+        "complementoEndereco": "",
+        "bairro": "SOLIDARIEDADE",
+        "cidade": "TEOFILO OTONI",
+        "estado": "mg",
+        "logradouro": " DOS LIRIOS 30 A",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999028134.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "94992663762",
+        "nomeCompleto": "LUCIENE NICOLAU ROZENDO",
+        "cpf": "86830600200",
+        "telefoneContato": "",
+        "dataNascimento": "21/07/1985",
+        "nomeMae": "MARIA NICOLAU ROZENO",
+        "email": "lucienegra@gmail.com",
+        "cep": "68550000",
+        "endereco": "RUA C 11",
+        "numeroEndereco": "20",
+        "complementoEndereco": "",
+        "bairro": "ATILA DOUGLAS",
+        "cidade": "REDENCAO",
+        "estado": "PA",
+        "logradouro": "C 11",
+        "contaDigital": true,
+        "vencimentoFatura": "10",
+        "ciclo": "25",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992663762.",
+    "currentPlan": {
+        "code": "VIVOCTRLF32N",
+        "price": 27.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIGITAL-VOZ_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

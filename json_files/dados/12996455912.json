@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12996455912",
+        "nomeCompleto": "SILVIO LUIS MACHADO DOS SANTOS",
+        "cpf": "02214436065",
+        "telefoneContato": "",
+        "dataNascimento": "11/02/1992",
+        "nomeMae": null,
+        "email": null,
+        "cep": "94170180",
+        "endereco": "RUA PROGRESSO",
+        "numeroEndereco": "50",
+        "complementoEndereco": "",
+        "bairro": "SANTA CRUZ",
+        "cidade": "GRAVATAI",
+        "estado": "rs",
+        "logradouro": "PROGRESSO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996455912.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

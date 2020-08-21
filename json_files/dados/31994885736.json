@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31994885736",
+        "nomeCompleto": "PEDRO HENRIQUE EVANGELISTA LIMA",
+        "cpf": "14587049638",
+        "telefoneContato": "",
+        "dataNascimento": "28/06/1999",
+        "nomeMae": null,
+        "email": null,
+        "cep": "32050120",
+        "endereco": " VL - 33",
+        "numeroEndereco": "84",
+        "complementoEndereco": "",
+        "bairro": "",
+        "cidade": "CONTAGEM",
+        "estado": "MG",
+        "logradouro": "VL - 33",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31994885736.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

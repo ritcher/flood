@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f6a413fd-4281-4fd1-bab9-fc210cad6eac",
+    "data": {
+        "linha": "74999798570",
+        "nomeCompleto": "MARCOS XAVIER DA CRUZ",
+        "cpf": "70620431504",
+        "telefoneContato": "",
+        "dataNascimento": "18/03/1975",
+        "nomeMae": "NAIR MARQUES DA SILVA",
+        "email": null,
+        "cep": "47400000",
+        "endereco": " RUA NILTON DA SILVA TEIXEIRA",
+        "numeroEndereco": "332",
+        "complementoEndereco": "",
+        "bairro": "POLIVALENTE",
+        "cidade": "XIQUEXIQUE",
+        "estado": "BA",
+        "logradouro": "RUA NILTON DA SILVA TEIXEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 74999798570.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

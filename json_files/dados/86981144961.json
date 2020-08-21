@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6aead379-55ca-4cba-bd5a-d75141b572b5",
+    "data": {
+        "linha": "86981144961",
+        "nomeCompleto": "MARIA JOSE BARBOSA DOS SANTOS",
+        "cpf": "01991818378",
+        "telefoneContato": "",
+        "dataNascimento": "10/09/1980",
+        "nomeMae": null,
+        "email": null,
+        "cep": "36900000",
+        "endereco": "Rua AVENIDA MELO VIANA",
+        "numeroEndereco": "515",
+        "complementoEndereco": "",
+        "bairro": "BOM PASTOR",
+        "cidade": "MANHUACU",
+        "estado": "mg",
+        "logradouro": "AVENIDA MELO VIANA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 86981144961.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

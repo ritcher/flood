@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=d15edcc5-fae1-4d9e-ad50-e3278a82320e",
+    "data": {
+        "linha": "99991908912",
+        "nomeCompleto": "FRANCIEL DE SOUSA SILVA",
+        "cpf": "05819344154",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "GRACILENE ALVES DE SOUSA",
+        "email": null,
+        "cep": "69240971",
+        "endereco": "AVENIDA AUTAZES",
+        "numeroEndereco": "262",
+        "complementoEndereco": "",
+        "bairro": "VALDOMIRO SAMPAIO",
+        "cidade": "AUTAZES",
+        "estado": "AM",
+        "logradouro": "AUTAZES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99991908912.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

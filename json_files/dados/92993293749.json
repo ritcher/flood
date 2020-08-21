@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993293749",
+        "nomeCompleto": "AMARILDO VIEIRA ROLIM",
+        "cpf": "46446648200",
+        "telefoneContato": "",
+        "dataNascimento": "28/11/1973",
+        "nomeMae": null,
+        "email": "amarildovieirarolim@gmail.com",
+        "cep": "69039460",
+        "endereco": "RUA CINCO DE FEVEREIRO",
+        "numeroEndereco": "414",
+        "complementoEndereco": "",
+        "bairro": "NOVO ISRAEL",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "CINCO DE FEVEREIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993293749.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

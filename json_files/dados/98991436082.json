@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f9f5e421-7465-4f5f-85c7-2d3be823cdc3",
+    "data": {
+        "linha": "98991436082",
+        "nomeCompleto": "LAIS COLINS CONCEICAO",
+        "cpf": "08540863316",
+        "telefoneContato": "",
+        "dataNascimento": "12/03/2000",
+        "nomeMae": "SILVELENA ENES COLINS",
+        "email": "9ubqyykcfdgsfz5@gmail.com",
+        "cep": "65145000",
+        "endereco": "RUA  DA PICARREIRA 395",
+        "numeroEndereco": "395",
+        "complementoEndereco": "",
+        "bairro": "AT DE FATIMA",
+        "cidade": "SANTA RITA",
+        "estado": "MA",
+        "logradouro": " DA PICARREIRA 395",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98991436082.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

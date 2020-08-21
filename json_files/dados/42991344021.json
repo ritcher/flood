@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f9956e14-17fb-483e-89cf-9030d128a28a",
+    "data": {
+        "linha": "42991344021",
+        "nomeCompleto": "MARCOS VINICIUS AQUINO",
+        "cpf": "01743119666",
+        "telefoneContato": "",
+        "dataNascimento": "04/02/1990",
+        "nomeMae": "MARIA DE FATIMA AQUINO",
+        "email": null,
+        "cep": "37212000",
+        "endereco": "RUA PROJETADA",
+        "numeroEndereco": "42",
+        "complementoEndereco": "",
+        "bairro": "N",
+        "cidade": "MACUCO DE MINAS",
+        "estado": "MG",
+        "logradouro": "PROJETADA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 42991344021.",
+    "currentPlan": {
+        "code": "PRPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

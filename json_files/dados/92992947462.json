@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992947462",
+        "nomeCompleto": "Creomar dias mota",
+        "cpf": "12688339249",
+        "telefoneContato": "",
+        "dataNascimento": "22/12/1960",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69425000",
+        "endereco": "RUA BRAULINO PEREI RA",
+        "numeroEndereco": "38",
+        "complementoEndereco": "",
+        "bairro": "NOVO HORIZONTE",
+        "cidade": "CAAPIRANGA",
+        "estado": "AM",
+        "logradouro": "BRAULINO PEREI RA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992947462.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

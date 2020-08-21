@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65998031533",
+        "nomeCompleto": "MARIA INES ROCHA",
+        "cpf": "10220352828",
+        "telefoneContato": "",
+        "dataNascimento": "19/02/1967",
+        "nomeMae": null,
+        "email": "jajsiwiqjq18188a@gmail.com",
+        "cep": "78240000",
+        "endereco": " 05",
+        "numeroEndereco": "866",
+        "complementoEndereco": "",
+        "bairro": "CENTRO.",
+        "cidade": "PORTO ESPERIDIAO",
+        "estado": "MT",
+        "logradouro": "05",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65998031533.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

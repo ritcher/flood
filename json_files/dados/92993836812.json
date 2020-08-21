@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993836812",
+        "nomeCompleto": "MANOEL SOCRATES COSTA LEVER",
+        "cpf": "83192336234",
+        "telefoneContato": "",
+        "dataNascimento": "12/02/1986",
+        "nomeMae": "MARIA DAS GRA\u00c7AS COSTA LEVER",
+        "email": "6r1apbs8akj27yp@gmail.com",
+        "cep": "69104038",
+        "endereco": "R NOVA DO FOMENTO",
+        "numeroEndereco": "1217",
+        "complementoEndereco": "",
+        "bairro": "SAO JORGE",
+        "cidade": "ITACOATIARA",
+        "estado": "AM",
+        "logradouro": "NOVA DO FOMENTO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993836812.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

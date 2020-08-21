@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "98991968115",
+        "nomeCompleto": "DICLEI GOMES DE OLIVEIRA",
+        "cpf": "01713359294",
+        "telefoneContato": "",
+        "dataNascimento": "09/02/1993",
+        "nomeMae": "maria",
+        "email": "dicleigomesdeoliveira7@gmail.com",
+        "cep": "49400000",
+        "endereco": " 02",
+        "numeroEndereco": "822",
+        "complementoEndereco": "",
+        "bairro": "ADEMAR DE CARVALHO",
+        "cidade": "LAGARTO",
+        "estado": "SE",
+        "logradouro": "02",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98991968115.",
+    "currentPlan": {
+        "code": "VIVOCTRLF50N",
+        "price": 69.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 4GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

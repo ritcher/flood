@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "13996129238",
+        "nomeCompleto": "David Bahiense Rosa",
+        "cpf": "41610689801",
+        "telefoneContato": "",
+        "dataNascimento": "17/01/1987",
+        "nomeMae": "Maria Elena Bahiense De Souza",
+        "email": "d46s65vg5rzmhlw@gmail.com",
+        "cep": "11723210",
+        "endereco": "TRAVESSA C",
+        "numeroEndereco": "865",
+        "complementoEndereco": "",
+        "bairro": "VILA ISABEL",
+        "cidade": "PRAIA GRANDE",
+        "estado": "sp",
+        "logradouro": "C",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 13996129238.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

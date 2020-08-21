@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=77bbe420-3eea-4a49-a1bf-0ef6e8d79547",
+    "data": {
+        "linha": "42991084834",
+        "nomeCompleto": "GIOVANNY RODRIGUES DOS SANTOS",
+        "cpf": "14291687907",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "84063130",
+        "endereco": "Rua RUA SAO ROMULO",
+        "numeroEndereco": "338",
+        "complementoEndereco": "",
+        "bairro": "CHAPADA",
+        "cidade": "PONTA GROSSA",
+        "estado": "PR",
+        "logradouro": "RUA SAO ROMULO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 42991084834.",
+    "currentPlan": {
+        "code": "PRPREDIAR3GSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "PRPREDIAR3GSM",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

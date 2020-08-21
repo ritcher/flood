@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67996898887",
+        "nomeCompleto": "ENY FERRARI",
+        "cpf": "33148287649",
+        "telefoneContato": "",
+        "dataNascimento": "29/05/1952",
+        "nomeMae": null,
+        "email": "enyferrari1952@gmail.com",
+        "cep": "36503106",
+        "endereco": "RUA JOSE VIEIRA DE ALMEIDA",
+        "numeroEndereco": "115",
+        "complementoEndereco": "",
+        "bairro": "RES S JOSE",
+        "cidade": "UBA",
+        "estado": "mg",
+        "logradouro": "JOSE VIEIRA DE ALMEIDA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67996898887.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

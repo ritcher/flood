@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12996617766",
+        "nomeCompleto": "VALDINEI RAMOS DE OLIVEIRA",
+        "cpf": "04010285699",
+        "telefoneContato": "",
+        "dataNascimento": "17/11/1976",
+        "nomeMae": null,
+        "email": "valdinei337@hotmail.com",
+        "cep": "30535610",
+        "endereco": "Rua AVENIDA DOM JOSE GASPAR",
+        "numeroEndereco": "1083",
+        "complementoEndereco": "",
+        "bairro": "CORACAO EUCARISTICO",
+        "cidade": "BELO HORIZONTE",
+        "estado": "mg",
+        "logradouro": "AVENIDA DOM JOSE GASPAR",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996617766.",
+    "currentPlan": {
+        "code": "VIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Vivo Toda Hora",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=07502662-20d9-4eab-89a7-4c70c77c29ae",
+    "data": {
+        "linha": "68996082057",
+        "nomeCompleto": "MARIA GEANE ALVES DE ALMEIDA",
+        "cpf": "81342608291",
+        "telefoneContato": "",
+        "dataNascimento": "07/08/1986",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69980000",
+        "endereco": "RUA PARA",
+        "numeroEndereco": "2050",
+        "complementoEndereco": "",
+        "bairro": "CRUZEIRAO",
+        "cidade": "CRUZEIRO DO SUL",
+        "estado": "AC",
+        "logradouro": "PARA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68996082057.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

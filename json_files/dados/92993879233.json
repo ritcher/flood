@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993879233",
+        "nomeCompleto": "Kaique Thiago Cardoso",
+        "cpf": "89676190225",
+        "telefoneContato": "",
+        "dataNascimento": "06/03/1975",
+        "nomeMae": "Nicole Ros\u00e2ngela",
+        "email": "kaiquethiagocardoso-85@muvacademia.com.br",
+        "cep": "69065020",
+        "endereco": "AV BEIRA RIO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "MONTE SIAO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "BEIRA RIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993879233.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

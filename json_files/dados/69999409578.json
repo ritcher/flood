@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999409578",
+        "nomeCompleto": "MARIA EDUARDA DE OLIVEIRA LIMA REIS",
+        "cpf": "06653970205",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": null,
+        "cep": "76801514",
+        "endereco": "Rua RUA SEBASTIAO BARROSO",
+        "numeroEndereco": "1296",
+        "complementoEndereco": "",
+        "bairro": "PEDRINHAS",
+        "cidade": "PORTO VELHO",
+        "estado": "RO",
+        "logradouro": "RUA SEBASTIAO BARROSO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999409578.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

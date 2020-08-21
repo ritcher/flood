@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "14997017545",
+        "nomeCompleto": "EULLER MILLER TIAGO LEOPOLDO",
+        "cpf": "42814599879",
+        "telefoneContato": "",
+        "dataNascimento": "27/09/1994",
+        "nomeMae": "LURDES DIAS TIAGO",
+        "email": null,
+        "cep": "17022098",
+        "endereco": "RUA  PAULO HUNGARO 6191",
+        "numeroEndereco": "6191",
+        "complementoEndereco": "",
+        "bairro": "POUSADA DA ESPERANCA I",
+        "cidade": "BAURU",
+        "estado": "sp",
+        "logradouro": " PAULO HUNGARO 6191",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 14997017545.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

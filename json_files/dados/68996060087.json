@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6354db01-9cea-4f47-b3fa-3dbd7b94a109",
+    "data": {
+        "linha": "68996060087",
+        "nomeCompleto": "ADRIANA SORIANO DA SILVA",
+        "cpf": "65665767204",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "MARIA SORIANO DA SILVA",
+        "email": null,
+        "cep": "69940000",
+        "endereco": "RUA QUINTINO BOCAIUVA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "B BSQ",
+        "cidade": "SENA MADUREIRA",
+        "estado": "AC",
+        "logradouro": "QUINTINO BOCAIUVA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68996060087.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

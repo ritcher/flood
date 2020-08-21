@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=7a53850c-950c-40ff-b14d-071ec0d1d8e1",
+    "data": {
+        "linha": "63999347245",
+        "nomeCompleto": "MURILO DE ARAUJO MACHADO",
+        "cpf": "04884476158",
+        "telefoneContato": "",
+        "dataNascimento": "30/06/1993",
+        "nomeMae": null,
+        "email": "josebom190@gmail.com",
+        "cep": "77060194",
+        "endereco": " 1",
+        "numeroEndereco": "262",
+        "complementoEndereco": "",
+        "bairro": "JARDIM AURENY II",
+        "cidade": "PALMAS",
+        "estado": "TO",
+        "logradouro": "1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 63999347245.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

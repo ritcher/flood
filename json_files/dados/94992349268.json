@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0c6751f6-3b62-4375-a098-8545c00a958f",
+    "data": {
+        "linha": "94992349268",
+        "nomeCompleto": "ELIZEU TAVARES PEREIRA",
+        "cpf": "70133822214",
+        "telefoneContato": "",
+        "dataNascimento": "20/04/1998",
+        "nomeMae": "maria alice tavares pereira ",
+        "email": "yuweqrvf16hd15s@gmail.com",
+        "cep": "11111111",
+        "endereco": " PENDENTE CADASTRO ENDERECO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "PENDENTE CADASTRO ENDERECO",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "PENDENTE CADASTRO ENDERECO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992349268.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

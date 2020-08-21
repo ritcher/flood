@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "19971251179",
+        "nomeCompleto": "ANDREIA PINTO AGUIAR VIEIRA",
+        "cpf": "18808474852",
+        "telefoneContato": "",
+        "dataNascimento": "24/03/1974",
+        "nomeMae": null,
+        "email": null,
+        "cep": "13035190",
+        "endereco": "RUA JOSE MARIA LAMANERES",
+        "numeroEndereco": "1",
+        "complementoEndereco": "",
+        "bairro": "VILA INDUSTRIAL",
+        "cidade": "CAMPINAS",
+        "estado": "sp",
+        "logradouro": "JOSE MARIA LAMANERES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19971251179.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

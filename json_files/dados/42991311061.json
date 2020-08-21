@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=37774950-73d8-4087-90ee-ebb10ceae524",
+    "data": {
+        "linha": "42991311061",
+        "nomeCompleto": "HELENA FRANCISCA ALVES",
+        "cpf": "09355792816",
+        "telefoneContato": "",
+        "dataNascimento": "30/04/1960",
+        "nomeMae": null,
+        "email": null,
+        "cep": "85015210",
+        "endereco": "RUA ANDRADE NEVES",
+        "numeroEndereco": "2080",
+        "complementoEndereco": "",
+        "bairro": "STA CRUZ",
+        "cidade": "GUARAPUAVA",
+        "estado": "PR",
+        "logradouro": "ANDRADE NEVES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 42991311061.",
+    "currentPlan": {
+        "code": "PRPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

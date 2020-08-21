@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b9161cd3-70ab-40ce-8c38-2ef0e84cc442",
+    "data": {
+        "linha": "94992345790",
+        "nomeCompleto": "RUYDEGLA KELVI NASCIMENTO MATOS",
+        "cpf": "04013721201",
+        "telefoneContato": "",
+        "dataNascimento": "22/01/1999",
+        "nomeMae": "nao informado",
+        "email": null,
+        "cep": "00000000",
+        "endereco": "RUA AGOSTINHO CACAO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "JD ITAMARACA",
+        "cidade": "INDAIATUBA",
+        "estado": "SP",
+        "logradouro": "AGOSTINHO CACAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992345790.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=efbb438a-d442-4e82-85ca-763c9cb736d8",
+    "data": {
+        "linha": "93991324009",
+        "nomeCompleto": "DOUGLAS JOS\u00c9 CUNHA LOPES",
+        "cpf": "01153608243",
+        "telefoneContato": "",
+        "dataNascimento": "06/09/1996",
+        "nomeMae": "elisangela do socorro miranda da cunha",
+        "email": "douglas.stmlopes@hotmail.com",
+        "cep": "68025360",
+        "endereco": "TRAVESSA DOZE",
+        "numeroEndereco": "852",
+        "complementoEndereco": "",
+        "bairro": "NOVA REPUBLICA",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "DOZE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991324009.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

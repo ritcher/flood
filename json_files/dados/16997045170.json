@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "16997045170",
+        "nomeCompleto": "FABIANO MARCELO DA CRUZ",
+        "cpf": "31444165844",
+        "telefoneContato": "",
+        "dataNascimento": "10/07/1982",
+        "nomeMae": null,
+        "email": null,
+        "cep": "15910000",
+        "endereco": "RUA PAULO PRESSENDO",
+        "numeroEndereco": "30",
+        "complementoEndereco": "",
+        "bairro": "JD JAQUELINE",
+        "cidade": "MONTE ALTO",
+        "estado": "sp",
+        "logradouro": "PAULO PRESSENDO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 16997045170.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

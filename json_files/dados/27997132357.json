@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27997132357",
+        "nomeCompleto": "PABLO ALVES COELHO",
+        "cpf": "14625728711",
+        "telefoneContato": "",
+        "dataNascimento": "22/03/1995",
+        "nomeMae": null,
+        "email": null,
+        "cep": "29216015",
+        "endereco": "RUA JOAO BATISTA PIUMBINI",
+        "numeroEndereco": "250",
+        "complementoEndereco": "",
+        "bairro": "PRAIA DO MORRO",
+        "cidade": "GUARAPARI",
+        "estado": "es",
+        "logradouro": "JOAO BATISTA PIUMBINI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27997132357.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

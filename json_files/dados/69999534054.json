@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999534054",
+        "nomeCompleto": "ALESSANDRA S\u00f4NIA OLIVIA CAMPOS",
+        "cpf": "71501804774",
+        "telefoneContato": "",
+        "dataNascimento": "23/09/1980",
+        "nomeMae": null,
+        "email": "lyv9nxsuy56ljco@gmail.com",
+        "cep": "64100000",
+        "endereco": " 10 DE NOV",
+        "numeroEndereco": "6661",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "BARRAS",
+        "estado": "PI",
+        "logradouro": "10 DE NOV",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999534054.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

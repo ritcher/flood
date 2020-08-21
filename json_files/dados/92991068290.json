@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991068290",
+        "nomeCompleto": "CINARA NUNES COSTA",
+        "cpf": "65415370030",
+        "telefoneContato": "",
+        "dataNascimento": "18/03/1974",
+        "nomeMae": null,
+        "email": null,
+        "cep": "94834200",
+        "endereco": " DUZENTOS",
+        "numeroEndereco": "525",
+        "complementoEndereco": "",
+        "bairro": "UMBU",
+        "cidade": "ALVORADA",
+        "estado": "RS",
+        "logradouro": "DUZENTOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991068290.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

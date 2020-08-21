@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=941585c3-8651-4a73-ad26-ea81e8bed91d",
+    "data": {
+        "linha": "43991374657",
+        "nomeCompleto": "VALDIR APARECIDO ANGELO",
+        "cpf": "01670584950",
+        "telefoneContato": "",
+        "dataNascimento": "15/05/1976",
+        "nomeMae": null,
+        "email": null,
+        "cep": "86400000",
+        "endereco": "Rua PIRITO SANTO",
+        "numeroEndereco": "412",
+        "complementoEndereco": "",
+        "bairro": "VL SCYLLAS",
+        "cidade": "JACAREZINHO",
+        "estado": "PR",
+        "logradouro": "PIRITO SANTO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 43991374657.",
+    "currentPlan": {
+        "code": "PRVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

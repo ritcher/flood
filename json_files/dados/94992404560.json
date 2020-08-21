@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "POSPAGO",
+    "data": {
+        "linha": "94992404560",
+        "nomeCompleto": "NIVALDO FERREIRA DA PAIXAO E SILVA",
+        "cpf": "66121248149",
+        "telefoneContato": "",
+        "dataNascimento": "12/05/1975",
+        "nomeMae": "NEUZA",
+        "email": "nivaldofpaixao@hotmail.com",
+        "cep": "68530000",
+        "endereco": " AVENIDA 12",
+        "numeroEndereco": "634",
+        "complementoEndereco": "",
+        "bairro": "SETOR REMOR",
+        "cidade": "RIO MARIA",
+        "estado": "PA",
+        "logradouro": "AVENIDA 12",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992404560.",
+    "currentPlan": {
+        "code": "PLMTVIVO_SMARTCB0",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "PL MULTIVIVO GRATIS.",
+        "platform": "POSPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

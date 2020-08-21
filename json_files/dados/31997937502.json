@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31997937502",
+        "nomeCompleto": "ELIANA DE JESUS FRUTUOSO SILVA",
+        "cpf": "06016445657",
+        "telefoneContato": "",
+        "dataNascimento": "24/10/1978",
+        "nomeMae": null,
+        "email": "monalize48@gmail.com",
+        "cep": "32400000",
+        "endereco": "RUA TUPA",
+        "numeroEndereco": "428",
+        "complementoEndereco": "",
+        "bairro": "IBIRITE",
+        "cidade": "IBIRITE",
+        "estado": "mg",
+        "logradouro": "TUPA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31997937502.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27999015712",
+        "nomeCompleto": "TALITA BARBOSA DOS SANTOS",
+        "cpf": "14500912703",
+        "telefoneContato": "",
+        "dataNascimento": "02/08/1993",
+        "nomeMae": null,
+        "email": "atilat-the-best@hotmail.com",
+        "cep": "29903063",
+        "endereco": "AVENIDA QUINTINO BOCAIUVA",
+        "numeroEndereco": "2569",
+        "complementoEndereco": "",
+        "bairro": "INTERLAGOS",
+        "cidade": "LINHARES",
+        "estado": "es",
+        "logradouro": "QUINTINO BOCAIUVA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27999015712.",
+    "currentPlan": {
+        "code": "RJVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

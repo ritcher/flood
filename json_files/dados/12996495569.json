@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12996495569",
+        "nomeCompleto": "SHIRLEY LARISSA CONCEICAO",
+        "cpf": "43956533836",
+        "telefoneContato": "",
+        "dataNascimento": "20/01/1996",
+        "nomeMae": null,
+        "email": "zhp9qapx@gmail.com",
+        "cep": "11600000",
+        "endereco": "Rua RUA JOAO GABRIEL DE SANTANA",
+        "numeroEndereco": "105",
+        "complementoEndereco": "",
+        "bairro": "PRAIA DO PORTO GRANDE",
+        "cidade": "SAO SEBASTIAO",
+        "estado": "sp",
+        "logradouro": "RUA JOAO GABRIEL DE SANTANA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996495569.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

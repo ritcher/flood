@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=99cc4e95-e80f-4ee8-963e-20c594680120",
+    "data": {
+        "linha": "94992253798",
+        "nomeCompleto": "AILTON EVANGELISTA DA SILVA",
+        "cpf": "01237177286",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "DELZUITA EVANGELISTA DA SILVA",
+        "email": null,
+        "cep": "13505295",
+        "endereco": "RUA  M DEZOITO 1175 35 E 37",
+        "numeroEndereco": "1175",
+        "complementoEndereco": "",
+        "bairro": "JD CHERVESON",
+        "cidade": "RIO CLARO",
+        "estado": "sp",
+        "logradouro": " M DEZOITO 1175 35 E 37",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992253798.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

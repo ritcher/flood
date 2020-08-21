@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=5ad96070-e9e8-4345-b6c5-853c5d477fa2",
+    "data": {
+        "linha": "33998247235",
+        "nomeCompleto": "NATHALIA LUCIANO RAMOS",
+        "cpf": "14014004694",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "35040560",
+        "endereco": "Rua AVENIDA WASHINGTON LUIS",
+        "numeroEndereco": "396",
+        "complementoEndereco": "",
+        "bairro": "SANTA RITA",
+        "cidade": "GOVERNADOR VALADARES",
+        "estado": "mg",
+        "logradouro": "AVENIDA WASHINGTON LUIS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33998247235.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=7fb295d0-ec0b-421c-a19a-8d884bb3f141",
+    "data": {
+        "linha": "94992581916",
+        "nomeCompleto": "JOAO RICARDO JUVENCIO",
+        "cpf": "95467718991",
+        "telefoneContato": "",
+        "dataNascimento": "21/05/1975",
+        "nomeMae": null,
+        "email": "bateriaxiiaomi@gmail.com",
+        "cep": "86400000",
+        "endereco": "RUA GOIAS",
+        "numeroEndereco": "51",
+        "complementoEndereco": "",
+        "bairro": "VL SCYLAS",
+        "cidade": "JACAREZINHO",
+        "estado": "PR",
+        "logradouro": "GOIAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992581916.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

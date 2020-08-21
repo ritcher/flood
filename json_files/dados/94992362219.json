@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=61c86849-d5f7-467a-8247-b69c4cbe66c8",
+    "data": {
+        "linha": "94992362219",
+        "nomeCompleto": "FRANCISCA BARBOSA DOS SANTOS",
+        "cpf": "00569539250",
+        "telefoneContato": "",
+        "dataNascimento": "07/05/1989",
+        "nomeMae": null,
+        "email": null,
+        "cep": "57275000",
+        "endereco": "TRAVESSA 2 S",
+        "numeroEndereco": "01",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "S SEBASTIAO",
+        "estado": "AL",
+        "logradouro": "2 S",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992362219.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

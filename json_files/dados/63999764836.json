@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6369c6d9-24c5-4b51-9c4f-a3eff2ac710f",
+    "data": {
+        "linha": "63999764836",
+        "nomeCompleto": "NICELIA MUNINO PEREIRA",
+        "cpf": "02080553127",
+        "telefoneContato": "",
+        "dataNascimento": "12/08/1984",
+        "nomeMae": null,
+        "email": "xndnsnsnsjdj@gmail.com",
+        "cep": "13061381",
+        "endereco": "R CONDOR",
+        "numeroEndereco": "85",
+        "complementoEndereco": "",
+        "bairro": "VILA PADRE MANOEL DE NOBREGA",
+        "cidade": "CAMPINAS",
+        "estado": "SP",
+        "logradouro": "CONDOR",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 63999764836.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

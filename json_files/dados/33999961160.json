@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=ff78965a-4208-4ade-9c94-6077a35bddc6",
+    "data": {
+        "linha": "33999961160",
+        "nomeCompleto": "ISABELA MACHADO CABRAL",
+        "cpf": "04077329183",
+        "telefoneContato": "",
+        "dataNascimento": "06/07/1997",
+        "nomeMae": "GISELLE DE FARIA MACHADO",
+        "email": "04077329183@g.vu",
+        "cep": "75804011",
+        "endereco": "Rua RUA RIO VERDE",
+        "numeroEndereco": "1586",
+        "complementoEndereco": "",
+        "bairro": "DIVINO ESPIRITO SANTO",
+        "cidade": "JATAI",
+        "estado": "GO",
+        "logradouro": "RUA RIO VERDE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999961160.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

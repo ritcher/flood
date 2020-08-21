@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "19971371269",
+        "nomeCompleto": "ANDERSON FRANCISCO CARNEVALLE",
+        "cpf": "19694078830",
+        "telefoneContato": "",
+        "dataNascimento": "31/01/1979",
+        "nomeMae": null,
+        "email": "carnevallerc@gmail.com",
+        "cep": "13506050",
+        "endereco": "AVENIDA 50 A",
+        "numeroEndereco": "356",
+        "complementoEndereco": "",
+        "bairro": "JD AMERICA",
+        "cidade": "RIO CLARO",
+        "estado": "sp",
+        "logradouro": "50 A",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19971371269.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

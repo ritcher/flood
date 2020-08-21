@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=34c3d005-b888-4fb5-ac53-2dd1d829092c",
+    "data": {
+        "linha": "93991346783",
+        "nomeCompleto": "ERLISON CARNEIRO DA SILVA",
+        "cpf": "06067769239",
+        "telefoneContato": "",
+        "dataNascimento": "30/12/2000",
+        "nomeMae": "MONICA DE FATIMA CARNEIRO LAIOLA",
+        "email": "8j5rcne0ddzeki9@gmail.com",
+        "cep": "68180140",
+        "endereco": "Rua RUA JUVENAL LIMA",
+        "numeroEndereco": "416",
+        "complementoEndereco": "",
+        "bairro": "COMERCIO",
+        "cidade": "ITAITUBA",
+        "estado": "PA",
+        "logradouro": "RUA JUVENAL LIMA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991346783.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "66996067898",
+        "nomeCompleto": "MARINA DA SILVA SANTOS",
+        "cpf": "03351517106",
+        "telefoneContato": "",
+        "dataNascimento": "18/07/1987",
+        "nomeMae": null,
+        "email": null,
+        "cep": "78800000",
+        "endereco": "RUA GEN CARNEIRO",
+        "numeroEndereco": "18",
+        "complementoEndereco": "",
+        "bairro": "MARIA SABINA",
+        "cidade": "POXOREU",
+        "estado": "MT",
+        "logradouro": "GEN CARNEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 66996067898.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

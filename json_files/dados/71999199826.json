@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "71999199826",
+        "nomeCompleto": "VICTOR SOUSA LEAL",
+        "cpf": "85765978533",
+        "telefoneContato": "",
+        "dataNascimento": "26/05/1992",
+        "nomeMae": "JACIARA SOUSA LEAL",
+        "email": null,
+        "cep": "40240630",
+        "endereco": "Rua CJ S JUDAS TADEU 144 BL 37 AP 1",
+        "numeroEndereco": "144",
+        "complementoEndereco": "",
+        "bairro": "ENGENHO VELHO DE BROTAS",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "CJ S JUDAS TADEU 144 BL 37 AP 1",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 71999199826.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

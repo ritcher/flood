@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92995012241",
+        "nomeCompleto": "TATIJANE DE SOUZA GONCALVES",
+        "cpf": "72479299287",
+        "telefoneContato": "",
+        "dataNascimento": "20/04/1981",
+        "nomeMae": "maria de souza goncalves",
+        "email": null,
+        "cep": "69040500",
+        "endereco": "R MARABAS",
+        "numeroEndereco": "1152",
+        "complementoEndereco": "",
+        "bairro": "DOM PEDRO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "MARABAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92995012241.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

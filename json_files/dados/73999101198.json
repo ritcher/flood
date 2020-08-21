@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=316456fe-cfdd-4095-8e11-655564de5ce5",
+    "data": {
+        "linha": "73999101198",
+        "nomeCompleto": "ESTEVAO DOS SANTOS MONTEIRO",
+        "cpf": "08697152593",
+        "telefoneContato": "",
+        "dataNascimento": "27/06/2000",
+        "nomeMae": "MONICA MOTA DOS SANTOS MONTEIRO",
+        "email": null,
+        "cep": "42700000",
+        "endereco": "Rua RUA CAMINHO DAS ARVORES",
+        "numeroEndereco": "40",
+        "complementoEndereco": "",
+        "bairro": "VILA PRAIANA",
+        "cidade": "LAURO DE FREITAS",
+        "estado": "BA",
+        "logradouro": "RUA CAMINHO DAS ARVORES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 73999101198.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11971216318",
+        "nomeCompleto": "MARCIO RICARDO PARAZZI",
+        "cpf": "25689230839",
+        "telefoneContato": "",
+        "dataNascimento": "16/09/1976",
+        "nomeMae": "Maria Tereza Suzigan Parazzi ",
+        "email": null,
+        "cep": "13450029",
+        "endereco": "RUA GEN CAMARA",
+        "numeroEndereco": "929",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SANTA BARBARA DOESTE",
+        "estado": "sp",
+        "logradouro": "GEN CAMARA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11971216318.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

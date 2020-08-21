@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18996224103",
+        "nomeCompleto": "juventino jose de jesus costa",
+        "cpf": "46566370846",
+        "telefoneContato": "",
+        "dataNascimento": "11/08/2002",
+        "nomeMae": null,
+        "email": null,
+        "cep": "16900413",
+        "endereco": "Rua RUA RIO DE JANEIRO",
+        "numeroEndereco": "2903",
+        "complementoEndereco": "",
+        "bairro": "BENFICA",
+        "cidade": "ANDRADINA",
+        "estado": "sp",
+        "logradouro": "RUA RIO DE JANEIRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18996224103.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

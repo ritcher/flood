@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993963161",
+        "nomeCompleto": "WATILA COSTA RODRIGUES",
+        "cpf": "02336984180",
+        "telefoneContato": "",
+        "dataNascimento": "13/11/1999",
+        "nomeMae": null,
+        "email": null,
+        "cep": "58388000",
+        "endereco": "RUA PRESDENT E JOAO PESSOA",
+        "numeroEndereco": "30",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ALAGOA GRANDE",
+        "estado": "PB",
+        "logradouro": "PRESDENT E JOAO PESSOA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993963161.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

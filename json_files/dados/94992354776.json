@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=4dc9f7c0-dae7-436f-8189-ccb7ec6d034d",
+    "data": {
+        "linha": "94992354776",
+        "nomeCompleto": "GEIMERSON CONCEICAO DOS SANTOS",
+        "cpf": "06790716289",
+        "telefoneContato": "",
+        "dataNascimento": "16/09/2000",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68515000",
+        "endereco": "RUA MARCOS PAULO",
+        "numeroEndereco": "11",
+        "complementoEndereco": "",
+        "bairro": "VALE DO SOL",
+        "cidade": "PARAUAPEBAS",
+        "estado": "PA",
+        "logradouro": "MARCOS PAULO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992354776.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

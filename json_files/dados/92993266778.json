@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993266778",
+        "nomeCompleto": "ANA PAULA DO NASCIMENTO",
+        "cpf": "00248461206",
+        "telefoneContato": "",
+        "dataNascimento": "27/06/1990",
+        "nomeMae": null,
+        "email": null,
+        "cep": "38302222",
+        "endereco": "RUA HORACIO PAULO SIQUEIRA",
+        "numeroEndereco": "64",
+        "complementoEndereco": "",
+        "bairro": "UNIVERSITARIO",
+        "cidade": "ITUIUTABA",
+        "estado": "mg",
+        "logradouro": "HORACIO PAULO SIQUEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993266778.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

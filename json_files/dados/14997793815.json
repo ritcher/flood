@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "14997793815",
+        "nomeCompleto": "ANA JULIA FERRAZ",
+        "cpf": "47196058852",
+        "telefoneContato": "",
+        "dataNascimento": "08/04/1998",
+        "nomeMae": null,
+        "email": null,
+        "cep": "18720000",
+        "endereco": " JOAQUIM VIEIRA DE MEDEIROS",
+        "numeroEndereco": "568",
+        "complementoEndereco": "",
+        "bairro": "",
+        "cidade": "PARANAPANEMA",
+        "estado": "SP",
+        "logradouro": "JOAQUIM VIEIRA DE MEDEIROS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 14997793815.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

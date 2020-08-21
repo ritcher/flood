@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12996414213",
+        "nomeCompleto": "VALDECIR DIAS DE MEDEIROS",
+        "cpf": "06561610865",
+        "telefoneContato": "",
+        "dataNascimento": "28/06/1965",
+        "nomeMae": null,
+        "email": null,
+        "cep": "12490000",
+        "endereco": "Rua CNSO RODRIGUES ALVES",
+        "numeroEndereco": "210",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SAO BENTO DO SAPUCAI",
+        "estado": "sp",
+        "logradouro": "CNSO RODRIGUES ALVES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996414213.",
+    "currentPlan": {
+        "code": "VIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Vivo Toda Hora",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

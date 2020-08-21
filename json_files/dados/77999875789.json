@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f9bdda3a-5b5d-4db1-92ea-f2615d879c79",
+    "data": {
+        "linha": "77999875789",
+        "nomeCompleto": "SYRLENE DE PORTUGAL SOUZA LOPES",
+        "cpf": "00406196567",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "ANALIA DE PORTUGAL SOUZA",
+        "email": null,
+        "cep": "47655000",
+        "endereco": "RUA  NEGO FAUSTINO 80 C",
+        "numeroEndereco": "80",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "JABORANDI",
+        "estado": "BA",
+        "logradouro": " NEGO FAUSTINO 80 C",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 77999875789.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

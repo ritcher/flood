@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992091107",
+        "nomeCompleto": "JAMHIMK SOARES JARDIM",
+        "cpf": "63000067272",
+        "telefoneContato": "",
+        "dataNascimento": "05/07/1969",
+        "nomeMae": null,
+        "email": "sjamhimk@gmail.com",
+        "cep": "69018577",
+        "endereco": "RUA AGATA ROSA",
+        "numeroEndereco": "163",
+        "complementoEndereco": "",
+        "bairro": "LG AZUL",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "AGATA ROSA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992091107.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

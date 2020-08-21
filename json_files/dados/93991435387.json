@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1524be11-5357-4a42-8634-2448280f89bc",
+    "data": {
+        "linha": "93991435387",
+        "nomeCompleto": "FRANCISCO ANTONIO ANGELIM FEIJAO",
+        "cpf": "54438217334",
+        "telefoneContato": "",
+        "dataNascimento": "22/01/1971",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68180450",
+        "endereco": " FELIPE RODRIGUES GOMES",
+        "numeroEndereco": "433",
+        "complementoEndereco": "",
+        "bairro": "BELA VISTA",
+        "cidade": "ITAITUBA",
+        "estado": "PA",
+        "logradouro": "FELIPE RODRIGUES GOMES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991435387.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

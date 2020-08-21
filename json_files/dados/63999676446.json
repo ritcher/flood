@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "POSPAGO",
+    "data": {
+        "linha": "63999676446",
+        "nomeCompleto": "GUILHERME COUTINHO BORGES",
+        "cpf": "64360920130",
+        "telefoneContato": "",
+        "dataNascimento": "26/10/1972",
+        "nomeMae": "MARIA LOCIA COUTINHO BORGES ",
+        "email": "drguiga1@hotmail.com",
+        "cep": "77015558",
+        "endereco": "QUADRA 401 SUL AVENIDA LO 11",
+        "numeroEndereco": "02",
+        "complementoEndereco": "",
+        "bairro": "PLANO DIRETOR SUL",
+        "cidade": "PALMAS",
+        "estado": "TO",
+        "logradouro": "401 SUL AVENIDA LO 11",
+        "contaDigital": true,
+        "vencimentoFatura": "10",
+        "ciclo": "24",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 63999676446.",
+    "currentPlan": {
+        "code": "PLMTVIVO_SMARTCB0",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "PL MULTIVIVO GRATIS.",
+        "platform": "POSPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

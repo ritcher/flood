@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65999012166",
+        "nomeCompleto": "ANDRE LUIZ FRAN\u00c7A DA CONCEI\u00c7AO",
+        "cpf": "90943430100",
+        "telefoneContato": "",
+        "dataNascimento": "07/04/1983",
+        "nomeMae": "ANELICE ALVES DE FRAN\u00c7A",
+        "email": null,
+        "cep": "78015090",
+        "endereco": "R FENELON MULLER",
+        "numeroEndereco": "11",
+        "complementoEndereco": "",
+        "bairro": "DOM AQUINO",
+        "cidade": "CUIABA",
+        "estado": "MT",
+        "logradouro": "FENELON MULLER",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65999012166.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

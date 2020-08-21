@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11956489297",
+        "nomeCompleto": "MARIA APARECIDA DE OLIVEIRA",
+        "cpf": "27344642840",
+        "telefoneContato": "",
+        "dataNascimento": "11/09/1970",
+        "nomeMae": null,
+        "email": "asdojasodjasodjasodisdgb@gmail.com",
+        "cep": "75860000",
+        "endereco": " G",
+        "numeroEndereco": "2",
+        "complementoEndereco": "",
+        "bairro": "CONJUNTO RIO PRETO",
+        "cidade": "QUIRINOPOLIS",
+        "estado": "GO",
+        "logradouro": "G",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11956489297.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

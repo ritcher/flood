@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b6ccfe1e-2423-4859-8aaf-e3a37ace05b8",
+    "data": {
+        "linha": "68996027213",
+        "nomeCompleto": "ALDA BENEDITA SILVA SIMPLICIO DE MELO",
+        "cpf": "01652889221",
+        "telefoneContato": "",
+        "dataNascimento": "05/11/1991",
+        "nomeMae": "CONCEICAO ASSIS DA SILVA",
+        "email": null,
+        "cep": "69927000",
+        "endereco": "RUA  DAS MARGARIDAS 505 COMP",
+        "numeroEndereco": "505",
+        "complementoEndereco": "",
+        "bairro": "VL DO INCRA",
+        "cidade": "PORTO ACRE",
+        "estado": "AC",
+        "logradouro": " DAS MARGARIDAS 505 COMP",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68996027213.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

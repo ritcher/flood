@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=5a85b9b5-f2b9-431b-94e6-496f1d33e91b",
+    "data": {
+        "linha": "68999236946",
+        "nomeCompleto": "DAIANA GOMES REAL",
+        "cpf": "91636523234",
+        "telefoneContato": "",
+        "dataNascimento": "17/06/1988",
+        "nomeMae": null,
+        "email": "daianagomesreal30@gmail.com",
+        "cep": "69909744",
+        "endereco": "Rua RAML BOM JESUS",
+        "numeroEndereco": "345",
+        "complementoEndereco": "",
+        "bairro": "VL ACRE",
+        "cidade": "RIO BRANCO",
+        "estado": "AC",
+        "logradouro": "RAML BOM JESUS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999236946.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11974443737",
+        "nomeCompleto": "MARINA ILSE LIPPI",
+        "cpf": "27377333839",
+        "telefoneContato": "",
+        "dataNascimento": "13/11/1975",
+        "nomeMae": "WANDA CARVALHO LIPPI",
+        "email": null,
+        "cep": "02882110",
+        "endereco": "Rua RUA GONCALVES DE MAGALHAES",
+        "numeroEndereco": "91",
+        "complementoEndereco": "",
+        "bairro": "JARDIM CENTENARIO",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "RUA GONCALVES DE MAGALHAES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11974443737.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31997677385",
+        "nomeCompleto": "MARCIO AUGUSTO DE SOUZA LIMA",
+        "cpf": "04413258665",
+        "telefoneContato": "",
+        "dataNascimento": "25/12/1979",
+        "nomeMae": null,
+        "email": null,
+        "cep": "30865440",
+        "endereco": "RUA DELSO RENAULT",
+        "numeroEndereco": "204",
+        "complementoEndereco": "",
+        "bairro": "PINDORAMA",
+        "cidade": "BELO HORIZONTE",
+        "estado": "mg",
+        "logradouro": "DELSO RENAULT",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31997677385.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

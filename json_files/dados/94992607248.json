@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=e19e92b5-552c-4309-a02b-640f64feb002",
+    "data": {
+        "linha": "94992607248",
+        "nomeCompleto": "LEIDILAURA FERREIRA DA SILVA",
+        "cpf": "03876775264",
+        "telefoneContato": "",
+        "dataNascimento": "08/01/1998",
+        "nomeMae": "NAO INFO",
+        "email": "leidifer67@hi2.in",
+        "cep": "68550492",
+        "endereco": "AVENIDA ARAGUAIA",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "MORADA DA PAZ",
+        "cidade": "REDENCAO",
+        "estado": "PA",
+        "logradouro": "ARAGUAIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992607248.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

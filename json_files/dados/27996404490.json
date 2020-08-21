@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27996404490",
+        "nomeCompleto": "MAYCON DE OLIVEIRA DANTAS",
+        "cpf": "15704468730",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": "aqizl9ysq81g44r@gmail.com",
+        "cep": "45037140",
+        "endereco": "RUA PAULO ROCHA",
+        "numeroEndereco": "7",
+        "complementoEndereco": "",
+        "bairro": "ESPIRITO SANTO",
+        "cidade": "VITORIA DA CONQUISTA",
+        "estado": "BA",
+        "logradouro": "PAULO ROCHA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27996404490.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91991081282",
+        "nomeCompleto": "ELUZIMAR DA SILVA COSTA",
+        "cpf": "57344000253",
+        "telefoneContato": "",
+        "dataNascimento": "05/05/1976",
+        "nomeMae": "LUCIMAR DA SILVA COSTA",
+        "email": "analsemdor@gmail.com",
+        "cep": "68786000",
+        "endereco": "Rua ROD  PA 140 5",
+        "numeroEndereco": "140",
+        "complementoEndereco": "",
+        "bairro": "NS DO PERPETUO SO",
+        "cidade": "SANTO ANTONIO DO TAUA",
+        "estado": "PA",
+        "logradouro": "ROD  PA 140 5",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91991081282.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "67998343282",
+        "nomeCompleto": "MARCIA AGUILAR",
+        "cpf": "08496597105",
+        "telefoneContato": "",
+        "dataNascimento": "31/12/1899",
+        "nomeMae": null,
+        "email": "marciaaguilar@hotil.com",
+        "cep": "79320030",
+        "endereco": "Rua RUA SETE DE SETEMBRO",
+        "numeroEndereco": "2146",
+        "complementoEndereco": "",
+        "bairro": "AEROPORTO",
+        "cidade": "CORUMBA",
+        "estado": "MS",
+        "logradouro": "RUA SETE DE SETEMBRO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 67998343282.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

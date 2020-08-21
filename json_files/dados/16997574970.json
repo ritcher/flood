@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "16997574970",
+        "nomeCompleto": "JOSELENE LINDOSO SOUSA",
+        "cpf": "01909519316",
+        "telefoneContato": "",
+        "dataNascimento": "23/08/1984",
+        "nomeMae": null,
+        "email": "llaura@gmail.com",
+        "cep": "65052530",
+        "endereco": "RUA DA PAZ",
+        "numeroEndereco": "4",
+        "complementoEndereco": "",
+        "bairro": "FORQUILHA",
+        "cidade": "SAO LUIS",
+        "estado": "MA",
+        "logradouro": "DA PAZ",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 16997574970.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

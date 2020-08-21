@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "13997274405",
+        "nomeCompleto": "EDMILSON MUNIZ NARCISO",
+        "cpf": "30886722829",
+        "telefoneContato": "",
+        "dataNascimento": "03/06/1976",
+        "nomeMae": null,
+        "email": null,
+        "cep": "11800000",
+        "endereco": "Rua RUA MARECHAL RONDON",
+        "numeroEndereco": "344",
+        "complementoEndereco": "",
+        "bairro": "B CEDRO",
+        "cidade": "JUQUIA",
+        "estado": "sp",
+        "logradouro": "RUA MARECHAL RONDON",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 13997274405.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

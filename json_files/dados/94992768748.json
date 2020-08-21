@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=ea62cca4-cd47-49a4-b132-ff2823044391",
+    "data": {
+        "linha": "94992768748",
+        "nomeCompleto": "RANDIA DOURADO DA SILVA DE MARIA",
+        "cpf": "65610415268",
+        "telefoneContato": "",
+        "dataNascimento": "14/09/1978",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68456590",
+        "endereco": "AVENIDA ALOISIO CHAVES",
+        "numeroEndereco": "40",
+        "complementoEndereco": "",
+        "bairro": "NOVA TUCURUI",
+        "cidade": "TUCURUI",
+        "estado": "PA",
+        "logradouro": "ALOISIO CHAVES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992768748.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

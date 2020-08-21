@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=d14758e5-b837-4bb8-9d6d-188285cfba16",
+    "data": {
+        "linha": "94992545656",
+        "nomeCompleto": "VALDECI VALE DE LIMA",
+        "cpf": "95112626291",
+        "telefoneContato": "",
+        "dataNascimento": "10/06/1943",
+        "nomeMae": "MARIA CLEDIDALVA CIEIRA MORAIS",
+        "email": null,
+        "cep": "68580000",
+        "endereco": " UM R SAO GERALDO",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "NOVO",
+        "cidade": "ITUPIRANGA",
+        "estado": "PA",
+        "logradouro": "UM R SAO GERALDO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 94992545656.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

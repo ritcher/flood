@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993133453",
+        "nomeCompleto": "EDIMAR PINHEIRO DA SILVA",
+        "cpf": "03618562292",
+        "telefoneContato": "",
+        "dataNascimento": "01/01/1978",
+        "nomeMae": null,
+        "email": "chicaflorstore@gmail.com",
+        "cep": "69042220",
+        "endereco": "Rua AVENIDA L",
+        "numeroEndereco": "1584",
+        "complementoEndereco": "",
+        "bairro": "ALVORADA II",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "AVENIDA L",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993133453.",
+    "currentPlan": {
+        "code": "TCOVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora GSM - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

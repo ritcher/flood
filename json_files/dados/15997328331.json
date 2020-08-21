@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15997328331",
+        "nomeCompleto": "ELIANE MENDES DOS SANTOS BARROS",
+        "cpf": "31053443811",
+        "telefoneContato": "",
+        "dataNascimento": "14/05/1983",
+        "nomeMae": null,
+        "email": null,
+        "cep": "89136000",
+        "endereco": "RUA CARLOS MOSER",
+        "numeroEndereco": "34",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "RODEIO",
+        "estado": "sc",
+        "logradouro": "CARLOS MOSER",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15997328331.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

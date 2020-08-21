@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999751574",
+        "nomeCompleto": "EDUARDO FERRARI RODRIGUES",
+        "cpf": "08521701730",
+        "telefoneContato": "",
+        "dataNascimento": "15/05/1972",
+        "nomeMae": "MARIA LUCIA FERRARI",
+        "email": "wiliansantosgomeshh@gmail.com",
+        "cep": "76829070",
+        "endereco": "RUA RAIMUNDO CANTUARIA",
+        "numeroEndereco": "9511",
+        "complementoEndereco": "",
+        "bairro": "SOCIALISTA",
+        "cidade": "PORTO VELHO",
+        "estado": "RO",
+        "logradouro": "RAIMUNDO CANTUARIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999751574.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

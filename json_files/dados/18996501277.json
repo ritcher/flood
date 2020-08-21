@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18996501277",
+        "nomeCompleto": "MATEUS MARQUES SATURNINO",
+        "cpf": "45908177806",
+        "telefoneContato": "",
+        "dataNascimento": "21/05/1999",
+        "nomeMae": "N\u00e3o Informado",
+        "email": "alcimaraferreiracosta@gmail.com",
+        "cep": "19280000",
+        "endereco": "Rua PLANALTO DO SUL 724 CS",
+        "numeroEndereco": "724",
+        "complementoEndereco": "",
+        "bairro": "JD IMPERIAL",
+        "cidade": "TEODORO SAMPAIO",
+        "estado": "sp",
+        "logradouro": "PLANALTO DO SUL 724 CS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18996501277.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

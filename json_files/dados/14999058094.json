@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "14999058094",
+        "nomeCompleto": "ALINE CRISTINA FERREIRA",
+        "cpf": "38923433810",
+        "telefoneContato": "",
+        "dataNascimento": "18/04/1991",
+        "nomeMae": "maria",
+        "email": null,
+        "cep": "17032510",
+        "endereco": "RUA ALTAILEITE DE CAMPOS",
+        "numeroEndereco": "2",
+        "complementoEndereco": "",
+        "bairro": "JD DONA LILI",
+        "cidade": "BAURU",
+        "estado": "sp",
+        "logradouro": "ALTAILEITE DE CAMPOS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 14999058094.",
+    "currentPlan": {
+        "code": "VIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Vivo Toda Hora",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

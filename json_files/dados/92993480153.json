@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993480153",
+        "nomeCompleto": "SABRINA TELES CABRAL",
+        "cpf": "01814468200",
+        "telefoneContato": "",
+        "dataNascimento": "08/12/1995",
+        "nomeMae": "LEIDA CARLA TELES BRAGA",
+        "email": "sabrinatcabral@gmail.com",
+        "cep": "69095625",
+        "endereco": "RUA CAMPO DOURADO",
+        "numeroEndereco": "194",
+        "complementoEndereco": "",
+        "bairro": "CIDADE NOVA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "CAMPO DOURADO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993480153.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

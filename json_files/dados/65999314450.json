@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "65999314450",
+        "nomeCompleto": "NAYANNE DO CARMO NASCIMENTO",
+        "cpf": "06920801124",
+        "telefoneContato": "",
+        "dataNascimento": "07/03/2000",
+        "nomeMae": "Euliane do Carmo Paz",
+        "email": "rogeriojunior742@gmail.com",
+        "cep": "78031020",
+        "endereco": "RUA PEDRO I",
+        "numeroEndereco": "317",
+        "complementoEndereco": "",
+        "bairro": "JARDIM INDEPENDENCIA",
+        "cidade": "CUIABA",
+        "estado": "MT",
+        "logradouro": "PEDRO I",
+        "contaDigital": true,
+        "vencimentoFatura": "17",
+        "ciclo": "01",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65999314450.",
+    "currentPlan": {
+        "code": "VIVOCTRLF27N",
+        "price": 54.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-3GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "61998221907",
+        "nomeCompleto": "ANDREIA DE SOUZA CORREIA",
+        "cpf": "00514046139",
+        "telefoneContato": "",
+        "dataNascimento": "14/10/1976",
+        "nomeMae": null,
+        "email": "andreia_correia76@hotmail.com",
+        "cep": "83085080",
+        "endereco": "RUA  DIRCEU MONTANARIM 495 C",
+        "numeroEndereco": "495",
+        "complementoEndereco": "",
+        "bairro": "QUISSISSANA",
+        "cidade": "SAO JOSE DOS PINHAIS",
+        "estado": "PR",
+        "logradouro": " DIRCEU MONTANARIM 495 C",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61998221907.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

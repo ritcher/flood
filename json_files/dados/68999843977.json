@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=e9776a4b-fe95-4e37-a0f7-952a4490ef19",
+    "data": {
+        "linha": "68999843977",
+        "nomeCompleto": "MARIA ALCIONE DA SILVA ALBUQUERQUE",
+        "cpf": "88382885268",
+        "telefoneContato": "",
+        "dataNascimento": "16/10/1983",
+        "nomeMae": null,
+        "email": "alcione408@gmail.com",
+        "cep": "69914322",
+        "endereco": " TRAVESSA CALVARIO",
+        "numeroEndereco": "90",
+        "complementoEndereco": "",
+        "bairro": "CALAFATE",
+        "cidade": "R BRANCO",
+        "estado": "AC",
+        "logradouro": "TRAVESSA CALVARIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999843977.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "65996166366",
+        "nomeCompleto": "CIBELLY KEYLLER FERREIRA DE SOUZA XAVIER",
+        "cpf": "06102505158",
+        "telefoneContato": "",
+        "dataNascimento": "22/01/1998",
+        "nomeMae": "Margarida Claudia Ferreira de Souza Xavier ",
+        "email": "cih.xavier@gmail.com",
+        "cep": "78470000",
+        "endereco": "RUA AV D AQUINO",
+        "numeroEndereco": "984",
+        "complementoEndereco": "",
+        "bairro": "COHAB NS ROSARIO",
+        "cidade": "ROSARIO OESTE",
+        "estado": "MT",
+        "logradouro": "AV D AQUINO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 65996166366.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

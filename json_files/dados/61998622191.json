@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "61998622191",
+        "nomeCompleto": "RAFAEL CARVALHO ALMEIDA",
+        "cpf": "70601555112",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "72622219",
+        "endereco": "Rua QUADRA 309 CONJUNTO 16",
+        "numeroEndereco": "665",
+        "complementoEndereco": "",
+        "bairro": "RECANTO DAS EMAS",
+        "cidade": "BRASILIA",
+        "estado": "DF",
+        "logradouro": "QUADRA 309 CONJUNTO 16",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61998622191.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

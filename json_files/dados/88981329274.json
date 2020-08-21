@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=62b81355-a61c-4664-8843-6667b0f6471e",
+    "data": {
+        "linha": "88981329274",
+        "nomeCompleto": "KALINE DOS SANTOS BARBOSA",
+        "cpf": "07230256305",
+        "telefoneContato": "",
+        "dataNascimento": "20/10/1997",
+        "nomeMae": "ZENILDA MARIA DOS SANTOS BARBOSA",
+        "email": null,
+        "cep": "68924000",
+        "endereco": "Rua AVENIDA BEIRA RIO",
+        "numeroEndereco": "201",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "VITORIA DO JARI",
+        "estado": "AP",
+        "logradouro": "AVENIDA BEIRA RIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 88981329274.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

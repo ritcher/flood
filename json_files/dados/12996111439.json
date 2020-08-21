@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "12996111439",
+        "nomeCompleto": "ALINE ROBERTA APARECIDA RODRIGUES",
+        "cpf": "42511655861",
+        "telefoneContato": "",
+        "dataNascimento": "03/09/1993",
+        "nomeMae": null,
+        "email": "alineroberta774@gmail.com",
+        "cep": "12460000",
+        "endereco": "RUA BENEDITO C F",
+        "numeroEndereco": "45",
+        "complementoEndereco": "",
+        "bairro": "PICA PAU",
+        "cidade": "CAMPOS DO JORDAO",
+        "estado": "SP",
+        "logradouro": "BENEDITO C F",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12996111439.",
+    "currentPlan": {
+        "code": "VIVOCTRLF27N",
+        "price": 54.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-3GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

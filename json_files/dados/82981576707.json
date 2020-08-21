@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "82981576707",
+        "nomeCompleto": "CHARLES CEZARIO DE OLIVEIRA",
+        "cpf": "12739922450",
+        "telefoneContato": "",
+        "dataNascimento": "29/07/1999",
+        "nomeMae": "MARIA REGINA CEZARIO DE OLIVEIRA",
+        "email": "faldenio77@gmail.com",
+        "cep": "58052197",
+        "endereco": "Rua REJANE FREIRE CORREIA",
+        "numeroEndereco": "1028",
+        "complementoEndereco": "",
+        "bairro": "JARDIM CIDADE UNIVER",
+        "cidade": "JOAO PESSOA",
+        "estado": "PB",
+        "logradouro": "REJANE FREIRE CORREIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 82981576707.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

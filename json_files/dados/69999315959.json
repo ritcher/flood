@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69999315959",
+        "nomeCompleto": "LEANDRO LOPES DOS SANTOS",
+        "cpf": "92414966220",
+        "telefoneContato": "",
+        "dataNascimento": "27/02/1986",
+        "nomeMae": null,
+        "email": null,
+        "cep": "76829352",
+        "endereco": "RUA TRAVESSIA",
+        "numeroEndereco": "8050",
+        "complementoEndereco": "",
+        "bairro": "JUSCELINO KUBITSCHEK",
+        "cidade": "PORTO VELHO",
+        "estado": "RO",
+        "logradouro": "TRAVESSIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69999315959.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

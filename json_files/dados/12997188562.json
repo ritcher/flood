@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12997188562",
+        "nomeCompleto": "ROSELI APARECIDA MARIANO",
+        "cpf": "12188196856",
+        "telefoneContato": "",
+        "dataNascimento": "20/02/1967",
+        "nomeMae": "madalena de souza mariano ",
+        "email": null,
+        "cep": "12600000",
+        "endereco": "Rua CAP MESSIAS",
+        "numeroEndereco": "368",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "LORENA",
+        "estado": "sp",
+        "logradouro": "CAP MESSIAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12997188562.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

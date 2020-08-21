@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27998171557",
+        "nomeCompleto": "JOAO VITOR MACEDO DA SILVA",
+        "cpf": "14653590796",
+        "telefoneContato": "",
+        "dataNascimento": "05/03/1999",
+        "nomeMae": "marise Ara\u00fajo",
+        "email": "jovitormacedo@hotmail.com",
+        "cep": "18071036",
+        "endereco": "Rua EST DINORAH",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "LOT DINORA ROSA",
+        "cidade": "SOROCABA",
+        "estado": "sp",
+        "logradouro": "EST DINORAH",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27998171557.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

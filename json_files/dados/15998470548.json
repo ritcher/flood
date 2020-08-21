@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15998470548",
+        "nomeCompleto": "ISMAEL DE JESUS LIMA",
+        "cpf": "60186993382",
+        "telefoneContato": "",
+        "dataNascimento": "12/09/1989",
+        "nomeMae": null,
+        "email": null,
+        "cep": "88304070",
+        "endereco": "Rua RUA BENJAMIN FRANKLIN PEREIRA",
+        "numeroEndereco": "70",
+        "complementoEndereco": "",
+        "bairro": "SAO JOAO",
+        "cidade": "ITAJAI",
+        "estado": "sc",
+        "logradouro": "RUA BENJAMIN FRANKLIN PEREIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15998470548.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

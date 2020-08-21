@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "51980496156",
+        "nomeCompleto": "MARTIM DA SILVA SOUSA",
+        "cpf": "37338285349",
+        "telefoneContato": "",
+        "dataNascimento": "12/11/1970",
+        "nomeMae": "ornelinda da silva souza",
+        "email": null,
+        "cep": "90010321",
+        "endereco": "R FERNANDO MACHADO",
+        "numeroEndereco": "185",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "PORTO ALEGRE",
+        "estado": "RS",
+        "logradouro": "FERNANDO MACHADO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 51980496156.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

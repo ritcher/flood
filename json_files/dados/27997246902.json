@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "27997246902",
+        "nomeCompleto": "LUSIANA MARIA DE SOUZA",
+        "cpf": "14726452789",
+        "telefoneContato": "",
+        "dataNascimento": "13/12/1981",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68037140",
+        "endereco": "RUA  JACAMIM 24468",
+        "numeroEndereco": "24468",
+        "complementoEndereco": "",
+        "bairro": "SALVACAO",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": " JACAMIM 24468",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27997246902.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

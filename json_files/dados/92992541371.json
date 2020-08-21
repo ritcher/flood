@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992541371",
+        "nomeCompleto": "TANIA SARAIVA DE SOUZA",
+        "cpf": "40535231253",
+        "telefoneContato": "",
+        "dataNascimento": "13/03/1971",
+        "nomeMae": null,
+        "email": "eoszej43ofjluh2@gmail.com",
+        "cep": "69010170",
+        "endereco": "AVENIDA LEONARDO MALCHER",
+        "numeroEndereco": "917",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "LEONARDO MALCHER",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992541371.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

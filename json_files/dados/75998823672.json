@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=fe3e2ce7-7072-4659-9425-bfef0e021325",
+    "data": {
+        "linha": "75998823672",
+        "nomeCompleto": "JOAO VICTOR SANTOS FARIA",
+        "cpf": "04783503508",
+        "telefoneContato": "",
+        "dataNascimento": "01/05/2000",
+        "nomeMae": "IONA VONAIDE SANTOS PINHEIRO",
+        "email": "jovitor186@gmail.com",
+        "cep": "48770000",
+        "endereco": "RUA  JOSE CLEMENTE 684",
+        "numeroEndereco": "684",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "TEOFILANDIA",
+        "estado": "BA",
+        "logradouro": " JOSE CLEMENTE 684",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 75998823672.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

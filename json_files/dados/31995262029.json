@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31995262029",
+        "nomeCompleto": "JANINA CAMILA DA SILVA",
+        "cpf": "09790858612",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "MARIA DE FATIMA DA SILVA ROZA",
+        "email": "jdjsisnrheisjdbuvg@gmail.com",
+        "cep": "35740000",
+        "endereco": "AVENIDA  ANTONIO MARTINS DE MELO 9 C",
+        "numeroEndereco": "9",
+        "complementoEndereco": "",
+        "bairro": "RCR DO RETIRO",
+        "cidade": "ESMERALDAS",
+        "estado": "mg",
+        "logradouro": " ANTONIO MARTINS DE MELO 9 C",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31995262029.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

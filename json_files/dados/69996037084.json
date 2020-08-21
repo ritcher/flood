@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "69996037084",
+        "nomeCompleto": "DEMETRIO BORGES RODAO",
+        "cpf": "03621044256",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "76801890",
+        "endereco": "Rua ESTRADA DO BELMONT",
+        "numeroEndereco": "10759",
+        "complementoEndereco": "",
+        "bairro": "NACIONAL",
+        "cidade": "PORTO VELHO",
+        "estado": "RO",
+        "logradouro": "ESTRADA DO BELMONT",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 69996037084.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

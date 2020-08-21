@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "71999135977",
+        "nomeCompleto": "ISABELA SANT ANA BRITO",
+        "cpf": "08027891531",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": "ANDREIA COSTA SANT ANA",
+        "email": null,
+        "cep": "41810060",
+        "endereco": "Rua RUA DAS ANGELICAS",
+        "numeroEndereco": "121",
+        "complementoEndereco": "",
+        "bairro": "PITUBA",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "RUA DAS ANGELICAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 71999135977.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=6e81839c-baa0-4a8c-91fe-72c868a90f41",
+    "data": {
+        "linha": "93991189845",
+        "nomeCompleto": "MARCELO HENRIQUE RABELO DE AMORIM",
+        "cpf": "04357538270",
+        "telefoneContato": "",
+        "dataNascimento": "24/02/2002",
+        "nomeMae": null,
+        "email": "marcelohenrique230@gmail.com",
+        "cep": "55155600",
+        "endereco": "RUA STO AMARO",
+        "numeroEndereco": "29",
+        "complementoEndereco": "",
+        "bairro": "S PEDRO",
+        "cidade": "BELO JARDIM",
+        "estado": "PE",
+        "logradouro": "STO AMARO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991189845.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992575164",
+        "nomeCompleto": "JANAINA DE OLIVEIRA LOIOLA",
+        "cpf": "00257814213",
+        "telefoneContato": "",
+        "dataNascimento": "21/05/1992",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69099000",
+        "endereco": "Rua ITAETE A MENDES",
+        "numeroEndereco": "42",
+        "complementoEndereco": "",
+        "bairro": "NOVO ALEIXO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "ITAETE A MENDES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992575164.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

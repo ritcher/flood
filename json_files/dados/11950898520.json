@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11950898520",
+        "nomeCompleto": "LUIS HENRIQUE PINTO LUSTOSA",
+        "cpf": "08553218309",
+        "telefoneContato": "",
+        "dataNascimento": "15/07/2000",
+        "nomeMae": null,
+        "email": "tvuhjb0vnmru@gmail.com",
+        "cep": "01155040",
+        "endereco": "Rua ALAMEDA OLGA",
+        "numeroEndereco": "400",
+        "complementoEndereco": "",
+        "bairro": "BARRA FUNDA",
+        "cidade": "SAO PAULO",
+        "estado": "sp",
+        "logradouro": "ALAMEDA OLGA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11950898520.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

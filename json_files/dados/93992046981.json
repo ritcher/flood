@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=5c85ba8e-57ca-45d8-80a9-f91995214e6b",
+    "data": {
+        "linha": "93992046981",
+        "nomeCompleto": "ERICK SOUSA LIMA",
+        "cpf": "07442468578",
+        "telefoneContato": "",
+        "dataNascimento": "22/07/1996",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68025360",
+        "endereco": "TRAVESSA DOZE",
+        "numeroEndereco": "852",
+        "complementoEndereco": "",
+        "bairro": "NOVA REPUBLICA",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "DOZE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93992046981.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

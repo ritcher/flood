@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "31971384897",
+        "nomeCompleto": "APARECIDA CARVALHO LIMA",
+        "cpf": "08833457656",
+        "telefoneContato": "",
+        "dataNascimento": "26/11/1984",
+        "nomeMae": null,
+        "email": "nvlokgljxzrwv3h@gmail.com",
+        "cep": "35701406",
+        "endereco": "RUA DBLAIALVARENGA",
+        "numeroEndereco": "281",
+        "complementoEndereco": "",
+        "bairro": "CANADA",
+        "cidade": "SETE LAGOAS",
+        "estado": "mg",
+        "logradouro": "DBLAIALVARENGA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 31971384897.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

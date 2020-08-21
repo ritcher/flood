@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991850022",
+        "nomeCompleto": "ROUZIMAR PINHEIRO DE SOUZA",
+        "cpf": "00124518273",
+        "telefoneContato": "",
+        "dataNascimento": "24/10/1977",
+        "nomeMae": null,
+        "email": "hhtyy@hh.gi",
+        "cep": "69073620",
+        "endereco": " LUCAS",
+        "numeroEndereco": "22",
+        "complementoEndereco": "",
+        "bairro": "SAO LAZARO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "LUCAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991850022.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

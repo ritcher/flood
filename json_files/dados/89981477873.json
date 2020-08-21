@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=0c041bd8-8aaf-4d2f-ba1b-b397e838174c",
+    "data": {
+        "linha": "89981477873",
+        "nomeCompleto": "HELENA MARIA MACEDO DA SILVA",
+        "cpf": "05572195316",
+        "telefoneContato": "",
+        "dataNascimento": "30/05/1996",
+        "nomeMae": null,
+        "email": null,
+        "cep": "54420170",
+        "endereco": "RUA DOMINGOS SAVIO",
+        "numeroEndereco": "77",
+        "complementoEndereco": "",
+        "bairro": "PIEDADE",
+        "cidade": "JABOATAO DOS GUARARAPES",
+        "estado": "PE",
+        "logradouro": "DOMINGOS SAVIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 89981477873.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

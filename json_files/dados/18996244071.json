@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "18996244071",
+        "nomeCompleto": "SENEDER GONCALVES DA CRUZ",
+        "cpf": "46535484807",
+        "telefoneContato": "",
+        "dataNascimento": "23/10/1999",
+        "nomeMae": null,
+        "email": null,
+        "cep": "19053020",
+        "endereco": "Rua RUA FRANCISCA COLINO MATHEUS",
+        "numeroEndereco": "76",
+        "complementoEndereco": "",
+        "bairro": "VILA NOVA PRUDENTE",
+        "cidade": "PRESIDENTE PRUDENTE",
+        "estado": "sp",
+        "logradouro": "RUA FRANCISCA COLINO MATHEUS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 18996244071.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "71999570525",
+        "nomeCompleto": "TERESA CRISTINA LIMA DO COUTO",
+        "cpf": "54522005504",
+        "telefoneContato": "",
+        "dataNascimento": "07/04/1968",
+        "nomeMae": null,
+        "email": null,
+        "cep": "43700000",
+        "endereco": "AVENIDA ELMO SEREJO FARIAS C VL S",
+        "numeroEndereco": "3",
+        "complementoEndereco": "",
+        "bairro": "CIA I",
+        "cidade": "SIMOES FILHO",
+        "estado": "BA",
+        "logradouro": "ELMO SEREJO FARIAS C VL S",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 71999570525.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

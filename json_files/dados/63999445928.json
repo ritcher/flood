@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "63999445928",
+        "nomeCompleto": "JAMILLA CARDOSO DOS SANTOS",
+        "cpf": "05034235137",
+        "telefoneContato": "",
+        "dataNascimento": "01/04/1997",
+        "nomeMae": null,
+        "email": "jamillacardosolopes@gmail.com",
+        "cep": "77060002",
+        "endereco": "RUA 201 NORTE AVENIDA JOAQUIM TEOTONIO SEGUR",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "PLANO DIRETOR NORTE",
+        "cidade": "PALMAS",
+        "estado": "TO",
+        "logradouro": "201 NORTE AVENIDA JOAQUIM TEOTONIO SEGUR",
+        "contaDigital": true,
+        "vencimentoFatura": "1",
+        "ciclo": "15",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 63999445928.",
+    "currentPlan": {
+        "code": "VIVOCTRLF34A",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL_2,5GB_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

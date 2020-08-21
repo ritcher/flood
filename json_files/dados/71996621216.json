@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "71996621216",
+        "nomeCompleto": "DEIVISSON ALVES DOS SANTOS",
+        "cpf": "05390299558",
+        "telefoneContato": "",
+        "dataNascimento": "01/01/1994",
+        "nomeMae": null,
+        "email": "rosangelasoniadamota-90@prognum.com.br",
+        "cep": "76810342",
+        "endereco": " BRUXELAS",
+        "numeroEndereco": "310",
+        "complementoEndereco": "",
+        "bairro": "NOVO HORIZONTE",
+        "cidade": "PORTO VELHO",
+        "estado": "RO",
+        "logradouro": "BRUXELAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 71996621216.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

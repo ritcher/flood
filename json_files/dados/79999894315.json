@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=9f9abbe9-13e9-4217-ae73-b4177858df96",
+    "data": {
+        "linha": "79999894315",
+        "nomeCompleto": "JOSEANE OLIVEIRA DOS SANTOS",
+        "cpf": "03853014569",
+        "telefoneContato": "",
+        "dataNascimento": "17/05/1987",
+        "nomeMae": null,
+        "email": "gta196640@gmail.com",
+        "cep": "68005070",
+        "endereco": "R GALDINO VELOSO",
+        "numeroEndereco": "57",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "SANTAREM",
+        "estado": "PA",
+        "logradouro": "GALDINO VELOSO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79999894315.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=4ed7b091-f88d-40d6-933d-4818a7c8570c",
+    "data": {
+        "linha": "95991461455",
+        "nomeCompleto": "ILDOMARA DE OLIVEIRA SILVA",
+        "cpf": "54760933204",
+        "telefoneContato": "",
+        "dataNascimento": "04/12/1998",
+        "nomeMae": "N\u00e3o Informado",
+        "email": null,
+        "cep": "69306665",
+        "endereco": "AVENIDA  VILLE ROY 5315 PREDIO DO INCRA",
+        "numeroEndereco": "5315",
+        "complementoEndereco": "",
+        "bairro": "S PEDRO",
+        "cidade": "BOA VISTA",
+        "estado": "rr",
+        "logradouro": " VILLE ROY 5315 PREDIO DO INCRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 95991461455.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

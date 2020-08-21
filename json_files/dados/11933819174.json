@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "11933819174",
+        "nomeCompleto": "SILVANA DE ALMEIDA DOMINGUES",
+        "cpf": "17331152858",
+        "telefoneContato": "",
+        "dataNascimento": "19/02/1956",
+        "nomeMae": null,
+        "email": "silvanasilva33@gmail.com",
+        "cep": "05208050",
+        "endereco": " MARCELINO FERREIRA BUENO",
+        "numeroEndereco": "88",
+        "complementoEndereco": "",
+        "bairro": "VILA PERUS",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "MARCELINO FERREIRA BUENO",
+        "contaDigital": true,
+        "vencimentoFatura": "26",
+        "ciclo": "10",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11933819174.",
+    "currentPlan": {
+        "code": "VIVOCTRLF51N",
+        "price": 84.99,
+        "marketingDescription": null,
+        "name": "+ VIVO CTRL DIGITAL NOVO 5GB",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

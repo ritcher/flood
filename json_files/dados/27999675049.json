@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "27999675049",
+        "nomeCompleto": "ANA PAULA PEREIRA DE OLIV",
+        "cpf": "08205001782",
+        "telefoneContato": "",
+        "dataNascimento": "23/06/1979",
+        "nomeMae": "MARINALVA PEREIRA DE OLIVEIRA",
+        "email": "yasminoliveira29@gmail.com",
+        "cep": "29141881",
+        "endereco": "RUA BASILIO CADEIRA DA SILVA",
+        "numeroEndereco": "333",
+        "complementoEndereco": "",
+        "bairro": "PADRE GABRIEL",
+        "cidade": "CARIACICA",
+        "estado": "ES",
+        "logradouro": "BASILIO CADEIRA DA SILVA",
+        "contaDigital": true,
+        "vencimentoFatura": "17",
+        "ciclo": "01",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27999675049.",
+    "currentPlan": {
+        "code": "VIVOCTRLF25N",
+        "price": 39.99,
+        "marketingDescription": null,
+        "name": "VIVO CONTROLE DIG-2GB_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92992804518",
+        "nomeCompleto": "JEAN CARLOS DOS SANTOS PEREIRA",
+        "cpf": "77504623253",
+        "telefoneContato": "",
+        "dataNascimento": "25/05/1978",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69088480",
+        "endereco": "AVENIDA BRG HILARIO GURJAO",
+        "numeroEndereco": "6797",
+        "complementoEndereco": "",
+        "bairro": "JORGE TEIXEIRA",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "BRG HILARIO GURJAO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92992804518.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

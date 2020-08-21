@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "74999433709",
+        "nomeCompleto": "GUILHERME DA CUNHA COSTA",
+        "cpf": "41372781803",
+        "telefoneContato": "",
+        "dataNascimento": "19/09/1998",
+        "nomeMae": null,
+        "email": null,
+        "cep": "48905341",
+        "endereco": "AVENIDA MONTE CASTELO",
+        "numeroEndereco": "3",
+        "complementoEndereco": "",
+        "bairro": "MONTE CASTELO",
+        "cidade": "JUAZEIRO",
+        "estado": "BA",
+        "logradouro": "MONTE CASTELO",
+        "contaDigital": true,
+        "vencimentoFatura": "10",
+        "ciclo": "25",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 74999433709.",
+    "currentPlan": {
+        "code": "VIVOCTRLF28N",
+        "price": 69.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-4GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

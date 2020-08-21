@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=07a94728-2849-43bc-b377-02c1bbeb2191",
+    "data": {
+        "linha": "74999229633",
+        "nomeCompleto": "IGO SILVA MIRANDA",
+        "cpf": "08339853538",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": "ocopvmsr@gmail.com",
+        "cep": "40150290",
+        "endereco": "Rua RUA BEIRUTE",
+        "numeroEndereco": "35",
+        "complementoEndereco": "",
+        "bairro": "GRACA",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "RUA BEIRUTE",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 74999229633.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

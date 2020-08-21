@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15998507113",
+        "nomeCompleto": "RAFAEL DE CAMARGO MORAES",
+        "cpf": "46185154811",
+        "telefoneContato": "",
+        "dataNascimento": "28/06/2002",
+        "nomeMae": null,
+        "email": null,
+        "cep": "18078526",
+        "endereco": "Rua RUA ANGELINA CALOCHINI DE FARIA",
+        "numeroEndereco": "201",
+        "complementoEndereco": "",
+        "bairro": "PARQUE VITORIA REGIA",
+        "cidade": "SOROCABA",
+        "estado": "sp",
+        "logradouro": "RUA ANGELINA CALOCHINI DE FARIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15998507113.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

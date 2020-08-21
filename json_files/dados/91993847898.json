@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "91993847898",
+        "nomeCompleto": "MARCILEIDE DIAS DA SILVA",
+        "cpf": "02166762158",
+        "telefoneContato": "",
+        "dataNascimento": "28/06/1987",
+        "nomeMae": "Maria Cristisna Dias da Silva",
+        "email": "lucasliriel157@gmail.com",
+        "cep": "08270270",
+        "endereco": " CHARIM",
+        "numeroEndereco": "485",
+        "complementoEndereco": "",
+        "bairro": "VILA CARMOSINA",
+        "cidade": "S PAULO",
+        "estado": "SP",
+        "logradouro": "CHARIM",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 91993847898.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

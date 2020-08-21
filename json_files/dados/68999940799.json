@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=118814c5-b52a-4bc9-be1d-9865e66e85af",
+    "data": {
+        "linha": "68999940799",
+        "nomeCompleto": "ADRIANA FERREIRA DA SILVA",
+        "cpf": "72214520244",
+        "telefoneContato": "",
+        "dataNascimento": "15/10/1981",
+        "nomeMae": "estela ferreira da silva",
+        "email": null,
+        "cep": "64000000",
+        "endereco": "QUADRA 01",
+        "numeroEndereco": "55",
+        "complementoEndereco": "",
+        "bairro": "VALE QUEM TEM",
+        "cidade": "TERESINA",
+        "estado": "PI",
+        "logradouro": "01",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999940799.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

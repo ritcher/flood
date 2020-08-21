@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "19983298372",
+        "nomeCompleto": "MARCUS VINICIUS SANTOS SALLES",
+        "cpf": "39752882803",
+        "telefoneContato": "",
+        "dataNascimento": "24/07/1990",
+        "nomeMae": null,
+        "email": null,
+        "cep": "13056514",
+        "endereco": "R IRMANTE LUCARELLI",
+        "numeroEndereco": "118",
+        "complementoEndereco": "",
+        "bairro": "JARDIM VISTA ALEGRE",
+        "cidade": "CAMPINAS",
+        "estado": "SP",
+        "logradouro": "IRMANTE LUCARELLI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19983298372.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

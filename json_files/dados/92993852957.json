@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92993852957",
+        "nomeCompleto": "CLAUDIA MARIA SILVA DE OLIVEIRA",
+        "cpf": "67952062204",
+        "telefoneContato": "",
+        "dataNascimento": "16/06/1974",
+        "nomeMae": "francisca da silva ",
+        "email": "37lz4kd8hhgnpns@gmail.com",
+        "cep": "71111111",
+        "endereco": " EQNO 1/3 BLOCO D",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CEILANDIA NORTE (CEILANDIA)",
+        "cidade": "BRASILIA",
+        "estado": "DF",
+        "logradouro": "EQNO 1/3 BLOCO D",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92993852957.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

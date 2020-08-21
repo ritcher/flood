@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "15998236965",
+        "nomeCompleto": "EDINALVA PRISCILA QUEIROZ",
+        "cpf": "39342568807",
+        "telefoneContato": "",
+        "dataNascimento": "19/02/1990",
+        "nomeMae": null,
+        "email": null,
+        "cep": "18400170",
+        "endereco": "Rua RUA MARIO PRANDINI",
+        "numeroEndereco": "215",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ITAPEVA",
+        "estado": "sp",
+        "logradouro": "RUA MARIO PRANDINI",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 15998236965.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

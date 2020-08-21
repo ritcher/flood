@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=38747a7f-1b28-416e-8608-4b9bac348409",
+    "data": {
+        "linha": "89981210076",
+        "nomeCompleto": "VALDENE ALVES DE MIRANDA",
+        "cpf": "57653372368",
+        "telefoneContato": "",
+        "dataNascimento": "03/09/1973",
+        "nomeMae": null,
+        "email": null,
+        "cep": "64860000",
+        "endereco": "RUA PEDRO PAULO",
+        "numeroEndereco": "118",
+        "complementoEndereco": "",
+        "bairro": "AREIA",
+        "cidade": "URUCUI",
+        "estado": "PI",
+        "logradouro": "PEDRO PAULO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 89981210076.",
+    "currentPlan": {
+        "code": "NEVIVOTODAGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Toda Hora - Movel",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

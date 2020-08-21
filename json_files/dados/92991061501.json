@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "92991061501",
+        "nomeCompleto": "Kethlen de Souza limeira",
+        "cpf": "34295917249",
+        "telefoneContato": "",
+        "dataNascimento": "16/12/1996",
+        "nomeMae": "Eulina marques de Souza",
+        "email": "kethqueirozz@gmail.com",
+        "cep": "69079010",
+        "endereco": "R ARAUJO FILHO",
+        "numeroEndereco": "131",
+        "complementoEndereco": "",
+        "bairro": "SAO FRANCISCO",
+        "cidade": "MANAUS",
+        "estado": "AM",
+        "logradouro": "ARAUJO FILHO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 92991061501.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

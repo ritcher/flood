@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "19996543244",
+        "nomeCompleto": "HENRIQUE RIZZO",
+        "cpf": "06881653891",
+        "telefoneContato": "",
+        "dataNascimento": "04/10/1931",
+        "nomeMae": null,
+        "email": null,
+        "cep": "13032362",
+        "endereco": "RUA BRENO DUARTE SOUSA CAMARGO",
+        "numeroEndereco": "195",
+        "complementoEndereco": "",
+        "bairro": "VILA TEIXEIRA",
+        "cidade": "CAMPINAS",
+        "estado": "SP",
+        "logradouro": "BRENO DUARTE SOUSA CAMARGO",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19996543244.",
+    "currentPlan": {
+        "code": "VIVOCTRLF2N",
+        "price": 65.99,
+        "marketingDescription": null,
+        "name": "VIVOCONTROLEDIGITAL-3,5GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

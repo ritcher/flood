@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=4a1b5e5a-98fb-4c31-8236-ffb24c3798f4",
+    "data": {
+        "linha": "38998446359",
+        "nomeCompleto": "MARIAH AURORA GIOVANNA MARTINS",
+        "cpf": "26160210807",
+        "telefoneContato": "",
+        "dataNascimento": "11/12/1976",
+        "nomeMae": null,
+        "email": "isadoraandreiadias-80@publicarbrasil.com.br",
+        "cep": "41340150",
+        "endereco": " 08 SETOR 02",
+        "numeroEndereco": "124",
+        "complementoEndereco": "",
+        "bairro": "CAJAZEIRAS",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "logradouro": "08 SETOR 02",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 38998446359.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

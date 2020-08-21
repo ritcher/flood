@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f5ae5b82-f640-4696-a03a-00f51fdc6f95",
+    "data": {
+        "linha": "32999538723",
+        "nomeCompleto": "JULIO CESAR DE OLIVEIRA",
+        "cpf": "06061115652",
+        "telefoneContato": "",
+        "dataNascimento": "02/04/1977",
+        "nomeMae": null,
+        "email": null,
+        "cep": "36280000",
+        "endereco": "RUA DRUBENS DO VALE AMADO",
+        "numeroEndereco": "470",
+        "complementoEndereco": "",
+        "bairro": "ROSARIO",
+        "cidade": "CARANDAI",
+        "estado": "mg",
+        "logradouro": "DRUBENS DO VALE AMADO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 32999538723.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

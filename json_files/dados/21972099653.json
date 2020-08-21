@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "21972099653",
+        "nomeCompleto": "LORRAN GABRIEL PEREIRA SILVA",
+        "cpf": "68143931749",
+        "telefoneContato": "",
+        "dataNascimento": "11/03/2003",
+        "nomeMae": "DANIELE PEREIRA",
+        "email": null,
+        "cep": "21775690",
+        "endereco": "TRAVESSA DA FE",
+        "numeroEndereco": "15",
+        "complementoEndereco": "",
+        "bairro": "PADRE MIGUEL",
+        "cidade": "RIO DE JANEIRO",
+        "estado": "RJ",
+        "logradouro": "DA FE",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21972099653.",
+    "currentPlan": {
+        "code": "VIVOCTRLF34A",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL_2,5GB_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

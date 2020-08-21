@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "12997946280",
+        "nomeCompleto": "MARIA APARECIDA MARCONDES",
+        "cpf": "08551013858",
+        "telefoneContato": "",
+        "dataNascimento": "12/10/1966",
+        "nomeMae": null,
+        "email": "mariaaparecidamarcondesdias@hotmail.com",
+        "cep": "12490000",
+        "endereco": "RUA PINTORA ADELAIDE AZEVEDO DE MELO",
+        "numeroEndereco": "408",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "S BENTO DO SAPUCAI",
+        "estado": "SP",
+        "logradouro": "PINTORA ADELAIDE AZEVEDO DE MELO",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12997946280.",
+    "currentPlan": {
+        "code": "VIVOCTRLF27N",
+        "price": 54.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-3GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

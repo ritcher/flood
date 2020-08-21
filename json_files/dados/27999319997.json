@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "CONTROLE",
+    "data": {
+        "linha": "27999319997",
+        "nomeCompleto": "SORAYA GUEDES DE SOUZA",
+        "cpf": "10102943770",
+        "telefoneContato": "",
+        "dataNascimento": "15/03/1976",
+        "nomeMae": "Solange de Fatima Guedes de Souza",
+        "email": "sorayaguedes2020@hotmail.com",
+        "cep": "29830000",
+        "endereco": " RUA IPIRANGA",
+        "numeroEndereco": "101",
+        "complementoEndereco": "",
+        "bairro": "BONFIM",
+        "cidade": "NOVA VENECIA",
+        "estado": "ES",
+        "logradouro": "RUA IPIRANGA",
+        "contaDigital": true,
+        "vencimentoFatura": "6",
+        "ciclo": "20",
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 27999319997.",
+    "currentPlan": {
+        "code": "VIVOCTRLF28N",
+        "price": 69.99,
+        "marketingDescription": null,
+        "name": "VIVO CTRL DIGITAL-4GB ILIM_",
+        "platform": "CONTROLE",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

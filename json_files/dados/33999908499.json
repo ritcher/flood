@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=cce426d0-be18-4e13-ab62-190ea828d281",
+    "data": {
+        "linha": "33999908499",
+        "nomeCompleto": "MARIA APARECIDA PEREIRA DOS SANTOS OLIVEIRA",
+        "cpf": "07932825601",
+        "telefoneContato": "",
+        "dataNascimento": "22/03/1985",
+        "nomeMae": null,
+        "email": null,
+        "cep": "39795000",
+        "endereco": "Rua LHA JOAO DE MATOS RODR",
+        "numeroEndereco": "85",
+        "complementoEndereco": "",
+        "bairro": "STO ANTONIO DOS AR",
+        "cidade": "SAO SEBASTIAO DO MARANHAO",
+        "estado": "mg",
+        "logradouro": "LHA JOAO DE MATOS RODR",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 33999908499.",
+    "currentPlan": {
+        "code": "MGPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=e89f88e0-7016-48bb-b570-a8630c070a5e",
+    "data": {
+        "linha": "98992215258",
+        "nomeCompleto": "LUIS RODRIGO FAVARETTO",
+        "cpf": "22193175870",
+        "telefoneContato": "",
+        "dataNascimento": "13/10/1981",
+        "nomeMae": "x",
+        "email": "gsatana228@gmail.com",
+        "cep": "41000000",
+        "endereco": "RUA CASTRO ALVES",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "ITUPEVA",
+        "cidade": "MEDEIROS NETO",
+        "estado": "BA",
+        "logradouro": "CASTRO ALVES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 98992215258.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

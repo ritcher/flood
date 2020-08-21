@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "12997989168",
+        "nomeCompleto": "WLADIMIR DA SILVA MAURICIO",
+        "cpf": "15196340807",
+        "telefoneContato": "",
+        "dataNascimento": "20/03/1975",
+        "nomeMae": null,
+        "email": null,
+        "cep": "08720060",
+        "endereco": "AVENIDA JOSE GLICERIO DE MELO",
+        "numeroEndereco": "1335",
+        "complementoEndereco": "",
+        "bairro": "JARDIM CAMILA",
+        "cidade": "MOGI DAS CRUZES",
+        "estado": "SP",
+        "logradouro": "JOSE GLICERIO DE MELO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 12997989168.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

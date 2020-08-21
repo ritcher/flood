@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "61998069386",
+        "nomeCompleto": "ALEXANDRE RIBEIRO DE OLIVEIRA",
+        "cpf": "03863746511",
+        "telefoneContato": "",
+        "dataNascimento": "25/12/1993",
+        "nomeMae": "DORIALVA RIBEIRO SOUZA",
+        "email": null,
+        "cep": "47827000",
+        "endereco": "Rua BR 20 S N",
+        "numeroEndereco": "20",
+        "complementoEndereco": "",
+        "bairro": "ZONA RURAL",
+        "cidade": "RODA VELHA",
+        "estado": "BA",
+        "logradouro": "BR 20 S N",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 61998069386.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

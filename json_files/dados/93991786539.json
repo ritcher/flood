@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=333e870a-3302-4abd-8fff-cfd50b3e3a63",
+    "data": {
+        "linha": "93991786539",
+        "nomeCompleto": "Louyse Thamires de Sousa Vilela ",
+        "cpf": "03170112279",
+        "telefoneContato": "",
+        "dataNascimento": "28/12/2004",
+        "nomeMae": "Marilene Cirino de Sousa Freitas Vilela",
+        "email": "louysevilella@gmail.con",
+        "cep": "68181370",
+        "endereco": "RUA DECIMA PRIMEIRA",
+        "numeroEndereco": "655",
+        "complementoEndereco": "",
+        "bairro": "FLORESTA",
+        "cidade": "ITAITUBA",
+        "estado": "PA",
+        "logradouro": "DECIMA PRIMEIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991786539.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

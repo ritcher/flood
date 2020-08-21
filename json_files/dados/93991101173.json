@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=1d575976-6e98-46d1-8c54-7d8bf48818e5",
+    "data": {
+        "linha": "93991101173",
+        "nomeCompleto": "CLAUDIO REGO VITAL",
+        "cpf": "41411234200",
+        "telefoneContato": "",
+        "dataNascimento": "14/10/1971",
+        "nomeMae": "TEREZINHA  REGO VITAL",
+        "email": null,
+        "cep": "68200000",
+        "endereco": "RUA SAO JOSE CURUMU",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "SAO FRANCISCO",
+        "cidade": "ALENQUER",
+        "estado": "PA",
+        "logradouro": "SAO JOSE CURUMU",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991101173.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

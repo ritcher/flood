@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=4b90218a-40ad-4de7-afe9-018b8616b569",
+    "data": {
+        "linha": "53999351232",
+        "nomeCompleto": "VALDOMIRO DIAS NETO",
+        "cpf": "76224759049",
+        "telefoneContato": "",
+        "dataNascimento": "16/04/1976",
+        "nomeMae": null,
+        "email": null,
+        "cep": "96201430",
+        "endereco": "RUA LEAO XIII",
+        "numeroEndereco": "125",
+        "complementoEndereco": "",
+        "bairro": "VL STA TEREZA",
+        "cidade": "RIO GRANDE",
+        "estado": "rs",
+        "logradouro": "LEAO XIII",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 53999351232.",
+    "currentPlan": {
+        "code": "RSPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

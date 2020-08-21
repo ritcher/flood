@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=b4a65d58-bf08-4bf1-bb7e-40f03a8c8768",
+    "data": {
+        "linha": "93991900856",
+        "nomeCompleto": "JUAREZ ANTONIO MARTINS DOS SANTOS",
+        "cpf": "06134381241",
+        "telefoneContato": "",
+        "dataNascimento": "11/06/1997",
+        "nomeMae": "MARIA DO ROSARIO MARTINS",
+        "email": null,
+        "cep": "00000000",
+        "endereco": "RUA ALBERTO SARTORIO",
+        "numeroEndereco": "0",
+        "complementoEndereco": "",
+        "bairro": "CARAPINA",
+        "cidade": "S MATEUS",
+        "estado": "ES",
+        "logradouro": "ALBERTO SARTORIO",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 93991900856.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=887e47d6-dc7b-4e57-bf74-236cd584351d",
+    "data": {
+        "linha": "68999306703",
+        "nomeCompleto": "AURICELIO DE CARVALHO FERNANDES",
+        "cpf": "05100584262",
+        "telefoneContato": "",
+        "dataNascimento": "",
+        "nomeMae": null,
+        "email": null,
+        "cep": "69917702",
+        "endereco": "Rua RUA MATO GROSSO DO SUL",
+        "numeroEndereco": "28",
+        "complementoEndereco": "",
+        "bairro": "CONJUNTO UNIVERSITARIO",
+        "cidade": "RIO BRANCO",
+        "estado": "AC",
+        "logradouro": "RUA MATO GROSSO DO SUL",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 68999306703.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

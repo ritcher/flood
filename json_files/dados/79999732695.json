@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=7853669a-ae4d-4af4-91bd-49dca4fe96e4",
+    "data": {
+        "linha": "79999732695",
+        "nomeCompleto": "SOLANGE BENTO DE SOUZA",
+        "cpf": "01257017560",
+        "telefoneContato": "",
+        "dataNascimento": "21/03/1974",
+        "nomeMae": null,
+        "email": null,
+        "cep": "68180440",
+        "endereco": "RUA  RICARDO JOSE FERREIRA",
+        "numeroEndereco": "860",
+        "complementoEndereco": "",
+        "bairro": "BELA VISTA",
+        "cidade": "ITAITUBA",
+        "estado": "PA",
+        "logradouro": " RICARDO JOSE FERREIRA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79999732695.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

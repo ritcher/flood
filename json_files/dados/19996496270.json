@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "19996496270",
+        "nomeCompleto": "FRANCISCO ELDON ALVES SILVA",
+        "cpf": "31909708828",
+        "telefoneContato": "",
+        "dataNascimento": "29/03/1985",
+        "nomeMae": null,
+        "email": null,
+        "cep": "13173294",
+        "endereco": "RUA DAS LARANJEIRAS",
+        "numeroEndereco": "74",
+        "complementoEndereco": "",
+        "bairro": "JARDIM BASILICATA",
+        "cidade": "SUMARE",
+        "estado": "sp",
+        "logradouro": "DAS LARANJEIRAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 19996496270.",
+    "currentPlan": {
+        "code": "SPALTOVAL1GSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": null,
+        "platform": null,
+        "partnerBrandData": null,
+        "loyalty": null
+    }
+}

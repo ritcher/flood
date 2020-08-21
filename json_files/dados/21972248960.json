@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "21972248960",
+        "nomeCompleto": "DANIELE CRISTINA SILVA DE LIMA",
+        "cpf": "13995148735",
+        "telefoneContato": "",
+        "dataNascimento": "12/01/1989",
+        "nomeMae": null,
+        "email": null,
+        "cep": "21616260",
+        "endereco": "TRAVESSA JARD PIRES",
+        "numeroEndereco": "23",
+        "complementoEndereco": "",
+        "bairro": "DEODORO",
+        "cidade": "RIO DE JANEIRO",
+        "estado": "Rj",
+        "logradouro": "JARD PIRES",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 21972248960.",
+    "currentPlan": {
+        "code": "RJPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

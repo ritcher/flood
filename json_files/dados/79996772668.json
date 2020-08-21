@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=00d5769f-c413-411f-9bdb-05f2a14960cc",
+    "data": {
+        "linha": "79996772668",
+        "nomeCompleto": "MARIA LENIRA DOS SANTOS MORAES",
+        "cpf": "40916880559",
+        "telefoneContato": "",
+        "dataNascimento": "29/06/1953",
+        "nomeMae": null,
+        "email": null,
+        "cep": "49100000",
+        "endereco": "RUA E",
+        "numeroEndereco": "32",
+        "complementoEndereco": "",
+        "bairro": "ROSA ELZE",
+        "cidade": "SAO CRISTOVAO",
+        "estado": "SE",
+        "logradouro": "E",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 79996772668.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

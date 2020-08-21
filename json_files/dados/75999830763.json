@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=72857f98-a49b-4490-8951-f84cf29657fb",
+    "data": {
+        "linha": "75999830763",
+        "nomeCompleto": "AILTON BARBOSA DE SOUZA",
+        "cpf": "02169970541",
+        "telefoneContato": "",
+        "dataNascimento": "15/09/1979",
+        "nomeMae": null,
+        "email": null,
+        "cep": "48800000",
+        "endereco": "Rua PO PEDRA BRANCA",
+        "numeroEndereco": "270",
+        "complementoEndereco": "",
+        "bairro": "PEDRA BRANCA",
+        "cidade": "MONTE SANTO",
+        "estado": "BA",
+        "logradouro": "PO PEDRA BRANCA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 75999830763.",
+    "currentPlan": {
+        "code": "BAPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "currentPlatform": "PREPAGO",
+    "data": {
+        "linha": "11955500414",
+        "nomeCompleto": "SONIA GONCALVES BERCILIEIRA",
+        "cpf": "29755753869",
+        "telefoneContato": "",
+        "dataNascimento": "25/04/1980",
+        "nomeMae": "SONIA GONCALVES BERCILIEIRA",
+        "email": "abtujgr@g.co",
+        "cep": "13218392",
+        "endereco": " NEVIO SALVIA",
+        "numeroEndereco": "365",
+        "complementoEndereco": "",
+        "bairro": "JARDIM ROMA",
+        "cidade": "JUNDIAI",
+        "estado": "SP",
+        "logradouro": "NEVIO SALVIA",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 11955500414.",
+    "currentPlan": {
+        "code": "SPPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}

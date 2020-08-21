@@ -1,0 +1,38 @@
+{
+    "currentPlatform": "PREPAGO",
+    "link67Redirect": "https://lojaonline.vivo.com.br/checkout-express?uuid=f80890d0-cfc9-4213-bae5-7eb6ae65917b",
+    "data": {
+        "linha": "99991661698",
+        "nomeCompleto": "BENVENUTO ARNALDO CHAVES LEAO",
+        "cpf": "74641352372",
+        "telefoneContato": "",
+        "dataNascimento": "26/01/1978",
+        "nomeMae": "maria leide chaves leao",
+        "email": "larissaaa19988@gmail.com",
+        "cep": "65930000",
+        "endereco": "RUA DUQUE DE CAXIAS",
+        "numeroEndereco": "S/N",
+        "complementoEndereco": "",
+        "bairro": "CENTRO",
+        "cidade": "ACAILANDIA",
+        "estado": "MA",
+        "logradouro": "DUQUE DE CAXIAS",
+        "contaDigital": true,
+        "vencimentoFatura": null,
+        "ciclo": null,
+        "numeroEscolhido": "",
+        "skuPlano": "VIVOCTRLF49N",
+        "fluxo": "exchange"
+    },
+    "selectedPlatform": "CONTROLE",
+    "success": "Enviamos um novo c\u00f3digo de seguran\u00e7a via SMS para o seu n\u00famero 99991661698.",
+    "currentPlan": {
+        "code": "TCOPREDIARIOGSM",
+        "price": 0.0,
+        "marketingDescription": null,
+        "name": "Plano Pre Diario",
+        "platform": "PREPAGO",
+        "partnerBrandData": null,
+        "loyalty": false
+    }
+}
